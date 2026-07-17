@@ -1,0 +1,44 @@
+{
+  "id": "isparta",
+  "il_adi": "Isparta",
+  "title": "Güller ve Göller Şehri",
+  "unsplash_query": "isparta gul bahcesi landscape",
+  "image": "/sehirler/isparta.jpg",
+  "yemekler": [
+    {
+      "id": "isparta_firin_kebabi",
+      "name": "Fırın Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/isparta_firin_kebabi_firin_kebabi.jpg",
+      "history": "Yaşına girmemiş kuzuların veya erkeçlerin (kısırlaştırılmış teke) sadece tuzlanarak, meşe odunu yakılmış derin taş fırınlarda bakır tavalar içinde saatlerce kemiğinden ayrılacak kıvama gelene dek pişirilmesidir. Isparta'daki Yörük geleneğinin şaheseridir."
+    },
+    {
+      "id": "isparta_sazan_dolmasi",
+      "name": "Sazan Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/isparta_sazan_dolmasi_sazan_dolmasi.jpg",
+      "history": "Eğirdir Gölü'nden tutulan pullu sazan balıklarının içinin pirinç, nane, çam fıstığı, kuş üzümü ve tarçınlı bir iç pilavla doldurulup fırınlanmasıdır. Göller Yöresinin tatlı su balıkçılığı ile saray mutfağı baharatlarının eşsiz bir füzyonudur."
+    },
+    {
+      "id": "isparta_dirgit_hedik",
+      "name": "Dirgit (Hedik)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/isparta_dirgit_hedik_dirgit_hedik.jpg",
+      "history": "Haşlanmış aşurelik buğday, nohut ve fasulyenin karışımıyla yapılan, yöreye göre tuzlu veya ceviz-şeker ilavesiyle tatlı yenilebilen kadim bir atıştırmalıktır. Geleneksel olarak bebeklerin ilk dişi çıktığında \"diş dirgiti\" olarak kaynatılır ve komşulara dağıtılır."
+    },
+    {
+      "id": "isparta_yalvac_gullaci",
+      "name": "Yalvaç Güllacı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/isparta_yalvac_gullaci_yalvac_gullaci.jpg",
+      "history": "Klasik güllaçtan farklı olarak, yöreye has ince yufkaların sıcak süt ve bol cevizle kat kat döşenip, rulo halinde veya gül şeklinde sarılarak dinlendirilmesiyle yapılan Isparta'nın Yalvaç ilçesine özgü hafif bir tatlıdır."
+    },
+    {
+      "id": "isparta_i̇rmik_corbasi",
+      "name": "İrmik Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/isparta_i̇rmik_corbasi_irmik_corbasi.jpg",
+      "history": "Kavrulmuş irmik, tereyağı, et suyu ve nane kullanılarak yapılan, hafif yoğun kıvamlı ve son derece besleyici geleneksel bir Isparta çorbasıdır."
+    }
+  ]
+}

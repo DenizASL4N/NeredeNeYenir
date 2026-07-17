@@ -1,0 +1,44 @@
+{
+  "id": "ardahan",
+  "il_adi": "Ardahan",
+  "title": "Çıldır Gölü ve Kale Şehri",
+  "unsplash_query": "ardahan cildir golu landscape",
+  "image": "/sehirler/ardahan.jpg",
+  "yemekler": [
+    {
+      "id": "ardahan_kaz_eti",
+      "name": "Kaz Eti",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ardahan_kaz_eti_kaz_eti.jpg",
+      "history": "Ardahan'ın sert kışında kar yiyerek yağlanan kazların tuzlanıp kurutulması ve ardından haşlanıp etinin didiklenerek bulgur pilavıyla servis edilmesi, bölgenin en prestijli yemeğidir."
+    },
+    {
+      "id": "ardahan_feselli",
+      "name": "Feselli",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ardahan_feselli_feselli.htm",
+      "history": "Hamurun kat kat açılıp aralarına bol tereyağı sürülerek rulo yapılması ve sacda pişirilmesiyle yapılan, çay saatlerinin vazgeçilmezidir."
+    },
+    {
+      "id": "ardahan_hinkal",
+      "name": "Hınkal",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ardahan_hinkal_hinkal.jpg",
+      "history": "Kuzey Kafkasya kökenli bir mantı türüdür; hamuru oldukça büyük, içi kıyma veya patatesli olur ve hamurunun kıvrımları (bükümü) maharet ister."
+    },
+    {
+      "id": "ardahan_kesme_asi",
+      "name": "Kesme Aşı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ardahan_kesme_asi_kesme_asi.jpg",
+      "history": "Elde açılıp kesilen eriştelerin, yeşil mercimek ve kavrulmuş soğanla kaynatılmasıyla yapılan, Ardahan kışlarının enerji kaynağıdır."
+    },
+    {
+      "id": "ardahan_elma_dolmasi",
+      "name": "Elma Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/ardahan_elma_dolmasi_elma_dolmasi.jpg",
+      "history": "Ardahan'ın sert elmalarının içinin boşaltılıp baharatlı et veya kıyma ile doldurulup pişirilmesiyle yapılan, tatlı-tuzlu dengeli yöresel bir yemektir."
+    }
+  ]
+}

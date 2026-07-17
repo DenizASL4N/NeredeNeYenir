@@ -1,0 +1,44 @@
+{
+  "id": "kayseri",
+  "il_adi": "Kayseri",
+  "title": "Erciyes'in Eteklerinde Ticaret",
+  "unsplash_query": "kayseri erciyes dagi landscape",
+  "image": "/sehirler/kayseri.jpg",
+  "yemekler": [
+    {
+      "id": "kayseri_kayseri_mantisi",
+      "name": "Kayseri Mantısı",
+      "category": "Aperatif",
+      "image": "/yemekler/kayseri_kayseri_mantisi_kayseri_mantisi.jpg",
+      "history": "Un, su, tuz ve yumurtayla açılan sert hamurun minicik kareler halinde kesilip içine yağsız kıyma, soğan, fesleğen ve baharat konarak dört köşesinden bohça gibi kapatılmasıdır. Bir kaşığa 40 adet sığması makbuldür; Orta Asya göçlerinden günümüze en sağlam kalmış Anadolu hamur işidir."
+    },
+    {
+      "id": "kayseri_pastirma",
+      "name": "Pastırma",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kayseri_pastirma_pastirma.jpg",
+      "history": "Sığır etinin (genellikle sırt ve antrikot kısımları) tuza yatırılması, yıkanıp preslenerek suyunun alınması, güneşte kurutulduktan sonra çevresinin yoğun sarımsaklı ve kırmızı biberli \"çemen\" hamuruyla kaplanmasıdır. Asya steplerindeki atlı savaşçıların eti eyer altında bastırarak saklaması (bastırma) kökeninden gelir."
+    },
+    {
+      "id": "kayseri_kayseri_yaglamasi_sebit",
+      "name": "Kayseri Yağlaması (Şebit)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kayseri_kayseri_yaglamasi_sebit_kayseri_yaglamasi_sebit.jpg",
+      "history": "İncecik açılan mayasız yufkaların (şebit) arasına bol domatesli, salçalı ve soğanlı sulu kıyma harcının kat kat (genellikle 10-12 kat) döşenip üzerine sarımsaklı yoğurt dökülerek pizza gibi dilimlenip elle yenilen enfes bir ziyafet yemeğidir."
+    },
+    {
+      "id": "kayseri_sucuklu_yumurta",
+      "name": "Sucuklu Yumurta",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kayseri_sucuklu_yumurta_sucuklu_yumurta.jpg",
+      "history": "Kayseri'nin baharat ve sarımsak oranı yüksek, özel kurutulmuş meşhur dana sucuğunun bakır sahanlarda kendi yağıyla pişirilip üzerine yumurta kırılmasıdır. Bölgenin ticari zekasının ete katma değer sağladığı en önemli lezzetlerden biridir."
+    },
+    {
+      "id": "kayseri_nevzine_tatlisi",
+      "name": "Nevzine Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/kayseri_nevzine_tatlisi_nevzine_tatlisi.jpg",
+      "history": "Un, yoğurt, sıvı yağ, sirke ve bol cevizle hazırlanan tok kıvamlı bir hamurun tepsilerde fırınlanması, çıktıktan sonra üzerine pekmez (veya şerbet) dökülerek soğutulmasıdır. Kayseri'de lohusa kadınlara ve önemli misafirlere sunulan ağır ve tarihi bir tatlıdır."
+    }
+  ]
+}

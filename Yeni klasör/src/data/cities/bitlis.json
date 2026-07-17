@@ -1,0 +1,44 @@
+{
+  "id": "bitlis",
+  "il_adi": "Bitlis",
+  "title": "Beş Minareli Tarih Şehri",
+  "unsplash_query": "bitlis ahlat selcuklu mezarligi",
+  "image": "/sehirler/bitlis.jpg",
+  "yemekler": [
+    {
+      "id": "bitlis_buryan_kebabi_hevir_kebabi",
+      "name": "Büryan Kebabı (Hevir Kebabı)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bitlis_buryan_kebabi_hevir_kebabi_buryan_kebabi_hevir_kebabi.jpg",
+      "history": "Genellikle hevir (erkek keçi - teke) etinin, 2-3 metre derinliğindeki toprak kuyularda, altında yanan odun ateşinin buharıyla (et ateşe değmeden) sabaha kadar kendi suyuyla pişmesidir. Evliya Çelebi'nin Seyahatnamesi'nde de geçen, göçebe toplulukların ve kervanların eşsiz bir et pişirme sanatıdır."
+    },
+    {
+      "id": "bitlis_bitlis_koftesi",
+      "name": "Bitlis Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bitlis_bitlis_koftesi_bitlis_koftesi.jpg",
+      "history": "Dış hamuru ince bulgur ve dövülmüş etten, iç harcı ise kuyruk yağı, ceviz ve kavrulmuş kıymadan oluşan iri, hafif yassı bir içli köfte türüdür. Suda haşlanarak pişirilir, Doğu Anadolu'nun zorlu ikliminde ağır iş yapanlara güç vermesi için hazırlanır."
+    },
+    {
+      "id": "bitlis_katikli_dolma",
+      "name": "Katikli Dolma",
+      "category": "Aperatif",
+      "image": "/yemekler/bitlis_katikli_dolma_katikli_dolma.jpg",
+      "history": "İçi oyulan kabakların, yağsız kıyma ve ince bulgurla (düğür) yoğrulan sert bir harçla doldurulup, tencereye dilim dilim dizilerek pişirilmesi ve sarımsaklı yoğurtla sunulmasıdır. Bitlis'in sebze ve eti dengeli kullanan eski ev yemeklerindendir."
+    },
+    {
+      "id": "bitlis_sekerali",
+      "name": "Şekerali",
+      "category": "Tatlı",
+      "image": "/yemekler/bitlis_sekerali_sekerali.jpg",
+      "history": "Kuşbaşı kuzu etinin, kurutulmuş meyveler (kayısı, erik, üzüm) ve nohut ile birlikte toprak güveçlerde uzun süre pişirilmesiyle yapılan Osmanlı saray mutfağı etkili, mayhoş ve tatlı-tuzlu dengesine sahip tarihi bir yemektir."
+    },
+    {
+      "id": "bitlis_halise",
+      "name": "Halise",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bitlis_halise_halise.jpg",
+      "history": "Dövme buğday (aşurelik) ve bütün parça kemikli kuzu etinin geniş kazanlarda etler tamamen eriyip buğdayla sakız kıvamına gelene kadar tokmakla dövülerek pişirilmesidir. Bitlis'te düğün, taziye gibi kalabalık günlerin birlik ve beraberlik yemeğidir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "edirne",
+  "il_adi": "Edirne",
+  "title": "Mimar Sinan'ın İncisi",
+  "unsplash_query": "edirne selimiye cami landscape",
+  "image": "/sehirler/edirne.jpg",
+  "yemekler": [
+    {
+      "id": "edirne_tava_ciger",
+      "name": "Tava Ciğer",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/edirne_tava_ciger_tava_ciger.jpg",
+      "history": "Dana ciğerinin bütün zarlarının soyulup yaprak inceliğinde doğranması, kana bulandıktan sonra iyice yıkanıp unlanarak dev tavalardaki kızgın ayçiçek yağında 1-2 dakika içinde \"cız\" diye pişirilmesidir. Yanında mutlaka Karaağaç yöresinde kurutulmuş acı biberle yenir. Balkanlardan gelen bir Osmanlı mutfağı mirasıdır."
+    },
+    {
+      "id": "edirne_ciger_sarma",
+      "name": "Ciğer Sarma",
+      "category": "Aperatif",
+      "image": "/yemekler/edirne_ciger_sarma_ciger_sarma.htm",
+      "history": "Kuzu ciğeri, pirinç, taze soğan, çam fıstığı ve baharatlarla yapılan nefis bir iç pilavın, kuzu gömleğine (zarına) bohça gibi sarılarak fırınlanmasıdır. Özellikle bahar aylarında (Hıdırellez zamanı) bolluk ve bereket getirmesi için yapılan çok eski bir Trakya ritüel yemeğidir."
+    },
+    {
+      "id": "edirne_elbasan_tava",
+      "name": "Elbasan Tava",
+      "category": "Ana Yemek",
+      "image": "/yemekler/edirne_elbasan_tava_elbasan_tava.jpg",
+      "history": "Haşlanmış kuzu etinin bir tepsiye alınıp, üzerine süzme yoğurt, yumurta sarısı, un ve et suyuyla yapılan kalın bir sosun dökülmesi ve fırınlanmasıdır. İsmini Arnavutluk'un Elbasan şehrinden alan, Osmanlı döneminde Balkanlardan Edirne'ye taşınan köklü bir yemektir."
+    },
+    {
+      "id": "edirne_badem_ezmesi",
+      "name": "Badem Ezmesi",
+      "category": "Tatlı",
+      "image": "/yemekler/edirne_badem_ezmesi_badem_ezmesi.jpg",
+      "history": "Edirne yöresinin kaliteli tatlı bademlerinin sıcak suda bekletilip kabuklarının soyulması, kurutulup dövüldükten sonra şeker ve su (şerbet) ile macun kıvamına gelene dek yoğrulmasıyla yapılır. Edirne Sarayı'nda padişahlara sunulan özel saray tatlılarındandır."
+    },
+    {
+      "id": "edirne_deva-i_misk_helvasi",
+      "name": "Deva-i Misk Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/edirne_deva-i_misk_helvasi_deva_i_misk_helvasi.jpg",
+      "history": "İçinde 41 çeşit baharat, yumurta akı ve bal bulunan, hem tatlı hem şifa macunu olarak bilinen Edirne'ye özgü bir helvadır. Kırkpınar yağlı güreşlerinde pehlivanlara güç vermesi için yedirilmesiyle meşhurdur."
+    }
+  ]
+}

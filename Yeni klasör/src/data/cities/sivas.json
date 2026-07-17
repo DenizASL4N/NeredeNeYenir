@@ -1,0 +1,44 @@
+{
+  "id": "sivas",
+  "il_adi": "Sivas",
+  "title": "Selçuklu Mirası Gök Medrese",
+  "unsplash_query": "sivas divrigi ulu cami landscape",
+  "image": "/sehirler/sivas.jpg",
+  "yemekler": [
+    {
+      "id": "sivas_sivas_koftesi",
+      "name": "Sivas Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sivas_sivas_koftesi_sivas_koftesi.jpg",
+      "history": "%100 dana eti ve tuz kullanılarak yapılan, başka hiçbir baharat veya ekmek içermeyen, odun ateşinde ızgaralanan çok saf ve lezzetli bir köftedir."
+    },
+    {
+      "id": "sivas_divrigi_pilavi",
+      "name": "Divriği Pilavı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sivas_divrigi_pilavi_divrigi_pilavi.jpg",
+      "history": "Kuzu eti, nohut, kuş üzümü, badem ve özel baharatlarla hazırlanan, kat kat döşenen ve fırınlanan, Sivas'ın en zengin ve en özel tören pilavıdır."
+    },
+    {
+      "id": "sivas_peskutan_corbasi",
+      "name": "Peskutan Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/sivas_peskutan_corbasi_peskutan_corbasi.jpg",
+      "history": "Sivas'a özgü \"peskutan\" denilen (yoğurt ve yarma karışımı) süt ürününün, yeşil mercimek ve döğme ile kaynatılmasıyla yapılan, kışın dondurucu soğuğunda içilen şifa çorbasıdır."
+    },
+    {
+      "id": "sivas_madimak",
+      "name": "Madımak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sivas_madimak_madimak.jpg",
+      "history": "Sivas'ın meralarında kendiliğinden yetişen \"madımak\" otunun (yabani bir bitki) toplanıp bulgur veya pastırma ile pişirilmesiyle yapılan yöresel yemektir; Sivaslıların vazgeçilmezidir."
+    },
+    {
+      "id": "sivas_kelle_tatlisi",
+      "name": "Kelle Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/sivas_kelle_tatlisi_kelle_tatlisi.jpg",
+      "history": "Sivas mutfağının çok eski, unutulmaya yüz tutmuş bir tatlısı; un, şeker ve yağın özel yöntemlerle kavrulup şekillendirilmesiyle yapılır."
+    }
+  ]
+}

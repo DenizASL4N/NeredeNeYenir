@@ -1,0 +1,44 @@
+{
+  "id": "agri",
+  "il_adi": "Ağrı",
+  "title": "İshak Paşa'nın Gölgesinde",
+  "unsplash_query": "agri mount ararat landscape",
+  "image": "/sehirler/agri.jpg",
+  "yemekler": [
+    {
+      "id": "agri_abdigor_koftesi",
+      "name": "Abdigor Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/agri_abdigor_koftesi_abdigor_koftesi.jpg",
+      "history": "Sığır etinin (genellikle but kısmı) sinirlerinden arındırılıp tokmakla taş üzerinde merhem kıvamına gelene kadar dövülmesi, ardından soğan ve yumurta ile yoğrulup haşlanmasıyla yapılır. 17. yüzyılda İshak Paşa Sarayı mimarı Çolak Abdi Paşa'nın mide rahatsızlığı yaşaması üzerine eti rahat sindirebilmesi için icat edildiği söylenir."
+    },
+    {
+      "id": "agri_selekeli",
+      "name": "Selekeli",
+      "category": "Ana Yemek",
+      "image": "/yemekler/agri_selekeli_selekeli.jpg",
+      "history": "Taze kuzu etinin, soğan ve sarımsakla birlikte sac üzerinde tereyağı ile kavrulmasıyla hazırlanan pratik ama çok lezzetli bir çoban yemeğidir. Etin en taze haliyle, doğada hemen pişirilmesi kültüründen gelir."
+    },
+    {
+      "id": "agri_gosteberg",
+      "name": "Gösteberg",
+      "category": "Ana Yemek",
+      "image": "/yemekler/agri_gosteberg_gosteberg.jpg",
+      "history": "Et, soğan, salça ve yöresel dağ otlarının bir araya getirilip genellikle kuzu postu veya güveç içinde buharla pişirildiği çok eski bir yöntemdir. Yayla yaşamının zorlu koşullarında ortaya çıkmış bir et saklama ve pişirme tekniğidir."
+    },
+    {
+      "id": "agri_hasil",
+      "name": "Haşıl",
+      "category": "Ana Yemek",
+      "image": "/yemekler/agri_hasil_hasil.jpg",
+      "history": "İnce bulgur veya yarmadan yapılan, lapa kıvamına geldikten sonra ortası havuz gibi açılarak içine eritilmiş saf tereyağı ve etrafına sarımsaklı yoğurt dökülen kış yemeğidir. Bölgenin soğuk ikliminde vücut ısısını yüksek tutmak için tüketilir."
+    },
+    {
+      "id": "agri_beyaz_bal",
+      "name": "Beyaz Bal",
+      "category": "Ana Yemek",
+      "image": "/yemekler/agri_beyaz_bal_beyaz_bal.jpg",
+      "history": "Ağrı ve çevresindeki yüksek rakımlı, binlerce çeşit endemik çiçeğin bulunduğu yaylalarda Kafkas arıları tarafından üretilen, kristalize yapıda, açık renkli ve çok şifalı bir baldır. Yüzyıllardır bölgenin en önemli doğal tatlandırıcısıdır."
+    }
+  ]
+}

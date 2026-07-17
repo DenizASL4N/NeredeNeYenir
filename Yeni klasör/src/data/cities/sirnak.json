@@ -1,0 +1,44 @@
+{
+  "id": "sirnak",
+  "il_adi": "Şırnak",
+  "title": "Cudi Dağı'nın Gölgesinde",
+  "unsplash_query": "sirnak cudi dagi",
+  "image": "/sehirler/sirnak.jpg",
+  "yemekler": [
+    {
+      "id": "sirnak_kutlik",
+      "name": "Kutlık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sirnak_kutlik_kutlik.jpg",
+      "history": "Şırnak usulü içli köftedir; dış harcı daha ince, içi ise ceviz ve yöresel baharatlarla oldukça zengindir. Kızartılarak servis edilir."
+    },
+    {
+      "id": "sirnak_serbidev",
+      "name": "Serbidev",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sirnak_serbidev_serbidev.jpg",
+      "history": "Yufka ekmeklerin, et suyu ve haşlanmış et parçalarıyla ıslatılması, üzerine sarımsaklı yoğurt ve kızgın tereyağı dökülmesiyle yapılan oldukça doyurucu bir \"tirit\" benzeri yemektir."
+    },
+    {
+      "id": "sirnak_hekehesandi",
+      "name": "Hekeheşandi",
+      "category": "Ana Yemek",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&auto=format&fit=crop&q=80",
+      "history": "Kıyma, ince bulgur ve bol baharatın harmanlanıp pişirildiği, bölgenin düğünlerinde sıkça rastlanan yöresel bir köfte çeşididir."
+    },
+    {
+      "id": "sirnak_kipe",
+      "name": "Kipe",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sirnak_kipe_kipe.jpg",
+      "history": "Mumbar dolmasının Şırnak yöresindeki adıdır; bağırsakların zengin baharatlı harçla doldurulup haşlanmasıyla yapılır."
+    },
+    {
+      "id": "sirnak_meyre_corbasi",
+      "name": "Meyre Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/sirnak_meyre_corbasi_meyre_corbasi.jpg",
+      "history": "Bölgenin \"kurut\" (kurutulmuş yoğurt) ve dövme buğdayı ile yapılan, içine bazen nohut da eklenen şifalı bir kış çorbasıdır."
+    }
+  ]
+}

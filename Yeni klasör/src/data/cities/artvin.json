@@ -1,0 +1,44 @@
+{
+  "id": "artvin",
+  "il_adi": "Artvin",
+  "title": "Yeşilin Binbir Tonu",
+  "unsplash_query": "artvin karagol landscape",
+  "image": "/sehirler/artvin.jpg",
+  "yemekler": [
+    {
+      "id": "artvin_kuymak",
+      "name": "Kuymak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/artvin_kuymak_kuymak.jpg",
+      "history": "Mısır unu ve tereyağının kavrulup üzerine Artvin'e özgü minci (çökelek) veya imansız peynir ve su eklenerek uzayana kadar pişirilmesiyle yapılır. Karadeniz'in zorlu ve dik yamaçlarında çalışan halkın sabahları güne enerjiyle başlamak için tükettiği en temel gıdadır."
+    },
+    {
+      "id": "artvin_karalahana_sarmasi",
+      "name": "Karalahana Sarması",
+      "category": "Aperatif",
+      "image": "/yemekler/artvin_karalahana_sarmasi_karalahana_sarmasi.jpg",
+      "history": "Haşlanmış sarmalık karalahana yapraklarının içine satır kıyması, bulgur (veya pirinç), soğan, salça ve yöresel baharatlardan oluşan harcın sarılarak pişirilmesidir. Karadeniz iklimine en çok dayanan bitki olan lahananın binbir çeşidinden en sevileni ve besleyicisidir."
+    },
+    {
+      "id": "artvin_silor_sira",
+      "name": "Silor (Sira)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/artvin_silor_sira_silor_sira.jpg",
+      "history": "Yufkaların ince rulo halinde sarılıp kesilmesi, fırınlandıktan sonra üzerine sarımsaklı yoğurt ve eritilmiş tereyağlı sos dökülerek yumuşatılmasıyla elde edilir. Artvin köylerinde kışlık hazırlık olarak kurutulan yufkaların anında lezzetli bir yemeğe dönüştürülme sanatıdır."
+    },
+    {
+      "id": "artvin_kalaco",
+      "name": "Kalaco",
+      "category": "Ana Yemek",
+      "image": "/yemekler/artvin_kalaco_kalaco.jpg",
+      "history": "Mısır unu, süzme yoğurt ve tereyağının kaynatılarak yoğun bir lapa haline getirilip sıcak servis edildiği yöresel bir aştır. Çobanların yaylalarda yanlarında taşıdıkları malzemelerle pratik olarak yaptıkları doyurucu bir Karadeniz lezzetidir."
+    },
+    {
+      "id": "artvin_laz_boregi",
+      "name": "Laz Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/artvin_laz_boregi_laz_boregi.jpg",
+      "history": "İnce açılmış onlarca kat baklava yufkasının arasına bol karabiberli ve muhallebili bir iç harç konularak fırınlandığı, üzerine şerbet dökülen bir tatlıdır. Adı börek olmasına rağmen bölgenin en şaşırtıcı ve meşhur tatlısıdır; tuzlu-tatlı kontrastını barındırır."
+    }
+  ]
+}

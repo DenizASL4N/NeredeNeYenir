@@ -1,0 +1,44 @@
+{
+  "id": "aydin",
+  "il_adi": "Aydın",
+  "title": "Efe Kültürünün Beşiği",
+  "unsplash_query": "aydin didim landscape",
+  "image": "/sehirler/aydin.jpg",
+  "yemekler": [
+    {
+      "id": "aydin_aydin_keskeki",
+      "name": "Aydın Keşkeki",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aydin_aydin_keskeki_aydin_keskeki.jpg",
+      "history": "Diğer yörelerin aksine Aydın keşkeki daha çok zeytinyağı ile harmanlanır ve genellikle düğünlerde büyük toprak çömleklerde dana veya kuzu etiyle buğdayın sabaha kadar dövülmesiyle yapılır. Efe kültürünün yaşatıldığı köy düğünlerinin vazgeçilmez ziyafet ve yardımlaşma yemeğidir."
+    },
+    {
+      "id": "aydin_cine_koftesi",
+      "name": "Çine Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aydin_cine_koftesi_cine_koftesi.jpg",
+      "history": "Az yağlı dana veya kuzu etinin hiçbir baharat kullanılmadan (sadece tuz) yoğrulup meşe kömüründe ızgara edilmesiyle hazırlanan saf et köftesidir. Aydın-Muğla karayolu üzerinde, Yörüklerin saf et tüketme alışkanlığından ortaya çıkmış ünlü bir durak lezzetidir."
+    },
+    {
+      "id": "aydin_pasa_boregi",
+      "name": "Paşa Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aydin_pasa_boregi_pasa_boregi.jpg",
+      "history": "Elde açılıp et suyunda haşlanan büyük hamur bezelerinin arasına kavrulmuş kıyma konulup kat kat dizilmesi ve üzerine süzme yoğurt eklenmesiyle yapılır. Aydın'ın köklü ailelerinin ve zeybeklerin özel günlerde hazırladığı doyurucu bir ana yemektir."
+    },
+    {
+      "id": "aydin_yuvarlama",
+      "name": "Yuvarlama",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aydin_yuvarlama_yuvarlama.jpg",
+      "history": "İnce bulgur ve kıymanın yoğrulup küçük toplar halinde kızartılması, ardından et suyu ve nohutla haşlanmasıyla yapılan yöresel bir lezzettir. İç Ege mutfağının bulgur ve et sentezinin güzel bir yansımasıdır."
+    },
+    {
+      "id": "aydin_i̇ncir_uyutmasi",
+      "name": "İncir Uyutması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aydin_i̇ncir_uyutmasi_incir_uyutmasi.htm",
+      "history": "Kuru incirlerin sıcak sütün içinde bekletilerek sütün mayalanması ve yoğurt kıvamına (puding gibi) gelmesiyle oluşan, rafine şeker içermeyen çok eski bir tatlıdır. Dünyanın en kaliteli incirlerinin yetiştiği Aydın'da, antik dönemlerden kalma bir tarif olduğu düşünülmektedir."
+    }
+  ]
+}

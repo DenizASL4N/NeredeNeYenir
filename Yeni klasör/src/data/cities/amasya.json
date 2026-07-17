@@ -1,0 +1,44 @@
+{
+  "id": "amasya",
+  "il_adi": "Amasya",
+  "title": "Şehzadeler Şehri",
+  "unsplash_query": "amasya kral kaya mezarlari landscape",
+  "image": "/sehirler/amasya.jpg",
+  "yemekler": [
+    {
+      "id": "amasya_amasya_coregi",
+      "name": "Amasya Çöreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/amasya_amasya_coregi_amasya_coregi.jpg",
+      "history": "Nohut mayası kullanılarak hazırlanan, hamuruna ceviz veya haşhaş katılan, odun ateşinde pişirilen çok dayanıklı bir hamur işidir. Şehzadeler şehri Amasya'da Osmanlı döneminden beri askerlerin ve yolcuların yanına yolluk olarak verilen tarihi bir çörektir."
+    },
+    {
+      "id": "amasya_keskek",
+      "name": "Keşkek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/amasya_keskek_keskek.jpg",
+      "history": "Bütün buğday (yarma) ve kemikli etin (genellikle koyun veya horoz) büyük kazanlarda saatlerce kaynatılıp tahta tokmaklarla dövülerek sakız kıvamına getirilmesi işlemidir. Amasya'da düğünlerin ve bayram sabahlarının bin yıllık ritüel yemeğidir."
+    },
+    {
+      "id": "amasya_bakla_dolmasi",
+      "name": "Bakla Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/amasya_bakla_dolmasi_bakla_dolmasi.jpg",
+      "history": "Kuru bakla, yarma, soğan ve baharatlarla hazırlanan iç harcın asma yapraklarına sarılması ve üzerine kaburga eti dizilerek pişirilmesiyle yapılır. Amasya mutfağının en karakteristik ve zahmetli lezzetlerinden biridir."
+    },
+    {
+      "id": "amasya_toyga_corbasi",
+      "name": "Toyga Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/amasya_toyga_corbasi_toyga_corbasi.jpg",
+      "history": "Süzme yoğurt, yarma, nohut ve yumurtanın kaynatılması, üzerine nane ve tereyağlı sos dökülmesiyle hazırlanan sıcak/soğuk içilebilen bir çorbadır. Orta Asya Türk boylarının Anadolu'ya taşıdığı yoğurtlu çorba geleneğinin uzantısıdır."
+    },
+    {
+      "id": "amasya_elma_tatlisi",
+      "name": "Elma Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/amasya_elma_tatlisi_elma_tatlisi.jpg",
+      "history": "Amasya'nın dünyaca ünlü misket elmalarının içi oyulup ceviz, tarçın ve karanfille doldurulduktan sonra fırınlanmasıyla yapılır. Şehrin sembol meyvesini mutfakta başköşeye taşıyan hafif ve zarif bir tatlıdır."
+    }
+  ]
+}

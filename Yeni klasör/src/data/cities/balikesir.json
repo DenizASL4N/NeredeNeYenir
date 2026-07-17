@@ -1,0 +1,44 @@
+{
+  "id": "balikesir",
+  "il_adi": "Balıkesir",
+  "title": "İki Denizin Kesiştiği Yer",
+  "unsplash_query": "balikesir cunda island landscape",
+  "image": "/sehirler/balikesir.jpg",
+  "yemekler": [
+    {
+      "id": "balikesir_balikesir_tiridi",
+      "name": "Balıkesir Tiridi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/balikesir_balikesir_tiridi_balikesir_tiridi.jpg",
+      "history": "Pide veya bayat ekmeklerin et suyuyla ıslatılıp üzerine didiklenmiş dana veya kuzu eti, sumaklı soğan ve maydanoz eklenmesiyle yapılan bol sulu bir aştır. Yöredeki tarım işçilerinin ve esnafın güne başlarken tükettiği, bereket sembolü bir yemektir."
+    },
+    {
+      "id": "balikesir_sura",
+      "name": "Sura",
+      "category": "Ana Yemek",
+      "image": "/yemekler/balikesir_sura_sura.jpg",
+      "history": "Bütün bir kuzu veya oğlak kaburgasının içinin fıstıklı, kuş üzümlü ve baharatlı yarım pişmiş iç pilavla doldurulup dikilerek uzun süre fırınlanmasıdır. Balıkesir ovasındaki hayvancılık zenginliğini yansıtan tarihi Kurban Bayramı ziyafet yemeğidir."
+    },
+    {
+      "id": "balikesir_susurluk_tostu_ve_ayrani",
+      "name": "Susurluk Tostu (ve Ayranı)",
+      "category": "Aperatif",
+      "image": "/yemekler/balikesir_susurluk_tostu_ve_ayrani_susurluk_tostu_ve_ayrani.jpg",
+      "history": "Özel ekşi mayalı, kalın kesim Susurluk ekmeğinin içine yöresel Mihaliç peyniri ve dana sucuğu konularak tost makinesinde nar gibi kızartılmasıdır. Türkiye'nin karayolu seyahat kültürünün en meşhur mola lezzeti ve bol köpüklü ayranın en iyi eşlikçisidir."
+    },
+    {
+      "id": "balikesir_hosmerim_tatlisi",
+      "name": "Höşmerim Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/balikesir_hosmerim_tatlisi_hosmerim_tatlisi.jpg",
+      "history": "Taze tuzsuz koyun veya inek peynirinin irmik, yumurta sarısı ve şekerle birlikte ocakta ağır ağır kavrulmasıyla hazırlanan sarı renkli tatlıdır. Hikayesi, savaştan dönen eşine evde kalan son malzemelerle tatlı yapan Yörük kadınının \"Hoş mu erim?\" diye sorması efsanesine dayanır."
+    },
+    {
+      "id": "balikesir_bigadic_guveci",
+      "name": "Bigadiç Güveci",
+      "category": "Ana Yemek",
+      "image": "/yemekler/balikesir_bigadic_guveci_bigadic_guveci.jpg",
+      "history": "Sadece oğlak eti, domates, sivri biber ve biraz kuyruk yağı kullanılarak, su eklenmeden toprak güveçte, odun fırınında saatlerce kendi suyuyla pişirilen bir başyapıttır. Balıkesir'in saf et lezzetini ortaya çıkaran en geleneksel pişirme yöntemidir."
+    }
+  ]
+}

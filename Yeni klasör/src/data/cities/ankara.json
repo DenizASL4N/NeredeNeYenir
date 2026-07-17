@@ -1,0 +1,44 @@
+{
+  "id": "ankara",
+  "il_adi": "Ankara",
+  "title": "Cumhuriyetin Kalbi",
+  "unsplash_query": "ankara anitkabir landscape",
+  "image": "/sehirler/ankara.jpg",
+  "yemekler": [
+    {
+      "id": "ankara_ankara_tavasi",
+      "name": "Ankara Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ankara_ankara_tavasi_ankara_tavasi.jpg",
+      "history": "Arpa şehriyenin tereyağında kavrulup, üzerine ağır ağır pişmiş kemikli kuzu eti yerleştirilmesi ve et suyuyla fırınlanmasıyla yapılır. İç Anadolu'nun tahıl ve koyunculuk merkezli eski mutfak kültürünün ziyafet yemeğidir."
+    },
+    {
+      "id": "ankara_beypazari_kurusu",
+      "name": "Beypazarı Kurusu",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ankara_beypazari_kurusu_beypazari_kurusu.jpg",
+      "history": "Tereyağı, tarçın, mahlep ve unla yoğrulan hamurun taş fırınlarda kurutularak peksimet formuna getirilmesidir. İpek Yolu üzerinde bulunan Beypazarı'nda kervan yolcuları için bir yıl boyunca bozulmayan bir yiyecek olarak üretilmeye başlanmıştır."
+    },
+    {
+      "id": "ankara_tamtak_tiridi",
+      "name": "Tamtak Tiridi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ankara_tamtak_tiridi_tamtak_tiridi.jpg",
+      "history": "Bayat ekmeklerin doğranıp üzerine haşlanmış et suyu dökülmesi, ardından kavrulmuş kıyma ve sarımsaklı yoğurt eklenmesiyle yapılır. Kıtlık ve savaş dönemlerinde hiçbir malzemenin israf edilmemesi ilkesiyle doğmuş bir Anadolu klasiğidir."
+    },
+    {
+      "id": "ankara_i̇ncegiz_corbasi",
+      "name": "İnceğiz Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/ankara_i̇ncegiz_corbasi_incegiz_corbasi.jpg",
+      "history": "Kuzu eti, haşlanmış nohut, yarma (buğday) ve yoğurtlu terbiyenin birleşmesiyle hazırlanan doyurucu bir çorbadır. Adını Ankara'nın eski yerleşimlerinden alır ve kış aylarının şifa kaynağı olarak bilinir."
+    },
+    {
+      "id": "ankara_urus_kapama",
+      "name": "Uruş Kapama",
+      "category": "Ana Yemek",
+      "image": "/yemekler/ankara_urus_kapama_urus_kapama.jpg",
+      "history": "Toprak bir küpün içine et, domates, biber ve baharatların konulup ters çevrilerek fırınlanmasıyla yapılan kapama türü bir yemektir. Geçmişte tarlalarda çalışan köylülerin ateşe bırakıp saatler sonra hazır buldukları bir çalışma yemeğidir."
+    }
+  ]
+}

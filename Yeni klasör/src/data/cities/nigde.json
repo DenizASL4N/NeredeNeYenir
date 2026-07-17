@@ -1,0 +1,44 @@
+{
+  "id": "nigde",
+  "il_adi": "Niğde",
+  "title": "Aladağların Eteklerinde",
+  "unsplash_query": "nigde gumusler manastiri",
+  "image": "/sehirler/nigde.jpg",
+  "yemekler": [
+    {
+      "id": "nigde_nigde_tavasi",
+      "name": "Niğde Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nigde_nigde_tavasi_nigde_tavasi.jpg",
+      "history": "Kuzu eti, arpacık soğan, domates, biber ve sarımsakların bakır tepsilere dizilip taş fırınlarda odun ateşinde kendi suyuyla pişirilmesiyle yapılan bölgeye özgü bir yemektir."
+    },
+    {
+      "id": "nigde_sogurme",
+      "name": "Söğürme",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nigde_sogurme_sogurme.jpg",
+      "history": "Közlenmiş patlıcanların, köz biber, domates, sarımsak ve zeytinyağı ile dövülerek harmanlanmasıyla yapılan; hem meze hem de kahvaltıda tüketilen geleneksel bir lezzettir."
+    },
+    {
+      "id": "nigde_mazakli_manca",
+      "name": "Mazaklı (Manca)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nigde_mazakli_manca_mazakli_manca.jpg",
+      "history": "Haşlanmış patlıcan, biber ve domateslerin sarımsaklı süzme yoğurt ile karıştırılmasıyla yapılan, Niğde'nin ferahlatıcı yaz sofralarının vazgeçilmezidir."
+    },
+    {
+      "id": "nigde_halveter",
+      "name": "Halveter",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nigde_halveter_halveter.jpg",
+      "history": "Niğde'ye özgü, unun tereyağında iyice kavrulup içine pekmez (veya şerbet) dökülmesiyle yapılan, yoğun ve doyurucu bir geleneksel tatlıdır."
+    },
+    {
+      "id": "nigde_nigde_elma_tatlisi",
+      "name": "Niğde Elma Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/nigde_nigde_elma_tatlisi_nigde_elma_tatlisi.jpg",
+      "history": "Niğde'nin meşhur elmalarının bütün olarak şeker, tarçın ve karanfil ile ağır ateşte pişirilmesi ve üzerine kaymak konularak servis edilmesiyle yapılan hafif bir tatlıdır."
+    }
+  ]
+}

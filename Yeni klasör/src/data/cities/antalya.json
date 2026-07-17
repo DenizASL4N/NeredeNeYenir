@@ -1,0 +1,44 @@
+{
+  "id": "antalya",
+  "il_adi": "Antalya",
+  "title": "Turizmin Başkenti",
+  "unsplash_query": "antalya kaleici landscape",
+  "image": "/sehirler/antalya.jpg",
+  "yemekler": [
+    {
+      "id": "antalya_tahinli_piyaz",
+      "name": "Tahinli Piyaz",
+      "category": "Meze",
+      "image": "/yemekler/antalya_tahinli_piyaz_tahinli_piyaz.jpg",
+      "history": "Sadece Çandır fasulyesi (veya küçük taneli kuru fasulye) kullanılarak yapılır. Üzerine tahin, limon suyu, sarımsak, sirke ve zeytinyağı ile hazırlanan özel tarator sosu dökülür. 20. yüzyılın başlarında Antalya'da ortaya çıkmış ve piyazı bir salatadan çok ana yemeğe dönüştürmüştür."
+    },
+    {
+      "id": "antalya_hibes",
+      "name": "Hibeş",
+      "category": "Meze",
+      "image": "/yemekler/antalya_hibes_hibes.jpg",
+      "history": "Tahin, sarımsak, taze sıkılmış limon suyu, kimyon ve kırmızı toz biberin yoğun bir şekilde çırpılmasıyla hazırlanan bir meze/sostur. Özellikle Arap coğrafyasından Akdeniz'e uzanan ticaret yollarının Antalya mutfağına bıraktığı baharatlı miraslardan biridir."
+    },
+    {
+      "id": "antalya_yoruk_kebabi",
+      "name": "Yörük Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/antalya_yoruk_kebabi_yoruk_kebabi.jpg",
+      "history": "Et, mantar, kabak, patlıcan gibi dağ ve tarla ürünlerinin erişte (veya yufka) eşliğinde harmanlanarak sunulduğu zengin bir yemektir. Toroslarda göçebe yaşayan Yörüklerin elde ne varsa onu en lezzetli şekilde bir araya getirme alışkanlığından doğmuştur."
+    },
+    {
+      "id": "antalya_arap_kadayifi_yassi_kadayif",
+      "name": "Arap Kadayıfı (Yassı Kadayıf)",
+      "category": "Tatlı",
+      "image": "/yemekler/antalya_arap_kadayifi_yassi_kadayif_arap_kadayifi_yassi_kadayif.jpg",
+      "history": "İçi ceviz, tarçın ve şekerle doldurulmuş küçük yarım ay şeklindeki mayalı hamurların kızartılıp şerbete atılmasıyla yapılır. Akdeniz ülkeleri ve Levanten mutfak kültürünün Antalya'daki tatlı yansımalarındandır."
+    },
+    {
+      "id": "antalya_yanik_dondurma",
+      "name": "Yanık Dondurma",
+      "category": "Tatlı",
+      "image": "/yemekler/antalya_yanik_dondurma_yanik_dondurma.jpg",
+      "history": "Sütün özellikle altının hafifçe tutturularak (yakılarak) kaynatılmasıyla üretilen, isli ve yanık karamel aromasına sahip keçi sütlü bir dondurmadır. Sütün odun ateşinde kaynatılırken kazanın dibinin tutması sonucu tesadüfen keşfedilen ve Antalya'ya mal olan özel bir tatlıdır."
+    }
+  ]
+}

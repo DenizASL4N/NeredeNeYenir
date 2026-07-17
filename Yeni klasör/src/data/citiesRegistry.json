@@ -1,0 +1,569 @@
+[
+  {
+    "id": "adana",
+    "name": "Adana",
+    "title": "Ateşin ve Etin Kenti",
+    "image": "/sehirler/adana.jpg",
+    "featured": true
+  },
+  {
+    "id": "adiyaman",
+    "name": "Adıyaman",
+    "title": "Nemrut'un Eteklerinde",
+    "image": "/sehirler/adiyaman.jpg",
+    "featured": false
+  },
+  {
+    "id": "afyonkarahisar",
+    "name": "Afyonkarahisar",
+    "title": "Termal ve Lezzet Diyarı",
+    "image": "/sehirler/afyonkarahisar.jpg",
+    "featured": false
+  },
+  {
+    "id": "agri",
+    "name": "Ağrı",
+    "title": "İshak Paşa'nın Gölgesinde",
+    "image": "/sehirler/agri.jpg",
+    "featured": false
+  },
+  {
+    "id": "amasya",
+    "name": "Amasya",
+    "title": "Şehzadeler Şehri",
+    "image": "/sehirler/amasya.jpg",
+    "featured": false
+  },
+  {
+    "id": "ankara",
+    "name": "Ankara",
+    "title": "Cumhuriyetin Kalbi",
+    "image": "/sehirler/ankara.jpg",
+    "featured": false
+  },
+  {
+    "id": "antalya",
+    "name": "Antalya",
+    "title": "Turizmin Başkenti",
+    "image": "/sehirler/antalya.jpg",
+    "featured": false
+  },
+  {
+    "id": "artvin",
+    "name": "Artvin",
+    "title": "Yeşilin Binbir Tonu",
+    "image": "/sehirler/artvin.jpg",
+    "featured": false
+  },
+  {
+    "id": "aydin",
+    "name": "Aydın",
+    "title": "Efe Kültürünün Beşiği",
+    "image": "/sehirler/aydin.jpg",
+    "featured": false
+  },
+  {
+    "id": "balikesir",
+    "name": "Balıkesir",
+    "title": "İki Denizin Kesiştiği Yer",
+    "image": "/sehirler/balikesir.jpg",
+    "featured": false
+  },
+  {
+    "id": "bilecik",
+    "name": "Bilecik",
+    "title": "Kuruluşun Toprakları",
+    "image": "/sehirler/bilecik.jpg",
+    "featured": false
+  },
+  {
+    "id": "bingol",
+    "name": "Bingöl",
+    "title": "Yüzen Adalar Diyarı",
+    "image": "/sehirler/bingol.jpg",
+    "featured": false
+  },
+  {
+    "id": "bitlis",
+    "name": "Bitlis",
+    "title": "Beş Minareli Tarih Şehri",
+    "image": "/sehirler/bitlis.jpg",
+    "featured": false
+  },
+  {
+    "id": "bolu",
+    "name": "Bolu",
+    "title": "Tabiatın Kalbi",
+    "image": "/sehirler/bolu.jpg",
+    "featured": false
+  },
+  {
+    "id": "burdur",
+    "name": "Burdur",
+    "title": "Göller Yöresinin İncisi",
+    "image": "/sehirler/burdur.jpg",
+    "featured": false
+  },
+  {
+    "id": "bursa",
+    "name": "Bursa",
+    "title": "Osmanlı'nın İlk Başkenti",
+    "image": "/sehirler/bursa.jpg",
+    "featured": true
+  },
+  {
+    "id": "canakkale",
+    "name": "Çanakkale",
+    "title": "Tarihin Yazıldığı Yer",
+    "image": "/sehirler/canakkale.jpg",
+    "featured": false
+  },
+  {
+    "id": "cankiri",
+    "name": "Çankırı",
+    "title": "Tuz Mağaraları ve Kültür",
+    "image": "/sehirler/cankiri.jpg",
+    "featured": false
+  },
+  {
+    "id": "corum",
+    "name": "Çorum",
+    "title": "Hattuşaş'ın Başkenti",
+    "image": "/sehirler/corum.jpg",
+    "featured": false
+  },
+  {
+    "id": "denizli",
+    "name": "Denizli",
+    "title": "Travertenler Diyarı",
+    "image": "/sehirler/denizli.jpg",
+    "featured": false
+  },
+  {
+    "id": "diyarbakir",
+    "name": "Diyarbakır",
+    "title": "Surların ve Kültürün Şehri",
+    "image": "/sehirler/diyarbakir.jpg",
+    "featured": false
+  },
+  {
+    "id": "edirne",
+    "name": "Edirne",
+    "title": "Mimar Sinan'ın İncisi",
+    "image": "/sehirler/edirne.jpg",
+    "featured": false
+  },
+  {
+    "id": "elazig",
+    "name": "Elazığ",
+    "title": "Gakkoşlar Diyarı Harput",
+    "image": "/sehirler/elazig.jpg",
+    "featured": false
+  },
+  {
+    "id": "erzincan",
+    "name": "Erzincan",
+    "title": "Doğa Sporlarının Beşiği",
+    "image": "/sehirler/erzincan.jpg",
+    "featured": false
+  },
+  {
+    "id": "erzurum",
+    "name": "Erzurum",
+    "title": "Çifte Minarelerin Gölgesinde",
+    "image": "/sehirler/erzurum.jpg",
+    "featured": false
+  },
+  {
+    "id": "eskisehir",
+    "name": "Eskişehir",
+    "title": "Göçmenlerin Şehri",
+    "image": "/sehirler/eskisehir.jpg",
+    "featured": true
+  },
+  {
+    "id": "gaziantep",
+    "name": "Gaziantep",
+    "title": "Gastronominin Başkenti",
+    "image": "/sehirler/gaziantep.jpg",
+    "featured": true
+  },
+  {
+    "id": "giresun",
+    "name": "Giresun",
+    "title": "Fındığın ve Kirazın Vatanı",
+    "image": "/sehirler/giresun.jpg",
+    "featured": false
+  },
+  {
+    "id": "gumushane",
+    "name": "Gümüşhane",
+    "title": "Karaca Mağarası ve Yaylalar",
+    "image": "/sehirler/gumushane.jpg",
+    "featured": false
+  },
+  {
+    "id": "hakkari",
+    "name": "Hakkari",
+    "title": "Cilo Dağlarının Zirvesinde",
+    "image": "/sehirler/hakkari.htm",
+    "featured": false
+  },
+  {
+    "id": "hatay",
+    "name": "Hatay",
+    "title": "Medeniyetlerin Buluşma Sofrası",
+    "image": "/sehirler/hatay.jpg",
+    "featured": true
+  },
+  {
+    "id": "isparta",
+    "name": "Isparta",
+    "title": "Güller ve Göller Şehri",
+    "image": "/sehirler/isparta.jpg",
+    "featured": false
+  },
+  {
+    "id": "mersin",
+    "name": "Mersin",
+    "title": "Akdeniz'in Liman Şehri",
+    "image": "/sehirler/mersin.jpg",
+    "featured": false
+  },
+  {
+    "id": "istanbul",
+    "name": "İstanbul",
+    "title": "İki Kıtayı Birleştiren Metropol",
+    "image": "/sehirler/istanbul.jpg",
+    "featured": true
+  },
+  {
+    "id": "izmir",
+    "name": "İzmir",
+    "title": "Ege'nin Modern ve Tarihi Sentezi",
+    "image": "/sehirler/izmir.jpg",
+    "featured": true
+  },
+  {
+    "id": "kars",
+    "name": "Kars",
+    "title": "Ani Harabelerinin Gizemi",
+    "image": "/sehirler/kars.jpg",
+    "featured": false
+  },
+  {
+    "id": "kastamonu",
+    "name": "Kastamonu",
+    "title": "Kanyonlar ve Tarih Şehri",
+    "image": "/sehirler/kastamonu.jpg",
+    "featured": false
+  },
+  {
+    "id": "kayseri",
+    "name": "Kayseri",
+    "title": "Erciyes'in Eteklerinde Ticaret",
+    "image": "/sehirler/kayseri.jpg",
+    "featured": false
+  },
+  {
+    "id": "kirklareli",
+    "name": "Kırklareli",
+    "title": "Istrancaların Yeşilliğinde",
+    "image": "/sehirler/kirklareli.jpg",
+    "featured": false
+  },
+  {
+    "id": "kirsehir",
+    "name": "Kırşehir",
+    "title": "Ahi Evran ve Neşet Ertaş Toprağı",
+    "image": "/sehirler/kirsehir.jpg",
+    "featured": false
+  },
+  {
+    "id": "kocaeli",
+    "name": "Kocaeli",
+    "title": "Göçmen Kültürünün Zenginliği",
+    "image": "/sehirler/kocaeli.jpg",
+    "featured": true
+  },
+  {
+    "id": "konya",
+    "name": "Konya",
+    "title": "Mevlana'nın Huzur Şehri",
+    "image": "/sehirler/konya.jpg",
+    "featured": false
+  },
+  {
+    "id": "kutahya",
+    "name": "Kütahya",
+    "title": "Çininin ve Kaplıcaların Başkenti",
+    "image": "/sehirler/kutahya.jpg",
+    "featured": false
+  },
+  {
+    "id": "malatya",
+    "name": "Malatya",
+    "title": "Kayısı Diyarı Battalgazi",
+    "image": "/sehirler/malatya.jpg",
+    "featured": false
+  },
+  {
+    "id": "manisa",
+    "name": "Manisa",
+    "title": "Spil Dağı ve Mesir Şehri",
+    "image": "/sehirler/manisa.jpg",
+    "featured": false
+  },
+  {
+    "id": "kahramanmaras",
+    "name": "Kahramanmaraş",
+    "title": "İstiklal ve Dondurma Şehri",
+    "image": "/sehirler/kahramanmaras.jpg",
+    "featured": false
+  },
+  {
+    "id": "mardin",
+    "name": "Mardin",
+    "title": "Taş Evlerin Masalsı Şehri",
+    "image": "/sehirler/mardin.jpg",
+    "featured": false
+  },
+  {
+    "id": "mugla",
+    "name": "Muğla",
+    "title": "Mavi Rotaların Başlangıcı",
+    "image": "/sehirler/mugla.jpg",
+    "featured": false
+  },
+  {
+    "id": "mus",
+    "name": "Muş",
+    "title": "Malazgirt Ovası ve Tarih",
+    "image": "/sehirler/mus.jpg",
+    "featured": false
+  },
+  {
+    "id": "nevsehir",
+    "name": "Nevşehir",
+    "title": "Kapadokya ve Balonlar Ülkesi",
+    "image": "/sehirler/nevsehir.jpg",
+    "featured": false
+  },
+  {
+    "id": "nigde",
+    "name": "Niğde",
+    "title": "Aladağların Eteklerinde",
+    "image": "/sehirler/nigde.jpg",
+    "featured": false
+  },
+  {
+    "id": "ordu",
+    "name": "Ordu",
+    "title": "Fındığın ve Teleferiğin Şehri",
+    "image": "/sehirler/ordu.jpg",
+    "featured": false
+  },
+  {
+    "id": "rize",
+    "name": "Rize",
+    "title": "Çayın ve Kaçkarların Vatanı",
+    "image": "/sehirler/rize.jpg",
+    "featured": false
+  },
+  {
+    "id": "sakarya",
+    "name": "Sakarya",
+    "title": "Sapanca Gölü ve Yeşillik",
+    "image": "/sehirler/sakarya.jpg",
+    "featured": false
+  },
+  {
+    "id": "samsun",
+    "name": "Samsun",
+    "title": "Kurtuluş Meşalesinin Yandığı Yer",
+    "image": "/sehirler/samsun.jpg",
+    "featured": false
+  },
+  {
+    "id": "siirt",
+    "name": "Siirt",
+    "title": "Veysel Karani Toprakları",
+    "image": "/sehirler/siirt.jpg",
+    "featured": false
+  },
+  {
+    "id": "sinop",
+    "name": "Sinop",
+    "title": "Karadeniz'in Sakin Fiyordu",
+    "image": "/sehirler/sinop.jpg",
+    "featured": false
+  },
+  {
+    "id": "sivas",
+    "name": "Sivas",
+    "title": "Selçuklu Mirası Gök Medrese",
+    "image": "/sehirler/sivas.jpg",
+    "featured": false
+  },
+  {
+    "id": "tekirdag",
+    "name": "Tekirdağ",
+    "title": "Bağ Rotaları ve Köfte Şehri",
+    "image": "/sehirler/tekirdag.jpg",
+    "featured": false
+  },
+  {
+    "id": "tokat",
+    "name": "Tokat",
+    "title": "Tarihi Yazmacılık ve Hanlar",
+    "image": "/sehirler/tokat.jpg",
+    "featured": false
+  },
+  {
+    "id": "trabzon",
+    "name": "Trabzon",
+    "title": "Sümela'nın Gizemli Ormanları",
+    "image": "/sehirler/trabzon.jpg",
+    "featured": true
+  },
+  {
+    "id": "tunceli",
+    "name": "Tunceli",
+    "title": "Munzur Vadisi'nin Eşsiz Doğası",
+    "image": "/sehirler/tunceli.jpg",
+    "featured": false
+  },
+  {
+    "id": "sanliurfa",
+    "name": "Şanlıurfa",
+    "title": "Peygamberler Şehri Balıklıgöl",
+    "image": "/sehirler/sanliurfa.jpg",
+    "featured": false
+  },
+  {
+    "id": "usak",
+    "name": "Uşak",
+    "title": "Karun Hazinelerinin Şehri",
+    "image": "/sehirler/usak.jpg",
+    "featured": false
+  },
+  {
+    "id": "van",
+    "name": "Van",
+    "title": "Urartu Başkenti ve Akdamar",
+    "image": "/sehirler/van.htm",
+    "featured": false
+  },
+  {
+    "id": "yozgat",
+    "name": "Yozgat",
+    "title": "Çamlık Milli Parkı ve Saat Kulesi",
+    "image": "/sehirler/yozgat.jpg",
+    "featured": false
+  },
+  {
+    "id": "zonguldak",
+    "name": "Zonguldak",
+    "title": "Emeğin ve Kömürün Başkenti",
+    "image": "/sehirler/zonguldak.jpg",
+    "featured": false
+  },
+  {
+    "id": "aksaray",
+    "name": "Aksaray",
+    "title": "Ihlara Vadisi'nin İncisi",
+    "image": "/sehirler/aksaray.jpg",
+    "featured": false
+  },
+  {
+    "id": "bayburt",
+    "name": "Bayburt",
+    "title": "Baksı Müzesi ve Çoruh",
+    "image": "/sehirler/bayburt.jpg",
+    "featured": false
+  },
+  {
+    "id": "karaman",
+    "name": "Karaman",
+    "title": "Türk Dilinin Başkenti",
+    "image": "/sehirler/karaman.jpg",
+    "featured": false
+  },
+  {
+    "id": "kirikkale",
+    "name": "Kırıkkale",
+    "title": "Silah Sanayisi ve Kızılırmak",
+    "image": "/sehirler/kirikkale.jpg",
+    "featured": false
+  },
+  {
+    "id": "batman",
+    "name": "Batman",
+    "title": "Hasankeyf'in Tarihi Mirası",
+    "image": "/sehirler/batman.jpg",
+    "featured": false
+  },
+  {
+    "id": "sirnak",
+    "name": "Şırnak",
+    "title": "Cudi Dağı'nın Gölgesinde",
+    "image": "/sehirler/sirnak.jpg",
+    "featured": false
+  },
+  {
+    "id": "bartin",
+    "name": "Bartın",
+    "title": "Amasra'nın Tarihi Limanı",
+    "image": "/sehirler/bartin.jpg",
+    "featured": false
+  },
+  {
+    "id": "ardahan",
+    "name": "Ardahan",
+    "title": "Çıldır Gölü ve Kale Şehri",
+    "image": "/sehirler/ardahan.jpg",
+    "featured": false
+  },
+  {
+    "id": "igdir",
+    "name": "Iğdır",
+    "title": "Aralık Ovası ve Kayısı",
+    "image": "/sehirler/igdir.jpg",
+    "featured": false
+  },
+  {
+    "id": "yalova",
+    "name": "Yalova",
+    "title": "Termal Kaplıcalar ve Deniz",
+    "image": "/sehirler/yalova.jpg",
+    "featured": false
+  },
+  {
+    "id": "karabuk",
+    "name": "Karabük",
+    "title": "Safranbolu Evlerinin Şehri",
+    "image": "/sehirler/karabuk.jpg",
+    "featured": false
+  },
+  {
+    "id": "kilis",
+    "name": "Kilis",
+    "title": "Zeytin ve Horoz Karası",
+    "image": "/sehirler/kilis.jpg",
+    "featured": false
+  },
+  {
+    "id": "osmaniye",
+    "name": "Osmaniye",
+    "title": "Kastabala Antik Kenti",
+    "image": "/sehirler/osmaniye.jpg",
+    "featured": false
+  },
+  {
+    "id": "duzce",
+    "name": "Düzce",
+    "title": "Şelaleler ve Doğa Cenneti",
+    "image": "/sehirler/duzce.jpg",
+    "featured": false
+  }
+]

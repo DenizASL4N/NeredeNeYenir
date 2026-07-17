@@ -1,0 +1,44 @@
+{
+  "id": "diyarbakir",
+  "il_adi": "Diyarbakır",
+  "title": "Surların ve Kültürün Şehri",
+  "unsplash_query": "diyarbakir hevsel bahceleri landscape",
+  "image": "/sehirler/diyarbakir.jpg",
+  "yemekler": [
+    {
+      "id": "diyarbakir_ciger_kebabi",
+      "name": "Ciğer Kebabı",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/diyarbakir_ciger_kebabi_ciger_kebabi.jpg",
+      "history": "Diyarbakır'da ciğer sadece bir yemek değil, bir yaşam tarzıdır. Kuzu ciğeri ince ince doğranıp şişlere aralarına mutlaka kuyruk yağı dizilerek geçirilir. Pul biberle terbiye edilerek mangalda közlenir. Sabahın çok erken saatlerinde bile kahvaltı niyetine yenilen tarihi bir sokak kültürüdür."
+    },
+    {
+      "id": "diyarbakir_meftune",
+      "name": "Meftune",
+      "category": "Ana Yemek",
+      "image": "/yemekler/diyarbakir_meftune_meftune.jpg",
+      "history": "Kuzu eti, patlıcan ve domatesin, Diyarbakır mutfağının demirbaşı olan \"sumak suyu\" ile birleşmesiyle hazırlanan mayhoş ve lezzetli bir tencere yemeğidir. Farklı versiyonlarında kabak da kullanılır; bölgenin ekşili ve baharatlı lezzet profiline harika bir örnektir."
+    },
+    {
+      "id": "diyarbakir_kaburga_dolmasi",
+      "name": "Kaburga Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/diyarbakir_kaburga_dolmasi_kaburga_dolmasi.jpg",
+      "history": "Bütün kuzu kaburgasının içinin; badem, çam fıstığı, kuş üzümü, karabiber, yenibahar ve kavrulmuş pirinçten oluşan harçla doldurulup iğne iplikle dikilmesi işlemidir. Buharda ve sonrasında fırında saatlerce pişer. Mezopotamya'nın krallara ve en ağır misafirlere layık ziyafet yemeğidir."
+    },
+    {
+      "id": "diyarbakir_nardanasi",
+      "name": "Nardanaşı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/diyarbakir_nardanasi_nardanasi.jpg",
+      "history": "Yağsız kıyma, ince bulgur ve baharatlarla yapılan küçük topların (köftelerin), nohut ve et suyuyla haşlanması, içine nar suyu (veya nar ekşisi) ile taze nar tanelerinin eklenmesiyle yapılır. Kürt ve Arap mutfağı füzyonunun ekşi-tuzlu dengesidir."
+    },
+    {
+      "id": "diyarbakir_burma_kadayif",
+      "name": "Burma Kadayıf",
+      "category": "Tatlı",
+      "image": "/yemekler/diyarbakir_burma_kadayif_burma_kadayif.jpg",
+      "history": "Çiğ kadayıfın içine bol miktarda taze Antep fıstığı veya ceviz serilip, elde sıkıca burularak tepsiye dizilmesi ve altı üstü nar gibi kızartılarak şerbetlenmesidir. Diyarbakır'ın tescilli ve en ağırbaşlı tatlısıdır."
+    }
+  ]
+}

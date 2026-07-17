@@ -1,0 +1,44 @@
+{
+  "id": "usak",
+  "il_adi": "Uşak",
+  "title": "Karun Hazinelerinin Şehri",
+  "unsplash_query": "usak ulubey kanyonu landscape",
+  "image": "/sehirler/usak.jpg",
+  "yemekler": [
+    {
+      "id": "usak_tarhana_corbasi",
+      "name": "Tarhana Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/usak_tarhana_corbasi_tarhana_corbasi.jpg",
+      "history": "Uşak tarhanası, sebze (domates, biber, soğan) oranının yüksekliği ve uzun süre fermente edilmesiyle ünlüdür. Bir yıl boyunca kurutulup saklanan tarhana, Uşak'ta kahvaltıdan akşama kadar her öğünde içilir."
+    },
+    {
+      "id": "usak_usak_dondurmesi",
+      "name": "Uşak Döndürmesi",
+      "category": "Ana Yemek",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&auto=format&fit=crop&q=80",
+      "history": "Ispanak, peynir veya kıymalı harcın, ince hamur bezeleriyle üst üste dizilip sac üzerinde çevrilerek (döndürülerek) pişirildiği bir börek çeşididir."
+    },
+    {
+      "id": "usak_zini_kebabi",
+      "name": "Zini Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/usak_zini_kebabi_zini_kebabi.jpg",
+      "history": "Kuzu eti ve sebzelerin tepsiye (zini) dizilip fırınlanmasıyla yapılan, bölgenin en geleneksel et yemeğidir."
+    },
+    {
+      "id": "usak_keskek",
+      "name": "Keşkek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/usak_keskek_keskek.jpg",
+      "history": "Anadolu'nun her yerinde olduğu gibi Uşak'ta da düğünlerin baş tacıdır. Buğday ve etin saatlerce dövülerek sakız kıvamına getirilmesiyle yapılır."
+    },
+    {
+      "id": "usak_demir_tatlisi",
+      "name": "Demir Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/usak_demir_tatlisi_demir_tatlisi.jpg",
+      "history": "Demir bir kalıbın kızgın yağa batırılıp ardından cıvık hamura daldırılması, sonra tekrar kızgın yağa atılarak çiçek şekli almasıyla yapılan, üzerine şerbet dökülen çıtır bir atıştırmalıktır."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "konya",
+  "il_adi": "Konya",
+  "title": "Mevlana'nın Huzur Şehri",
+  "unsplash_query": "konya mevlana muzesi landscape",
+  "image": "/sehirler/konya.jpg",
+  "yemekler": [
+    {
+      "id": "konya_etli_ekmek",
+      "name": "Etli Ekmek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/konya_etli_ekmek_etli_ekmek.jpg",
+      "history": "İnce açılan uzun hamurun üzerine, Konya'nın yerel dana kıyması, ince kıyılmış domates, biber ve maydanozdan oluşan harcın yayılıp fırınlanmasıdır. Selçuklu başkenti Konya'nın 800 yıllık fırıncılık geleneğinin en ikonik ürünüdür."
+    },
+    {
+      "id": "konya_firin_kebabi",
+      "name": "Fırın Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/konya_firin_kebabi_firin_kebabi.jpg",
+      "history": "Koyun etinin hiçbir sebze ve salça eklenmeden, sadece kendi yağıyla bakır kazanlarda odun ateşinde 4-5 saat boyunca ağır ağır pişirilmesiyle yapılır. Konyalıların genellikle öğle vaktinde, çatal-bıçak kullanmadan, pide eşliğinde yedikleri çok özel bir yemektir."
+    },
+    {
+      "id": "konya_konya_tiridi",
+      "name": "Konya Tiridi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/konya_konya_tiridi_konya_tiridi.jpg",
+      "history": "Bayatlamış pidelerin küp küp doğranıp kemik suyuyla ıslatılması, üzerine haşlanmış kuzu eti, yoğurt, sumaklı soğan ve bol tereyağı dökülerek servis edilmesiyle yapılır. Mevlana zamanından beri dervişlerin ve esnafın doyurucu yemeğidir."
+    },
+    {
+      "id": "konya_bamya_corbasi",
+      "name": "Bamya Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/konya_bamya_corbasi_bamya_corbasi.jpg",
+      "history": "Konya'ya özgü küçük kurutulmuş çiçek bamyaların, kuşbaşı kuzu eti ve bol limon tuzuyla kaynatılmasıyla yapılan, düğünlerde ve özel davetlerde yemeğin başlangıcı kabul edilen en asil çorbadır."
+    },
+    {
+      "id": "konya_sac_arasi_tatlisi",
+      "name": "Saç Arası Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/konya_sac_arasi_tatlisi_sac_arasi_tatlisi.jpg",
+      "history": "İnce açılmış baklava yufkalarının içine bol kaymak veya ceviz konularak büzülmesi ve iki sac arasında (veya fırında) kızartılıp üzerine şerbet dökülmesiyle yapılan, Konyalıların düğün sonrası damada ikram ettiği geleneksel bir tatlıdır."
+    }
+  ]
+}

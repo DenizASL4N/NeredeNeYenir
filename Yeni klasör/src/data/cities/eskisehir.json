@@ -1,0 +1,44 @@
+{
+  "id": "eskisehir",
+  "il_adi": "Eskişehir",
+  "title": "Göçmenlerin Şehri",
+  "unsplash_query": "eskisehir odunpazari landscape",
+  "image": "/sehirler/eskisehir.jpg",
+  "yemekler": [
+    {
+      "id": "eskisehir_ciborek_cigborek",
+      "name": "Çibörek (Çiğbörek)",
+      "category": "Aperatif",
+      "image": "/yemekler/eskisehir_ciborek_cigborek_ciborek_cigborek.jpg",
+      "history": "İncecik açılmış mayasız hamurun yarısına çiğ dana kıyması, ince doğranmış soğan, karabiber ve bir miktar su (içinin sulu kalması için) konup yarım ay şeklinde kapatılır ve dev kazanlarda kızgın yağda 15 saniye kızartılır. Kırım Tatarlarının göçle getirdiği Eskişehir'in bir numaralı lezzetidir."
+    },
+    {
+      "id": "eskisehir_balaban_kebabi",
+      "name": "Balaban Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/eskisehir_balaban_kebabi_balaban_kebabi.jpg",
+      "history": "Kare şeklinde kesilmiş pidelerin kemik suyuyla ıslatılması, üzerine yoğurt dökülüp ızgarada pişmiş şiş köfteler ve bonfile parçalarının dizilmesi, en son kaynar tereyağı ve domates sosu gezdirilmesiyle yapılır. Tatar ve Balkan et kültürünün yoğun bir füzyonudur."
+    },
+    {
+      "id": "eskisehir_sorpa_corbasi",
+      "name": "Sorpa Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/eskisehir_sorpa_corbasi_sorpa_corbasi.jpg",
+      "history": "Kuzu veya koyun eti, taze soğan ve yoğurtlu terbiyenin bolca karabiberle kaynatılmasıyla hazırlanan Kırım Tatar mutfağına ait geleneksel, besleyici ve şifa deposu bir çorbadır."
+    },
+    {
+      "id": "eskisehir_hashasli_corek",
+      "name": "Haşhaşlı Çörek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/eskisehir_hashasli_corek_hashasli_corek.jpg",
+      "history": "Eskişehir yöresinin tarım havzasında yetişen haşhaşların ezilip sıvı yağ veya tereyağı ile karıştırılarak hamurun arasına kat kat sürülmesi ve burularak fırınlanmasıdır. Çay saatlerinin tok tutan vazgeçilmezidir."
+    },
+    {
+      "id": "eskisehir_met_helvasi",
+      "name": "Met Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/eskisehir_met_helvasi_met_helvasi.jpg",
+      "history": "Pişmaniye ve çekme helvaya benzer ancak çubuk şeklinde (met) ve daha kıtır formdadır. Un, şeker, yağ ve limon tuzunun ustalar tarafından defalarca çekilerek lif lif yapılmasıyla oluşur. Adını eskiden sokaklarda oynanan \"Met\" isimli çelik-çomak benzeri oyundan alır."
+    }
+  ]
+}

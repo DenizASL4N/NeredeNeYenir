@@ -1,0 +1,44 @@
+{
+  "id": "bursa",
+  "il_adi": "Bursa",
+  "title": "Osmanlı'nın İlk Başkenti",
+  "unsplash_query": "bursa ulu cami landscape",
+  "image": "/sehirler/bursa.jpg",
+  "yemekler": [
+    {
+      "id": "bursa_i̇skender_kebap",
+      "name": "İskender Kebap",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_i̇skender_kebap_iskender_kebap.jpg",
+      "history": "İnce kesilmiş kuzu dönerin, odun ateşinde pişirilmiş tırnak pidelere serilmesi, üzerine domates sosu, yanına koyun yoğurdu ve en son kızgın tereyağı dökülmesiyle servis edilir. 1867'de İskender Efendi'nin eti yatay değil dikey pişirmeyi keşfetmesiyle ortaya çıkan Bursa'nın gastronomi markasıdır."
+    },
+    {
+      "id": "bursa_pideli_kofte",
+      "name": "Pideli Köfte",
+      "category": "Aperatif",
+      "image": "/yemekler/bursa_pideli_kofte_pideli_kofte.jpg",
+      "history": "İskender kebabın döner yerine yöresel dana/kuzu karışımı küçük kasap köfteleriyle yapılan, yine pide, sos ve tereyağı eşliğinde sunulan daha ekonomik ve eski bir esnaf lokantası alternatifidir."
+    },
+    {
+      "id": "bursa_cantik",
+      "name": "Cantık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_cantik_cantik.jpg",
+      "history": "Mayalı yumuşak hamurun ortasının çukurlaştırılarak içine kavrulmamış çiğ kıyma, soğan, domates ve biberden oluşan harcın konup taş fırında pişirildiği tatar kökenli küçük yuvarlak pidedir. Bursa'nın göçmen kültürüyle şekillenen günlük atıştırmalığıdır."
+    },
+    {
+      "id": "bursa_kestane_sekeri",
+      "name": "Kestane Şekeri",
+      "category": "Tatlı",
+      "image": "/yemekler/bursa_kestane_sekeri_kestane_sekeri.jpg",
+      "history": "Uludağ'ın yamaçlarında yetişen en kaliteli kestanelerin bütünlüğünü bozmadan ince tülbentlere sarılarak özel şeker şuruplarında saatlerce kaynatılmasıyla elde edilir. Bursa'nın simge tatlısıdır, yüzlerce yıllık tarihi vardır."
+    },
+    {
+      "id": "bursa_kemalpasa_tatlisi",
+      "name": "Kemalpaşa Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/bursa_kemalpasa_tatlisi_kemalpasa_tatlisi.jpg",
+      "history": "Mustafakemalpaşa ilçesine özgü tuzsuz taze inek peynirinin un, irmik ve yumurta ile yoğrulup fırınlanması, ardından şerbet içinde kaynatılarak şişirilmesiyle yapılır. Peynirin tatlıda kullanımının Marmara'daki en ünlü temsilcisidir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sanliurfa",
+  "il_adi": "Şanlıurfa",
+  "title": "Peygamberler Şehri Balıklıgöl",
+  "unsplash_query": "sanliurfa balikligol landscape",
+  "image": "/sehirler/sanliurfa.jpg",
+  "yemekler": [
+    {
+      "id": "sanliurfa_urfa_kebabi",
+      "name": "Urfa Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sanliurfa_urfa_kebabi_urfa_kebabi.jpg",
+      "history": "Zırh kıyması, kuyruk yağı ve bolca \"isot\" (Urfa biberi) ile yoğurulup şişlere dizilen kebaptır. Adana kebabından farkı, isotun kendine has aroması ve içine sarımsak katılmasıdır."
+    },
+    {
+      "id": "sanliurfa_cig_kofte",
+      "name": "Çiğ Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sanliurfa_cig_kofte_cig_kofte.htm",
+      "history": "Urfa'nın en büyük gururudur. Kıyma (geleneksel yöntem) veya etsiz (günümüz), esmer bulgur, isot, salça ve taze soğan ile saatlerce yoğurularak \"pişirilir\". Urfa'da çiğ köfte bir sanat ve arkadaşlık ritüelidir."
+    },
+    {
+      "id": "sanliurfa_lahmacun",
+      "name": "Lahmacun",
+      "category": "Tatlı",
+      "image": "/yemekler/sanliurfa_lahmacun_lahmacun.jpg",
+      "history": "Urfa lahmacununun özelliği, içine kıyma ile birlikte bol miktarda soğan, sarımsak ve isot konularak yapılan, hamurunun çok ince olmasıdır."
+    },
+    {
+      "id": "sanliurfa_ciger_kebabi",
+      "name": "Ciğer Kebabı",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/sanliurfa_ciger_kebabi_ciger_kebabi.jpg",
+      "history": "Urfa'da ciğer, kuzunun en taze parçalarından yapılır; sabahın çok erken saatlerinde, açık havada, közde pişirilip yanında taze nane ve soğanla yenir."
+    },
+    {
+      "id": "sanliurfa_sillik_tatlisi",
+      "name": "Şıllık Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/sanliurfa_sillik_tatlisi_sillik_tatlisi.jpg",
+      "history": "İnce krep hamurlarının içine bolca dövülmüş Antep fıstığı konulup rulo yapılması, ardından üzerine şerbet dökülmesiyle yapılan, \"yatak\" gibi serilen çok hafif ve yöresel bir tatlıdır."
+    }
+  ]
+}

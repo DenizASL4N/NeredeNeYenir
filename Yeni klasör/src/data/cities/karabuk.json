@@ -1,0 +1,44 @@
+{
+  "id": "karabuk",
+  "il_adi": "Karabük",
+  "title": "Safranbolu Evlerinin Şehri",
+  "unsplash_query": "karabuk safranbolu evleri landscape",
+  "image": "/sehirler/karabuk.jpg",
+  "yemekler": [
+    {
+      "id": "karabuk_kuyu_kebabi",
+      "name": "Kuyu Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karabuk_kuyu_kebabi_kuyu_kebabi.jpg",
+      "history": "Kastamonu ile benzer teknikle; kuzunun derin kuyularda çam çırası ateşinde, buharla saatlerce pişirilmesiyle yapılır."
+    },
+    {
+      "id": "karabuk_peruhi",
+      "name": "Peruhi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karabuk_peruhi_peruhi.jpg",
+      "history": "Karabük'ün Safranbolu yöresine özgü, içine lor peyniri veya kıyma konulan, sarımsaklı yoğurtla servis edilen bir çeşit mantıdır."
+    },
+    {
+      "id": "karabuk_bukme",
+      "name": "Bükme",
+      "category": "Aperatif",
+      "image": "/yemekler/karabuk_bukme_bukme.jpg",
+      "history": "Ispanaklı veya patatesli harcın, hamurun içine konulup fırınlanmasıyla yapılan yöresel bir hamur işidir."
+    },
+    {
+      "id": "karabuk_su_boregi",
+      "name": "Su Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karabuk_su_boregi_su_boregi.jpg",
+      "history": "Safranbolu evlerinde, geleneksel yöntemlerle (elle açılan yufka) yapılan, bol tereyağlı meşhur bir börektir."
+    },
+    {
+      "id": "karabuk_safranbolu_lokumu",
+      "name": "Safranbolu Lokumu",
+      "category": "Tatlı",
+      "image": "/yemekler/karabuk_safranbolu_lokumu_safranbolu_lokumu.jpg",
+      "history": "Safranbolu'da yetişen safran bitkisi ile aroma verilen, hafif kıvamlı ve bölgenin en ünlü ikramlık tatlısıdır."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bingol",
+  "il_adi": "Bingöl",
+  "title": "Yüzen Adalar Diyarı",
+  "unsplash_query": "bingol yuzen adalar landscape",
+  "image": "/sehirler/bingol.jpg",
+  "yemekler": [
+    {
+      "id": "bingol_sorina_pel",
+      "name": "Sorina Pel",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_sorina_pel_sorina_pel.jpg",
+      "history": "Sac üzerinde pişirilen yufkaların geniş bir tepsiye rulo halinde dizilmesi, üzerine bolca sarımsaklı yoğurt ve kızgın tereyağı dökülerek yumuşatılması işlemidir. Bölgedeki hayvancılık kültürünün getirdiği bol süt ürünlerinin buğdayla buluştuğu pratik bir çoban ve köy yemeğidir."
+    },
+    {
+      "id": "bingol_mastuva",
+      "name": "Mastuva",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_mastuva_mastuva.jpg",
+      "history": "Süzme yoğurt (veya ayran), pirinç (veya döğme) ve saf tereyağının kaynatılarak koyu lapa kıvamına getirilmesiyle hazırlanan besleyici bir aştır. Bingöl dağlarındaki zorlu kış şartlarında enerji vermesi ve tok tutması amacıyla sıklıkla tüketilir."
+    },
+    {
+      "id": "bingol_lol",
+      "name": "Löl",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_lol_lol.jpg",
+      "history": "Kat kat açılan hamurların arasına yöresel peynirler, çökelek, kavurma veya maydanoz konulup tepside fırınlanmasıyla yapılan içi zengin bir börektir. Misafir ağırlamalarında çayın yanında sunulan eski bir Kürt mutfağı geleneğidir."
+    },
+    {
+      "id": "bingol_keldos",
+      "name": "Keldoş",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_keldos_keldos.jpg",
+      "history": "Kurutulmuş yoğurt (kurut), aşurelik buğday, nohut, mercimek ve kemikli kuzu etinin saatlerce kaynatılarak hazırlandığı çok malzemeli bir kış yemeğidir. Kurutulmuş gıdaların uzun kış ayları için saklanması ve değerlendirilmesi felsefesine dayanır."
+    },
+    {
+      "id": "bingol_cildir_sildir",
+      "name": "Çıldır (Şıldır)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_cildir_sildir_cildir_sildir.jpg",
+      "history": "Akışkan kıvamlı hamurun kızgın yağa kepçeyle dökülüp ince krep gibi kızartılması, ardından üzerine şerbet veya toz şeker dökülmesiyle yapılan oldukça pratik, eski bir köy tatlısıdır."
+    }
+  ]
+}

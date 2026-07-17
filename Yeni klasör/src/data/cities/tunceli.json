@@ -1,0 +1,44 @@
+{
+  "id": "tunceli",
+  "il_adi": "Tunceli",
+  "title": "Munzur Vadisi'nin Eşsiz Doğası",
+  "unsplash_query": "tunceli munzur vadisi landscape",
+  "image": "/sehirler/tunceli.jpg",
+  "yemekler": [
+    {
+      "id": "tunceli_sir_sir-u-peynir",
+      "name": "Şir (Şir-u-Peynir)",
+      "category": "Meze",
+      "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=800&auto=format&fit=crop&q=80",
+      "history": "Sacda pişirilen ince yufkaların parçalanması, üzerine bolca sarımsaklı süzme yoğurt ve kızgın tereyağı dökülmesiyle yapılan, bölgenin en temel ve doyurucu ev yemeğidir."
+    },
+    {
+      "id": "tunceli_zerefet_babuko",
+      "name": "Zerefet (Babuko)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tunceli_zerefet_babuko_zerefet_babuko.jpg",
+      "history": "Sert bir hamurun (yufka benzeri) parçalanıp üzerine sarımsaklı yoğurt ve bolca tereyağı dökülerek hazırlanan, bölgenin \"sarımsaklı ekmek\" geleneğinin bir temsilcisidir."
+    },
+    {
+      "id": "tunceli_dersim_mantisi",
+      "name": "Dersim Mantısı",
+      "category": "Aperatif",
+      "image": "/yemekler/tunceli_dersim_mantisi_dersim_mantisi.jpg",
+      "history": "Klasik mantıdan farklı olarak, içine yöre otlarının veya peynirin konulduğu, üzerine sumaklı sos ve sarımsaklı yoğurt dökülerek servis edilen yerel bir hamur işidir."
+    },
+    {
+      "id": "tunceli_babuko",
+      "name": "Babuko",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tunceli_babuko_babuko.jpg",
+      "history": "Un, su ve tuzla yoğrulan hamurun taş fırınlarda veya sacda pişirilip, ardından parçalanarak tereyağlı, sarımsaklı bir sosla harmanlandığı, bölgeye özgü doyurucu bir ekmek yemeğidir."
+    },
+    {
+      "id": "tunceli_halbori",
+      "name": "Halbori",
+      "category": "Ana Yemek",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&auto=format&fit=crop&q=80",
+      "history": "Munzur Vadisi civarında yetişen, yöreye özgü çok özel bir lezzeti olan \"halbori\" fasulyesi ile yapılan yemekler, bölgenin kendine has bitki örtüsünün yansımasıdır."
+    }
+  ]
+}

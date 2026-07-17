@@ -1,0 +1,44 @@
+{
+  "id": "giresun",
+  "il_adi": "Giresun",
+  "title": "Fındığın ve Kirazın Vatanı",
+  "unsplash_query": "giresun adasi landscape",
+  "image": "/sehirler/giresun.jpg",
+  "yemekler": [
+    {
+      "id": "giresun_karalahana_corbasi_pancar_corbasi",
+      "name": "Karalahana Çorbası (Pancar Çorbası)",
+      "category": "Çorba",
+      "image": "/yemekler/giresun_karalahana_corbasi_pancar_corbasi_karalahana_corbasi_pancar_corbasi.jpg",
+      "history": "Karalahananın çok ince doğranıp, içine Karadeniz mutfağının temel taşları olan mısır yarması, barbunya (börülce), iç yağı ve koyulaştırmak için mısır unu katılarak kaynatılmasıdır. Karadeniz insanın en eski ana yemeğidir."
+    },
+    {
+      "id": "giresun_hamsili_pilav",
+      "name": "Hamsili Pilav",
+      "category": "Ana Yemek",
+      "image": "/yemekler/giresun_hamsili_pilav_hamsili_pilav.jpg",
+      "history": "Soğan, çam fıstığı, kuş üzümü, yenibahar ve karabiberle hazırlanan iç pilavın, kılçıkları özenle alınmış hamsilerle fırın tepsisine dizilerek veya bohça gibi kapatılarak pişirilmesidir. Deniz bereketinin karanın ürünleriyle birleştiği muazzam bir tören yemeğidir."
+    },
+    {
+      "id": "giresun_gorele_pidesi",
+      "name": "Görele Pidesi",
+      "category": "Aperatif",
+      "image": "/yemekler/giresun_gorele_pidesi_gorele_pidesi.jpg",
+      "history": "Uzun kano şeklinde, kenarları çok ince, ortası hafif açık olan bir Karadeniz pidesidir. İçine kavurma veya Görele'nin yöresel imansız peyniri konur; en önemli özelliği piştikten sonra üzerine bolca hakiki köy tereyağı eklenip yumurta kırılmasıdır."
+    },
+    {
+      "id": "giresun_taflan_karayemis_kavurmasi",
+      "name": "Taflan (Karayemiş) Kavurması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/giresun_taflan_karayemis_kavurmasi_taflan_karayemis_kavurmasi.jpg",
+      "history": "Giresun ormanlarında çok yetişen taflan (karayemiş) meyvelerinin çekirdeklerinin çıkarılıp tuzlu suda haşlandıktan sonra bol soğan ve sıvı yağla tavada kavrulmasıdır. Karadeniz'in \"tatlı meyveden tuzlu yemek yapma\" pratikliğinin ilginç bir örneğidir."
+    },
+    {
+      "id": "giresun_findikli_kadayif_gorele_kadayifi",
+      "name": "Fındıklı Kadayıf (Görele Kadayıfı)",
+      "category": "Tatlı",
+      "image": "/yemekler/giresun_findikli_kadayif_gorele_kadayifi_findikli_kadayif_gorele_kadayifi.jpg",
+      "history": "Bilinen tel kadayıfın, içine ve üstüne Giresun'un yüksek yağ oranlı meşhur tombul fındıklarının bolca döşenip, odun ateşinde alt üst kızartılarak şerbetlenmesidir."
+    }
+  ]
+}

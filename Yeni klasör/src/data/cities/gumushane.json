@@ -1,0 +1,44 @@
+{
+  "id": "gumushane",
+  "il_adi": "Gümüşhane",
+  "title": "Karaca Mağarası ve Yaylalar",
+  "unsplash_query": "gumushane karaca magarasi",
+  "image": "/sehirler/gumushane.jpg",
+  "yemekler": [
+    {
+      "id": "gumushane_siron",
+      "name": "Siron",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gumushane_siron_siron.jpg",
+      "history": "Yufkaların çok sıkı bir rulo haline getirilip birer parmak kalınlığında kesilmesi, tepsiye yan yana fırınlanarak kurutulmasıdır. Kışın tüketileceği zaman üzerine bol miktarda sarımsaklı süzme yoğurt ve eritilmiş köy tereyağı dökülerek pratik bir şekilde hazırlanır."
+    },
+    {
+      "id": "gumushane_kuymak",
+      "name": "Kuymak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gumushane_kuymak_kuymak.jpg",
+      "history": "Trabzon ve Rize kuymaklarına göre Gümüşhane kuymağının farkı, su yerine süt ile yapılması ve içine bölgenin peynirlerinin katılıp kavrulmuş mısır ununun daha belirgin bir hal almasıdır. Mideyi yormayan daha hafif bir kuymaktır."
+    },
+    {
+      "id": "gumushane_lemis",
+      "name": "Lemis",
+      "category": "Ana Yemek",
+      "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=800&auto=format&fit=crop&q=80",
+      "history": "İnce açılmış mayasız hamurun içine haşlanmış ezik patates, kuru soğan, maydanoz veya pazı gibi otların konulup sac üzerinde ikiye katlanarak (D harfi şeklinde) pişirilmesi işlemidir. Gümüşhane köylerinin en bilinen ekmek arası alternatifidir."
+    },
+    {
+      "id": "gumushane_fitfit_hasili",
+      "name": "Fıtfıt Haşılı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gumushane_fitfit_hasili_fitfit_hasili.jpg",
+      "history": "Pilavlık iri bulgur ve süzme yoğurdun su ile kaynatılarak koyu bir lapa (haşıl) haline getirilmesi, ortasına bir çukur açılarak eritilmiş tereyağı dökülmesidir. Eskiden kış sabahlarında bağ bahçe işlerine gidenlerin tok tutması için yediği bir güç yemeğidir."
+    },
+    {
+      "id": "gumushane_pestil_ve_kome",
+      "name": "Pestil ve Köme",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gumushane_pestil_ve_kome_pestil_ve_kome.jpg",
+      "history": "Gümüşhane'nin yüzyıllık ticaret ürünüdür. Yöredeki dutların pekmezi, bal, süt ve unla kaynatılır, bezlere incecik serilip güneşte kurutulunca \"Pestil\" olur. Aynı karışıma ipe dizilmiş yarım cevizlerin defalarca batırılıp asılmasıyla da \"Köme\" (cevizli sucuk) elde edilir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kutahya",
+  "il_adi": "Kütahya",
+  "title": "Çininin ve Kaplıcaların Başkenti",
+  "unsplash_query": "kutahya aizonai landscape",
+  "image": "/sehirler/kutahya.jpg",
+  "yemekler": [
+    {
+      "id": "kutahya_cimcik_manti",
+      "name": "Cimcik Mantı",
+      "category": "Aperatif",
+      "image": "/yemekler/kutahya_cimcik_manti_cimcik_manti.jpg",
+      "history": "Kütahya mantısının en belirgin özelliği, hamurunun mercimek kadar küçük parçalar halinde koparılıp el ile çimdiklenerek (birleştirilerek) şekillendirilmesidir. Üzerine sarımsaklı yoğurt ve kızgın tereyağlı salça dökülerek servis edilir."
+    },
+    {
+      "id": "kutahya_sikicik_corbasi",
+      "name": "Sıkıcık Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/kutahya_sikicik_corbasi_sikicik_corbasi.jpg",
+      "history": "İnce bulgur ve tarhananın yoğrularak küçük fındık büyüklüğünde toplar haline getirilmesi ve salçalı su içinde kaynatılmasıyla yapılan, üzerine süzme yoğurt dökülen pratik ve doyurucu bir kış çorbasıdır."
+    },
+    {
+      "id": "kutahya_govec",
+      "name": "Göveç",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kutahya_govec_govec.jpg",
+      "history": "Kütahya'nın toprak güveç kaplarında; kuzu eti, patlıcan, domates ve biberin, ağır ateşte su eklenmeden sebzelerin kendi suyuyla özleşerek pişirilmesiyle yapılan yöresel tencere yemeğidir."
+    },
+    {
+      "id": "kutahya_tosunum",
+      "name": "Tosunum",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kutahya_tosunum_tosunum.jpg",
+      "history": "Mercimekli bir iç harcın sarma gibi yapılıp, hamurla kaplandıktan sonra fırınlanmasıyla yapılan; hem börek hem de ana yemek niteliğinde olan çok eski bir Kütahya hamur işidir."
+    },
+    {
+      "id": "kutahya_sibit_sebit",
+      "name": "Şibit (Şebit)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kutahya_sibit_sebit_sibit_sebit.jpg",
+      "history": "İnce yufkaların sac üzerinde pişirilmesi ve üzerine peynir, kavurma veya çeşitli otların konularak dürüm yapılmasıdır. Bölgenin en temel ve kadim ekmek yemeği formudur."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "canakkale",
+  "il_adi": "Çanakkale",
+  "title": "Tarihin Yazıldığı Yer",
+  "unsplash_query": "canakkale truva ati landscape",
+  "image": "/sehirler/canakkale.jpg",
+  "yemekler": [
+    {
+      "id": "canakkale_peynir_helvasi",
+      "name": "Peynir Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/canakkale_peynir_helvasi_peynir_helvasi.jpg",
+      "history": "Çanakkale yöresinde otlayan koyunların günlük, tuzsuz, taze peynirinin irmik, yumurta sarısı ve şekerle birlikte uzun süre kavrulması ve fırınlanmasıyla yapılan altın sarısı tatlıdır. Yörüklerin ve Çanakkale esnafının en meşhur geleneksel tatlısıdır."
+    },
+    {
+      "id": "canakkale_sardalya_sis_ve_tuzlama",
+      "name": "Sardalya Şiş (ve Tuzlama)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/canakkale_sardalya_sis_ve_tuzlama_sardalya_sis_ve_tuzlama.jpg",
+      "history": "Gelibolu ve Çanakkale Boğazı'nın sularından çıkan yağlı sardalyaların asma yaprağına sarılarak mangalda şişte pişirilmesi veya tuzlanarak konserve (lakerda gibi) yapılması işlemidir. Bölgenin denizcilik ve balıkçılık kültürünün temel taşıdır."
+    },
+    {
+      "id": "canakkale_biga_koftesi",
+      "name": "Biga Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/canakkale_biga_koftesi_biga_koftesi.jpg",
+      "history": "Biga yöresinde özel meralarda beslenen danaların etiyle, içine çok az ekmek ve sadece tuz karıştırılarak baharatsız yapılan saf et köftesidir. Etin kendi aromasını vurgulayan sadeliğiyle meşhurdur."
+    },
+    {
+      "id": "canakkale_melki_cam_mantari_yemegi",
+      "name": "Melki (Çam) Mantarı Yemeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/canakkale_melki_cam_mantari_yemegi_melki_cam_mantari_yemegi.jpg",
+      "history": "Kazdağları ve çevre ormanlarda sonbahar yağmurlarından sonra çıkan melki mantarlarının tereyağı, soğan ve et ile sacda veya güveçte kavrulmasıdır. Yöresel toplayıcılık kültürünün lezzetli bir sonucudur."
+    },
+    {
+      "id": "canakkale_mafis_tatlisi",
+      "name": "Mafiş Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/canakkale_mafis_tatlisi_mafis_tatlisi.jpg",
+      "history": "Mayalı hamurun küçük baklavalar veya fiyonklar şeklinde kesilip kızgın yağda kızartıldıktan sonra soğuk şerbete atılmasıyla yapılan, Çanakkale düğün ve bayramlarının geleneksel çıtır tatlısıdır."
+    }
+  ]
+}

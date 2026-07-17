@@ -1,0 +1,44 @@
+{
+  "id": "aksaray",
+  "il_adi": "Aksaray",
+  "title": "Ihlara Vadisi'nin İncisi",
+  "unsplash_query": "aksaray ihlara vadisi landscape",
+  "image": "/sehirler/aksaray.jpg",
+  "yemekler": [
+    {
+      "id": "aksaray_sikma",
+      "name": "Sıkma",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aksaray_sikma_sikma.jpg",
+      "history": "Mayalı hamurun küçük parçalar halinde açılıp sacda pişirilmesi, içine peynir, maydanoz veya patatesli harç konup rulo yapılmasıyla yapılan yöresel bir börektir."
+    },
+    {
+      "id": "aksaray_aksaray_tavasi",
+      "name": "Aksaray Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/aksaray_aksaray_tavasi_aksaray_tavasi.jpg",
+      "history": "Kuzu eti, domates ve biberin toprak kaplarda ağır ağır pişirilmesiyle yapılan, İç Anadolu'nun en meşhur \"tepsi\" yemeklerinden biridir."
+    },
+    {
+      "id": "aksaray_bamya_corbasi",
+      "name": "Bamya Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/aksaray_bamya_corbasi_bamya_corbasi.jpg",
+      "history": "Konya ile komşu olan Aksaray'da, küçük çiçek bamyaların et suyu ile birleştiği, düğünlerin vazgeçilmez başlangıcı olan asil bir çorbadır."
+    },
+    {
+      "id": "aksaray_sogan_dolmasi",
+      "name": "Soğan Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/aksaray_sogan_dolmasi_sogan_dolmasi.jpg",
+      "history": "Aksaray'da soğanların haşlanıp içi kıymalı harçla doldurularak pişirilmesi, soğan sevgisinin mutfağa yansıdığı nadir ve lezzetli bir dolma türüdür."
+    },
+    {
+      "id": "aksaray_serbetli_pide",
+      "name": "Şerbetli Pide",
+      "category": "Aperatif",
+      "image": "/yemekler/aksaray_serbetli_pide_serbetli_pide.jpg",
+      "history": "Aksaray fırınlarında pişirilen ince pidelere şerbet dökülerek yapılan, tatlı-tuzlu dengesiyle bilinen yöresel bir tatlıdır."
+    }
+  ]
+}

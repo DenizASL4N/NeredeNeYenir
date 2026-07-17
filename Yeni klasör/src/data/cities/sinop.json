@@ -1,0 +1,44 @@
+{
+  "id": "sinop",
+  "il_adi": "Sinop",
+  "title": "Karadeniz'in Sakin Fiyordu",
+  "unsplash_query": "sinop hamsilos koyu landscape",
+  "image": "/sehirler/sinop.jpg",
+  "yemekler": [
+    {
+      "id": "sinop_sinop_mantisi",
+      "name": "Sinop Mantısı",
+      "category": "Aperatif",
+      "image": "/yemekler/sinop_sinop_mantisi_sinop_mantisi.jpg",
+      "history": "Diğer mantılardan farkı; bir yarısının etli, diğer yarısının cevizli yapılıp aynı tabakta servis edilmesidir. Üzerine eritilmiş tereyağı ve sarımsaklı yoğurt dökülür; Sinop'un denizle buluştuğu noktadaki en ikonik ev yemeğidir."
+    },
+    {
+      "id": "sinop_nokul",
+      "name": "Nokul",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sinop_nokul_nokul.jpg",
+      "history": "Sinop'a özgü, içine üzüm, ceviz ve şeker konulan (bazen kıymalı da yapılır) hamurun rulo yapılıp pişirilmesiyle yapılan meşhur bir hamur işidir."
+    },
+    {
+      "id": "sinop_sirik_kebabi",
+      "name": "Sırık Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sinop_sirik_kebabi_sirik_kebabi.jpg",
+      "history": "(Sinop'un Ayancık ilçesi çevresi) Temizlenmiş kuzunun uzun bir çam sırığına geçirilip ateşin karşısında saatlerce döndürülerek pişirilmesi, odun ateşinin en güzel et pişirme sanatıdır."
+    },
+    {
+      "id": "sinop_kestane",
+      "name": "Kestane",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sinop_kestane_kestane.jpg",
+      "history": "Sinop'un ormanlık alanlarında yetişen kaliteli kestane, közde veya fırında pişirilerek kış aylarının temel atıştırmalığı olarak tüketilir."
+    },
+    {
+      "id": "sinop_i̇ncir_uyusturmasi",
+      "name": "İncir Uyuşturması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sinop_i̇ncir_uyusturmasi_incir_uyusturmasi.jpg",
+      "history": "Süt ve taze/kuru incirin karıştırılıp mayalanmasıyla yapılan, hafif ve geleneksel bir sütlü tatlıdır."
+    }
+  ]
+}

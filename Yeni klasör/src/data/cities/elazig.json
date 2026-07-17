@@ -1,0 +1,44 @@
+{
+  "id": "elazig",
+  "il_adi": "Elazığ",
+  "title": "Gakkoşlar Diyarı Harput",
+  "unsplash_query": "elazig harput kalesi landscape",
+  "image": "/sehirler/elazig.jpg",
+  "yemekler": [
+    {
+      "id": "elazig_harput_koftesi",
+      "name": "Harput Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/elazig_harput_koftesi_harput_koftesi.jpg",
+      "history": "Yağsız dövülmüş et, ince bulgur (simit), kuru soğan ve kurutulmuş reyhanın uzun süre yoğrulup fındık veya tekerlek büyüklüğünde şekillendirilerek, salçalı ve tereyağlı sıcak suda haşlanmasıdır. Harput'un o zarif ve köklü mutfak kültürünün baş köşesindedir."
+    },
+    {
+      "id": "elazig_sirin_sirin-sor",
+      "name": "Sırın (Sırın-Şor)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/elazig_sirin_sirin-sor_sirin_sirin_sor.jpg",
+      "history": "Sacda pişirilmiş incecik yufkaların rulo yapılarak üçer santimlik dilimler halinde kesilip tepsiye dik dik dizilmesi, üzerine bol sarımsaklı süzme yoğurt ve cızırdayan kızgın tereyağı dökülerek yumuşatılmasıdır."
+    },
+    {
+      "id": "elazig_lobik_corbasi",
+      "name": "Lobik Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/elazig_lobik_corbasi_lobik_corbasi.jpg",
+      "history": "Küçük taneli ve siyah gözlü bir tür yöresel börülce olan \"lobik\" otu/bakliyatı ile hazırlanan, içine aşurelik buğday, kavrulmuş soğan ve nane katılan eski bir kış çorbasıdır."
+    },
+    {
+      "id": "elazig_gombe_kombe",
+      "name": "Gömbe (Kömbe)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/elazig_gombe_kombe_gombe_kombe.jpg",
+      "history": "Altı ve üstü oldukça kalın, mayalı bir hamurdan yapılan, arasına yöresel kavrulmuş kıyma, ceviz ve bol baharat konularak taş fırınlarda tepsilerle pişen ağır ve son derece doyurucu bir Anadolu çöreğidir."
+    },
+    {
+      "id": "elazig_orcik_cevizli_sucuk",
+      "name": "Orcik (Cevizli Sucuk)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/elazig_orcik_cevizli_sucuk_orcik_cevizli_sucuk.jpg",
+      "history": "İpe dizilmiş yarım cevizlerin, bölgenin dünyaca ünlü üzümlerinden elde edilen şıranın un ile kaynatılmasıyla yapılan \"bulamaç\" (paluze) kazanlarına defalarca batırılıp güneşte asılarak kurutulmasıdır. Harput'un eski bağcılık kültürünün en değerli kışlık ürünüdür."
+    }
+  ]
+}

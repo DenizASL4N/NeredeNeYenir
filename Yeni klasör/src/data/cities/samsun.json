@@ -1,0 +1,44 @@
+{
+  "id": "samsun",
+  "il_adi": "Samsun",
+  "title": "Kurtuluş Meşalesinin Yandığı Yer",
+  "unsplash_query": "samsun ataturk aniti landscape",
+  "image": "/sehirler/samsun.jpg",
+  "yemekler": [
+    {
+      "id": "samsun_bafra_pidesi",
+      "name": "Bafra Pidesi",
+      "category": "Aperatif",
+      "image": "/yemekler/samsun_bafra_pidesi_bafra_pidesi.jpg",
+      "history": "İncecik açılan hamurun uçlarının kapatılıp \"kapalı\" bir kano şekli verilmesi, içine bol kıyma ve soğan harcının konulup fırından çıktıktan sonra üzerine bolca tereyağı sürülmesiyle yapılan çıtır çıtır bir pidedir."
+    },
+    {
+      "id": "samsun_cakalli_menemeni",
+      "name": "Çakallı Menemeni",
+      "category": "Ana Yemek",
+      "image": "/yemekler/samsun_cakalli_menemeni_cakalli_menemeni.jpg",
+      "history": "Soğan kullanılmaz. Domateslerin kabuklarının soyulup tamamen püre haline gelene kadar pişirilmesi, içine bolca taze kaşar peyniri ve sadece yumurta sarısı (veya yumurta) eklenerek yapılan Samsun-Çakallı mevkisine özgü bir kahvaltı lezzetidir."
+    },
+    {
+      "id": "samsun_samsun_simidi",
+      "name": "Samsun Simidi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/samsun_samsun_simidi_samsun_simidi.jpg",
+      "history": "Diğer şehirlerin simitlerinden farklı olarak, uzun süre pekmezli suda bekletilip fırınlanması, oldukça sert ve çıtır bir yapıda olmasıyla bilinir."
+    },
+    {
+      "id": "samsun_nokul",
+      "name": "Nokul",
+      "category": "Ana Yemek",
+      "image": "/yemekler/samsun_nokul_nokul.jpg",
+      "history": "İnce açılan yufkanın üzerine bol ceviz, üzüm ve şeker serpilip rulo yapılarak pişirilmesiyle elde edilen, düğünlerde ve bayramlarda ikram edilen geleneksel bir hamur işidir."
+    },
+    {
+      "id": "samsun_kivratma_tatlisi",
+      "name": "Kıvratma Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/samsun_kivratma_tatlisi_kivratma_tatlisi.jpg",
+      "history": "İnce yufkaların cevizle büzülüp tepsiye dizilmesi ve üzerlerine şerbet dökülerek pişirilmesi, Samsun mutfağının en sevilen bayram tatlısıdır."
+    }
+  ]
+}

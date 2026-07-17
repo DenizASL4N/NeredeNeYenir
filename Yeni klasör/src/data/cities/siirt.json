@@ -1,0 +1,44 @@
+{
+  "id": "siirt",
+  "il_adi": "Siirt",
+  "title": "Veysel Karani Toprakları",
+  "unsplash_query": "siirt tillo kalesi landscape",
+  "image": "/sehirler/siirt.jpg",
+  "yemekler": [
+    {
+      "id": "siirt_buryan_kebabi",
+      "name": "Büryan Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/siirt_buryan_kebabi_buryan_kebabi.jpg",
+      "history": "Kuzu etinin toprağa gömülü özel kuyularda, altında yanan odun ateşinin buharıyla, et ateşe değmeden saatlerce pişmesiyle yapılır. Siirt ve Bitlis arasında köklü bir \"kimin\" kavgası olsa da, Siirt Büryanı kemiksiz ve ince yapılı olmasıyla meşhurdur."
+    },
+    {
+      "id": "siirt_perde_pilavi",
+      "name": "Perde Pilavı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/siirt_perde_pilavi_perde_pilavi.jpg",
+      "history": "İncecik açılmış hamurun, tavuk eti, badem, kuş üzümü, karabiber ve pirinç ile doldurulup (yufka içine perde gibi) kapatılarak fırınlanmasıdır. Siirt'te yeni evlenen çiftlere \"bir yastıkta kocayın, sırlarımız gizli kalsın\" temennisiyle sunulan bereket yemeğidir."
+    },
+    {
+      "id": "siirt_kitel",
+      "name": "Kitel",
+      "category": "Ana Yemek",
+      "image": "/yemekler/siirt_kitel_kitel.jpg",
+      "history": "Siirt usulü içli köftedir; dışı daha ince, içi daha yoğun baharatlı ve kıymalıdır. Suda haşlanarak servis edilir."
+    },
+    {
+      "id": "siirt_i̇smeket_koftesi",
+      "name": "İsmeket Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/siirt_i̇smeket_koftesi_ismeket_koftesi.jpg",
+      "history": "İnce bulgur ve kıymayla yapılan, özel şekliyle yöreye has bir köfte çeşididir."
+    },
+    {
+      "id": "siirt_zerfet",
+      "name": "Zerfet",
+      "category": "Ana Yemek",
+      "image": "/yemekler/siirt_zerfet_zerfet.jpg",
+      "history": "Hamurun (yufka benzeri) küçük parçalara bölünüp üzerine bol eritilmiş tereyağı, bal veya pekmez dökülerek servis edilen, yöresel ve pratik bir tatlı/kahvaltılıktır."
+    }
+  ]
+}

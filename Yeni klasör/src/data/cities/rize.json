@@ -1,0 +1,44 @@
+{
+  "id": "rize",
+  "il_adi": "Rize",
+  "title": "Çayın ve Kaçkarların Vatanı",
+  "unsplash_query": "rize firtina vadisi landscape",
+  "image": "/sehirler/rize.jpg",
+  "yemekler": [
+    {
+      "id": "rize_muhlama_mihlama",
+      "name": "Muhlama (Mıhlama)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/rize_muhlama_mihlama_muhlama_mihlama.jpg",
+      "history": "Çeçil peyniri, kolot peyniri, mısır unu ve tereyağının bakır sahanlarda bakır kaşıkla sürekli çevrilerek \"uzayan\" kıvama gelene dek pişirilmesidir. Karadeniz'in enerji deposu kahvaltısıdır."
+    },
+    {
+      "id": "rize_hamsili_pilav",
+      "name": "Hamsili Pilav",
+      "category": "Ana Yemek",
+      "image": "/yemekler/rize_hamsili_pilav_hamsili_pilav.jpg",
+      "history": "Kılçığı ayıklanmış hamsilerin fırın tepsisine dizilip, içine soğan, kuş üzümü, çam fıstığı ve baharatlı iç pilavın konulup tekrar hamsiyle kapatılmasıyla yapılan muazzam bir ziyafet yemeğidir."
+    },
+    {
+      "id": "rize_rize_kavurmasi",
+      "name": "Rize Kavurması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/rize_rize_kavurmasi_rize_kavurmasi.jpg",
+      "history": "Rize'nin yüksek yaylalarında otlayan hayvanların etinin, hiçbir katkı maddesi olmadan sadece kendi yağı ve tuzuyla büyük kazanlarda uzun süre kavrulmasıyla elde edilen, Türkiye'nin en kaliteli et ürünlerinden biridir."
+    },
+    {
+      "id": "rize_rize_cayi",
+      "name": "Rize Çayı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/rize_rize_cayi_rize_cayi.jpg",
+      "history": "Rize'nin sembolü olan çayın, bakır demliklerde odun ateşinde demlenmesi, bölge kültüründe sadece bir içecek değil, bir misafirperverlik ritüelidir."
+    },
+    {
+      "id": "rize_pepecura_tatlisi",
+      "name": "Pepeçura Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/rize_pepecura_tatlisi_pepecura_tatlisi.jpg",
+      "history": "Rize'nin meşhur kokulu kara üzümlerinin suyuyla, mısır ununun puding kıvamına gelene dek pişirilmesiyle yapılan, hiçbir şeker ilavesi gerektirmeyen, tamamen meyve aromalı geleneksel bir tatlıdır."
+    }
+  ]
+}

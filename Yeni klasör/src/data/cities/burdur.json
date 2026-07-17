@@ -1,0 +1,44 @@
+{
+  "id": "burdur",
+  "il_adi": "Burdur",
+  "title": "Göller Yöresinin İncisi",
+  "unsplash_query": "burdur salda golu landscape",
+  "image": "/sehirler/burdur.jpg",
+  "yemekler": [
+    {
+      "id": "burdur_burdur_sis",
+      "name": "Burdur Şiş",
+      "category": "Ana Yemek",
+      "image": "/yemekler/burdur_burdur_sis_burdur_sis.jpg",
+      "history": "Kısa ve çok ince şişlere, içine sadece tuz katılmış yöresel dana/kuzu kıymasının dizilerek kömür ateşinde kurutulmadan hızlıca pişirilmesidir. Yanında pide ile sunulan bu köfte, Yörüklerin eti en saf haliyle tüketme sevdasının en güzel kanıtıdır."
+    },
+    {
+      "id": "burdur_testi_kebabi",
+      "name": "Testi Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/burdur_testi_kebabi_testi_kebabi.jpg",
+      "history": "Etlerin, domates, biber ve arpacık soğanlarla birlikte çömlek testilere doldurulup, ağzının hamurla kapatılarak meşe kömüründe ağır ağır pişirilmesidir. Göller Yöresinin tarım ve hayvancılık ürünlerinin toprak kaplarda birleştiği ziyafet yemeğidir."
+    },
+    {
+      "id": "burdur_gazel_boregi",
+      "name": "Gazel Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/burdur_gazel_boregi_gazel_boregi.jpg",
+      "history": "İncecik açılan yufkaların arasına kıymalı, patatesli veya peynirli harç konulup rulo halinde tepsilere dizilen ve fırında sonbahar yaprakları (gazel) gibi çıtır çıtır olana kadar pişirilen börektir."
+    },
+    {
+      "id": "burdur_ceviz_ezmesi",
+      "name": "Ceviz Ezmesi",
+      "category": "Tatlı",
+      "image": "/yemekler/burdur_ceviz_ezmesi_ceviz_ezmesi.jpg",
+      "history": "Burdur yöresinin yüksek yağlı cevizlerinin havanda dövülerek irmik, şeker ve su ile kaynatılmadan elle saatlerce yoğrulmasıyla yapılır. Padişahlara hediye olarak götürüldüğü rivayet edilen, tamamen doğal ve uzun ömürlü bir tatlıdır."
+    },
+    {
+      "id": "burdur_burdur_muhallebisi",
+      "name": "Burdur Muhallebisi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/burdur_burdur_muhallebisi_burdur_muhallebisi.jpg",
+      "history": "Pirinç ununun süt ile kaynatılıp üzerine nişasta ve sakız reçeli eklenerek hazırlanan oldukça hafif bir sütlü tatlıdır. Ağır et yemeklerinin ardından mideyi rahatlatması için geliştirilmiştir."
+    }
+  ]
+}

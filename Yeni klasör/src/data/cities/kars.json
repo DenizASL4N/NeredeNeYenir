@@ -1,0 +1,44 @@
+{
+  "id": "kars",
+  "il_adi": "Kars",
+  "title": "Ani Harabelerinin Gizemi",
+  "unsplash_query": "kars ani harabeleri landscape",
+  "image": "/sehirler/kars.jpg",
+  "yemekler": [
+    {
+      "id": "kars_kaz_eti_ve_pilavi",
+      "name": "Kaz Eti ve Pilavı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kars_kaz_eti_ve_pilavi_kaz_eti_ve_pilavi.jpg",
+      "history": "Kars'ın sert kışında kar yiyerek yağlanan kazların kesilip tuzlanarak haftalarca rüzgarda kurutulması (pastırma gibi), ardından haşlanarak etinin didilmesi ve kaynayan suyunun iri bulgur pilavında kullanılmasıdır. Kafkasya kültürünün bölgedeki en ünlü kış ziyafetidir."
+    },
+    {
+      "id": "kars_hangel_yaprak_manti",
+      "name": "Hangel (Yaprak Mantı)",
+      "category": "Aperatif",
+      "image": "/yemekler/kars_hangel_yaprak_manti_hangel_yaprak_manti.jpg",
+      "history": "Mayalı veya mayasız hamurun büyük kareler halinde kesilip haşlanması, üzerine bol sarımsaklı yoğurt ve kavrulmuş çıtır soğanlı kızgın tereyağı dökülmesidir. Et içermeyen bu mantı, eski göçmen halkların pratik ve ucuz enerji kaynağıdır."
+    },
+    {
+      "id": "kars_piti_bozbas",
+      "name": "Piti (Bozbaş)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kars_piti_bozbas_piti_bozbas.jpg",
+      "history": "Parça kuzu eti, kuyruk yağı, nohut ve sarıkök (zerdeçal) baharatının küçük toprak maşrapalarda odun ateşinde demlenerek pişmesi, sunumda lavaş ekmeğinin suyuyla ıslatılıp et ve nohudun ezilerek üzerine dökülmesidir. Azerbaycan ve Kars yöresinin çok güçlü bir ata yemeğidir."
+    },
+    {
+      "id": "kars_kars_gravyeri",
+      "name": "Kars Gravyeri",
+      "category": "Meze",
+      "image": "/yemekler/kars_kars_gravyeri_kars_gravyeri.jpg",
+      "history": "İsviçre'nin gruyere peynirinden köken alan; 1870'lerde bölgeyi işgal eden Rusların ve İsviçreli ustaların getirdiği tekniklerle Kars'ın yüksek rakımlı otlaklarında otlayan ineklerin sütünden dev tekerlekler halinde yapılan, içi delikli, sert ve yıllandırılmış tescilli dünya çapında bir peynirdir."
+    },
+    {
+      "id": "kars_umac_helvasi",
+      "name": "Umaç Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/kars_umac_helvasi_umac_helvasi.jpg",
+      "history": "Unun sıvı yağ veya tereyağıyla ufalanıp kavrulması, ardından sıcak su (veya süt) ve şekerle şerbetlenmesiyle yapılan hafif ve yumuşak dokulu kış helvasıdır."
+    }
+  ]
+}

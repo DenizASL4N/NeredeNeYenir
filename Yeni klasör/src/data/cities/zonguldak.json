@@ -1,0 +1,44 @@
+{
+  "id": "zonguldak",
+  "il_adi": "Zonguldak",
+  "title": "Emeğin ve Kömürün Başkenti",
+  "unsplash_query": "zonguldak gokgol magarasi",
+  "image": "/sehirler/zonguldak.jpg",
+  "yemekler": [
+    {
+      "id": "zonguldak_teneke_tavuk",
+      "name": "Teneke Tavuk",
+      "category": "Ana Yemek",
+      "image": "/yemekler/zonguldak_teneke_tavuk_teneke_tavuk.jpg",
+      "history": "Tavuğun bir direğe (şişe) geçirilip üzerinin teneke ile kapatılması, çevresine yakılan odun ateşiyle tenekenin ısınması sonucu tavuğun kendi buharında nar gibi pişmesidir. Maden ocaklarında çalışanların icat ettiği bir pişirme yöntemidir."
+    },
+    {
+      "id": "zonguldak_malay",
+      "name": "Malay",
+      "category": "Ana Yemek",
+      "image": "/yemekler/zonguldak_malay_malay.jpg",
+      "history": "Mısır ununun süt ve tereyağıyla pişirilip üzerine cevizli bir sos dökülmesiyle yapılan, Zonguldak'ın geleneksel köy yemeğidir."
+    },
+    {
+      "id": "zonguldak_ugmac_corbasi",
+      "name": "Uğmaç Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/zonguldak_ugmac_corbasi_ugmac_corbasi.jpg",
+      "history": "Unun su ile ovularak küçük parçalar haline getirilip (uğmaç) salçalı suda haşlanmasıyla yapılan, hızlı ve pratik bir ev çorbasıdır."
+    },
+    {
+      "id": "zonguldak_pumpum_corbasi",
+      "name": "Pumpum Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/zonguldak_pumpum_corbasi_pumpum_corbasi.jpg",
+      "history": "Mısır unu ve bölgeye has sebzelerle yapılan, yöresel ve oldukça doyurucu bir çorba çeşididir."
+    },
+    {
+      "id": "zonguldak_beyaz_baklava",
+      "name": "Beyaz Baklava",
+      "category": "Tatlı",
+      "image": "/yemekler/zonguldak_beyaz_baklava_beyaz_baklava.jpg",
+      "history": "Bölgedeki fındık ve süt ürünlerinin birleşimiyle yapılan, şerbetinin daha berrak ve tadının daha hafif olduğu yöresel bir baklava türüdür."
+    }
+  ]
+}

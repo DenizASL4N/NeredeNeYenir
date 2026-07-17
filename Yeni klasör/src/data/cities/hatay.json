@@ -1,0 +1,44 @@
+{
+  "id": "hatay",
+  "il_adi": "Hatay",
+  "title": "Medeniyetlerin Buluşma Sofrası",
+  "unsplash_query": "hatay antakya landscape",
+  "image": "/sehirler/hatay.jpg",
+  "yemekler": [
+    {
+      "id": "hatay_tepsi_kebabi_sini_kebabi",
+      "name": "Tepsi Kebabı (Sini Kebabı)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hatay_tepsi_kebabi_sini_kebabi_tepsi_kebabi_sini_kebabi.jpg",
+      "history": "Zırhla incecik kıyılmış dana veya kuzu etinin ince doğranmış soğan, sarımsak, maydanoz ve biber salçasıyla yoğrulup bakır tepsilere incecik yayılması, üzerine domates sosu eklenerek taş fırınlarda pişirilmesidir. Antakya esnafının öğle aralarında kasap-fırın dayanışmasıyla ortaya çıkardığı bir klasiktir."
+    },
+    {
+      "id": "hatay_kagit_kebabi",
+      "name": "Kağıt Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hatay_kagit_kebabi_kagit_kebabi.jpg",
+      "history": "Tepsi kebabının kasap kağıdı üzerinde pişirilen versiyonudur. Tepsi kebabına göre daha az sulu ve sosludur, etin saf lezzeti ve baharatı çok daha keskin hissedilir."
+    },
+    {
+      "id": "hatay_oruk",
+      "name": "Oruk",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hatay_oruk_oruk.jpg",
+      "history": "Hatay'ın içli köftesidir; ancak şekli genellikle ceviz gibi yuvarlak veya yassıdır. İnce bulgur ve dövülmüş etle yapılan dış harcın içine, bol ceviz, kıyma, karabiber ve Hatay'a özgü baharatlar konarak ister fırında ister kızgın yağda pişirilir."
+    },
+    {
+      "id": "hatay_belen_tavasi",
+      "name": "Belen Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hatay_belen_tavasi_belen_tavasi.jpg",
+      "history": "Kuzu kuşbaşı et, arpacık soğan, sarımsak, yeşil biber ve domatesin alüminyum veya çelik tavalarda, odun ateşinde karıştırılarak kendi suyuyla pişirilmesidir. Hatay'ın yüksek rakımlı Belen geçidindeki yolcuları doyurmak için ortaya çıkmış bir dağ lezzetidir."
+    },
+    {
+      "id": "hatay_antakya_kunefesi",
+      "name": "Antakya Künefesi",
+      "category": "Tatlı",
+      "image": "/yemekler/hatay_antakya_kunefesi_antakya_kunefesi.jpg",
+      "history": "Tel kadayıfın arasına sadece bu yörede üretilen, tuzsuz, uzayan özel Antakya peyniri döşenerek bakır sinilerde köz üzerinde alt-üst kızartılması ve sıcak şerbetle buluşturulmasıdır. Peynir ve tatlının dünyadaki en meşhur birlikteliklerinden biridir."
+    }
+  ]
+}

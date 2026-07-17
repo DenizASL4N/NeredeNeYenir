@@ -1,0 +1,44 @@
+{
+  "id": "bartin",
+  "il_adi": "Bartın",
+  "title": "Amasra'nın Tarihi Limanı",
+  "unsplash_query": "bartin amasra landscape",
+  "image": "/sehirler/bartin.jpg",
+  "yemekler": [
+    {
+      "id": "bartin_amasra_salatasi",
+      "name": "Amasra Salatası",
+      "category": "Meze",
+      "image": "/yemekler/bartin_amasra_salatasi_amasra_salatasi.jpg",
+      "history": "İçinde 30'dan fazla sebze çeşidinin (yöresel otlar, turplar, marullar) bulunduğu, özel sosuyla sunulan ve \"bir salatadan fazlası\" olarak kabul edilen, Türkiye'nin en ünlü salatasıdır."
+    },
+    {
+      "id": "bartin_yumurtali_i̇sput",
+      "name": "Yumurtalı İsput",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bartin_yumurtali_i̇sput_yumurtali_isput.jpg",
+      "history": "Karadeniz'in yöresel otu olan \"isput\"un haşlanıp soğanla kavrulması ve üzerine yumurta kırılmasıyla yapılan sağlıklı bir sebze yemeğidir."
+    },
+    {
+      "id": "bartin_pirincli_manti",
+      "name": "Pirinçli Mantı",
+      "category": "Aperatif",
+      "image": "/yemekler/bartin_pirincli_manti_pirincli_manti.jpg",
+      "history": "Mantı hamurunun içine kıyma yerine pirinç, soğan ve baharatlı bir iç harcın konulmasıyla yapılan, Bartın'a özgü ilginç bir mantı türüdür."
+    },
+    {
+      "id": "bartin_pumpum_corbasi",
+      "name": "Pumpum Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/bartin_pumpum_corbasi_pumpum_corbasi.jpg",
+      "history": "Mısır ununun tavuk suyu ve yöresel malzemelerle pişirilmesiyle yapılan, yoğun kıvamlı geleneksel bir çorbadır."
+    },
+    {
+      "id": "bartin_i̇ncir_dondurmasi",
+      "name": "İncir Dondurması",
+      "category": "Tatlı",
+      "image": "/yemekler/bartin_i̇ncir_dondurmasi_incir_dondurmasi.jpg",
+      "history": "İncirin mevsiminde toplanıp süt ile mayalanması ve dondurulmuş gibi servis edilmesiyle yapılan, tamamen doğal ve ferahlatıcı bir tatlıdır."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mugla",
+  "il_adi": "Muğla",
+  "title": "Mavi Rotaların Başlangıcı",
+  "unsplash_query": "mugla oludeniz landscape",
+  "image": "/sehirler/mugla.jpg",
+  "yemekler": [
+    {
+      "id": "mugla_cokertme_kebabi",
+      "name": "Çökertme Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mugla_cokertme_kebabi_cokertme_kebabi.jpg",
+      "history": "Bodrum yöresine özgü, kibrit çöpü inceliğinde doğranıp kızartılmış patateslerin üzerine, sarımsaklı yoğurt ve ızgara dana bonfile parçalarının dizilip tereyağlı domates sosuyla servis edilmesidir."
+    },
+    {
+      "id": "mugla_bodrum_mantisi",
+      "name": "Bodrum Mantısı",
+      "category": "Aperatif",
+      "image": "/yemekler/mugla_bodrum_mantisi_bodrum_mantisi.jpg",
+      "history": "Klasik mantıdan farklı olarak, hamurların kızartılması (kıtır olması) ve üzerine yoğurt ve kıymalı sos dökülmesiyle yapılan, Ege mutfağının yaratıcı bir yorumudur."
+    },
+    {
+      "id": "mugla_milas_koftesi",
+      "name": "Milas Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mugla_milas_koftesi_milas_koftesi.jpg",
+      "history": "Milas'ın kaliteli zeytinyağı ve yöresel dana etinin, çok az ekmek içi ve kimyonla yoğrulmasıyla yapılan küçük, lezzetli köftelerdir."
+    },
+    {
+      "id": "mugla_dos_dolmasi",
+      "name": "Döş Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/mugla_dos_dolmasi_dos_dolmasi.jpg",
+      "history": "Kuzunun göğüs (döş) kısmının içinin, baharatlı ve fıstıklı iç pilavla doldurulup fırında ağır ağır pişirilmesiyle yapılan bölgeye özgü bir düğün yemeğidir."
+    },
+    {
+      "id": "mugla_mugla_halkasi",
+      "name": "Muğla Halkası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mugla_mugla_halkasi_mugla_halkasi.jpg",
+      "history": "Mayalı hamurun halka şeklinde kızartılıp üzerine şerbet dökülmesiyle elde edilen, düğünlerde ve kutlamalarda sokaklarda dağıtılan klasik bir yöresel tatlıdır."
+    }
+  ]
+}

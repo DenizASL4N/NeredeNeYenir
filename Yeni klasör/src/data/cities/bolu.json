@@ -1,0 +1,44 @@
+{
+  "id": "bolu",
+  "il_adi": "Bolu",
+  "title": "Tabiatın Kalbi",
+  "unsplash_query": "bolu abant golu landscape",
+  "image": "/sehirler/bolu.jpg",
+  "yemekler": [
+    {
+      "id": "bolu_mengen_pilavi",
+      "name": "Mengen Pilavı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bolu_mengen_pilavi_mengen_pilavi.jpg",
+      "history": "Pirincin kavrulmuş kuzu veya dana kuşbaşı et, ceviz, badem, mantar, domates ve dereotu ile birlikte et suyunda demlenerek pişirildiği çok zengin bir pilavdır. Padişahların sofralarını donatan Bolu Mengenli saray aşçılarının bir başyapıtıdır."
+    },
+    {
+      "id": "bolu_abant_kebabi",
+      "name": "Abant Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bolu_abant_kebabi_abant_kebabi.jpg",
+      "history": "Közlenmiş patlıcanların içinin kayık şeklinde açılıp, mantar, kuşbaşı et ve domatesli bir harçla doldurularak üzerine kaşar peyniri eritilmesiyle yapılır. Bolu ormanlarının meşhur mantarlarının eti lezzetlendirdiği modern dönemin sevilen bir yemeğidir."
+    },
+    {
+      "id": "bolu_kaldirik_dolmasi",
+      "name": "Kaldırık Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/bolu_kaldirik_dolmasi_kaldirik_dolmasi.jpg",
+      "history": "Bolu yöresinin dağlarında bahar aylarında yetişen hodan (kaldırık) yapraklarının içine mısır unu, soğan ve salça harcı konularak sarılmasıdır. Doğadan beslenme kültürünün lezzetli ve sağlıklı bir yansımasıdır."
+    },
+    {
+      "id": "bolu_kesli_cevizli_eriste",
+      "name": "Keşli Cevizli Erişte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bolu_kesli_cevizli_eriste_kesli_cevizli_eriste.jpg",
+      "history": "Bolu yöresine özgü kurutulmuş süzme yoğurt olan \"keş\" peynirinin rendelenip, ceviz içiyle birlikte ev eriştesinin üzerine bol kızgın tereyağıyla dökülmesidir. Kış aylarının pratik, besleyici ve en ikonik yöresel hamur işidir."
+    },
+    {
+      "id": "bolu_saray_helvasi_cekme_helva",
+      "name": "Saray Helvası (Çekme Helva)",
+      "category": "Tatlı",
+      "image": "/yemekler/bolu_saray_helvasi_cekme_helva_saray_helvasi_cekme_helva.jpg",
+      "history": "Un ve tereyağının çok uzun süre kavrulup, ağda haline getirilmiş şekerle birleştirilmesi ve tel tel olana kadar çekilip preslenmesiyle yapılır. Saray aşçılarından halka inmiş, Bolu'nun en meşhur ikramlık tatlısıdır."
+    }
+  ]
+}

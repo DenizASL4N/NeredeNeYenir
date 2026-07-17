@@ -1,0 +1,44 @@
+{
+  "id": "corum",
+  "il_adi": "Çorum",
+  "title": "Hattuşaş'ın Başkenti",
+  "unsplash_query": "corum hattusas landscape",
+  "image": "/sehirler/corum.jpg",
+  "yemekler": [
+    {
+      "id": "corum_i̇skilip_dolmasi",
+      "name": "İskilip Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/corum_i̇skilip_dolmasi_iskilip_dolmasi.jpg",
+      "history": "Çorum'un en meşhur \"tören\" yemeğidir. Ak çeltik pirinci, et ve kuru soğanın, büyük kazanların içine yerleştirilen saçayağı üzerindeki bez torbalarda, etin buharıyla su değmeden saatlerce pişmesiyle yapılır. Osmanlı döneminde sefere çıkan askerler için yapılan, 500 yıllık bir tarihi vardır."
+    },
+    {
+      "id": "corum_corum_mantisi_kuru_manti",
+      "name": "Çorum Mantısı (Kuru Mantı)",
+      "category": "Aperatif",
+      "image": "/yemekler/corum_corum_mantisi_kuru_manti_corum_mantisi_kuru_manti.jpg",
+      "history": "Klasik mantı hamurlarının fırınlanarak kurutulması (veya çıtır kızartılması) üzerine et suyu dökülüp yumuşatılmadan hafif kıtır şekilde sarmısaklı yoğurtla servis edilmesidir. Kışlık erzak yapımında dayanıklı olması için geliştirilmiş bir yöntemdir."
+    },
+    {
+      "id": "corum_sirik_kebabi",
+      "name": "Sırık Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/corum_sirik_kebabi_sirik_kebabi.jpg",
+      "history": "Temizlenmiş ve marine edilmiş tam bir kuzunun boydan boya uzun bir çam sırığına geçirilip ateşin karşısında sürekli çevrilerek ağır ağır pişirilmesi işlemidir. Özellikle Kargı ilçesi ve çevresindeki yaylalarda çobanların ateş başında geliştirdiği çok eski bir pişirme sanatıdır."
+    },
+    {
+      "id": "corum_leblebi",
+      "name": "Leblebi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/corum_leblebi_leblebi.jpg",
+      "history": "Nohutların özel odun ateşinde, haftalarca süren dinlendirme, nemlendirme ve kavurma aşamalarından geçerek çıtır hale getirilmesidir. Çorum leblebisi bir yemek değil kuruyemiş olsa da, şehrin gastronomideki en büyük coğrafi işaretli simgesidir; tuzlu, tatlı, acılı onlarca çeşidi yapılır."
+    },
+    {
+      "id": "corum_sikma_baklava_gul_baklavasi",
+      "name": "Sıkma Baklava (Gül Baklavası)",
+      "category": "Tatlı",
+      "image": "/yemekler/corum_sikma_baklava_gul_baklavasi_sikma_baklava_gul_baklavasi.jpg",
+      "history": "Elde açılmış yufkaların içine ceviz konup oklavada büzülmesi ve yuvarlak gül şekli verilerek fırınlanmasıdır. Çorum mutfağının şerbetli bayram tatlıları arasında en zarif görünenidir."
+    }
+  ]
+}

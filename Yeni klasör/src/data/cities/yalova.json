@@ -1,0 +1,44 @@
+{
+  "id": "yalova",
+  "il_adi": "Yalova",
+  "title": "Termal Kaplıcalar ve Deniz",
+  "unsplash_query": "yalova yuruyen kosk landscape",
+  "image": "/sehirler/yalova.jpg",
+  "yemekler": [
+    {
+      "id": "yalova_yalova_koftesi",
+      "name": "Yalova Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yalova_yalova_koftesi_yalova_koftesi.jpg",
+      "history": "Dana ve kuzu etinin, içine çok az ekmek ve bölgenin taze otlarıyla karıştırılıp ızgaralanmasıyla yapılan, hafif ve lezzetli bir köftedir."
+    },
+    {
+      "id": "yalova_termal_sarma",
+      "name": "Termal Sarma",
+      "category": "Aperatif",
+      "image": "/yemekler/yalova_termal_sarma_termal_sarma.jpg",
+      "history": "İnce yufkaların içine kıymalı/sebzeli bir harcın konup rulo yapılması ve üzerine özel yoğurtlu sosun dökülmesiyle yapılan yöresel bir yemektir."
+    },
+    {
+      "id": "yalova_milfoylu_yalova_kebabi",
+      "name": "Milföylü Yalova Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yalova_milfoylu_yalova_kebabi_milfoylu_yalova_kebabi.jpg",
+      "history": "Etin milföy hamuruna sarılıp fırınlanmasıyla yapılan, modern Yalova mutfağının sevilen bir yorumudur."
+    },
+    {
+      "id": "yalova_pavli",
+      "name": "Pavli",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yalova_pavli_pavli.jpg",
+      "history": "Balkanlardan gelenlerin yaptığı, lahana, soğan ve mısır unu ile fırınlanan bir tür sebzeli börektir."
+    },
+    {
+      "id": "yalova_cirpma",
+      "name": "Çırpma",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yalova_cirpma_cirpma.jpg",
+      "history": "Ispanak ve mısır ununun karıştırılıp fırın tepsisinde pişirilmesiyle yapılan, pratik ve sağlıklı bir sebze yemeğidir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mardin",
+  "il_adi": "Mardin",
+  "title": "Taş Evlerin Masalsı Şehri",
+  "unsplash_query": "mardin eski mardin evleri landscape",
+  "image": "/sehirler/mardin.jpg",
+  "yemekler": [
+    {
+      "id": "mardin_kaburga_dolmasi",
+      "name": "Kaburga Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/mardin_kaburga_dolmasi_kaburga_dolmasi.jpg",
+      "history": "Kuzu kaburgasının içinin; badem, fıstık, kuş üzümü, yenibahar ve kavrulmuş pirinçle doldurulup dikilmesiyle yapılan Mardin ziyafetlerinin baş tacıdır."
+    },
+    {
+      "id": "mardin_sembusek",
+      "name": "Sembusek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mardin_sembusek_sembusek.jpg",
+      "history": "İnce açılmış hamurun içine kıyma, soğan ve baharatlı harcın konup yarım ay şeklinde kapatılması ve ardından kızartılması ya da fırınlanmasıyla yapılan, Mardin'in kapalı pidesidir (Lübnan'da Sambousek olarak bilinir)."
+    },
+    {
+      "id": "mardin_i̇rok_i̇cli_kofte",
+      "name": "İrok (İçli Köfte)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mardin_i̇rok_i̇cli_kofte_irok_icli_kofte.jpg",
+      "history": "Mardin usulü içli köfte; dışı daha ince, içi ise daha bol baharatlı ve cevizli olan, genellikle haşlanarak servis edilen bir lezzettir."
+    },
+    {
+      "id": "mardin_kilice",
+      "name": "Kiliçe",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mardin_kilice_kilice.jpg",
+      "history": "Mardin'in özel günlerde (bayramlarda) yapılan; tarçın, mahlep, anason ve çörek otu gibi çok sayıda baharatla hazırlanan yumuşak dokulu tarihi bir çörektir."
+    },
+    {
+      "id": "mardin_harire_tatlisi",
+      "name": "Harire Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/mardin_harire_tatlisi_harire_tatlisi.jpg",
+      "history": "Üzüm pekmezi, un ve tarçınla hazırlanan; içine ceviz eklenen, pudingten daha kıvamlı olan, oldukça sağlıklı ve geleneksel bir kış tatlısıdır."
+    }
+  ]
+}

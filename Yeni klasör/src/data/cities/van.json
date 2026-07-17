@@ -1,0 +1,44 @@
+{
+  "id": "van",
+  "il_adi": "Van",
+  "title": "Urartu Başkenti ve Akdamar",
+  "unsplash_query": "van akdamar adasi landscape",
+  "image": "/sehirler/van.htm",
+  "yemekler": [
+    {
+      "id": "van_van_kahvaltisi",
+      "name": "Van Kahvaltısı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/van_van_kahvaltisi_van_kahvaltisi.jpg",
+      "history": "Sadece bir öğün değil, bir kültürdür. Kavut, murtuğa, otlu peynir, Van çöreği ve bal-kaymak ile bütünleşen, Türkiye'nin en zengin kahvaltı sofrasıdır."
+    },
+    {
+      "id": "van_i̇nci_kefali",
+      "name": "İnci Kefali",
+      "category": "Ana Yemek",
+      "image": "/yemekler/van_i̇nci_kefali_inci_kefali.jpg",
+      "history": "Van Gölü'nün endemik balığıdır. Bahar aylarında \"göç\" döneminde avlanan inci kefali, genellikle ızgarada veya buğulama olarak tüketilir."
+    },
+    {
+      "id": "van_keledos",
+      "name": "Keledoş",
+      "category": "Ana Yemek",
+      "image": "/yemekler/van_keledos_keledos.jpg",
+      "history": "Kuşbaşı kuzu eti, nohut, mercimek, döğme ve kurutulmuş yoğurt (kurut) ile yapılan, üzerine bol tereyağlı ve naneli sos dökülen, Van'ın en besleyici ve meşhur yemeğidir."
+    },
+    {
+      "id": "van_otlu_peynir",
+      "name": "Otlu Peynir",
+      "category": "Meze",
+      "image": "/yemekler/van_otlu_peynir_otlu_peynir.jpg",
+      "history": "Van'ın yüksek yaylalarında yetişen \"sirmo\" (yabani sarımsak) gibi endemik otların, taze koyun sütüyle yapılan peynire katılması ve salamurada olgunlaştırılmasıyla elde edilir."
+    },
+    {
+      "id": "van_murtuga",
+      "name": "Murtuğa",
+      "category": "Ana Yemek",
+      "image": "/yemekler/van_murtuga_murtuga.jpg",
+      "history": "Unun tereyağında kavrulup üzerine yumurta kırılmasıyla yapılan, bal ile birlikte kahvaltılarda tüketilen geleneksel bir Van lezzetidir."
+    }
+  ]
+}

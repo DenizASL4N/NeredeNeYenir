@@ -1,0 +1,44 @@
+{
+  "id": "malatya",
+  "il_adi": "Malatya",
+  "title": "Kayısı Diyarı Battalgazi",
+  "unsplash_query": "malatya kayisi bahceleri",
+  "image": "/sehirler/malatya.jpg",
+  "yemekler": [
+    {
+      "id": "malatya_anali_kizli",
+      "name": "Analı Kızlı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/malatya_anali_kizli_anali_kizli.jpg",
+      "history": "İnce bulgur ve irmiğin yoğrulup köfte haline getirildiği (büyükler \"analı\", nohut büyüklüğündekiler \"ızlı\"), et suyu, nohut ve salçalı sos içinde pişirilen görkemli bir Malatya yemeğidir. Anadolu'nun en zahmetli ve en sevilen tören yemeklerinden biridir."
+    },
+    {
+      "id": "malatya_kiraz_yapragi_sarmasi",
+      "name": "Kiraz Yaprağı Sarması",
+      "category": "Aperatif",
+      "image": "/yemekler/malatya_kiraz_yapragi_sarmasi_kiraz_yapragi_sarmasi.jpg",
+      "history": "Malatya yöresinin ekşi aromalı kiraz yapraklarının, ince bulgur ve çeşitli baharatlarla sarılıp üzerine süzme yoğurtlu-naneli bir sos ve sumaklı soğan dökülerek servis edilmesiyle yapılır."
+    },
+    {
+      "id": "malatya_geleli_kebabi",
+      "name": "Geleli Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/malatya_geleli_kebabi_geleli_kebabi.jpg",
+      "history": "Patlıcanların közlenip küçük doğranması, üzerine kuşbaşı kuzu eti ve domatesli sosun eklenip fırınlanmasıyla yapılan, Malatya'nın yöresel kebap tarzıdır."
+    },
+    {
+      "id": "malatya_kagit_kebabi",
+      "name": "Kağıt Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/malatya_kagit_kebabi_kagit_kebabi.jpg",
+      "history": "Malatya'ya has, kuzu eti, kuyruk yağı, domates, biber ve sarımsağın yağlı kağıtlara sarılarak fırında pişirilmesiyle yapılan oldukça lezzetli ve sunumu özel bir yemektir."
+    },
+    {
+      "id": "malatya_kayisi_tatlisi",
+      "name": "Kayısı Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/malatya_kayisi_tatlisi_kayisi_tatlisi.jpg",
+      "history": "Malatya'nın dünyaca ünlü kuru kayısılarının, içi cevizle doldurularak şerbetle hafifçe haşlanması ve üzerine tahin dökülerek servis edilmesiyle yapılan, meyvenin en rafine halidir."
+    }
+  ]
+}

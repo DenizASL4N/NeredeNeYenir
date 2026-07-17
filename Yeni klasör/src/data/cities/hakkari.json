@@ -1,0 +1,44 @@
+{
+  "id": "hakkari",
+  "il_adi": "Hakkari",
+  "title": "Cilo Dağlarının Zirvesinde",
+  "unsplash_query": "hakkari cilo dagi landscape",
+  "image": "/sehirler/hakkari.htm",
+  "yemekler": [
+    {
+      "id": "hakkari_dogaba_dogabas",
+      "name": "Doğaba (Doğabaş)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hakkari_dogaba_dogabas_dogaba_dogabas.jpg",
+      "history": "Aşurelik buğday (döğme), süzme yoğurt, iri parçalı kemikli kuzu eti ve ince bulgur-kıyma karışımıyla hazırlanan küçük köftelerin büyük kazanlarda kaynatılmasıyla yapılır. Hakkari yöresindeki kalabalık düğünlerde ve özel günlerde pişirilen gösterişli bir aştır."
+    },
+    {
+      "id": "hakkari_kemikli_kavurma",
+      "name": "Kemikli Kavurma",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hakkari_kemikli_kavurma_kemikli_kavurma.jpg",
+      "history": "Kışların çok uzun ve sert geçtiği coğrafyada, sonbahar sonunda kesilen küçükbaş hayvanların etinin kendi kuyruk yağıyla kavrulup, soğuduktan sonra tenekelere veya küplere basılarak kış boyu saklanması ve tüketilmesi geleneğidir."
+    },
+    {
+      "id": "hakkari_yuksekova_kebabi",
+      "name": "Yüksekova Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hakkari_yuksekova_kebabi_yuksekova_kebabi.jpg",
+      "history": "Zırhla çekilmiş koyun eti, kuyruk yağı, sivri biber, domates ve maydanozun yoğrulup geniş tepsilere yayılarak fırınlanmasıyla yapılır. Güneydoğu'nun tepsi kebabı mantığının yüksek dağ koşullarına uyarlanmış, çok doyurucu halidir."
+    },
+    {
+      "id": "hakkari_kiris",
+      "name": "Kıris",
+      "category": "Ana Yemek",
+      "image": "/yemekler/hakkari_kiris_kiris.jpg",
+      "history": "Kemikli kuzu eti, nohut, çekirdekli kuru üzüm, sumak suyu ve iri ceviz parçalarının aynı tencerede uzun süre pişirilmesidir. Etli yemeğin içine kuru üzüm ve sumak katarak tatlı-ekşi bir lezzet elde etme, çok eski Kürt/Mezopotamya mutfağı kalıntılarındandır."
+    },
+    {
+      "id": "hakkari_lalepet_tatlisi",
+      "name": "Lalepet Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/hakkari_lalepet_tatlisi_lalepet_tatlisi.jpg",
+      "history": "Süt, sıvı yağ, yoğurt ve unla hazırlanan akışkan hamurun topak topak kızgın yağa atılıp lokma gibi kızartıldıktan sonra tatlı şerbete bırakılmasıdır. Zor coğrafyada, elde olan basit kiler malzemeleriyle hızlı tatlı krizlerini çözen evsel bir yöntemdir."
+    }
+  ]
+}

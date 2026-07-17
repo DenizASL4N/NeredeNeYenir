@@ -1,0 +1,44 @@
+{
+  "id": "kirklareli",
+  "il_adi": "Kırklareli",
+  "title": "Istrancaların Yeşilliğinde",
+  "unsplash_query": "kirklareli dupnisa magarasi",
+  "image": "/sehirler/kirklareli.jpg",
+  "yemekler": [
+    {
+      "id": "kirklareli_kirklareli_koftesi",
+      "name": "Kırklareli Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirklareli_kirklareli_koftesi_kirklareli_koftesi.jpg",
+      "history": "Yöredeki Trakya meralarında yetişen dana ve kuzu etlerinin dengeli karışımıyla, az ekmek içi, soğan ve kimyon yoğrularak yapılan, ızgarada dışı çıtır içi sulu bırakılan meşhur Balkan köftesidir."
+    },
+    {
+      "id": "kirklareli_sutlu_siron_sutlu_pita",
+      "name": "Sütlü Siron (Sütlü Pita)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirklareli_sutlu_siron_sutlu_pita_sutlu_siron_sutlu_pita.jpg",
+      "history": "Trakya yufkalarının veya ev makarnalarının fırınlanıp kurutulduktan sonra, üzerine sıcak süt ve şeker dökülerek tatlı olarak, ya da et suyu/süt dökülüp peynir konularak tuzlu tüketildiği bir göçmen lezzetidir."
+    },
+    {
+      "id": "kirklareli_eski_kasar_peyniri",
+      "name": "Eski Kaşar Peyniri",
+      "category": "Meze",
+      "image": "/yemekler/kirklareli_eski_kasar_peyniri_eski_kasar_peyniri.jpg",
+      "history": "Kırklareli'nin Istranca Dağları'nda otlayan koyun ve keçilerin bahar sütleriyle yapılan, \"tekerlek\" adı verilen dev kalıplarda buzhanelerde en az 6 ay bekletilerek küflendirilip (olgunlaştırılıp) kendine has sert ve keskin aromasını kazanan tescilli peynirdir."
+    },
+    {
+      "id": "kirklareli_hardaliye",
+      "name": "Hardaliye",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirklareli_hardaliye_hardaliye.jpg",
+      "history": "Olgun ve siyah Trakya üzümlerinin saplarıyla birlikte ezilip, fıçılara dizilmesi, aralarına hardal tohumu ve vişne yaprağı konularak fermantasyonun (alkole dönüşümün) engellendiği antioksidan deposu, buruk içimli tarihi bir alkolsüz içecektir. Atatürk'ün \"Bunu milli içecek yapın\" dediği rivayet edilir."
+    },
+    {
+      "id": "kirklareli_kirklareli_bozasi",
+      "name": "Kırklareli Bozası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirklareli_kirklareli_bozasi_kirklareli_bozasi.jpg",
+      "history": "Diğer bozaların aksine daha mayhoş ve ekşi bir tada sahip olan, darı ve mısırdan yapılan, Trakya kışlarının en yoğun tüketilen ve içine tarçın-leblebi atılarak içilen Balkan kökenli şifa kaynağıdır."
+    }
+  ]
+}

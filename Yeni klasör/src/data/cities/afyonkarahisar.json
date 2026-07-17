@@ -1,0 +1,44 @@
+{
+  "id": "afyonkarahisar",
+  "il_adi": "Afyonkarahisar",
+  "title": "Termal ve Lezzet Diyarı",
+  "unsplash_query": "afyonkarahisar castle",
+  "image": "/sehirler/afyonkarahisar.jpg",
+  "yemekler": [
+    {
+      "id": "afyonkarahisar_afyon_sucugu",
+      "name": "Afyon Sucuğu",
+      "category": "Ana Yemek",
+      "image": "/yemekler/afyonkarahisar_afyon_sucugu_afyon_sucugu.jpg",
+      "history": "Manda ve dana etinin özel baharatlar, sarımsak ve Afyon'un yöresel lezzetleriyle harmanlanıp bağırsaklara doldurulması ve rüzgarda kurutulmasıyla yapılır. Afyon'un köklü hayvancılık tarihinin en önemli ihraç ürünlerinden biridir."
+    },
+    {
+      "id": "afyonkarahisar_cullama_kofte",
+      "name": "Çullama Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/afyonkarahisar_cullama_kofte_cullama_kofte.jpg",
+      "history": "Kıyma, ince bulgur ve maydanozla hazırlanan köftelerin haşlandıktan sonra yumurta ve una bulanarak kızartılması işlemidir. Düğün yemeklerinin ve özel misafir sofralarının Osmanlı'dan kalma zengin yemeklerindendir."
+    },
+    {
+      "id": "afyonkarahisar_hashasli_bukme",
+      "name": "Haşhaşlı Bükme",
+      "category": "Aperatif",
+      "image": "/yemekler/afyonkarahisar_hashasli_bukme_hashasli_bukme.jpg",
+      "history": "İçerisinde yeşil mercimek ve ezilmiş siyah haşhaş bulunan, tel tel ayrılan ve taş fırınlarda pişen bir hamur işidir. Afyon ovasının dünyaca ünlü haşhaş üretiminin mutfağa yansımış en güzel örneğidir."
+    },
+    {
+      "id": "afyonkarahisar_kaymakli_ekmek_kadayifi",
+      "name": "Kaymaklı Ekmek Kadayıfı",
+      "category": "Tatlı",
+      "image": "/yemekler/afyonkarahisar_kaymakli_ekmek_kadayifi_kaymakli_ekmek_kadayifi.jpg",
+      "history": "Kurutulmuş özel ekmeğin vişne veya sade şerbetle yavaşça ıslatılıp şişirilmesi ve ortasına kalın bir tabaka manda kaymağı konulmasıyla sunulur. Afyon'un meşhur manda kaymağı geleneğiyle bütünleşmiş saray kökenli bir tatlıdır."
+    },
+    {
+      "id": "afyonkarahisar_i̇libada_sarmasi",
+      "name": "İlibada Sarması",
+      "category": "Aperatif",
+      "image": "/yemekler/afyonkarahisar_i̇libada_sarmasi_ilibada_sarmasi.jpg",
+      "history": "Labada (ilibada) yapraklarının içine ince bulgur (düğür), soğan, salça ve nane ile hazırlanan harcın konulup sarılmasıyla yapılır. Baharın gelişiyle doğadan toplanan otların değerlendirildiği eski bir Anadolu geleneğidir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "adiyaman",
+  "il_adi": "Adıyaman",
+  "title": "Nemrut'un Eteklerinde",
+  "unsplash_query": "adiyaman nemrut landscape",
+  "image": "/sehirler/adiyaman.jpg",
+  "yemekler": [
+    {
+      "id": "adiyaman_etsiz_cig_kofte",
+      "name": "Etsiz Çiğ Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/adiyaman_etsiz_cig_kofte_etsiz_cig_kofte.jpg",
+      "history": "Esmer bulgur, isot, salça, ceviz, badem, nar ekşisi ve taze yeşilliklerin et kullanılmadan çok uzun süre yoğrulmasıyla hazırlanır. Hikayesi, Kommagene Kralı Nemrut'un ateş yakmayı yasaklaması üzerine bir avcının eşinin eti taşla dövüp bulgur ve baharatla pişirmeden hazırlaması efsanesine dayanır."
+    },
+    {
+      "id": "adiyaman_besni_tavasi",
+      "name": "Besni Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/adiyaman_besni_tavasi_besni_tavasi.jpg",
+      "history": "Kuzu eti, patlıcan, domates, biber ve sarımsağın geniş tepsilerde taş fırınlarda odun ateşinde ağır ağır pişirilmesiyle yapılır. Adıyaman'ın tarım ve hayvancılık kültürünün harmanlandığı, kalabalık aile yemeklerinin simgesidir."
+    },
+    {
+      "id": "adiyaman_meyir_corbasi",
+      "name": "Meyir Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/adiyaman_meyir_corbasi_meyir_corbasi.jpg",
+      "history": "Döğme (aşurelik buğday), nohut, yoğurt ve patlıcanın kaynatılmasıyla yapılan, yöreye özgü soğuk da tüketilebilen bir çorbadır. Mezopotamya'nın buğday ve bakliyat kültürünün eski bir temsilcisidir."
+    },
+    {
+      "id": "adiyaman_hitap",
+      "name": "Hıtap",
+      "category": "Ana Yemek",
+      "image": "/yemekler/adiyaman_hitap_hitap.jpg",
+      "history": "İnce açılan hamurun içine kavrulmuş kıyma, soğan, ceviz ve çeşitli baharatlar konarak sac üzerinde pişirilen bir tür kapalı pidedir. Göçebe kültürün pratik ve besleyici hamur işlerinden biridir."
+    },
+    {
+      "id": "adiyaman_tene_helvasi",
+      "name": "Tene Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/adiyaman_tene_helvasi_tene_helvasi.jpg",
+      "history": "Pekmez, un ve tereyağının uzun süre kavrulmasıyla elde edilen, şekersiz yapıldığı için oldukça sağlıklı kabul edilen geleneksel bir kış tatlısıdır."
+    }
+  ]
+}

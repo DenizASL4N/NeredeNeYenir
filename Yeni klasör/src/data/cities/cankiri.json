@@ -1,0 +1,44 @@
+{
+  "id": "cankiri",
+  "il_adi": "Çankırı",
+  "title": "Tuz Mağaraları ve Kültür",
+  "unsplash_query": "cankiri tuz magarasi",
+  "image": "/sehirler/cankiri.jpg",
+  "yemekler": [
+    {
+      "id": "cankiri_sarimsakli_et",
+      "name": "Sarımsaklı Et",
+      "category": "Ana Yemek",
+      "image": "/yemekler/cankiri_sarimsakli_et_sarimsakli_et.jpg",
+      "history": "Kuşbaşı doğranmış kuzu veya dana etinin, bol miktarda bütün diş sarımsak, arpacık soğan ve salçalı suyla toprak güveçlerde uzun süre yavaş yavaş pişirilmesidir. Çankırı'nın kış aylarında hastalıklardan korunmak için şifa niyetine yaptığı en ünlü ev yemeğidir."
+    },
+    {
+      "id": "cankiri_yaren_guveci",
+      "name": "Yaren Güveci",
+      "category": "Ana Yemek",
+      "image": "/yemekler/cankiri_yaren_guveci_yaren_guveci.jpg",
+      "history": "Ahilik ve Yarenlik kültürünün merkezi olan Çankırı'da, Yaren meclislerinde toplanan esnaf ve halk için et, patlıcan, domates ve biberin güveçte saatlerce kendi buharıyla pişirildiği büyük porsiyonlu bir dayanışma yemeğidir."
+    },
+    {
+      "id": "cankiri_i̇nce_ekmek_muskasi",
+      "name": "İnce Ekmek Muskası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/cankiri_i̇nce_ekmek_muskasi_ince_ekmek_muskasi.jpg",
+      "history": "Sacda yarı pişmiş ince yufkaların (şebit) içine kavrulmuş kıymalı ve baharatlı harcın konup üçgen (muska) şeklinde sarıldıktan sonra tavada kızartılmasıdır. Yörük çadır kültüründen şehir hayatına taşınmış pratik bir börektir."
+    },
+    {
+      "id": "cankiri_cankiri_hosmerimi",
+      "name": "Çankırı Höşmerimi",
+      "category": "Tatlı",
+      "image": "/yemekler/cankiri_cankiri_hosmerimi_cankiri_hosmerimi.jpg",
+      "history": "Balıkesir höşmeriminin aksine peynir kullanılmaz. Sadece un ve kaliteli tereyağının ufalanana kadar kavrulup içine çok az tuz katılmasıyla elde edilen kahvaltılık veya üzerine bal/pekmez dökülerek tatlı olarak yenilen eski bir göçebe besinidir."
+    },
+    {
+      "id": "cankiri_yumurta_tatlisi",
+      "name": "Yumurta Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/cankiri_yumurta_tatlisi_yumurta_tatlisi.jpg",
+      "history": "Bol yumurta (bazen 10-12 adet), un ve şekerin çırpılarak pandispanya gibi fırınlanması ve ardından şerbet dökülmesiyle yapılan süngerimsi dokuda, yöreye has eski bir tatlı türüdür."
+    }
+  ]
+}

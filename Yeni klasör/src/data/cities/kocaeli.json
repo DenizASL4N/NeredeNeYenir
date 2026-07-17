@@ -1,0 +1,44 @@
+{
+  "id": "kocaeli",
+  "il_adi": "Kocaeli",
+  "title": "Göçmen Kültürünün Zenginliği",
+  "unsplash_query": "kocaeli izmit körfezi landscape",
+  "image": "/sehirler/kocaeli.jpg",
+  "yemekler": [
+    {
+      "id": "kocaeli_mancarli_pide",
+      "name": "Mancarlı Pide",
+      "category": "Aperatif",
+      "image": "/yemekler/kocaeli_mancarli_pide_mancarli_pide.jpg",
+      "history": "Kocaeli'nin Kandıra bölgesine özgü, \"mancar\" denilen pazı benzeri bir yeşilliğin, soğan ve baharatlarla çiğden yoğrulup mayalı hamurun içine doldurulması ve taş fırında pişirilmesiyle yapılır. Manav (yerli halk) kültürünün en önemli hamur işidir."
+    },
+    {
+      "id": "kocaeli_cizlama",
+      "name": "Cızlama",
+      "category": "Aperatif",
+      "image": "/yemekler/kocaeli_cizlama_cizlama.jpg",
+      "history": "Un, süt, yumurta ve mayanın cıvık bir hamur haline getirilip, kızgın tavaya kepçeyle döküldüğünde üzerinde oluşan delikçiklerle (cızlayarak) pişen bir tür akıtmadır. Kandıra köylerinde kahvaltıların vazgeçilmezidir."
+    },
+    {
+      "id": "kocaeli_kocaeli_simidi_kandira_simidi",
+      "name": "Kocaeli Simidi (Kandıra Simidi)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kocaeli_kocaeli_simidi_kandira_simidi_kocaeli_simidi_kandira_simidi.jpg",
+      "history": "Diğer simitlerden farkı, pekmezli suya batırılmadan, fırında uzun süre nar gibi kızarana kadar pişirilmesi ve susamının bol olmasıdır. İçi yumuşak dışı çıtır yapısı meşhurdur."
+    },
+    {
+      "id": "kocaeli_degirmendere_findigi",
+      "name": "Değirmendere Fındığı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kocaeli_degirmendere_findigi_degirmendere_findigi.jpg",
+      "history": "Kocaeli'nin körfez bölgesinde yetişen, ince kabuğu ve yüksek yağ oranıyla dünyaca ünlü, lezzetiyle mutfaklarda ana malzeme olan tescilli bir fındıktır; özellikle tatlılara ve keklere ayrı bir aroma katar."
+    },
+    {
+      "id": "kocaeli_i̇zmit_pismaniyesi",
+      "name": "İzmit Pişmaniyesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kocaeli_i̇zmit_pismaniyesi_izmit_pismaniyesi.jpg",
+      "history": "Kavrulmuş un ve ağda haline getirilmiş şekerin, ustalar tarafından dev tepsilerde çekilerek tel tel hale getirilmesiyle yapılan, İran kökenli \"pashmak\" tatlısının İzmit'te 17. yüzyıldan itibaren mükemmelleştirilen halidir."
+    }
+  ]
+}

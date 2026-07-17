@@ -1,0 +1,44 @@
+{
+  "id": "mersin",
+  "il_adi": "Mersin",
+  "title": "Akdeniz'in Liman Şehri",
+  "unsplash_query": "mersin kizkalesi landscape",
+  "image": "/sehirler/mersin.jpg",
+  "yemekler": [
+    {
+      "id": "mersin_tantuni",
+      "name": "Tantuni",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/mersin_tantuni_tantuni.jpg",
+      "history": "Dana etinin (genellikle tranç kısmı) veya kuzu etinin zar büyüklüğünde doğranıp haşlandıktan sonra, özel ortası çukur sac tavalarda pamuk yağı, toz biber ve et suyu serpilerek hızla kavrulması, sumaklı soğan ve maydanozla lavaşa sarılmasıdır. Arap ve Türkmen göçebelerin Mersin limanındaki işçiler için geliştirdiği ikonik bir sokak yemeğidir."
+    },
+    {
+      "id": "mersin_batirik",
+      "name": "Batırık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mersin_batirik_batirik.jpg",
+      "history": "İnce bulgur, tahin (veya kavrulmuş yer fıstığı), domates, biber salçası ve ince kıyılmış yeşilliklerin yoğrulmasıyla yapılır. Kısırın sulu hali gibidir; yaz aylarında içine soğuk su ve buz katılarak çorba gibi kaşıklanır. Torosların sıcağında ferahlatıcı bir besindir."
+    },
+    {
+      "id": "mersin_tarsus_kebabi",
+      "name": "Tarsus Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mersin_tarsus_kebabi_tarsus_kebabi.jpg",
+      "history": "Adana kebabına çok benzer ancak içine mutlaka ince doğranmış soğan katılmasıyla ondan ayrılır. Yine zırhla çekilir, kuyruk yağı içerir ve yassı şişlerde pişirilir."
+    },
+    {
+      "id": "mersin_cezerye",
+      "name": "Cezerye",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mersin_cezerye_cezerye.jpg",
+      "history": "Mersin havuçlarının saatlerce kaynatılıp püre haline getirildikten sonra toz şeker, karanfil, tarçın ve bol ceviz (veya fıstık) ile macun kıvamına gelene dek pişirilip, soğutulduktan sonra Hindistan cevizine bulanmasıyla yapılır. Tarihi bir Arap-Akdeniz tatlısıdır."
+    },
+    {
+      "id": "mersin_kerebic",
+      "name": "Kerebiç",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mersin_kerebic_kerebic.jpg",
+      "history": "İrmik ve yağ ile hazırlanan kurabiye hamurunun içine ceviz veya Antep fıstığı doldurulup pişirilmesi ve üzerine çöven otu kökünün saatlerce çırpılmasıyla elde edilen beyaz, köpük gibi şanti (kaymak) dökülerek yenmesidir. Ramazan aylarının en meşhur Mersin tatlısıdır."
+    }
+  ]
+}

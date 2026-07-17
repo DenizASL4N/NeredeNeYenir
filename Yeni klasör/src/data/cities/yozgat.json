@@ -1,0 +1,44 @@
+{
+  "id": "yozgat",
+  "il_adi": "Yozgat",
+  "title": "Çamlık Milli Parkı ve Saat Kulesi",
+  "unsplash_query": "yozgat camlik milli parki",
+  "image": "/sehirler/yozgat.jpg",
+  "yemekler": [
+    {
+      "id": "yozgat_testi_kebabi",
+      "name": "Testi Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yozgat_testi_kebabi_testi_kebabi.jpg",
+      "history": "Nevşehir ile benzerlik gösterse de Yozgat'ın (özellikle Akdağmadeni çevresi) kendi özel testi kebabı, tandırda pişirilen etin suyuyla özleşen sebzelerin aromasıyla çok farklıdır."
+    },
+    {
+      "id": "yozgat_arabasi",
+      "name": "Arabaşı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yozgat_arabasi_arabasi.jpg",
+      "history": "Tavuk suyuyla hazırlanan, yanında \"hamur\" ile birlikte tüketilen, sadece soğuk kış gecelerinde topluca (eş-dost ile) yenen, hamurun yutulmasıyla meşhur çok özel bir ritüel yemeğidir."
+    },
+    {
+      "id": "yozgat_yozgat_boregi",
+      "name": "Yozgat Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yozgat_yozgat_boregi_yozgat_boregi.jpg",
+      "history": "İnce hamur bezelerinin arasına kıyma ve soğan konulup tepside fırınlanmasıyla yapılan, yöresel bir hamur işidir."
+    },
+    {
+      "id": "yozgat_cedeneli_kavurga",
+      "name": "Çedeneli Kavurga",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yozgat_cedeneli_kavurga_cedeneli_kavurga.jpg",
+      "history": "Yozgat'ta yetişen çedene (menengiç) bitkisinin tohumlarının, buğday ile birlikte kavrulmasıyla yapılan, kış gecelerinde çay eşliğinde yenen çok eski bir çerezdir."
+    },
+    {
+      "id": "yozgat_i̇ncir_uyutmasi",
+      "name": "İncir Uyutması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/yozgat_i̇ncir_uyutmasi_incir_uyutmasi.htm",
+      "history": "Yozgat evlerinde, taze süt ve incirin sıcak bir ortamda bekletilerek yoğurt kıvamına gelmesiyle yapılan, tamamen doğal ve hafif bir tatlıdır."
+    }
+  ]
+}

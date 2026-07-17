@@ -1,0 +1,44 @@
+{
+  "id": "istanbul",
+  "il_adi": "İstanbul",
+  "title": "İki Kıtayı Birleştiren Metropol",
+  "unsplash_query": "istanbul bosphorus bridge landscape",
+  "image": "/sehirler/istanbul.jpg",
+  "yemekler": [
+    {
+      "id": "istanbul_sultanahmet_koftesi",
+      "name": "Sultanahmet Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/istanbul_sultanahmet_koftesi_sultanahmet_koftesi.jpg",
+      "history": "%100 dana kıyması, çok az ekmek içi, kuru soğan ve tuz kullanılarak, baharatsız hazırlanan ızgara köftedir. 1920'lerde Balkan göçmeni bir aile tarafından İstanbul mutfağına kazandırılmış, kentin en meşhur tarihi yarımada lezzetidir."
+    },
+    {
+      "id": "istanbul_suleymaniye_kurufasulyesi",
+      "name": "Süleymaniye Kurufasulyesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/istanbul_suleymaniye_kurufasulyesi_suleymaniye_kurufasulyesi.jpg",
+      "history": "Dermason cinsi fasulyelerin kalaylı bakır tencerelerde, kemik suyu ve tereyağı ile taş fırınlarda saatlerce ağır ağır helmelenerek pişirilmesidir. Süleymaniye Camii etrafındaki esnafın yarattığı bir İstanbul klasiğidir."
+    },
+    {
+      "id": "istanbul_kanlica_yogurdu",
+      "name": "Kanlıca Yoğurdu",
+      "category": "Ana Yemek",
+      "image": "/yemekler/istanbul_kanlica_yogurdu_kanlica_yogurdu.jpg",
+      "history": "Manda ve inek sütünün karışımıyla özel maya kullanılarak üretilen, üzerinde kalın bir kaymak tabakası bulunan pembemsi tarihi yoğurttur. Üzerine pudra şekeri dökülerek yenmesi, 19. yüzyıldan beri süregelen bir Boğaziçi yalı ritüelidir."
+    },
+    {
+      "id": "istanbul_sariyer_boregi",
+      "name": "Sarıyer Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/istanbul_sariyer_boregi_sariyer_boregi.jpg",
+      "history": "Zar inceliğinde açılan mayasız hamurun içine kavrulmuş kıyma, çam fıstığı, kuş üzümü, karabiber ve yenibahar konularak \"U\" şeklinde kol böreği olarak sarılıp fırınlanmasıdır. Osmanlı payitahtının zengin baharat kullanımının hamur işine yansımasıdır."
+    },
+    {
+      "id": "istanbul_vefa_bozasi",
+      "name": "Vefa Bozası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/istanbul_vefa_bozasi_vefa_bozasi.jpg",
+      "history": "Darı irmiği, su ve şekerin fermantasyonu ile üretilen, hafif mayhoş, koyu kıvamlı bir kış içeceğidir. Üzerine tarçın ve sarı leblebi dökülerek içilir. 1876'da Vefa semtinde standartlaşan, İstanbul'un kış gecelerinin nostaljik simgesidir."
+    }
+  ]
+}

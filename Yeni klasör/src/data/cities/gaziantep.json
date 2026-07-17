@@ -1,0 +1,44 @@
+{
+  "id": "gaziantep",
+  "il_adi": "Gaziantep",
+  "title": "Gastronominin Başkenti",
+  "unsplash_query": "gaziantep castle landscape",
+  "image": "/sehirler/gaziantep.jpg",
+  "yemekler": [
+    {
+      "id": "gaziantep_beyran",
+      "name": "Beyran",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gaziantep_beyran_beyran.jpg",
+      "history": "Önceden 12 saat kısık ateşte haşlanan kuzu incik etinin kemikten ayrılıp, bakır sahanlarda pirinç, yoğun et suyu, bol sarımsak, kırmızı pul biber ve kuzu iç yağı ile harlı ateşte tek porsiyonluk olarak fokurdatılmasıdır. Antep esnafının sabah erken saatte güne enerjik başlamak için içtiği \"ateş gibi\" bir çorbadır."
+    },
+    {
+      "id": "gaziantep_ali_nazik",
+      "name": "Ali Nazik",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gaziantep_ali_nazik_ali_nazik.jpg",
+      "history": "Közlenmiş patlıcanların dövülmüş sarımsak ve süzme yoğurtla karıştırılıp yatak yapılması, üzerine zırhta çekilmiş, baharatla kavrulmuş kuzu kıymasının (veya kuşbaşının) oturtulmasıdır. Rivayete göre Yavuz Sultan Selim'in yediğinde \"Hangi eli nazik yaptı bunu?\" diyerek ismini verdiği imparatorluk lezzetidir."
+    },
+    {
+      "id": "gaziantep_yuvalama_yuvalca",
+      "name": "Yuvalama (Yuvalça)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gaziantep_yuvalama_yuvalca_yuvalama_yuvalca.jpg",
+      "history": "Pirinç unu, yağsız kıyma ve karabiberin yoğrulup nohut büyüklüğünde binlerce adet top haline getirilmesi, ardından et parçaları, nohut ve süzme yoğurtlu-naneli sosla kaynatılarak sunulmasıdır. Çok zahmetli olduğu için Antep'te Ramazan Bayramı sabahtarı imece usulü yapılan en prestijli yemektir."
+    },
+    {
+      "id": "gaziantep_antep_baklavasi",
+      "name": "Antep Baklavası",
+      "category": "Tatlı",
+      "image": "/yemekler/gaziantep_antep_baklavasi_antep_baklavasi.jpg",
+      "history": "40 kat incecik yufkanın arasına bölgenin yeşil altın olarak bilinen \"Boz İç\" fıstığının ve Şanlıurfa sade yağının döşenip meşe odunu yanan taş fırınlarda pişirilmesidir. AB tarafından da coğrafi işaret almış bir Türk gastronomisi zirvesidir."
+    },
+    {
+      "id": "gaziantep_katmer",
+      "name": "Katmer",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gaziantep_katmer_katmer.jpg",
+      "history": "Zar inceliğinde açılan hamurun ortasına yoğun Antep fıstığı, şeker ve yöresel kaymak sürülüp mektup gibi kare katlanarak taş fırında pişirilmesidir. Antep'te düğün sonrası ilk sabah damada güç vermesi için yenmesi adet olan ikonik bir kahvaltılık tatlıdır."
+    }
+  ]
+}

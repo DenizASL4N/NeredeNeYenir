@@ -1,0 +1,44 @@
+{
+  "id": "kirikkale",
+  "il_adi": "Kırıkkale",
+  "title": "Silah Sanayisi ve Kızılırmak",
+  "unsplash_query": "kirikkale celal bayar parki",
+  "image": "/sehirler/kirikkale.jpg",
+  "yemekler": [
+    {
+      "id": "kirikkale_keskin_tavasi",
+      "name": "Keskin Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirikkale_keskin_tavasi_keskin_tavasi.jpg",
+      "history": "Kırıkkale'nin Keskin ilçesine özgü, kuzu eti, arpacık soğan, domates ve yeşil biberin toprak kaplarda, kendi suyu ve kuyruk yağı ile uzun süre fırınlanmasıyla yapılan ziyafet yemeğidir."
+    },
+    {
+      "id": "kirikkale_sizgit",
+      "name": "Sızgıt",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirikkale_sizgit_sizgit.jpg",
+      "history": "Bölge hayvancılığının bir ürünü olan etin, küçük parçalara doğranıp kendi yağıyla ağır ağır kavrulması ve dondurularak saklanması yöntemidir. Kışın kahvaltılarda yumurta ile tüketilir."
+    },
+    {
+      "id": "kirikkale_tuvalak",
+      "name": "Tuvalak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirikkale_tuvalak_tuvalak.jpg",
+      "history": "Küçük kıymalı köftelerin, nohut ve et suyuyla birlikte salçalı bir sos içerisinde pişirilmesiyle yapılan yöresel, besleyici bir tencere yemeğidir."
+    },
+    {
+      "id": "kirikkale_yogurtlu_tarhana",
+      "name": "Yoğurtlu Tarhana",
+      "category": "Meze",
+      "image": "/yemekler/kirikkale_yogurtlu_tarhana_yogurtlu_tarhana.jpg",
+      "history": "Kırıkkale'de tarhana, diğer yörelerden farklı olarak daha bol yoğurtlu hazırlanır ve pişirilirken içine haşlanmış nohut eklenerek daha doyurucu hale getirilir."
+    },
+    {
+      "id": "kirikkale_haside_tatlisi",
+      "name": "Haside Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/kirikkale_haside_tatlisi_haside_tatlisi.jpg",
+      "history": "Un, tereyağı ve pekmezin (veya şeker şerbetinin) ocakta sürekli karıştırılarak pişirilmesiyle elde edilen, yapımı oldukça kolay ama bir o kadar da geleneksel bir kış tatlısıdır."
+    }
+  ]
+}

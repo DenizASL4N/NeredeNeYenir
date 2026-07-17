@@ -1,0 +1,44 @@
+{
+  "id": "karaman",
+  "il_adi": "Karaman",
+  "title": "Türk Dilinin Başkenti",
+  "unsplash_query": "karaman kalesi",
+  "image": "/sehirler/karaman.jpg",
+  "yemekler": [
+    {
+      "id": "karaman_calli",
+      "name": "Callı",
+      "category": "Ana Yemek",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&auto=format&fit=crop&q=80",
+      "history": "Kuzu eti, domates, biber ve sarımsağın güveçte uzun süre pişirilmesiyle hazırlanan, bölgenin sevilen et yemeklerinden biridir."
+    },
+    {
+      "id": "karaman_arabasi",
+      "name": "Arabaşı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karaman_arabasi_arabasi.jpg",
+      "history": "Yozgat ile benzer şekilde; tavuk suyu ve özel bir hamur ile yapılan, soğuk havalarda toplu olarak yenen, Karaman'ın da sahiplendiği bir geleneksel yemektir."
+    },
+    {
+      "id": "karaman_guymak",
+      "name": "Guymak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karaman_guymak_guymak.jpg",
+      "history": "Mısır unu ve tereyağının peynirle harmanlanması, bölgenin kahvaltı ve öğle yemeklerinde sıkça tüketilen bir lezzettir."
+    },
+    {
+      "id": "karaman_batirik",
+      "name": "Batırık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/karaman_batirik_batirik.jpg",
+      "history": "İnce bulgur, tahin ve sebzelerin yoğrulmasıyla yapılan; Karaman'da da sıkça tüketilen, yazın soğuk suyla çorba gibi içilen yöresel bir besindir."
+    },
+    {
+      "id": "karaman_zerde_tatlisi",
+      "name": "Zerde Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/karaman_zerde_tatlisi_zerde_tatlisi.jpg",
+      "history": "Pirincin safran (veya zerdeçal) ile renklendirilip şekerle pişirilmesiyle yapılan, düğünlerde ve mevlütlerde ikram edilen geleneksel bir sütlü tatlıdır."
+    }
+  ]
+}

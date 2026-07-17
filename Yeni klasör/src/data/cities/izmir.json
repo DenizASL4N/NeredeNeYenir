@@ -1,0 +1,44 @@
+{
+  "id": "izmir",
+  "il_adi": "İzmir",
+  "title": "Ege'nin Modern ve Tarihi Sentezi",
+  "unsplash_query": "izmir saat kulesi landscape",
+  "image": "/sehirler/izmir.jpg",
+  "yemekler": [
+    {
+      "id": "izmir_i̇zmir_kofte",
+      "name": "İzmir Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/izmir_i̇zmir_kofte_izmir_kofte.jpg",
+      "history": "Kıyma, ekmek, soğan ve kimyonla yoğrulan uzun köftelerin, elma dilim patateslerle birlikte hafifçe kızartıldıktan sonra salçalı ve domatesli sos içinde fırınlanmasıdır. Ege otları dışındaki en meşhur geleneksel İzmir ev ve esnaf lokantası yemeğidir."
+    },
+    {
+      "id": "izmir_kumru",
+      "name": "Kumru",
+      "category": "Aperatif",
+      "image": "/yemekler/izmir_kumru_kumru.jpg",
+      "history": "İzmir'e has nohut mayalı, üzeri bol susamlı, kuş gövdesine benzeyen özel ekmeğin içine kömürde kızarmış kasap sucuk, sosis, salam, erimiş İzmir tulum peyniri ve domates konularak yapılan efsanevi sokak lezzetidir."
+    },
+    {
+      "id": "izmir_boyoz",
+      "name": "Boyoz",
+      "category": "Aperatif",
+      "image": "/yemekler/izmir_boyoz_boyoz.jpg",
+      "history": "Un, tuz, su ve bol sıvıyağ ile kat kat açılıp rulo yapıldıktan sonra iki saat dinlendirilen ve fırınlanan, hiç maya içermeyen yuvarlak hamur işidir. 1492'de İspanya'dan İzmir'e göç eden Sefarad Yahudilerinin kente bıraktığı en büyük mirastır; yanında fırınlanmış katı yumurta ile yenir."
+    },
+    {
+      "id": "izmir_sambali_sambaba_tatlisi",
+      "name": "Şambali (Şambaba) Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/izmir_sambali_sambaba_tatlisi_sambali_sambaba_tatlisi.jpg",
+      "history": "İrmik, şeker, yoğurt (veya süt) karışımının un ve yumurta kullanılmadan tepsiye dökülüp, üzeri badem veya yer fıstığı ile süslenerek fırınlanması ve yoğun şerbet dökülmesiyle yapılır. İzmir sokaklarında camekanlı arabalarda satılan meşhur ayaküstü tatlısıdır."
+    },
+    {
+      "id": "izmir_i̇zmir_lokmasi",
+      "name": "İzmir Lokması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/izmir_i̇zmir_lokmasi_izmir_lokmasi.jpg",
+      "history": "Mayalı ve cıvık bir hamurun ortası delik yuvarlaklar halinde kızgın yağa dökülüp çıtır çıtır kızartılması ve soğuk şerbete atılmasıdır. İzmir'de bir ölüm, kutlama veya adak durumunda sokaklarda halka ücretsiz dağıtılması yüz yıllık bir dayanışma geleneğidir."
+    }
+  ]
+}

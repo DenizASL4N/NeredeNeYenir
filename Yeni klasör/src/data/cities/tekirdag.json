@@ -1,0 +1,44 @@
+{
+  "id": "tekirdag",
+  "il_adi": "Tekirdağ",
+  "title": "Bağ Rotaları ve Köfte Şehri",
+  "unsplash_query": "tekirdag ucmakdere landscape",
+  "image": "/sehirler/tekirdag.jpg",
+  "yemekler": [
+    {
+      "id": "tekirdag_tekirdag_koftesi",
+      "name": "Tekirdağ Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tekirdag_tekirdag_koftesi_tekirdag_koftesi.jpg",
+      "history": "Dana eti, soğan, ekmek ve kimyonla hazırlanan, ızgarada pişen ve yanına mutlaka \"acılı sos\" (biber salçası ve acı sos karışımı) ile sunulan, Trakya'nın en meşhur lezzetidir."
+    },
+    {
+      "id": "tekirdag_ciger_sarma",
+      "name": "Ciğer Sarma",
+      "category": "Aperatif",
+      "image": "/yemekler/tekirdag_ciger_sarma_ciger_sarma.htm",
+      "history": "Kuzu ciğerinin pirinç, soğan, fıstık ve kuş üzümüyle iç pilav haline getirilip, kuzu gömleğine (zar) sarılarak fırınlanmasıdır."
+    },
+    {
+      "id": "tekirdag_cizleme",
+      "name": "Cizleme",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tekirdag_cizleme_cizleme.jpg",
+      "history": "Mayalı hamurun tavaya döküldüğünde üzerinde delikler oluşmasıyla pişirilen (gözleme gibi), Balkan göçmenlerinin kahvaltıda tereyağıyla tükettiği bir hamur işidir."
+    },
+    {
+      "id": "tekirdag_bulama",
+      "name": "Bulama",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tekirdag_bulama_bulama.jpg",
+      "history": "Üzüm pekmezinin özel yöntemlerle çırpılarak ağda kıvamına getirilmesi ve kışın kahvaltılarda tüketilen geleneksel bir enerji kaynağıdır."
+    },
+    {
+      "id": "tekirdag_peynir_helvasi",
+      "name": "Peynir Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/tekirdag_peynir_helvasi_peynir_helvasi.jpg",
+      "history": "Trakya'nın taze tuzsuz peynirlerinin irmik ve şekerle kavrulmasıyla yapılan, bölgenin en popüler tatlılarından biridir."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "manisa",
+  "il_adi": "Manisa",
+  "title": "Spil Dağı ve Mesir Şehri",
+  "unsplash_query": "manisa spil dagi landscape",
+  "image": "/sehirler/manisa.jpg",
+  "yemekler": [
+    {
+      "id": "manisa_manisa_kebabi",
+      "name": "Manisa Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/manisa_manisa_kebabi_manisa_kebabi.jpg",
+      "history": "Manisa'nın meşhur köftesinin, domatesli soslu pidelere serilmesi, üzerine ızgara biber ve yoğurt eklenmesiyle yapılan, İskender kebabın Ege yorumudur."
+    },
+    {
+      "id": "manisa_odun_kofte",
+      "name": "Odun Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/manisa_odun_kofte_odun_kofte.jpg",
+      "history": "Köftelerin hiçbir katkı maddesi olmadan, sadece dana eti ve tuzla yoğrulup meşe odunu közünde ızgara edilmesiyle yapılır. Manisa'nın asırlık köfteci esnafının en büyük özelliğidir."
+    },
+    {
+      "id": "manisa_kula_guveci",
+      "name": "Kula Güveci",
+      "category": "Ana Yemek",
+      "image": "/yemekler/manisa_kula_guveci_kula_guveci.jpg",
+      "history": "Manisa'nın Kula ilçesine özgü, uzun süre toprak kaplarda pişirilen et ve sebze güveci; bölgenin hayvancılık kültürünün bir yansımasıdır."
+    },
+    {
+      "id": "manisa_sekerli_pide",
+      "name": "Şekerli Pide",
+      "category": "Tatlı",
+      "image": "/yemekler/manisa_sekerli_pide_sekerli_pide.jpg",
+      "history": "Manisa'nın köklü fırınlarında hazırlanan, içerisine şeker ve tarçın konulup fırınlanan, üzerine bolca pudra şekeri dökülen sıcak bir tatlı pidedir."
+    },
+    {
+      "id": "manisa_mesir_macunu",
+      "name": "Mesir Macunu",
+      "category": "Tatlı",
+      "image": "/yemekler/manisa_mesir_macunu_mesir_macunu.jpg",
+      "history": "41 çeşit baharat, şifalı otlar ve balın macun kıvamına gelene dek kaynatılmasıyla üretilir. Kanuni Sultan Süleyman'ın annesi Hafsa Sultan'ın hastalığı için yaptırıldığı, Yavuz Sultan Selim döneminden kalma tarihi ve şifalı bir macundur."
+    }
+  ]
+}

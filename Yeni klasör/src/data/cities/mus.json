@@ -1,0 +1,44 @@
+{
+  "id": "mus",
+  "il_adi": "Muş",
+  "title": "Malazgirt Ovası ve Tarih",
+  "unsplash_query": "mus ovasi landscape",
+  "image": "/sehirler/mus.jpg",
+  "yemekler": [
+    {
+      "id": "mus_mus_koftesi",
+      "name": "Muş Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mus_mus_koftesi_mus_koftesi.jpg",
+      "history": "İnce bulgur ve kıymanın yoğrulup ceviz büyüklüğünde toplar haline getirilmesi, et suyu ve nohutla haşlanmasıyla yapılan, doğu mutfağının temel lezzetlerinden biridir."
+    },
+    {
+      "id": "mus_hez_dolmasi",
+      "name": "Hez Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/mus_hez_dolmasi_hez_dolmasi.jpg",
+      "history": "Muş'un yöresel lahanasıyla (hez) yapılan, içi bulgur ve etle doldurulmuş zeytinyağlı/etli bir sarma türüdür."
+    },
+    {
+      "id": "mus_corti",
+      "name": "Çorti",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mus_corti_corti.jpg",
+      "history": "Lahana ve sebzelerin turşu gibi kurulup, sonrasında etle birlikte haşlanarak pişirilmesiyle yapılan, bölgeye özgü ekşili ve çok sağlıklı bir kış yemeğidir."
+    },
+    {
+      "id": "mus_kircikli_kelem_dolmasi",
+      "name": "Kırçıklı Kelem Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/mus_kircikli_kelem_dolmasi_kircikli_kelem_dolmasi.jpg",
+      "history": "Özellikle kışın hazırlanan, baharatı ve eti bol, lahananın en lezzetli haliyle sunulduğu yöresel bir sarmadır."
+    },
+    {
+      "id": "mus_mirtoge",
+      "name": "Mırtöge",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mus_mirtoge_mirtoge.jpg",
+      "history": "Un ve tereyağının kavrulup üzerine yumurta kırılmasıyla yapılan, kahvaltıların vazgeçilmezi olan çok pratik bir Muş lezzetidir."
+    }
+  ]
+}

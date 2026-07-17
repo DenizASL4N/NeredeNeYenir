@@ -1,0 +1,44 @@
+{
+  "id": "igdir",
+  "il_adi": "Iğdır",
+  "title": "Aralık Ovası ve Kayısı",
+  "unsplash_query": "igdir suveren landscape",
+  "image": "/sehirler/igdir.jpg",
+  "yemekler": [
+    {
+      "id": "igdir_bozbas_piti",
+      "name": "Bozbaş (Piti)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/igdir_bozbas_piti_bozbas_piti.jpg",
+      "history": "Kuzu etinin, nohut ve sarıkök (zerdeçal) ile toprak kaplarda ağır ağır pişirilmesi; sunumda suyunun ekmekle, etin ise ezilerek yenmesiyle meşhurdur."
+    },
+    {
+      "id": "igdir_tas_kofte",
+      "name": "Taş Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/igdir_tas_kofte_tas_kofte.jpg",
+      "history": "Etin, taş üzerinde tokmakla dövülerek macun kıvamına getirilmesi ve ardından yumurta, bulgur ile karıştırılıp haşlanmasıyla yapılan iri, doyurucu bir köftedir."
+    },
+    {
+      "id": "igdir_lepeli_etli_pilav",
+      "name": "Lepeli Etli Pilav",
+      "category": "Ana Yemek",
+      "image": "/yemekler/igdir_lepeli_etli_pilav_lepeli_etli_pilav.jpg",
+      "history": "Iğdır'ın meşhur \"lepe\"si (bölgeye özgü bir tür bölünmüş nohut/mercimek) ile yapılan, içine kuşbaşı et ve safran eklenen zengin bir pilavdır."
+    },
+    {
+      "id": "igdir_kuymak",
+      "name": "Kuymak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/igdir_kuymak_kuymak.jpg",
+      "history": "Iğdır'da da Karadeniz etkisiyle mısır unu, tereyağı ve peynirle yapılır, ancak yöresel peynir türleri sayesinde daha farklı bir aromaya sahiptir."
+    },
+    {
+      "id": "igdir_omac_helvasi",
+      "name": "Omaç Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/igdir_omac_helvasi_omac_helvasi.jpg",
+      "history": "Unun tereyağında kavrulup üzerine sıcak su ve şeker eklenerek yapılan, çok hızlı hazırlanan geleneksel bir tatlıdır."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "kilis",
+  "il_adi": "Kilis",
+  "title": "Zeytin ve Horoz Karası",
+  "unsplash_query": "kilis ravanda kalesi",
+  "image": "/sehirler/kilis.jpg",
+  "yemekler": [
+    {
+      "id": "kilis_kilis_tavasi",
+      "name": "Kilis Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kilis_kilis_tavasi_kilis_tavasi.jpg",
+      "history": "Kıyma, biber, domates ve sarımsakların tepside birleştirilip, üzerine \"kuyruk yağı\" konularak fırınlanmasıyla yapılır. Gaziantep tavasına benzer ama Kilis'e özgü baharat karışımı onu farklı kılar."
+    },
+    {
+      "id": "kilis_oruk",
+      "name": "Oruk",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kilis_oruk_oruk.jpg",
+      "history": "İçli köftenin Kilis usulüdür; genellikle daha yuvarlak ve çok daha baharatlı/cevizli yapılır."
+    },
+    {
+      "id": "kilis_sihilmahsi",
+      "name": "Şıhılmahşi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kilis_sihilmahsi_sihilmahsi.jpg",
+      "history": "Küçük kabakların içlerinin kıyma ve nohut ile doldurulup, sarımsaklı yoğurt ile servis edildiği, Kilis mutfağının en asil sebze yemeklerinden biridir."
+    },
+    {
+      "id": "kilis_gerebic",
+      "name": "Gerebiç",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kilis_gerebic_gerebic.jpg",
+      "history": "İrmik ve yağla hazırlanan kurabiyenin içine fıstık veya ceviz konularak yapılmasıdır; Mersin kerebiçine benzer ama şerbetsiz, sadece pudra şekerli servis edilir."
+    },
+    {
+      "id": "kilis_cennet_camuru",
+      "name": "Cennet Çamuru",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kilis_cennet_camuru_cennet_camuru.jpg",
+      "history": "Fıstık, tereyağı ve şerbetin ağır ateşte kavrulup birbirine yedirilmesiyle yapılan, görünümü ve tadı ile gerçek bir \"fıstık şöleni\" olan tatlıdır."
+    }
+  ]
+}

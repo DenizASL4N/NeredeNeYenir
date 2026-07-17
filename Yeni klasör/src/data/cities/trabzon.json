@@ -1,0 +1,44 @@
+{
+  "id": "trabzon",
+  "il_adi": "Trabzon",
+  "title": "Sümela'nın Gizemli Ormanları",
+  "unsplash_query": "trabzon sumela manastiri landscape",
+  "image": "/sehirler/trabzon.jpg",
+  "yemekler": [
+    {
+      "id": "trabzon_akcaabat_koftesi",
+      "name": "Akçaabat Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/trabzon_akcaabat_koftesi_akcaabat_koftesi.jpg",
+      "history": "%100 dana etinin, içine sadece sarımsak ve ekmek katılarak yoğurulmasıyla yapılır. Akçaabat ilçesindeki ızgara kültürünün bir parçasıdır; etin aromasını bozacak baharat kullanılmaması en büyük özelliğidir."
+    },
+    {
+      "id": "trabzon_kuymak",
+      "name": "Kuymak",
+      "category": "Ana Yemek",
+      "image": "/yemekler/trabzon_kuymak_kuymak.jpg",
+      "history": "Mısır unu, tereyağı ve bölgenin özel kolot peyniri ile yapılır. Trabzon'da mısır ununun ve peynirin kaliteli olması, kuymak yapımının püf noktasıdır. Karadeniz kahvaltısının vazgeçilmezidir."
+    },
+    {
+      "id": "trabzon_karalahana_corbasi",
+      "name": "Karalahana Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/trabzon_karalahana_corbasi_karalahana_corbasi.jpg",
+      "history": "Karalahananın çok ince kıyılması, mısır yarması, barbunya ve iç yağıyla uzun süre pişirilmesiyle yapılır. Bölgenin en temel ve kadim çorbasıdır."
+    },
+    {
+      "id": "trabzon_hamsikoy_sutlaci",
+      "name": "Hamsiköy Sütlacı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/trabzon_hamsikoy_sutlaci_hamsikoy_sutlaci.jpg",
+      "history": "Trabzon'un Hamsiköy bölgesinde yetişen ineklerin sütünün, pirinç ve şekerle ağır ağır (kısık ateşte) pişirilmesiyle yapılan, üzerinde çok hafif bir karamelize tabaka oluşana kadar fırınlanan, gerçek süt kokulu bir tatlıdır."
+    },
+    {
+      "id": "trabzon_laz_boregi",
+      "name": "Laz Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/trabzon_laz_boregi_laz_boregi.jpg",
+      "history": "İnce açılmış onlarca kat yufkanın arasına, bol karabiberli bir muhallebi karışımının konulup fırınlanması ve şerbetlenmesiyle yapılır. Karadeniz'in meşhur tuzlu-tatlı kontrastını barındıran şerbetli tatlısıdır."
+    }
+  ]
+}

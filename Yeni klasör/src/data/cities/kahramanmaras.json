@@ -1,0 +1,44 @@
+{
+  "id": "kahramanmaras",
+  "il_adi": "Kahramanmaraş",
+  "title": "İstiklal ve Dondurma Şehri",
+  "unsplash_query": "kahramanmaras ulu cami",
+  "image": "/sehirler/kahramanmaras.jpg",
+  "yemekler": [
+    {
+      "id": "kahramanmaras_maras_pacasi",
+      "name": "Maraş Paçası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kahramanmaras_maras_pacasi_maras_pacasi.jpg",
+      "history": "Kuzu kellesi ve ayaklarının uzun süre haşlanıp etlerinin ayıklanması, üzerine sarımsak, bol pul biber ve tereyağı dökülerek servis edilmesiyle yapılan, kış aylarının şifa deposu bir yemektir."
+    },
+    {
+      "id": "kahramanmaras_eli_bogrunde",
+      "name": "Eli Böğründe",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kahramanmaras_eli_bogrunde_eli_bogrunde.jpg",
+      "history": "Kuzu kuşbaşı etlerin, domateslerin, sivri biberlerin ve sarımsakların tepsiye yan yana (böğür böğüre) dizilip, üzerine kuyruk yağı parçaları konularak fırınlanmasıyla yapılan, malzemelerin kendi suyunda piştiği bir lezzettir."
+    },
+    {
+      "id": "kahramanmaras_tarhana_corbasi",
+      "name": "Tarhana Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/kahramanmaras_tarhana_corbasi_tarhana_corbasi.jpg",
+      "history": "Maraş tarhanası yoğurt ve döğmenin (buğday) pişirilip kurutulmasıyla elde edilir. Diğer şehirlerdeki gibi toz değil, cips benzeri kıtır haldedir; bu haliyle kuruyemiş gibi de yenir, çorba yapıldığında eşsiz bir lezzete dönüşür."
+    },
+    {
+      "id": "kahramanmaras_ravanda_serbeti",
+      "name": "Ravanda Şerbeti",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kahramanmaras_ravanda_serbeti_ravanda_serbeti.jpg",
+      "history": "Maraş'ın üzüm bağlarından elde edilen şıranın, çeşitli meyvelerle harmanlanıp ferahlatıcı bir içecek haline getirilmesiyle yapılır."
+    },
+    {
+      "id": "kahramanmaras_maras_dondurmasi",
+      "name": "Maraş Dondurması",
+      "category": "Tatlı",
+      "image": "/yemekler/kahramanmaras_maras_dondurmasi_maras_dondurmasi.jpg",
+      "history": "Keçi sütü ve salep bitkisinin kökünün, Maraş'ın dağlarından gelen özel bir teknikle saatlerce dövülerek sakız kıvamına getirilmesiyle elde edilir. Osmanlı saray mutfağından bugüne ulaşan tescilli bir dondurmadır."
+    }
+  ]
+}

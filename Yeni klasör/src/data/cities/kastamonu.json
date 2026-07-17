@@ -1,0 +1,44 @@
+{
+  "id": "kastamonu",
+  "il_adi": "Kastamonu",
+  "title": "Kanyonlar ve Tarih Şehri",
+  "unsplash_query": "kastamonu valla kanyonu",
+  "image": "/sehirler/kastamonu.jpg",
+  "yemekler": [
+    {
+      "id": "kastamonu_kuyu_kebabi_biryan_kebabi",
+      "name": "Kuyu Kebabı (Biryan Kebabı)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kastamonu_kuyu_kebabi_biryan_kebabi_kuyu_kebabi_biryan_kebabi.jpg",
+      "history": "Kışın beslenen kuzuların bahar aylarında kesilerek, içi tuğla örülü derin kuyularda, çam çırası ateşinin buharıyla hiç su değmeden, kapakları çamurla sıvanarak 2-3 saat pişirilmesidir. Kastamonu dağlarının göçebe obalarından kalma en eski et pişirme tekniğidir."
+    },
+    {
+      "id": "kastamonu_banduma_islama",
+      "name": "Banduma (Islama)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kastamonu_banduma_islama_banduma_islama.jpg",
+      "history": "Tepsiye döşenmiş ince siron (yufka) rulolarının hakiki hindi (veya tavuk) suyuyla ıslatılması, aralarına ve üzerine dövülmüş Kastamonu cevizi ile tiftiklenmiş hindi eti dökülmesiyle yapılır. Kış akşamlarının en gösterişli misafir yemeğidir."
+    },
+    {
+      "id": "kastamonu_etli_ekmek",
+      "name": "Etli Ekmek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kastamonu_etli_ekmek_etli_ekmek.jpg",
+      "history": "Kastamonu etli ekmeği Konya'dakinden farklıdır; çok ince açılmış büyük yuvarlak yufkanın bir yarısına kavrulmamış soğanlı ve baharatlı çiğ kıyma yayılıp, yarım ay şeklinde kapatılarak odun ateşindeki sac üzerinde pişirilir ve bol tereyağlanır."
+    },
+    {
+      "id": "kastamonu_simit_tiridi",
+      "name": "Simit Tiridi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kastamonu_simit_tiridi_simit_tiridi.jpg",
+      "history": "Susamsız yapılan \"Kastamonu Kel Simidi\"nin bayatladıktan sonra el ile parçalanıp, kaynayan kemik veya et suyuyla yumuşatılması, üzerine kavrulmuş kıyma ve bol sarımsaklı süzme yoğurt eklenmesiyle yapılan muazzam bir israfı önleme yemeğidir."
+    },
+    {
+      "id": "kastamonu_cekme_helva",
+      "name": "Çekme Helva",
+      "category": "Tatlı",
+      "image": "/yemekler/kastamonu_cekme_helva_cekme_helva.jpg",
+      "history": "Kastamonu'nun meşhur ikramlığıdır; un ve tereyağının çok düşük ısıda uzun saatler kavrulup beyazlatılması, kaynar şeker ağdasıyla tel tel olana kadar insan gücüyle çekilip daha sonra küp küp preslenmesiyle yapılır."
+    }
+  ]
+}

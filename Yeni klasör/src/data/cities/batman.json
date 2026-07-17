@@ -1,0 +1,44 @@
+{
+  "id": "batman",
+  "il_adi": "Batman",
+  "title": "Hasankeyf'in Tarihi Mirası",
+  "unsplash_query": "batman hasankeyf landscape",
+  "image": "/sehirler/batman.jpg",
+  "yemekler": [
+    {
+      "id": "batman_sam_boregi",
+      "name": "Şam Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/batman_sam_boregi_sam_boregi.jpg",
+      "history": "İnce açılmış hamurun içine soğanlı, kıymalı ve baharatlı bir harcın konulup, yağda kızartılmasıyla yapılan; bölgenin Arap mutfağı ile etkileşimini gösteren çıtır bir börektir."
+    },
+    {
+      "id": "batman_mumbar",
+      "name": "Mumbar",
+      "category": "Ana Yemek",
+      "image": "/yemekler/batman_mumbar_mumbar.jpg",
+      "history": "Koyun bağırsaklarının temizlenip iç harcı (pirinç, kıyma, baharat) ile doldurulup, kendi suyuyla saatlerce haşlanmasıyla yapılır. Batman'da sakatat kültürünün en sevilen temsilcisidir."
+    },
+    {
+      "id": "batman_ayran_corbasi",
+      "name": "Ayran Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/batman_ayran_corbasi_ayran_corbasi.jpg",
+      "history": "İnce bulgur veya dövme buğdayın haşlanıp, soğutulmuş süzme yoğurt (ayran) ve taze nane ile karıştırılmasıyla yapılan, yaz aylarının ferahlatıcı yemeğidir."
+    },
+    {
+      "id": "batman_kaburga_dolmasi",
+      "name": "Kaburga Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/batman_kaburga_dolmasi_kaburga_dolmasi.jpg",
+      "history": "Kuzu kaburgasının, iç pilav (bademli, üzümlü) ile doldurulup ağır ateşte pişirilmesi, Batman'ın düğün sofralarının olmazsa olmazıdır."
+    },
+    {
+      "id": "batman_tandir_ekmegi",
+      "name": "Tandır Ekmeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/batman_tandir_ekmegi_tandir_ekmegi.jpg",
+      "history": "Batman'da ekmek, yerel tandırlarda uzun ve yassı formda pişirilir. Tandırın kendine has isli aroması, ekmeğin lezzetini başka bir boyuta taşır."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "duzce",
+  "il_adi": "Düzce",
+  "title": "Şelaleler ve Doğa Cenneti",
+  "unsplash_query": "duzce guzelce selalesi landscape",
+  "image": "/sehirler/duzce.jpg",
+  "yemekler": [
+    {
+      "id": "duzce_cerkez_tavugu",
+      "name": "Çerkez Tavuğu",
+      "category": "Ana Yemek",
+      "image": "/yemekler/duzce_cerkez_tavugu_cerkez_tavugu.webp",
+      "history": "Çerkezlerin bölgeye yerleşimiyle gelişen; haşlanmış tavuğun, ceviz, sarımsak ve bayat ekmek içiyle püre haline getirilip servis edildiği tarihi bir mezedir."
+    },
+    {
+      "id": "duzce_i̇sli_balik",
+      "name": "İsli Balık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/duzce_i̇sli_balik_isli_balik.jpg",
+      "history": "Düzce'nin derelerinden veya göllerinden tutulan balıkların, özel duman odalarında odun ateşiyle (islenerek) kurutulmasıdır."
+    },
+    {
+      "id": "duzce_haluj_cerkez_mantisi",
+      "name": "Haluj (Çerkez Mantısı)",
+      "category": "Aperatif",
+      "image": "/yemekler/duzce_haluj_cerkez_mantisi_haluj_cerkez_mantisi.jpg",
+      "history": "İnce açılmış hamurun içine peynir veya patates konulup, üzerine tereyağlı pul biberli sos dökülerek yenen Çerkez mantısıdır."
+    },
+    {
+      "id": "duzce_kiremitte_alabalik",
+      "name": "Kiremitte Alabalık",
+      "category": "Ana Yemek",
+      "image": "/yemekler/duzce_kiremitte_alabalik_kiremitte_alabalik.jpg",
+      "history": "Düzce'nin soğuk su kaynaklarında yetişen alabalıkların, tereyağı, domates ve biberle kiremit kaplarda fırınlanmasıdır."
+    },
+    {
+      "id": "duzce_melenguccegi_tatlisi",
+      "name": "Melengücceği Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/duzce_melenguccegi_tatlisi_melenguccegi_tatlisi.jpg",
+      "history": "Düzce'nin Akçakoca ilçesine özgü; 15 kat yufkanın arasına fındık konulup, kızartıldıktan sonra süt ve şeker şerbeti ile hazırlanan, tescilli bir yöresel tatlıdır."
+    }
+  ]
+}

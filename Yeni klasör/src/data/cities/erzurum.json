@@ -1,0 +1,44 @@
+{
+  "id": "erzurum",
+  "il_adi": "Erzurum",
+  "title": "Çifte Minarelerin Gölgesinde",
+  "unsplash_query": "erzurum palandoken landscape",
+  "image": "/sehirler/erzurum.jpg",
+  "yemekler": [
+    {
+      "id": "erzurum_cag_kebabi",
+      "name": "Cağ Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/erzurum_cag_kebabi_cag_kebabi.jpg",
+      "history": "Kuzu veya koyun etinin, yoğurt, soğan ve karabiberle terbiye edilip yatay bir şişe geçirilerek odun ateşinde çevrilmesi işlemidir. Pişen yüzeyler, \"cağ\" adı verilen küçük şişlere takılıp kesilerek servis edilir. Evliya Çelebi'nin de bahsettiği, Kıpçak Türkleri ve göçebe Yörük köklerine dayanan Erzurum'un simgesidir."
+    },
+    {
+      "id": "erzurum_asotu_corbasi",
+      "name": "Aşotu Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/erzurum_asotu_corbasi_asotu_corbasi.jpg",
+      "history": "Kişniş otunun yapraklarına bölgede \"aşotu\" denir. Aşurelik buğday (yarma), süzme yoğurt (ayran) ve aşotunun kaynatılmasıyla yapılan, üzerine küçük kavrulmuş kıyma parçaları eklenen ferahlatıcı bir şifa çorbasıdır."
+    },
+    {
+      "id": "erzurum_su_boregi",
+      "name": "Su Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/erzurum_su_boregi_su_boregi.jpg",
+      "history": "Erzurum su böreği coğrafi işaretlidir; diğer yörelerden farkı, haşlanan yufkaların arasına Erzurum'a özgü sivil (tel) peynir ve maydanoz konması, en üstüne de bol tereyağı sürülerek ağır ateşte alt üst edilerek pişirilmesidir. Peynir eriyip uzar."
+    },
+    {
+      "id": "erzurum_ciris_yemegi",
+      "name": "Çiriş Yemeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/erzurum_ciris_yemegi_ciris_yemegi.jpg",
+      "history": "Karların erimesiyle yüksek dağlarda kendiliğinden çıkan sarı çiçekli \"çiriş\" otunun (yabani pırasa) toplanıp bulgur veya pirinçle kavrularak pişirilmesi. Doğanın uyanışını müjdeleyen bahar yemeğidir."
+    },
+    {
+      "id": "erzurum_kadayif_dolmasi",
+      "name": "Kadayıf Dolması",
+      "category": "Tatlı",
+      "image": "/yemekler/erzurum_kadayif_dolmasi_kadayif_dolmasi.jpg",
+      "history": "Taze tel kadayıfın içine bol miktarda ceviz içi konup avuç içinde sıkıca dolma gibi sarılması, ardından çırpılmış yumurtaya bulanıp kızgın yağda kızartıldıktan sonra soğuk şerbete atılmasıyla yapılır. Palandöken'in dondurucu soğuğuna karşı vücudu ısıtan ağır bir tatlıdır."
+    }
+  ]
+}

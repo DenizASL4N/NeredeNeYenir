@@ -1,0 +1,44 @@
+{
+  "id": "nevsehir",
+  "il_adi": "Nevşehir",
+  "title": "Kapadokya ve Balonlar Ülkesi",
+  "unsplash_query": "nevsehir cappadocia balloons landscape",
+  "image": "/sehirler/nevsehir.jpg",
+  "yemekler": [
+    {
+      "id": "nevsehir_testi_kebabi",
+      "name": "Testi Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nevsehir_testi_kebabi_testi_kebabi.jpg",
+      "history": "Kapadokya'nın Avanos topraklarından üretilen testilerin içine et, domates, biber ve sarımsak doldurulup ağzının hamurla kapatılması, közde saatlerce piştikten sonra kılıçla kırılarak servis edilmesi geleneğidir."
+    },
+    {
+      "id": "nevsehir_nevsehir_tavasi",
+      "name": "Nevşehir Tavası",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nevsehir_nevsehir_tavasi_nevsehir_tavasi.jpg",
+      "history": "Kuzu eti, domates, biber ve bol sarımsağın tepsiye dizilip, üzerine parça kuyruk yağı konarak taş fırında kendi suyuyla ağır ağır pişirilmesiyle yapılır."
+    },
+    {
+      "id": "nevsehir_agpakla",
+      "name": "Ağpakla",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nevsehir_agpakla_agpakla.jpg",
+      "history": "Kuru fasulye ve kuzu kemikli etin birlikte pişirilmesiyle yapılan, bölgenin en sevilen tencere yemeklerinden biridir."
+    },
+    {
+      "id": "nevsehir_sizgit",
+      "name": "Sızgıt",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nevsehir_sizgit_sizgit.jpg",
+      "history": "Kurban kesildiğinde veya çok et alındığında, etin uzun süre saklanması için küçük parçalara doğranıp kendi yağıyla kavrulup kavanozlara basılmasıdır; kış boyu kahvaltılarda veya yemeklerde kullanılır."
+    },
+    {
+      "id": "nevsehir_koftur",
+      "name": "Köftür",
+      "category": "Ana Yemek",
+      "image": "/yemekler/nevsehir_koftur_koftur.jpg",
+      "history": "Nevşehir'in üzüm bağlarından çıkan şıranın, nişasta ile karıştırılarak jöle kıvamına gelene dek kaynatılması, ardından tepsilere dökülüp güneşte kurutulmasıyla yapılan şeker ilavesiz, tamamen doğal bir lokum türüdür."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bilecik",
+  "il_adi": "Bilecik",
+  "title": "Kuruluşun Toprakları",
+  "unsplash_query": "bilecik seyh edebali landscape",
+  "image": "/sehirler/bilecik.jpg",
+  "yemekler": [
+    {
+      "id": "bilecik_bildircin_kebabi",
+      "name": "Bıldırcın Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bilecik_bildircin_kebabi_bildircin_kebabi.jpg",
+      "history": "Temizlenmiş bıldırcınların tereyağı, soğan, domates ve yöresel baharatlarla toprak güveçlerde veya mangalda nar gibi kızarana dek pişirilmesidir. Ormanlık alanı bol olan bölgenin köklü avcılık kültürünün mutfağa yansımış en lezzetli örneğidir."
+    },
+    {
+      "id": "bilecik_nohutlu_manti",
+      "name": "Nohutlu Mantı",
+      "category": "Aperatif",
+      "image": "/yemekler/bilecik_nohutlu_manti_nohutlu_manti.jpg",
+      "history": "Klasik kıymalı mantıdan farklı olarak, haşlanmış ve ezilmiş nohut ile baharat karışımının hamurun içine doldurulmasıyla yapılır. Bilecik'in buğday ve bakliyat ağırlıklı İç Anadolu ve Marmara geçiş iklimi mutfağına ait, doyurucu bir ev yemeğidir."
+    },
+    {
+      "id": "bilecik_buzme_tatlisi",
+      "name": "Büzme Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/bilecik_buzme_tatlisi_buzme_tatlisi.jpg",
+      "history": "İncecik açılan yufkaların arasına bol dövülmüş ceviz serpilip oklavaya sarılması ve her iki uçtan büzülerek fırınlanması, ardından şerbetlenmesiyle hazırlanır. Özel günlerde, bayramlarda ve düğünlerde yapılan yörenin en zahmetli hamurlu tatlısıdır."
+    },
+    {
+      "id": "bilecik_pazaryeri_helvasi",
+      "name": "Pazaryeri Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/bilecik_pazaryeri_helvasi_pazaryeri_helvasi.jpg",
+      "history": "Yüz yılı aşkın bir geçmişe sahip olan, yörede yetişen çöğen bitkisinin suyu, şeker ve kaliteli tahinin usta ellerde uzun süre çırpılmasıyla yapılan şekersiz, hafif bir tahin helvasıdır. Coğrafi işaretli bu helva, Balkanlardan göç eden ustaların bölgeye hediyesidir."
+    },
+    {
+      "id": "bilecik_dag_erigi_eksisi",
+      "name": "Dağ Eriği Ekşisi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bilecik_dag_erigi_eksisi_dag_erigi_eksisi.jpg",
+      "history": "Doğada kendiliğinden yetişen yabani ekşi eriklerin toplanıp saatlerce kaynatılarak püre ve sos haline getirilmesiyle elde edilir. Salatalara, kısır ve sarmalara mayhoş bir tat vermek için kullanılan, doğal ve çok eski bir yöntemdir."
+    }
+  ]
+}

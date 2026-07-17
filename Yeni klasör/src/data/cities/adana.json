@@ -1,0 +1,44 @@
+{
+  "id": "adana",
+  "il_adi": "Adana",
+  "title": "Ateşin ve Etin Kenti",
+  "unsplash_query": "adana tas kopru landscape",
+  "image": "/sehirler/adana.jpg",
+  "yemekler": [
+    {
+      "id": "adana_adana_kebap",
+      "name": "Adana Kebap",
+      "category": "Ana Yemek",
+      "image": "/yemekler/adana_adana_kebap_adana_kebap.jpg",
+      "history": "Sadece erkek kuzu eti, kuzu kuyruk yağı, kırmızı pul biber ve tuz kullanılarak yapılır. Zırh adı verilen büyük ve ağır bir bıçakla etin elde kıyılması en büyük özelliğidir. Göçebe Yörük ve Türkmenlerin et pişirme kültüründen günümüze ulaşmış, coğrafi işaret tescilli bir şaheserdir."
+    },
+    {
+      "id": "adana_sirdan_dolmasi",
+      "name": "Şırdan Dolması",
+      "category": "Aperatif",
+      "image": "/yemekler/adana_sirdan_dolmasi_sirdan_dolmasi.jpg",
+      "history": "Koyunun midyesinin bir bölümü olan \"şırdan\"ın, pirinç, kıyma, soğan, bol kimyon ve karabiberli bir harçla doldurulup dikilmesiyle yapılır. Adana sokak kültürünün gece geç saatlerde tüketilen vazgeçilmez ritüellerinden biridir."
+    },
+    {
+      "id": "adana_yuzuk_corbasi",
+      "name": "Yüzük Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/adana_yuzuk_corbasi_yuzuk_corbasi.jpg",
+      "history": "İçine küçük mantılar (yüzük şeklinde bükülmüş), nohut, et suyu ve nane-salça sosu eklenerek yapılan çok doyurucu bir çorbadır. Düğünlerde ve bayram sabahlarında yapılması eski bir Çukurova geleneğidir."
+    },
+    {
+      "id": "adana_bici_bici",
+      "name": "Bici Bici",
+      "category": "Tatlı",
+      "image": "/yemekler/adana_bici_bici_bici_bici.jpg",
+      "history": "Yaz aylarının kavurucu sıcağına karşı geliştirilmiş, rendelenmiş buz, pişmiş nişasta (bici), pudra şekeri ve kızılcık veya gül şurubuyla hazırlanan çok hafif ve ferahlatıcı bir sokak tatlısıdır."
+    },
+    {
+      "id": "adana_karakus_tatlisi",
+      "name": "Karakuş Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/adana_karakus_tatlisi_karakus_tatlisi.jpg",
+      "history": "İnce açılmış yufkaların içine ceviz ve tarçın konularak katlanması, ardından kızgın yağda kızartılıp soğuk şerbete atılmasıyla yapılır. Şekli kuşa benzetildiği için bu ismi almıştır ve bayram sofralarının baş tacıdır."
+    }
+  ]
+}

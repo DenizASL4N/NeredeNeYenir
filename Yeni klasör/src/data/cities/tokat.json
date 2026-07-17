@@ -1,0 +1,44 @@
+{
+  "id": "tokat",
+  "il_adi": "Tokat",
+  "title": "Tarihi Yazmacılık ve Hanlar",
+  "unsplash_query": "tokat ballica magarasi",
+  "image": "/sehirler/tokat.jpg",
+  "yemekler": [
+    {
+      "id": "tokat_tokat_kebabi",
+      "name": "Tokat Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tokat_tokat_kebabi_tokat_kebabi.jpg",
+      "history": "Kuzu etinin, kuyruk yağı, patlıcan, domates, biber, sarımsak ve patatesle birlikte özel yatay şişlere dizilmesi, etin suyunun sebzelere akması için dikey duran özel fırınlarda pişirilmesidir. Tokat'ın gastronomi markasıdır."
+    },
+    {
+      "id": "tokat_bat",
+      "name": "Bat",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tokat_bat_bat.jpg",
+      "history": "Yeşil mercimek, ceviz, ince bulgur, domates, biber ve taze nane/maydanoz ile hazırlanan; yaprak sarması veya kızarmış ekmekle birlikte \"soğuk\" tüketilen, Tokatlıların akşam çaylarında mutlaka bulundurduğu eşsiz bir yemektir."
+    },
+    {
+      "id": "tokat_tokat_yapragi_sarmasi",
+      "name": "Tokat Yaprağı Sarması",
+      "category": "Aperatif",
+      "image": "/yemekler/tokat_tokat_yapragi_sarmasi_tokat_yapragi_sarmasi.jpg",
+      "history": "Dünyaca ünlü, çok ince ve zarif Tokat asma yaprağının içine, kıymalı veya zeytinyağlı harcın konulup, kalem gibi incecik sarılmasıdır."
+    },
+    {
+      "id": "tokat_keskek",
+      "name": "Keşkek",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tokat_keskek_keskek.jpg",
+      "history": "Buğday ve etin büyük kazanlarda dövülerek sakız kıvamına getirilmesi, Tokat'ın düğün yemeklerinin olmazsa olmazıdır."
+    },
+    {
+      "id": "tokat_zile_pekmezi",
+      "name": "Zile Pekmezi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/tokat_zile_pekmezi_zile_pekmezi.jpg",
+      "history": "Zile ilçesine özgü, beyaz renkli, krem kıvamında, üzüm şırasının özel yöntemlerle çırpılarak ağartılmasıyla yapılan tescilli bir pekmez türüdür."
+    }
+  ]
+}

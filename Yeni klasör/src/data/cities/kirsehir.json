@@ -1,0 +1,44 @@
+{
+  "id": "kirsehir",
+  "il_adi": "Kırşehir",
+  "title": "Ahi Evran ve Neşet Ertaş Toprağı",
+  "unsplash_query": "kirsehir cacabey cami",
+  "image": "/sehirler/kirsehir.jpg",
+  "yemekler": [
+    {
+      "id": "kirsehir_cullama",
+      "name": "Çullama",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirsehir_cullama_cullama.jpg",
+      "history": "Tavuk (veya kuzu) eti kemikleriyle birlikte haşlandıktan sonra suyunun un ile kavrularak pekmez kıvamında bir sos haline getirilmesi, bu sosun geniş tepsilere yayılarak üzerine tiftiklenmiş etlerin dizilip tereyağı gezdirilmesiyle yapılan çok eski bir Selçuklu dönemi Orta Anadolu yemeğidir."
+    },
+    {
+      "id": "kirsehir_besmec",
+      "name": "Besmeç",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirsehir_besmec_besmec.jpg",
+      "history": "Kıyma, ince bulgur, salça, soğan ve reyhanın tıpkı çiğ köfte gibi uzun süre yoğrulması, ardından yassı köfteler haline getirilip fırında veya sac üzerinde pişirilmesidir. Ahilik kültürünün hakim olduğu şehirde esnafın pratik yemeklerinden biridir."
+    },
+    {
+      "id": "kirsehir_tandirda_comlek_kebabi",
+      "name": "Tandırda Çömlek Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kirsehir_tandirda_comlek_kebabi_tandirda_comlek_kebabi.jpg",
+      "history": "İri doğranmış et, soğan, yeşil biber, domates ve sarımsakların toprak çömleklere konulup, ağzının hamurla kapatılarak Kırşehir tandırlarında kül ve köz içinde saatlerce pişirilmesidir."
+    },
+    {
+      "id": "kirsehir_dugur_corbasi",
+      "name": "Düğür Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/kirsehir_dugur_corbasi_dugur_corbasi.jpg",
+      "history": "İnce bulgurun en ufak haline \"düğür\" denir. Kırşehir ovasındaki buğdayın öğütülmesinden arta kalan düğürün; tereyağı, domates salçası ve nane kavrularak çorba haline getirildiği, yokluk ve kıtlık dönemlerinden günümüze taşınmış, kış aylarının iç ısıtan besini."
+    },
+    {
+      "id": "kirsehir_ahi_helvasi",
+      "name": "Ahi Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/kirsehir_ahi_helvasi_ahi_helvasi.jpg",
+      "history": "Kırşehir merkezli Ahilik (Esnaf loncası) teşkilatının kurucusu Ahi Evran döneminden gelen; un, tereyağı, ceviz ve üzüm pekmezi kullanılarak yapılan, esnaf şenliklerinde büyük kazanlarda kavrulup halka dağıtılan köklü ve manevi değeri yüksek bir helvadır."
+    }
+  ]
+}

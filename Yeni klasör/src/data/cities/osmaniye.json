@@ -1,0 +1,44 @@
+{
+  "id": "osmaniye",
+  "il_adi": "Osmaniye",
+  "title": "Kastabala Antik Kenti",
+  "unsplash_query": "osmaniye kastabala landscape",
+  "image": "/sehirler/osmaniye.jpg",
+  "yemekler": [
+    {
+      "id": "osmaniye_tirsik_corbasi",
+      "name": "Tirşik Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/osmaniye_tirsik_corbasi_tirsik_corbasi.jpg",
+      "history": "Bölgeye özgü \"tirşik\" (andız otu) bitkisinin toplanıp, yoğurtla fermente edildikten sonra pişirilmesiyle yapılan, oldukça sağlıklı ve şifalı, kendine has ekşi bir tadı olan çorbadır."
+    },
+    {
+      "id": "osmaniye_bayram_kombesi",
+      "name": "Bayram Kömbesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/osmaniye_bayram_kombesi_bayram_kombesi.jpg",
+      "history": "Bayramlarda büyük tepsilerde yapılan; içine tarçın, mahlep, karanfil gibi çok sayıda baharat katılan, sert dokulu, uzun süre bayatlamayan bir kurabiye çeşididir."
+    },
+    {
+      "id": "osmaniye_teleme",
+      "name": "Teleme",
+      "category": "Ana Yemek",
+      "image": "/yemekler/osmaniye_teleme_teleme.jpg",
+      "history": "Taze sütün içine \"incir sütü\" damlatılarak pişirilmeden, sütü kesip (mayalayıp) elde edilen, tamamen doğal bir süt tatlısıdır."
+    },
+    {
+      "id": "osmaniye_tutmac_corbasi",
+      "name": "Tutmaç Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/osmaniye_tutmac_corbasi_tutmac_corbasi.jpg",
+      "history": "Anadolu'nun en eski çorbalarından; erişte, mercimek, nohut ve yoğurdun buluşmasıyla yapılan oldukça doyurucu bir başlangıçtır."
+    },
+    {
+      "id": "osmaniye_yer_fistigi",
+      "name": "Yer Fıstığı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/osmaniye_yer_fistigi_yer_fistigi.jpg",
+      "history": "Osmaniye bir yemek değil ama Türkiye'nin yer fıstığı merkezidir; fıstıklı krokanlar, fıstık ezmeleri ve yemeklerin içine fıstık katılması şehir mutfağının ayrılmaz parçasıdır."
+    }
+  ]
+}

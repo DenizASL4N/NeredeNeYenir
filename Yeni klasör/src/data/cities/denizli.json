@@ -1,0 +1,44 @@
+{
+  "id": "denizli",
+  "il_adi": "Denizli",
+  "title": "Travertenler Diyarı",
+  "unsplash_query": "denizli pamukkale landscape",
+  "image": "/sehirler/denizli.jpg",
+  "yemekler": [
+    {
+      "id": "denizli_denizli_kebabi_firin_kebabi",
+      "name": "Denizli Kebabı (Fırın Kebabı)",
+      "category": "Ana Yemek",
+      "image": "/yemekler/denizli_denizli_kebabi_firin_kebabi_denizli_kebabi_firin_kebabi.jpg",
+      "history": "Yaşını doldurmamış süt kuzularının parçalara ayrılıp taş fırınların içine yerleştirilen demir çengellere dizilerek, sakız ağacı odunu ateşinde 3-4 saat boyunca kendi yağıyla pişirilmesidir. 1800'lü yıllardan bu yana çarşı esnafı tarafından çatal-bıçak kullanılmadan elle yenmesiyle meşhurdur."
+    },
+    {
+      "id": "denizli_yen_boregi",
+      "name": "Yen Böreği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/denizli_yen_boregi_yen_boregi.jpg",
+      "history": "İçinde kavrulmuş kıyma, bol karabiber ve kimyon bulunan, yarım ay veya ucu kıvrık kol şeklinde kapatılıp odun ateşinde pişirilen börektir. Denizli'nin tarım işçilerinin tarlaya giderken yanlarına aldıkları tok tutan yöresel hamur işidir."
+    },
+    {
+      "id": "denizli_caput_asi",
+      "name": "Çaput Aşı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/denizli_caput_asi_caput_asi.jpg",
+      "history": "Bağcılığın çok yaygın olduğu Denizli'de, salamura veya taze asma yapraklarının doğranıp bulgur, koruk ekşisi (ya da nar ekşisi) ve parça et ile pişirildiği ekşili bir tencere yemeğidir. Hiçbir malzemenin israf edilmediği eski bir bağcı yemeğidir."
+    },
+    {
+      "id": "denizli_biber_tatari",
+      "name": "Biber Tatarı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/denizli_biber_tatari_biber_tatari.jpg",
+      "history": "Kale ilçesi yöresine özgü, etli ve iri \"Kale biberi\"nin çekirdeklerinden arındırılıp bütün olarak kızartılması, ardından süzme yoğurt ve sarımsak üzerine oturtularak yenmesidir. Ege'nin zeytinyağlı ve sebze kültürünün acı-tatlı bir dengesidir."
+    },
+    {
+      "id": "denizli_kale_baklavasi___zafer_gazozu",
+      "name": "Kale Baklavası / Zafer Gazozu",
+      "category": "Tatlı",
+      "image": "/yemekler/denizli_kale_baklavasi___zafer_gazozu_kale_baklavasi_zafer_gazozu.jpg",
+      "history": "Bölgeye özgü büyük dilimlenmiş, içi bol cevizli ve kalın açılmış yufkasıyla doyurucu bir tatlı olan Kale Baklavası ve onunla birlikte tüketilmesi gelenek haline gelen, 1934'ten beri aynı reçeteyle üretilen efsanevi Denizli (Zafer) mandalina gazozudur."
+    }
+  ]
+}
