@@ -136,3 +136,9 @@ npm run preview
 Open **`http://localhost:4173`** in your browser to run the production build.
 
 The project is ready to deploy on Vercel: `vercel.json` routes all paths to React Router.
+
+<img width="1919" height="908" alt="Ekran görüntüsü 2026-07-17 213427" src="https://github.com/user-attachments/assets/cfe4d092-eba1-4508-84e4-8bb704703cd0" />
+<img width="1919" height="902" alt="Ekran görüntüsü 2026-07-17 213159" src="https://github.com/user-attachments/assets/ae30ba49-54c7-4edc-9e89-452f42f7024d" />
+<img width="1918" height="903" alt="Ekran görüntüsü 2026-07-17 213359" src="https://github.com/user-attachments/assets/fadd94ee-fed5-4951-a0fa-ff83b1c8d0da" />
+<img width="1577" height="792" alt="Ekran görüntüsü 2026-07-17 214308" src="https://github.com/user-attachments/assets/0225ff8f-ac5a-4dad-b314-609b51be03f6" />
+<img width="1788" height="908" alt="Ekran görüntüsü 2026-07-17 213525" src="https://github.com/user-attachments/assets/3fe0b7fe-2bdf-42c3-a13d-8b78b4d75652" />
