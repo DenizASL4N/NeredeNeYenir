@@ -30,7 +30,7 @@ Proje, modern web standartları ve duyarlı (responsive) tasarım prensipleri g�
 
 ### 📁 Proje Klasör Yapısı
 ```text
-Yeni klasör/
+NeredeNeYenir/
 ├── dist/                # Derlenmiş, yayına hazır üretim dosyaları
 ├── public/              # Statik dosyalar (Logolar, favicon, resimler)
 │   ├── sehirler/        # 81 ilin kapak fotoğrafları
@@ -39,12 +39,11 @@ Yeni klasör/
 │   ├── components/      # Ortak arayüz bileşenleri (Navbar, Footer, Arama Kutusu vb.)
 │   ├── data/            # Şehir ve yemek verilerinin JSON dosyaları
 │   ├── pages/           # Sayfa yapıları (Anasayfa, Detay Sayfası, Favoriler)
-│   ├── interfaces/      # Tip ve veri modeli şablonları
 │   ├── App.jsx          # Ana React bileşeni ve durum yönetimi
 │   ├── index.css        # Tailwind CSS entegrasyonu ve global stiller
 │   └── main.jsx         # DOM montaj noktası
-├── serve.py             # Windows MIME-type uyumluluğuna sahip yerel sunucu script'i
 ├── package.json         # Proje bağımlılıkları ve npm komutları
+├── vercel.json          # Vercel yayın ayarı (tüm adresleri React Router'a yönlendirir)
 └── vite.config.js       # Vite konfigürasyonu
 ```
 
@@ -58,15 +57,17 @@ npm run dev
 ```
 
 #### Yayına Hazırlama ve Çalıştırma (Production)
-Projeyi derleyip, Windows'taki MIME-type hatalarını otomatik olarak aşan yerel sunucu ile çalıştırmak için:
+Projeyi derleyip yayındaki haliyle yerel olarak denemek için:
 ```bash
 # Projeyi derle (dist klasörünü üretir)
 npm run build
 
-# Yerel sunucuyu başlat
-python serve.py
+# Derlenmiş siteyi yerel sunucuda aç
+npm run preview
 ```
-Sunucu başlatıldıktan sonra tarayıcınızdan **`http://localhost:8000`** adresine giderek uygulamayı test edebilirsiniz.
+Sunucu başlatıldıktan sonra tarayıcınızdan **`http://localhost:4173`** adresine giderek uygulamayı test edebilirsiniz.
+
+Proje Vercel'de yayınlanmaya hazırdır: `vercel.json`, tüm adresleri React Router'a yönlendirir.
 
 ---
 
@@ -97,7 +98,7 @@ The project is developed keeping modern web standards and responsive design prin
 
 ### 📁 Project Folder Structure
 ```text
-Yeni klasör/
+NeredeNeYenir/
 ├── dist/                # Compiled production-ready assets
 ├── public/              # Static files (Logos, favicon, images)
 │   ├── sehirler/        # Cover photos of 81 cities
@@ -106,12 +107,11 @@ Yeni klasör/
 │   ├── components/      # UI components (Navbar, Footer, SearchBox, etc.)
 │   ├── data/            # JSON data registry for cities and foods
 │   ├── pages/           # Page components (Home, CityDetail, Favorites)
-│   ├── interfaces/      # Type and data model definitions
 │   ├── App.jsx          # Main React component and state management
 │   ├── index.css        # Tailwind CSS integration & global styles
 │   └── main.jsx         # DOM mounting entry point
-├── serve.py             # Custom server script bypassing Windows MIME-type bugs
 ├── package.json         # Project dependencies and npm scripts
+├── vercel.json          # Vercel deployment config (routes all paths to React Router)
 └── vite.config.js       # Vite configuration
 ```
 
@@ -125,12 +125,14 @@ npm run dev
 ```
 
 #### Building and Running in Production
-To build the application and run it on a local server that automatically bypasses Windows registry MIME-type errors:
+To build the application and try the production build locally:
 ```bash
 # Build the project (generates the dist folder)
 npm run build
 
-# Start the safe custom python server
-python serve.py
+# Serve the built site locally
+npm run preview
 ```
-Open **`http://localhost:8000`** in your browser to run the production build.
+Open **`http://localhost:4173`** in your browser to run the production build.
+
+The project is ready to deploy on Vercel: `vercel.json` routes all paths to React Router.

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -7,7 +7,16 @@ import CityDetail from './pages/CityDetail';
 import Favorites from './pages/Favorites';
 
 export default function App() {
-  const [favorites, setFavorites] = useState([]);
+  // Load favorites from LocalStorage on first render
+  const [favorites, setFavorites] = useState(() => {
+    try {
+      const stored = localStorage.getItem('nerede-ne-yenir-favorites');
+      return stored ? JSON.parse(stored) : [];
+    } catch (e) {
+      console.error("Favoriler yüklenirken hata oluştu:", e);
+      return [];
+    }
+  });
   const [theme, setTheme] = useState(() => {
     // Load default theme from LocalStorage or system preference
     const stored = localStorage.getItem('nerede-ne-yenir-theme');
@@ -25,18 +34,6 @@ export default function App() {
     }
     localStorage.setItem('nerede-ne-yenir-theme', theme);
   }, [theme]);
-
-  // Load favorites from LocalStorage on mount
-  useEffect(() => {
-    try {
-      const stored = localStorage.getItem('nerede-ne-yenir-favorites');
-      if (stored) {
-        setFavorites(JSON.parse(stored));
-      }
-    } catch (e) {
-      console.error("Favoriler yüklenirken hata oluştu:", e);
-    }
-  }, []);
 
   // Save favorites to LocalStorage whenever state changes
   const saveToLocalStorage = (newFavs) => {
@@ -90,12 +87,12 @@ export default function App() {
 
   return (
     <BrowserRouter>
-      <div class="flex flex-col min-h-screen bg-cream dark:bg-[#0F1A14] text-forest-dark dark:text-cream/90 transition-colors duration-300">
+      <div className="flex flex-col min-h-screen bg-cream dark:bg-[#0F1A14] text-forest-dark dark:text-cream/90 transition-colors duration-300">
         {/* Navigation */}
         <Navbar favoritesCount={favorites.length} theme={theme} toggleTheme={toggleTheme} />
 
         {/* Page Content */}
-        <main class="flex-grow">
+        <main className="flex-grow">
           <Routes>
             <Route 
               path="/" 
