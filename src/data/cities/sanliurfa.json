@@ -2,43 +2,156 @@
   "id": "sanliurfa",
   "il_adi": "Şanlıurfa",
   "title": "Peygamberler Şehri Balıklıgöl",
-  "unsplash_query": "sanliurfa balikligol landscape",
-  "image": "/sehirler/sanliurfa.jpg",
+  "image": "/sehirler/sanliurfa.webp",
   "yemekler": [
     {
       "id": "sanliurfa_urfa_kebabi",
       "name": "Urfa Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/sanliurfa_urfa_kebabi_urfa_kebabi.jpg",
-      "history": "Zırh kıyması, kuyruk yağı ve bolca \"isot\" (Urfa biberi) ile yoğurulup şişlere dizilen kebaptır. Adana kebabından farkı, isotun kendine has aroması ve içine sarımsak katılmasıdır."
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Elde çekilen kuzu kıymasının şişe sarılıp mangalda pişirildiği acısız kebaptır. Lavaş, közlenmiş domates, biber ve soğanla servis edilir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "sanliurfa_tepsi_kebabi",
+      "name": "Urfa Tepsi Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sanliurfa_tepsi_kebabi.webp",
+      "history": "Baharatlı kıymanın tepsiye yayılıp üzerine domates ve biber dizilerek fırında pişirildiği bir kebaptır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/galeri/n-life/n-lezzetler/sanliurfanin-tepsi-kebabi-cografi-isaretle-tescillendi,TskRl0Q95UusgbQHarWpQQ",
+      "gorsel": {
+        "yazar": "Kutlusafa",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urfa_tray_kebab_served_with_flatbread,_ayran_and_bostana_salad.jpg"
+      }
+    },
+    {
+      "id": "sanliurfa_sogan_kebabi",
+      "name": "Urfa Soğan Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Kıymadan yapılan köftelerin küçük kuru soğanlarla aynı şişe dizilip mangalda pişirildiği, kış aylarında yapılan bir kebaptır.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.istiklal.com.tr/foto-galeri/kis-aylarinin-vazgecilmez-lezzeti-tescilli-urfa-sogan-kebabi-928154h",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "sanliurfa_ciger_kebabi",
+      "name": "Urfa Ciğer Kebabı",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/sanliurfa_ciger_kebabi.webp",
+      "history": "Küçük parçalar halinde doğranan kuzu ciğeri, kuyruk yağıyla birlikte şişlere dizilip mangalda pişirilir. Urfa'da sabah kahvaltısında da yenir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/urfa-ciger-kebabi-e0fb5",
+      "gorsel": {
+        "yazar": "Zeynel Cebeci",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ci%C4%9Fer_Kebab%C4%B1,_Kozan_01.JPG"
+      }
+    },
+    {
+      "id": "sanliurfa_lebeni_corbasi",
+      "name": "Lebeni Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/corum_alaca_yarma_asi.webp",
+      "history": "Yoğurt, dövme buğday ve küçük köftelerle hazırlanan, sıcak yaz günlerinde soğuk olarak da tüketilen bir yoğurt çorbasıdır.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/sanliurfada-yaz-sicaklarinin-vazgecilmez-lezzeti-lebeni-corbasi-2027832",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran_a%C5%9F%C4%B1.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "sanliurfa_cig_kofte",
       "name": "Çiğ Köfte",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sanliurfa_cig_kofte_cig_kofte.htm",
-      "history": "Urfa'nın en büyük gururudur. Kıyma (geleneksel yöntem) veya etsiz (günümüz), esmer bulgur, isot, salça ve taze soğan ile saatlerce yoğurularak \"pişirilir\". Urfa'da çiğ köfte bir sanat ve arkadaşlık ritüelidir."
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/sanliurfa_cig_kofte.webp",
+      "history": "İnce bulgur, isot, salça, soğan ve baharatların uzun süre yoğrulmasıyla hazırlanır. Geleneksel Urfa çiğ köftesi çiğ etle yapılır; günümüzde satışta etsiz hali yaygındır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg"
+      }
     },
     {
       "id": "sanliurfa_lahmacun",
-      "name": "Lahmacun",
-      "category": "Tatlı",
-      "image": "/yemekler/sanliurfa_lahmacun_lahmacun.jpg",
-      "history": "Urfa lahmacununun özelliği, içine kıyma ile birlikte bol miktarda soğan, sarımsak ve isot konularak yapılan, hamurunun çok ince olmasıdır."
-    },
-    {
-      "id": "sanliurfa_ciger_kebabi",
-      "name": "Ciğer Kebabı",
-      "category": "Sokak Lezzeti",
-      "image": "/yemekler/sanliurfa_ciger_kebabi_ciger_kebabi.jpg",
-      "history": "Urfa'da ciğer, kuzunun en taze parçalarından yapılır; sabahın çok erken saatlerinde, açık havada, közde pişirilip yanında taze nane ve soğanla yenir."
+      "name": "Urfa Lahmacunu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/sanliurfa_lahmacun.webp",
+      "history": "İnce hamurun üzerine kıyma, soğan, sarımsak ve isot karışımı sürülerek taş fırında pişirilir. Urfa lahmacunu acılı harcıyla bilinir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Odil Ruzaliyev (VOA)",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_Lahmacun.jpg"
+      }
     },
     {
       "id": "sanliurfa_sillik_tatlisi",
       "name": "Şıllık Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/sanliurfa_sillik_tatlisi_sillik_tatlisi.jpg",
-      "history": "İnce krep hamurlarının içine bolca dövülmüş Antep fıstığı konulup rulo yapılması, ardından üzerine şerbet dökülmesiyle yapılan, \"yatak\" gibi serilen çok hafif ve yöresel bir tatlıdır."
+      "image": "/yemekler/sanliurfa_sillik_tatlisi.webp",
+      "history": "Sacda pişirilen ince krepler ceviz içiyle sarılıp şerbetlenir. Urfa mutfağının geleneksel tatlılarındandır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kutlusafa",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1ll%C4%B1k_dessert_served_at_Hac%C4%B1baba_in_%C5%9Eanl%C4%B1urfa,_full_plate_view.jpg"
+      }
+    },
+    {
+      "id": "sanliurfa_isot",
+      "name": "İsot (Urfa Biberi)",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/sanliurfa_isot.webp",
+      "history": "Kırmızı biberin güneşte bekletilip terletilmesiyle koyu, neredeyse siyah renk aldığı yöresel pul biberdir. Urfa yemeklerinin temel baharatıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Urfa_pepper_isot.jpg"
+      }
+    },
+    {
+      "id": "sanliurfa_mirra",
+      "name": "Mırra",
+      "category": "İçecek",
+      "image": "/yemekler/_tur_kahve.webp",
+      "history": "Kahve çekirdeklerinin uzun süre kaynatılıp yoğunlaştırılmasıyla hazırlanan, küçük fincanlarla az miktarda içilen acı bir kahvedir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Garrett Ziegler",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_coffee_in_a_traditional_design_cup.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Bernard Gagnon",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Balikli_G%C3%B6l_03.jpg"
+  }
 }

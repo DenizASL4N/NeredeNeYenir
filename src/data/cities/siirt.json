@@ -2,43 +2,99 @@
   "id": "siirt",
   "il_adi": "Siirt",
   "title": "Veysel Karani Toprakları",
-  "unsplash_query": "siirt tillo kalesi landscape",
-  "image": "/sehirler/siirt.jpg",
+  "image": "/sehirler/siirt.webp",
   "yemekler": [
     {
       "id": "siirt_buryan_kebabi",
-      "name": "Büryan Kebabı",
+      "name": "Siirt Büryan Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/siirt_buryan_kebabi_buryan_kebabi.jpg",
-      "history": "Kuzu etinin toprağa gömülü özel kuyularda, altında yanan odun ateşinin buharıyla, et ateşe değmeden saatlerce pişmesiyle yapılır. Siirt ve Bitlis arasında köklü bir \"kimin\" kavgası olsa da, Siirt Büryanı kemiksiz ve ince yapılı olmasıyla meşhurdur."
+      "image": "/yemekler/siirt_buryan_kebabi.webp",
+      "history": "Kuzu etinin toprağa kazılmış kuyu tandırlarda, ateşe değmeden uzun süre pişirilmesiyle yapılır. Siirt adına 2003'te tescillenmiştir; Bitlis de 2021'de kendi büryanını tescil ettirmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.istiklal.com.tr/foto-galeri/siirt-ile-bitlis-arasinda-paylasilamayan-lezzet-buryan-kebabi-930880h",
+      "gorsel": {
+        "yazar": "İncelemeelemani",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Siirt_b%C3%BCryan_kebab%C4%B1_5.jpg"
+      }
     },
     {
       "id": "siirt_perde_pilavi",
       "name": "Perde Pilavı",
       "category": "Ana Yemek",
-      "image": "/yemekler/siirt_perde_pilavi_perde_pilavi.jpg",
-      "history": "İncecik açılmış hamurun, tavuk eti, badem, kuş üzümü, karabiber ve pirinç ile doldurulup (yufka içine perde gibi) kapatılarak fırınlanmasıdır. Siirt'te yeni evlenen çiftlere \"bir yastıkta kocayın, sırlarımız gizli kalsın\" temennisiyle sunulan bereket yemeğidir."
+      "image": "/yemekler/siirt_perde_pilavi.webp",
+      "history": "Tavuk eti, badem ve baharatlı pirinç, ince bir hamurla kaplanmış kalıba konup fırında pişirilir. Pilav hamurun içinde \"perdelendiği\" için bu adı alır. Düğün sofralarının geleneksel yemeğidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/perde-pilav",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Perde_pilav.jpg"
+      }
     },
     {
       "id": "siirt_kitel",
       "name": "Kitel",
       "category": "Ana Yemek",
-      "image": "/yemekler/siirt_kitel_kitel.jpg",
-      "history": "Siirt usulü içli köftedir; dışı daha ince, içi daha yoğun baharatlı ve kıymalıdır. Suda haşlanarak servis edilir."
+      "image": "/yemekler/diyarbakir_icli_kofte.webp",
+      "history": "Siirt usulü içli köftedir. Bulgurlu dış hamurun içi kıymalı harçla doldurulur ve genellikle haşlanarak servis edilir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/siirt-haberleri/115303306-siirtte-cografi-isaretler-farkindalik-konferansi-duzenlendi",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0%C3%A7li_k%C3%B6fte_2023.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "siirt_i̇smeket_koftesi",
-      "name": "İsmeket Köftesi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/siirt_i̇smeket_koftesi_ismeket_koftesi.jpg",
-      "history": "İnce bulgur ve kıymayla yapılan, özel şekliyle yöreye has bir köfte çeşididir."
+      "id": "siirt_tillo_heriresi",
+      "name": "Tillo Heriresi",
+      "category": "Tatlı",
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Siirt'in Tillo ilçesine özgü, üzüm pekmeziyle hazırlanan geleneksel bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/siirt-haberleri/115303306-siirtte-cografi-isaretler-farkindalik-konferansi-duzenlendi",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "siirt_zerfet",
-      "name": "Zerfet",
-      "category": "Ana Yemek",
-      "image": "/yemekler/siirt_zerfet_zerfet.jpg",
-      "history": "Hamurun (yufka benzeri) küçük parçalara bölünüp üzerine bol eritilmiş tereyağı, bal veya pekmez dökülerek servis edilen, yöresel ve pratik bir tatlı/kahvaltılıktır."
+      "id": "siirt_siirt_fistigi",
+      "name": "Siirt Fıstığı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/siirt_siirt_fistigi.webp",
+      "history": "Siirt'te yetişen, Antep fıstığına göre daha iri ve dolgun taneli bir fıstık çeşididir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/siirt-haberleri/115303306-siirtte-cografi-isaretler-farkindalik-konferansi-duzenlendi",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Siirt_f%C4%B1st%C4%B1%C4%9F%C4%B1.jpg"
+      }
+    },
+    {
+      "id": "siirt_pervari_bali",
+      "name": "Pervari Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Siirt'in Pervari ilçesinin yüksek yaylalarında üretilen çiçek balıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://goturkiye.com/siirt/taste",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Veleye",
+    "lisans": "Public domain",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:City_center.jpg"
+  }
 }

@@ -2,43 +2,71 @@
   "id": "osmaniye",
   "il_adi": "Osmaniye",
   "title": "Kastabala Antik Kenti",
-  "unsplash_query": "osmaniye kastabala landscape",
-  "image": "/sehirler/osmaniye.jpg",
+  "image": "/sehirler/osmaniye.webp",
   "yemekler": [
     {
-      "id": "osmaniye_tirsik_corbasi",
-      "name": "Tirşik Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/osmaniye_tirsik_corbasi_tirsik_corbasi.jpg",
-      "history": "Bölgeye özgü \"tirşik\" (andız otu) bitkisinin toplanıp, yoğurtla fermente edildikten sonra pişirilmesiyle yapılan, oldukça sağlıklı ve şifalı, kendine has ekşi bir tadı olan çorbadır."
+      "id": "osmaniye_zorkun_tava",
+      "name": "Osmaniye Zorkun Tava",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_tava.webp",
+      "history": "Zorkun Yaylası'na özgü, et ve sebzelerin tavada pişirildiği bir yemektir. Osmaniye Ticaret ve Sanayi Odası adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=80",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_tava_from_Bing%C3%B6l.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "osmaniye_kadirli_sucuk_ekmek",
+      "name": "Kadirli Sucuk Ekmek",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/afyonkarahisar_afyon_sucugu.webp",
+      "history": "Osmaniye'nin Kadirli ilçesine özgü, sucuğun ekmek arasında sunulduğu bir sokak lezzetidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/kadirli-sucuk-ekmek-cografi-isaret-tescil-belgesi-aldi_ID102188734/",
+      "gorsel": {
+        "yazar": "Rainer Zenz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sucuk-2.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "osmaniye_bayram_kombesi",
-      "name": "Bayram Kömbesi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/osmaniye_bayram_kombesi_bayram_kombesi.jpg",
-      "history": "Bayramlarda büyük tepsilerde yapılan; içine tarçın, mahlep, karanfil gibi çok sayıda baharat katılan, sert dokulu, uzun süre bayatlamayan bir kurabiye çeşididir."
-    },
-    {
-      "id": "osmaniye_teleme",
-      "name": "Teleme",
-      "category": "Ana Yemek",
-      "image": "/yemekler/osmaniye_teleme_teleme.jpg",
-      "history": "Taze sütün içine \"incir sütü\" damlatılarak pişirilmeden, sütü kesip (mayalayıp) elde edilen, tamamen doğal bir süt tatlısıdır."
-    },
-    {
-      "id": "osmaniye_tutmac_corbasi",
-      "name": "Tutmaç Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/osmaniye_tutmac_corbasi_tutmac_corbasi.jpg",
-      "history": "Anadolu'nun en eski çorbalarından; erişte, mercimek, nohut ve yoğurdun buluşmasıyla yapılan oldukça doyurucu bir başlangıçtır."
+      "name": "Osmaniye Bayram Kömbesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Bayramlarda yapılan, özel kalıplarla desenlenen geleneksel bir kömbedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=80",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "osmaniye_yer_fistigi",
-      "name": "Yer Fıstığı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/osmaniye_yer_fistigi_yer_fistigi.jpg",
-      "history": "Osmaniye bir yemek değil ama Türkiye'nin yer fıstığı merkezidir; fıstıklı krokanlar, fıstık ezmeleri ve yemeklerin içine fıstık katılması şehir mutfağının ayrılmaz parçasıdır."
+      "name": "Osmaniye Yer Fıstığı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/osmaniye_yer_fistigi.webp",
+      "history": "Osmaniye ovasında yetiştirilen yer fıstığıdır. 2003'te menşe adıyla tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/osmaniye-yer-fistigi-2c394",
+      "gorsel": {
+        "yazar": "Koladorina",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bah%C3%A7e,_Osmaniye_Yer_f%C4%B1st%C4%B1%C4%9F%C4%B1.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "tacirci",
+    "lisans": "Public domain",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Osmaniyenin_genel_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg"
+  }
 }

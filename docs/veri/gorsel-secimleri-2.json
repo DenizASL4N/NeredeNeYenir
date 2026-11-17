@@ -1,0 +1,158 @@
+{
+  "adana_sirdan_dolmasi": 1,
+  "adiyaman_etsiz_cig_kofte": 1,
+  "agri_yaprak_doneri": {
+    "temsili": 1
+  },
+  "aksaray_aksaray_tahinlisi": {
+    "temsili": 0
+  },
+  "ankara_kizilcahamam_bazlamasi": {
+    "temsili": 3
+  },
+  "balikesir_hosmerim_tatlisi": 2,
+  "bayburt_yalanci_dolma": {
+    "temsili": 0
+  },
+  "bingol_cobantasi_kavurmasi": {
+    "temsili": 1
+  },
+  "bingol_sivan_dut_pekmezi": {
+    "temsili": 0
+  },
+  "burdur_golhisar_kavurmasi": {
+    "temsili": 0
+  },
+  "bursa_inegol_koftesi": 2,
+  "bursa_inegol_piyazi": {
+    "temsili": 0
+  },
+  "bursa_cantik": 0,
+  "bursa_inegol_sutlu_kadayifi": {
+    "temsili": 1
+  },
+  "cankiri_cankiri_kiymalisi": {
+    "temsili": 1
+  },
+  "corum_alaca_yarma_asi": {
+    "temsili": 1
+  },
+  "corum_corum_simidi": {
+    "temsili": 0
+  },
+  "corum_corum_baklavasi": {
+    "temsili": 3
+  },
+  "corum_leblebi": {
+    "temsili": 0
+  },
+  "denizli_denizli_kekigi": {
+    "temsili": 0
+  },
+  "diyarbakir_icli_kofte": {
+    "temsili": 2
+  },
+  "diyarbakir_kaburga_dolmasi": {
+    "temsili": 1
+  },
+  "diyarbakir_burma_kadayif": {
+    "temsili": 1
+  },
+  "edirne_beyaz_peynir": {
+    "temsili": 0
+  },
+  "erzincan_kesme_corbasi": {
+    "temsili": 0
+  },
+  "eskisehir_eskisehir_simidi": {
+    "temsili": 0
+  },
+  "gaziantep_beyran": 1,
+  "gaziantep_sini_koftesi": {
+    "temsili": 0
+  },
+  "giresun_gorele_dondurmasi": {
+    "temsili": 1
+  },
+  "gumushane_siron": 3,
+  "hakkari_cukurca_tahini": {
+    "temsili": 1
+  },
+  "hatay_belen_tavasi": 0,
+  "istanbul_bogazici_luferi": 1,
+  "izmir_boyoz": 2,
+  "izmir_sambali_sambaba_tatlisi": 2,
+  "kahramanmaras_maras_pacasi": {
+    "temsili": 1
+  },
+  "kayseri_gul_baklavasi": 0,
+  "kilis_kilis_katmeri": {
+    "temsili": 4
+  },
+  "kirsehir_kaman_cevizi": {
+    "temsili": 0
+  },
+  "kocaeli_izmit_simidi": {
+    "temsili": 0
+  },
+  "konya_etli_ekmek": 1,
+  "kutahya_simav_kestanesi": {
+    "temsili": 3
+  },
+  "manisa_kula_leblebisi": {
+    "temsili": 0
+  },
+  "mersin_cezerye": 1,
+  "mersin_kerebic": 0,
+  "nevsehir_kaymakli_coregi": {
+    "temsili": 2
+  },
+  "nigde_nigde_tahinlisi": {
+    "temsili": 1
+  },
+  "rize_rize_kavurmasi": {
+    "temsili": 4
+  },
+  "rize_derepazari_pidesi": {
+    "temsili": 5
+  },
+  "rize_rize_simidi": {
+    "temsili": 0
+  },
+  "rize_pepecura_tatlisi": 0,
+  "sakarya_islama_kofte": 0,
+  "samsun_terme_pidesi": {
+    "temsili": 1
+  },
+  "samsun_nokul": 0,
+  "sinop_nokul": {
+    "temsili": 1
+  },
+  "sivas_sivas_kellesi": {
+    "temsili": 2
+  },
+  "sivas_sivas_pastirmasi": {
+    "temsili": 1
+  },
+  "tokat_tokat_yapragi_sarmasi": {
+    "temsili": 2
+  },
+  "tokat_zile_pekmezi": {
+    "temsili": 1
+  },
+  "trabzon_surmene_pidesi": {
+    "temsili": 2
+  },
+  "usak_tarhana_corbasi": {
+    "temsili": 5
+  },
+  "usak_karahalli_cigeri": {
+    "temsili": 1
+  },
+  "usak_usak_baklavasi": {
+    "temsili": 4
+  },
+  "yozgat_testi_kebabi": {
+    "temsili": 0
+  }
+}

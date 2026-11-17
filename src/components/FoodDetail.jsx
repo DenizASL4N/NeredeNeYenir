@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Heart, Save, Calendar, BookOpen } from 'lucide-react';
+import { Heart, Save, Calendar, BookOpen, BadgeCheck, ExternalLink, Camera } from 'lucide-react';
+import SafeImage from './SafeImage';
 
 export default function FoodDetail({ food, cityName, isFavorite, favoriteItem, onToggleFavorite, onUpdateNote }) {
   const [note, setNote] = useState(favoriteItem?.notes || '');
@@ -27,10 +28,10 @@ export default function FoodDetail({ food, cityName, isFavorite, favoriteItem, o
   };
 
   return (
-    <div className="flex flex-col md:flex-row w-full h-full bg-[#F5F2ED] dark:bg-[#162B20] rounded-3xl overflow-hidden">
+    <div className="flex flex-col md:flex-row w-full h-full bg-cream dark:bg-[#162B20] rounded-3xl overflow-hidden">
       {/* Left: Food Image */}
       <div className="w-full md:w-1/2 relative min-h-[260px] md:min-h-full">
-        <img
+        <SafeImage
           src={food.image}
           alt={food.name}
           className="absolute inset-0 w-full h-full object-cover"
@@ -73,11 +74,52 @@ export default function FoodDetail({ food, cityName, isFavorite, favoriteItem, o
           <div className="mb-6">
             <h5 className="text-xs uppercase tracking-widest text-gold font-bold mb-2 flex items-center gap-1.5">
               <BookOpen size={12} />
-              <span>Tarihi Hikayesi</span>
+              <span>Hakkında</span>
             </h5>
             <p className="text-forest-dark/95 dark:text-cream/85 text-sm md:text-base leading-relaxed font-serif italic border-l-2 border-gold/40 pl-4 py-1">
               {food.history}
             </p>
+
+            {food.gorsel && (
+              <a
+                href={food.gorsel.kaynak}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-start gap-1.5 mt-4 text-[11px] text-forest-dark/55 dark:text-cream/45 hover:underline"
+              >
+                <Camera size={12} className="mt-0.5 shrink-0" />
+                <span>
+                  {food.gorsel.kategori ? (
+                    <strong>Kategori fotoğrafı: bu yemeğin fotoğrafı henüz yok, aynı kategoriden bir yemeği gösterir. </strong>
+                  ) : food.gorsel.temsili && (
+                    <strong>Temsili fotoğraf: aynı türden bir yemeği gösterir. </strong>
+                  )}
+                  Fotoğraf: {food.gorsel.yazar} ({food.gorsel.lisans})
+                </span>
+              </a>
+            )}
+
+            {(food.cografiIsaret || food.kaynak) && (
+              <div className="flex flex-wrap items-center gap-3 mt-4">
+                {food.cografiIsaret && (
+                  <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold bg-gold/15 text-gold-dark dark:text-gold border border-gold/30">
+                    <BadgeCheck size={13} />
+                    Coğrafi İşaretli
+                  </span>
+                )}
+                {food.kaynak && (
+                  <a
+                    href={food.kaynak}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs font-semibold text-forest dark:text-gold hover:underline"
+                  >
+                    <ExternalLink size={12} />
+                    Kaynak
+                  </a>
+                )}
+              </div>
+            )}
           </div>
         </div>
 

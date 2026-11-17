@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { MapPin } from 'lucide-react';
+import SafeImage from './SafeImage';
 
 export default function CityCard({ id, name, title, image }) {
   return (
@@ -8,7 +9,7 @@ export default function CityCard({ id, name, title, image }) {
       className="group relative overflow-hidden rounded-2xl aspect-[4/3] bg-forest-dark flex flex-col justify-end p-6 food-card-shadow transition-all duration-500 hover:-translate-y-1.5 border border-gold/10 dark:border-cream/5"
     >
       {/* Background Landscape Image */}
-      <img
+      <SafeImage
         src={image}
         alt={name}
         className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-110 opacity-70 group-hover:opacity-80"

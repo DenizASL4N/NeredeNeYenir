@@ -2,43 +2,113 @@
   "id": "ankara",
   "il_adi": "Ankara",
   "title": "Cumhuriyetin Kalbi",
-  "unsplash_query": "ankara anitkabir landscape",
-  "image": "/sehirler/ankara.jpg",
+  "image": "/sehirler/ankara.webp",
   "yemekler": [
     {
       "id": "ankara_ankara_tavasi",
-      "name": "Ankara Tavası",
+      "name": "Ankara Tava",
       "category": "Ana Yemek",
-      "image": "/yemekler/ankara_ankara_tavasi_ankara_tavasi.jpg",
-      "history": "Arpa şehriyenin tereyağında kavrulup, üzerine ağır ağır pişmiş kemikli kuzu eti yerleştirilmesi ve et suyuyla fırınlanmasıyla yapılır. İç Anadolu'nun tahıl ve koyunculuk merkezli eski mutfak kültürünün ziyafet yemeğidir."
+      "image": "/yemekler/ankara_ankara_tavasi.webp",
+      "history": "Kuzu etinin arpa şehriyeyle birlikte fırında pişirildiği bir yemektir. Etin Çubuk, Beypazarı, Kalecik, Polatlı ve Haymana'dan gelmesi gerekir. 2017'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/ankara-tava-176ee",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_tava.jpg"
+      }
+    },
+    {
+      "id": "ankara_akyurt_tutmac",
+      "name": "Akyurt Tutmaç Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/ankara_akyurt_tutmac.webp",
+      "history": "Hamurdan kesilen tutmaç parçalarıyla hazırlanan geleneksel bir çorbadır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/ankara/ankaranin-cografi-isaretli-urunlerini-taniyor-muyuz-61881",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tutma%C3%A7_soup.jpg"
+      }
     },
     {
       "id": "ankara_beypazari_kurusu",
       "name": "Beypazarı Kurusu",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ankara_beypazari_kurusu_beypazari_kurusu.jpg",
-      "history": "Tereyağı, tarçın, mahlep ve unla yoğrulan hamurun taş fırınlarda kurutularak peksimet formuna getirilmesidir. İpek Yolu üzerinde bulunan Beypazarı'nda kervan yolcuları için bir yıl boyunca bozulmayan bir yiyecek olarak üretilmeye başlanmıştır."
+      "category": "Hamur İşi",
+      "image": "/yemekler/ankara_beypazari_kurusu.webp",
+      "history": "Uzun süre dayanabilen, çıtır yapılı bir kuru ekmek ve kurabiye türüdür. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/ankara/ankaranin-cografi-isaretli-urunlerini-taniyor-muyuz-61881",
+      "gorsel": {
+        "yazar": "Geziorum",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beypazar%C4%B1-kurusu-firinda.jpg"
+      }
     },
     {
-      "id": "ankara_tamtak_tiridi",
-      "name": "Tamtak Tiridi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ankara_tamtak_tiridi_tamtak_tiridi.jpg",
-      "history": "Bayat ekmeklerin doğranıp üzerine haşlanmış et suyu dökülmesi, ardından kavrulmuş kıyma ve sarımsaklı yoğurt eklenmesiyle yapılır. Kıtlık ve savaş dönemlerinde hiçbir malzemenin israf edilmemesi ilkesiyle doğmuş bir Anadolu klasiğidir."
+      "id": "ankara_ankara_simidi",
+      "name": "Ankara Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/ankara_ankara_simidi.webp",
+      "history": "Pekmezli suya batırılıp susama bulanan, çıtır yapılı bir simittir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/ankara/ankaranin-cografi-isaretli-urunlerini-taniyor-muyuz-61881",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_simidi_or_simit_of_Ankara.jpg"
+      }
     },
     {
-      "id": "ankara_i̇ncegiz_corbasi",
-      "name": "İnceğiz Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/ankara_i̇ncegiz_corbasi_incegiz_corbasi.jpg",
-      "history": "Kuzu eti, haşlanmış nohut, yarma (buğday) ve yoğurtlu terbiyenin birleşmesiyle hazırlanan doyurucu bir çorbadır. Adını Ankara'nın eski yerleşimlerinden alır ve kış aylarının şifa kaynağı olarak bilinir."
+      "id": "ankara_kizilcahamam_bazlamasi",
+      "name": "Kızılcahamam Bazlaması",
+      "category": "Hamur İşi",
+      "image": "/yemekler/ankara_kizilcahamam_bazlamasi.webp",
+      "history": "Sacda pişirilen yumuşak dokulu yassı bir ekmektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/ankara/ankaranin-cografi-isaretli-urunlerini-taniyor-muyuz-61881",
+      "gorsel": {
+        "yazar": "Manaurum0123",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bazlama_cooked.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "ankara_urus_kapama",
-      "name": "Uruş Kapama",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ankara_urus_kapama_urus_kapama.jpg",
-      "history": "Toprak bir küpün içine et, domates, biber ve baharatların konulup ters çevrilerek fırınlanmasıyla yapılan kapama türü bir yemektir. Geçmişte tarlalarda çalışan köylülerin ateşe bırakıp saatler sonra hazır buldukları bir çalışma yemeğidir."
+      "id": "ankara_havuc_lokumu",
+      "name": "Beypazarı Havuç Lokumu",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_lokum.webp",
+      "history": "Havuçla hazırlanan bir lokumdur. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/ankara/ankaranin-cografi-isaretli-urunlerini-taniyor-muyuz-61881",
+      "gorsel": {
+        "yazar": "Maksym Kozlenko",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "ankara_cubuk_tursusu",
+      "name": "Çubuk Turşusu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_tursu.webp",
+      "history": "Çubuk ilçesine özgü bir salatalık çeşidinden yapılan turşudur. 2017'de tescillenmiştir; ilçede her yıl turşu festivali düzenlenir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/haberleri/cubuk-tursusu",
+      "gorsel": {
+        "yazar": "Alan Levine",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Plant-fruit-food-produce-vegetable-mason-jar-193818-jpg.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "A.Savin",
+    "lisans": "FAL",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg"
+  }
 }

@@ -2,43 +2,85 @@
   "id": "edirne",
   "il_adi": "Edirne",
   "title": "Mimar Sinan'ın İncisi",
-  "unsplash_query": "edirne selimiye cami landscape",
-  "image": "/sehirler/edirne.jpg",
+  "image": "/sehirler/edirne.webp",
   "yemekler": [
     {
       "id": "edirne_tava_ciger",
-      "name": "Tava Ciğer",
+      "name": "Edirne Tava Ciğeri",
       "category": "Sokak Lezzeti",
-      "image": "/yemekler/edirne_tava_ciger_tava_ciger.jpg",
-      "history": "Dana ciğerinin bütün zarlarının soyulup yaprak inceliğinde doğranması, kana bulandıktan sonra iyice yıkanıp unlanarak dev tavalardaki kızgın ayçiçek yağında 1-2 dakika içinde \"cız\" diye pişirilmesidir. Yanında mutlaka Karaağaç yöresinde kurutulmuş acı biberle yenir. Balkanlardan gelen bir Osmanlı mutfağı mirasıdır."
+      "image": "/yemekler/edirne_tava_ciger.webp",
+      "history": "İnce dilimlenen dana ciğerinin una bulanıp ayçiçek yağında kızartılmasıyla yapılır; yanında kurutulmuş acı biberle servis edilir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/edirne-tava-cigeri-c2185",
+      "gorsel": {
+        "yazar": "Fred Cherrygarden",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Edirne_Tava_Ci%C4%9Feri.jpg"
+      }
     },
     {
       "id": "edirne_ciger_sarma",
-      "name": "Ciğer Sarma",
-      "category": "Aperatif",
-      "image": "/yemekler/edirne_ciger_sarma_ciger_sarma.htm",
-      "history": "Kuzu ciğeri, pirinç, taze soğan, çam fıstığı ve baharatlarla yapılan nefis bir iç pilavın, kuzu gömleğine (zarına) bohça gibi sarılarak fırınlanmasıdır. Özellikle bahar aylarında (Hıdırellez zamanı) bolluk ve bereket getirmesi için yapılan çok eski bir Trakya ritüel yemeğidir."
-    },
-    {
-      "id": "edirne_elbasan_tava",
-      "name": "Elbasan Tava",
+      "name": "Edirne Ciğer Sarması",
       "category": "Ana Yemek",
-      "image": "/yemekler/edirne_elbasan_tava_elbasan_tava.jpg",
-      "history": "Haşlanmış kuzu etinin bir tepsiye alınıp, üzerine süzme yoğurt, yumurta sarısı, un ve et suyuyla yapılan kalın bir sosun dökülmesi ve fırınlanmasıdır. İsmini Arnavutluk'un Elbasan şehrinden alan, Osmanlı döneminde Balkanlardan Edirne'ye taşınan köklü bir yemektir."
+      "image": "/yemekler/edirne_tava_ciger.webp",
+      "history": "Ciğerin baharatla hazırlanıp kuzu zarına sarılarak pişirilmesiyle yapılır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/edirne-ciger-sarma-tescillendi-696004.html",
+      "gorsel": {
+        "yazar": "Fred Cherrygarden",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Edirne_Tava_Ci%C4%9Feri.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "edirne_badem_ezmesi",
-      "name": "Badem Ezmesi",
+      "name": "Edirne Badem Ezmesi",
       "category": "Tatlı",
-      "image": "/yemekler/edirne_badem_ezmesi_badem_ezmesi.jpg",
-      "history": "Edirne yöresinin kaliteli tatlı bademlerinin sıcak suda bekletilip kabuklarının soyulması, kurutulup dövüldükten sonra şeker ve su (şerbet) ile macun kıvamına gelene dek yoğrulmasıyla yapılır. Edirne Sarayı'nda padişahlara sunulan özel saray tatlılarındandır."
+      "image": "/yemekler/edirne_badem_ezmesi.webp",
+      "history": "Badem ve şekerle hazırlanan bir şekerlemedir. 2022'de menşe adıyla tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/edirne-badem-ezmesi-58943",
+      "gorsel": {
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Badem_ezmesi_2.JPG"
+      }
     },
     {
       "id": "edirne_deva-i_misk_helvasi",
       "name": "Deva-i Misk Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/edirne_deva-i_misk_helvasi_deva_i_misk_helvasi.jpg",
-      "history": "İçinde 41 çeşit baharat, yumurta akı ve bal bulunan, hem tatlı hem şifa macunu olarak bilinen Edirne'ye özgü bir helvadır. Kırkpınar yağlı güreşlerinde pehlivanlara güç vermesi için yedirilmesiyle meşhurdur."
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Osmanlı döneminden kalan, baharatlarla hazırlanan geleneksel bir helvadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/osmanlinin-sifali-helvasi-devai-misk-cografi-isaret-aldi-1611653",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "edirne_beyaz_peynir",
+      "name": "Edirne Beyaz Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Edirne yöresinde üretilen beyaz peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/edirne-ciger-sarma-tescillendi-696004.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Tevfik Teker",
+    "lisans": "CC BY 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg"
+  }
 }

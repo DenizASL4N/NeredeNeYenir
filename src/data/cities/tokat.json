@@ -2,43 +2,117 @@
   "id": "tokat",
   "il_adi": "Tokat",
   "title": "Tarihi Yazmacılık ve Hanlar",
-  "unsplash_query": "tokat ballica magarasi",
-  "image": "/sehirler/tokat.jpg",
+  "image": "/sehirler/tokat.webp",
   "yemekler": [
     {
       "id": "tokat_tokat_kebabi",
       "name": "Tokat Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/tokat_tokat_kebabi_tokat_kebabi.jpg",
-      "history": "Kuzu etinin, kuyruk yağı, patlıcan, domates, biber, sarımsak ve patatesle birlikte özel yatay şişlere dizilmesi, etin suyunun sebzelere akması için dikey duran özel fırınlarda pişirilmesidir. Tokat'ın gastronomi markasıdır."
+      "image": "/yemekler/tokat_tokat_kebabi.webp",
+      "history": "Kuzu eti, patlıcan, patates ve domatesin şişlere dizilip taş fırında pişirildiği bir kebaptır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_kebap.jpg"
+      }
     },
     {
       "id": "tokat_bat",
       "name": "Bat",
-      "category": "Ana Yemek",
-      "image": "/yemekler/tokat_bat_bat.jpg",
-      "history": "Yeşil mercimek, ceviz, ince bulgur, domates, biber ve taze nane/maydanoz ile hazırlanan; yaprak sarması veya kızarmış ekmekle birlikte \"soğuk\" tüketilen, Tokatlıların akşam çaylarında mutlaka bulundurduğu eşsiz bir yemektir."
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Yeşil mercimek, bulgur ve sebzelerle hazırlanan, soğuk yenen bir Tokat yemeğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "tokat_tokat_yapragi_sarmasi",
-      "name": "Tokat Yaprağı Sarması",
-      "category": "Aperatif",
-      "image": "/yemekler/tokat_tokat_yapragi_sarmasi_tokat_yapragi_sarmasi.jpg",
-      "history": "Dünyaca ünlü, çok ince ve zarif Tokat asma yaprağının içine, kıymalı veya zeytinyağlı harcın konulup, kalem gibi incecik sarılmasıdır."
+      "name": "Tokat Yaprak Sarması",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/tokat_tokat_yapragi_sarmasi.webp",
+      "history": "Tokat'ın asma yapraklarıyla hazırlanan sarmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gazetebirlik.com/yerel-haberler/tokatin-cografi-isaretli-yaprak-sarmasi-turkiyenin-dort-bir-yanina-ulasiyor/1054782",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Etli_yaprak_sarma_in_Turkey.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "tokat_keskek",
-      "name": "Keşkek",
+      "name": "Tokat Keşkeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/tokat_keskek_keskek.jpg",
-      "history": "Buğday ve etin büyük kazanlarda dövülerek sakız kıvamına getirilmesi, Tokat'ın düğün yemeklerinin olmazsa olmazıdır."
+      "image": "/yemekler/tokat_keskek.webp",
+      "history": "Dövme buğday ve etin uzun süre pişirilip dövülmesiyle yapılan bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_ke%C5%9Fke%C4%9Fi.jpg"
+      }
+    },
+    {
+      "id": "tokat_tokat_yaglisi",
+      "name": "Tokat Yağlısı",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "Tokat'a özgü, yağlı hamurla hazırlanan bir hamur işidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yemek-tarifleri/tokatin-yaglisi-cevizli-coregi-ve-ekmegi-cografi-isaret-belgesi-ile-tescillendi-1722131",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "tokat_cevizli_corek",
+      "name": "Tokat Cevizli Çöreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Cevizle hazırlanan geleneksel bir çörektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yemek-tarifleri/tokatin-yaglisi-cevizli-coregi-ve-ekmegi-cografi-isaret-belgesi-ile-tescillendi-1722131",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "tokat_zile_pekmezi",
       "name": "Zile Pekmezi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/tokat_zile_pekmezi_zile_pekmezi.jpg",
-      "history": "Zile ilçesine özgü, beyaz renkli, krem kıvamında, üzüm şırasının özel yöntemlerle çırpılarak ağartılmasıyla yapılan tescilli bir pekmez türüdür."
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/tokat_zile_pekmezi.webp",
+      "history": "Tokat'ın Zile ilçesinde üzümden yapılan, açık renkli ve katı kıvamlı bir pekmezdir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Merdal",
+        "lisans": "CC BY-SA 2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez_kaynatma.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "BurakOtto",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_City_Square.JPG"
+  }
 }

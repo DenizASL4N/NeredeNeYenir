@@ -2,43 +2,95 @@
   "id": "sirnak",
   "il_adi": "Şırnak",
   "title": "Cudi Dağı'nın Gölgesinde",
-  "unsplash_query": "sirnak cudi dagi",
-  "image": "/sehirler/sirnak.jpg",
+  "image": "/sehirler/sirnak.webp",
   "yemekler": [
+    {
+      "id": "sirnak_meyre_corbasi",
+      "name": "Cizre Meyre Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/corum_alaca_yarma_asi.webp",
+      "history": "Cizre yöresine özgü, yoğurt ve tahılla hazırlanan geleneksel bir çorbadır. Cizre Kaymakamlığı adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=73",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran_a%C5%9F%C4%B1.jpg",
+        "temsili": true
+      }
+    },
     {
       "id": "sirnak_kutlik",
       "name": "Kutlık",
       "category": "Ana Yemek",
-      "image": "/yemekler/sirnak_kutlik_kutlik.jpg",
-      "history": "Şırnak usulü içli köftedir; dış harcı daha ince, içi ise ceviz ve yöresel baharatlarla oldukça zengindir. Kızartılarak servis edilir."
+      "image": "/yemekler/diyarbakir_icli_kofte.webp",
+      "history": "Şırnak usulü içli köftedir. Bulgurlu dış hamurun içi kıymalı ve cevizli harçla doldurulur. Bölgenin en eski yemeklerinden kabul edilir.",
+      "cografiIsaret": false,
+      "kaynak": "https://www.enuygun.com/bilgi/sirnak-ta-ne-yenir/",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0%C3%A7li_k%C3%B6fte_2023.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "sirnak_serbidev",
       "name": "Serbidev",
       "category": "Ana Yemek",
-      "image": "/yemekler/sirnak_serbidev_serbidev.jpg",
-      "history": "Yufka ekmeklerin, et suyu ve haşlanmış et parçalarıyla ıslatılması, üzerine sarımsaklı yoğurt ve kızgın tereyağı dökülmesiyle yapılan oldukça doyurucu bir \"tirit\" benzeri yemektir."
+      "image": "/yemekler/_tur_tirit.webp",
+      "history": "Şırnak'ta en çok yapılan yöresel yemeklerden biridir. Ekmeğin et suyu ve yoğurtla birlikte servis edildiği tirit benzeri bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "https://www.enuygun.com/bilgi/sirnak-ta-ne-yenir/",
+      "gorsel": {
+        "yazar": "Zafer",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_Tiridi.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "sirnak_hekehesandi",
-      "name": "Hekeheşandi",
-      "category": "Ana Yemek",
-      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&auto=format&fit=crop&q=80",
-      "history": "Kıyma, ince bulgur ve bol baharatın harmanlanıp pişirildiği, bölgenin düğünlerinde sıkça rastlanan yöresel bir köfte çeşididir."
+      "id": "sirnak_soryaz",
+      "name": "Şırnak Soryaz",
+      "category": "Yöresel Ürün",
+      "image": "",
+      "history": "İlkbaharda toplanan, salamurası yapılarak kış için saklanan yabani bir bitkidir. Şırnak Belediyesi adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=73"
     },
     {
-      "id": "sirnak_kipe",
-      "name": "Kipe",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sirnak_kipe_kipe.jpg",
-      "history": "Mumbar dolmasının Şırnak yöresindeki adıdır; bağırsakların zengin baharatlı harçla doldurulup haşlanmasıyla yapılır."
+      "id": "sirnak_dergul_tahini",
+      "name": "Dergul Tahini",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/sirnak_dergul_tahini.webp",
+      "history": "Şırnak'ın Kumçatı beldesinde, yaklaşık 150 yıllık bir su değirmeninde öğütülen susamdan elde edilen tahindir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.benguturk.com/ekonomi/sirnakta-154-yillik-degirmende-gunde-400-kilogram-tescilli-dergul-tahini-144668h",
+      "gorsel": {
+        "yazar": "Miansari66",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tahini_with_oil.JPG"
+      }
     },
     {
-      "id": "sirnak_meyre_corbasi",
-      "name": "Meyre Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/sirnak_meyre_corbasi_meyre_corbasi.jpg",
-      "history": "Bölgenin \"kurut\" (kurutulmuş yoğurt) ve dövme buğdayı ile yapılan, içine bazen nohut da eklenen şifalı bir kış çorbasıdır."
+      "id": "sirnak_cizre_limonatasi",
+      "name": "Cizre Limonatası",
+      "category": "İçecek",
+      "image": "/yemekler/_tur_limonata.webp",
+      "history": "Cizre'ye özgü, yaz aylarında tüketilen geleneksel bir limonatadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.iscihaber.net/gundem/cografi-isaretli-cizre-limonatasi-tum-turkiyeye-tanitildi/164946",
+      "gorsel": {
+        "yazar": "Twilightin",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mint_lemonade_in_summer.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Zmangeldi",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg"
+  }
 }

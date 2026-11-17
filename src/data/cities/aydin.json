@@ -2,43 +2,104 @@
   "id": "aydin",
   "il_adi": "Aydın",
   "title": "Efe Kültürünün Beşiği",
-  "unsplash_query": "aydin didim landscape",
-  "image": "/sehirler/aydin.jpg",
+  "image": "/sehirler/aydin.webp",
   "yemekler": [
     {
-      "id": "aydin_aydin_keskeki",
-      "name": "Aydın Keşkeki",
-      "category": "Ana Yemek",
-      "image": "/yemekler/aydin_aydin_keskeki_aydin_keskeki.jpg",
-      "history": "Diğer yörelerin aksine Aydın keşkeki daha çok zeytinyağı ile harmanlanır ve genellikle düğünlerde büyük toprak çömleklerde dana veya kuzu etiyle buğdayın sabaha kadar dövülmesiyle yapılır. Efe kültürünün yaşatıldığı köy düğünlerinin vazgeçilmez ziyafet ve yardımlaşma yemeğidir."
-    },
-    {
-      "id": "aydin_cine_koftesi",
-      "name": "Çine Köftesi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/aydin_cine_koftesi_cine_koftesi.jpg",
-      "history": "Az yağlı dana veya kuzu etinin hiçbir baharat kullanılmadan (sadece tuz) yoğrulup meşe kömüründe ızgara edilmesiyle hazırlanan saf et köftesidir. Aydın-Muğla karayolu üzerinde, Yörüklerin saf et tüketme alışkanlığından ortaya çıkmış ünlü bir durak lezzetidir."
-    },
-    {
-      "id": "aydin_pasa_boregi",
-      "name": "Paşa Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/aydin_pasa_boregi_pasa_boregi.jpg",
-      "history": "Elde açılıp et suyunda haşlanan büyük hamur bezelerinin arasına kavrulmuş kıyma konulup kat kat dizilmesi ve üzerine süzme yoğurt eklenmesiyle yapılır. Aydın'ın köklü ailelerinin ve zeybeklerin özel günlerde hazırladığı doyurucu bir ana yemektir."
-    },
-    {
       "id": "aydin_yuvarlama",
-      "name": "Yuvarlama",
+      "name": "Aydın Yuvarlaması",
       "category": "Ana Yemek",
-      "image": "/yemekler/aydin_yuvarlama_yuvarlama.jpg",
-      "history": "İnce bulgur ve kıymanın yoğrulup küçük toplar halinde kızartılması, ardından et suyu ve nohutla haşlanmasıyla yapılan yöresel bir lezzettir. İç Ege mutfağının bulgur ve et sentezinin güzel bir yansımasıdır."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Aydın'ın düğün yemeklerinden biridir. Üretiminde tercihen tescilli Aydın Memecik zeytinyağı kullanılır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/69d52631-120d-4450-8bd7-d5968a13555b.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "aydin_i̇ncir_uyutmasi",
-      "name": "İncir Uyutması",
+      "id": "aydin_soke_sevketi",
+      "name": "Söke Şevketi Bostan Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/aydin_i̇ncir_uyutmasi_incir_uyutmasi.htm",
-      "history": "Kuru incirlerin sıcak sütün içinde bekletilerek sütün mayalanması ve yoğurt kıvamına (puding gibi) gelmesiyle oluşan, rafine şeker içermeyen çok eski bir tatlıdır. Dünyanın en kaliteli incirlerinin yetiştiği Aydın'da, antik dönemlerden kalma bir tarif olduğu düşünülmektedir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Söke yöresinde yetişen şevketi bostan bitkisiyle yapılan bir yemektir. Geleneksel ürün adı olarak tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://aydin.tarimorman.gov.tr/Belgeler/2025/Co%C4%9Frafi%20%C4%B0%C5%9Faret%20MART-%202025.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "aydin_aydin_keskeki",
+      "name": "Aydın Keşkeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Dövme buğday ve etin uzun süre pişirilip dövülmesiyle yapılan, düğün ve bayramlarda hazırlanan bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "aydin_incir_uyutmasi",
+      "name": "İncir Uyutması",
+      "category": "Tatlı",
+      "image": "/yemekler/aydin_incir_uyutmasi.webp",
+      "history": "Kuru incirin sütle birlikte kaynatılıp dinlendirilmesiyle kıvam alan bir sütlü tatlıdır. Aydın'ın incir üretimiyle bağlantılıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Uyutma_dessert.jpg"
+      }
+    },
+    {
+      "id": "aydin_memecik_zeytinyagi",
+      "name": "Aydın Memecik Zeytinyağı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_zeytinyagi.webp",
+      "history": "Aydın'da yetişen memecik zeytininden elde edilen zeytinyağıdır. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ensonhaber.com/aydin-memecik-zeytinyagi-abden-cografi-isaret-aldi-h1223509",
+      "gorsel": {
+        "yazar": "margenauer from Pixabay",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "aydin_cam_fistigi",
+      "name": "Aydın Çam Fıstığı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_cam_fistigi.webp",
+      "history": "Aydın'ın fıstık çamı ormanlarından elde edilen çam fıstığıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/aydin-cam-fistigi-1c35b",
+      "gorsel": {
+        "yazar": "Eugene Zelenko",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Siberian_pine_nuts-2.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "CeeGee",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:MonumentAyd%C4%B1n_(3).JPG"
+  }
 }

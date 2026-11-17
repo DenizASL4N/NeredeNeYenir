@@ -2,43 +2,69 @@
   "id": "samsun",
   "il_adi": "Samsun",
   "title": "Kurtuluş Meşalesinin Yandığı Yer",
-  "unsplash_query": "samsun ataturk aniti landscape",
-  "image": "/sehirler/samsun.jpg",
+  "image": "/sehirler/samsun.webp",
   "yemekler": [
     {
       "id": "samsun_bafra_pidesi",
       "name": "Bafra Pidesi",
-      "category": "Aperatif",
-      "image": "/yemekler/samsun_bafra_pidesi_bafra_pidesi.jpg",
-      "history": "İncecik açılan hamurun uçlarının kapatılıp \"kapalı\" bir kano şekli verilmesi, içine bol kıyma ve soğan harcının konulup fırından çıktıktan sonra üzerine bolca tereyağı sürülmesiyle yapılan çıtır çıtır bir pidedir."
+      "category": "Hamur İşi",
+      "image": "/yemekler/samsun_bafra_pidesi.webp",
+      "history": "İnce ve uzun açılan hamurun içine kıyma ya da kuşbaşı et konarak taş fırında pişirildiği bir pidedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.habergazetesi.com.tr/samsunun-cografi-isaretli-lezzetleri-karadenizin-en-ozgun-tatlari",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bafra_pidesi.jpg"
+      }
+    },
+    {
+      "id": "samsun_terme_pidesi",
+      "name": "Terme Pidesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/samsun_terme_pidesi.webp",
+      "history": "Samsun'un Terme ilçesine özgü, taş fırında pişirilen bir pidedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.habergazetesi.com.tr/samsunun-cografi-isaretli-lezzetleri-karadenizin-en-ozgun-tatlari",
+      "gorsel": {
+        "yazar": "Cobija",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Samsun_pidesi_yapan_pide_ustas%C4%B1.JPG",
+        "temsili": true
+      }
+    },
+    {
+      "id": "samsun_nokul",
+      "name": "Bafra Nokulu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/samsun_nokul.webp",
+      "history": "Hamurun cevizli ya da üzümlü harçla sarılıp fırında pişirilmesiyle yapılan bir hamur işidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Erdall",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Samsun_y%C3%B6resi-Nokul.jpg"
+      }
     },
     {
       "id": "samsun_cakalli_menemeni",
       "name": "Çakallı Menemeni",
-      "category": "Ana Yemek",
-      "image": "/yemekler/samsun_cakalli_menemeni_cakalli_menemeni.jpg",
-      "history": "Soğan kullanılmaz. Domateslerin kabuklarının soyulup tamamen püre haline gelene kadar pişirilmesi, içine bolca taze kaşar peyniri ve sadece yumurta sarısı (veya yumurta) eklenerek yapılan Samsun-Çakallı mevkisine özgü bir kahvaltı lezzetidir."
-    },
-    {
-      "id": "samsun_samsun_simidi",
-      "name": "Samsun Simidi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/samsun_samsun_simidi_samsun_simidi.jpg",
-      "history": "Diğer şehirlerin simitlerinden farklı olarak, uzun süre pekmezli suda bekletilip fırınlanması, oldukça sert ve çıtır bir yapıda olmasıyla bilinir."
-    },
-    {
-      "id": "samsun_nokul",
-      "name": "Nokul",
-      "category": "Ana Yemek",
-      "image": "/yemekler/samsun_nokul_nokul.jpg",
-      "history": "İnce açılan yufkanın üzerine bol ceviz, üzüm ve şeker serpilip rulo yapılarak pişirilmesiyle elde edilen, düğünlerde ve bayramlarda ikram edilen geleneksel bir hamur işidir."
-    },
-    {
-      "id": "samsun_kivratma_tatlisi",
-      "name": "Kıvratma Tatlısı",
-      "category": "Tatlı",
-      "image": "/yemekler/samsun_kivratma_tatlisi_kivratma_tatlisi.jpg",
-      "history": "İnce yufkaların cevizle büzülüp tepsiye dizilmesi ve üzerlerine şerbet dökülerek pişirilmesi, Samsun mutfağının en sevilen bayram tatlısıdır."
+      "category": "Kahvaltılık",
+      "image": "/yemekler/samsun_cakalli_menemeni.webp",
+      "history": "Samsun'un Çakallı beldesinde yol üstü lokantalarında yapılan, bol tereyağlı bir menemendir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87akall%C4%B1_menemeni_in_a_sahan.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Johnstanbul",
+    "lisans": "CC0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Samsun_Saathane_Square.jpg"
+  }
 }

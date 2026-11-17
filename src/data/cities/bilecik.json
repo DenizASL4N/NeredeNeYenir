@@ -2,43 +2,101 @@
   "id": "bilecik",
   "il_adi": "Bilecik",
   "title": "Kuruluşun Toprakları",
-  "unsplash_query": "bilecik seyh edebali landscape",
-  "image": "/sehirler/bilecik.jpg",
+  "image": "/sehirler/bilecik.webp",
   "yemekler": [
     {
-      "id": "bilecik_bildircin_kebabi",
-      "name": "Bıldırcın Kebabı",
+      "id": "bilecik_eksili_kesme_corbasi",
+      "name": "Bilecik Ekşili Kesme Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/erzincan_kesme_corbasi.webp",
+      "history": "Hamurdan kesilen küçük parçaların ekşili bir çorbada pişirilmesiyle yapılır. Bilecik Ticaret ve Sanayi Odası adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gazetebirlik.com/kultur-sanat/marmaranin-lezzet-duragi-bilecik-cografi-isaretli-hazineler-gorucuye-cikti/998507",
+      "gorsel": {
+        "yazar": "Soochun Yuk",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eri%C5%9Fte_%C3%A7orbas%C4%B1.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bilecik_firin_kebabi",
+      "name": "Bilecik Fırın Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/bilecik_bildircin_kebabi_bildircin_kebabi.jpg",
-      "history": "Temizlenmiş bıldırcınların tereyağı, soğan, domates ve yöresel baharatlarla toprak güveçlerde veya mangalda nar gibi kızarana dek pişirilmesidir. Ormanlık alanı bol olan bölgenin köklü avcılık kültürünün mutfağa yansımış en lezzetli örneğidir."
+      "image": "/yemekler/konya_firin_kebabi.webp",
+      "history": "Etin belirli bir işlem sırasıyla fırında uzun süre pişirilmesiyle hazırlanan bir kebaptır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gazetebirlik.com/kultur-sanat/marmaranin-lezzet-duragi-bilecik-cografi-isaretli-hazineler-gorucuye-cikti/998507",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_style_kuzu_tand%C4%B1r.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "bilecik_nohutlu_manti",
-      "name": "Nohutlu Mantı",
-      "category": "Aperatif",
-      "image": "/yemekler/bilecik_nohutlu_manti_nohutlu_manti.jpg",
-      "history": "Klasik kıymalı mantıdan farklı olarak, haşlanmış ve ezilmiş nohut ile baharat karışımının hamurun içine doldurulmasıyla yapılır. Bilecik'in buğday ve bakliyat ağırlıklı İç Anadolu ve Marmara geçiş iklimi mutfağına ait, doyurucu bir ev yemeğidir."
+      "id": "bilecik_papaz_yahnisi",
+      "name": "Bilecik Papaz Yahnisi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bilecik_papaz_yahnisi.webp",
+      "history": "Et ve soğanla pişirilen, kökü Osmanlı mutfağına dayanan bir yahnidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberler.com/guncel/bilecik-papaz-yahnisine-cografi-isaret-tescili-19472575-haberi/",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Papaz_yahnisi.jpg"
+      }
     },
     {
-      "id": "bilecik_buzme_tatlisi",
-      "name": "Büzme Tatlısı",
+      "id": "bilecik_bildircin_kebabi",
+      "name": "Bilecik Bıldırcın Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Bıldırcın etiyle hazırlanan, Bilecik'te köklü bir geçmişi olan bir kebaptır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bilecik_ayva_lokumu",
+      "name": "Osmaneli Ayva Lokumu",
       "category": "Tatlı",
-      "image": "/yemekler/bilecik_buzme_tatlisi_buzme_tatlisi.jpg",
-      "history": "İncecik açılan yufkaların arasına bol dövülmüş ceviz serpilip oklavaya sarılması ve her iki uçtan büzülerek fırınlanması, ardından şerbetlenmesiyle hazırlanır. Özel günlerde, bayramlarda ve düğünlerde yapılan yörenin en zahmetli hamurlu tatlısıdır."
+      "image": "/yemekler/_tur_lokum.webp",
+      "history": "Osmaneli'nin ayvasıyla hazırlanan bir lokumdur. 2021'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/osmaneli-ayva-lokumu-d84c1",
+      "gorsel": {
+        "yazar": "Maksym Kozlenko",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_delight.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "bilecik_pazaryeri_helvasi",
       "name": "Pazaryeri Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/bilecik_pazaryeri_helvasi_pazaryeri_helvasi.jpg",
-      "history": "Yüz yılı aşkın bir geçmişe sahip olan, yörede yetişen çöğen bitkisinin suyu, şeker ve kaliteli tahinin usta ellerde uzun süre çırpılmasıyla yapılan şekersiz, hafif bir tahin helvasıdır. Coğrafi işaretli bu helva, Balkanlardan göç eden ustaların bölgeye hediyesidir."
-    },
-    {
-      "id": "bilecik_dag_erigi_eksisi",
-      "name": "Dağ Eriği Ekşisi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bilecik_dag_erigi_eksisi_dag_erigi_eksisi.jpg",
-      "history": "Doğada kendiliğinden yetişen yabani ekşi eriklerin toplanıp saatlerce kaynatılarak püre ve sos haline getirilmesiyle elde edilir. Salatalara, kısır ve sarmalara mayhoş bir tat vermek için kullanılan, doğal ve çok eski bir yöntemdir."
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Bilecik'in Pazaryeri ilçesinde üretilen geleneksel bir helvadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Samet Berber",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Bilecik.jpg"
+  }
 }

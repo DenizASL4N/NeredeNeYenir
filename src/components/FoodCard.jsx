@@ -1,4 +1,5 @@
-import { Heart, BookOpen } from 'lucide-react';
+import { Heart, BookOpen, BadgeCheck } from 'lucide-react';
+import SafeImage from './SafeImage';
 
 export default function FoodCard({ food, isFavorite, onToggleFavorite, onViewDetails }) {
   return (
@@ -27,7 +28,7 @@ export default function FoodCard({ food, isFavorite, onToggleFavorite, onViewDet
         onClick={() => onViewDetails(food)}
         className="relative overflow-hidden aspect-[4/3] cursor-pointer"
       >
-        <img
+        <SafeImage
           src={food.image}
           alt={food.name}
           className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
@@ -42,6 +43,25 @@ export default function FoodCard({ food, isFavorite, onToggleFavorite, onViewDet
         }`}>
           {food.category}
         </span>
+
+        {food.cografiIsaret && (
+          <span
+            className="absolute top-3 left-3 inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold shadow-sm bg-gold text-forest-dark"
+            title="Coğrafi işaretle tescilli"
+          >
+            <BadgeCheck size={13} />
+            Coğrafi İşaretli
+          </span>
+        )}
+
+        {food.gorsel?.temsili && (
+          <span
+            className="absolute bottom-3 right-3 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-forest-dark/70 text-cream backdrop-blur-sm"
+            title={food.gorsel.kategori ? 'Fotoğraf aynı kategoriden bir yemeği gösterir' : 'Fotoğraf aynı türden bir yemeği gösterir'}
+          >
+            {food.gorsel.kategori ? 'Kategori fotoğrafı' : 'Temsili fotoğraf'}
+          </span>
+        )}
       </div>
 
       {/* Content */}
@@ -64,7 +84,7 @@ export default function FoodCard({ food, isFavorite, onToggleFavorite, onViewDet
             className="flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-gold dark:border-gold/50 text-forest dark:text-gold hover:bg-gold/10 dark:hover:bg-gold/5 text-xs font-bold tracking-wider uppercase transition-colors duration-200 w-full"
           >
             <BookOpen size={14} />
-            <span>Hikayeyi Oku</span>
+            <span>Detaylar</span>
           </button>
         </div>
       </div>

@@ -2,43 +2,88 @@
   "id": "elazig",
   "il_adi": "Elazığ",
   "title": "Gakkoşlar Diyarı Harput",
-  "unsplash_query": "elazig harput kalesi landscape",
-  "image": "/sehirler/elazig.jpg",
+  "image": "/sehirler/elazig.webp",
   "yemekler": [
     {
       "id": "elazig_harput_koftesi",
       "name": "Harput Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/elazig_harput_koftesi_harput_koftesi.jpg",
-      "history": "Yağsız dövülmüş et, ince bulgur (simit), kuru soğan ve kurutulmuş reyhanın uzun süre yoğrulup fındık veya tekerlek büyüklüğünde şekillendirilerek, salçalı ve tereyağlı sıcak suda haşlanmasıdır. Harput'un o zarif ve köklü mutfak kültürünün baş köşesindedir."
+      "image": "/yemekler/_tur_kofte_sulu.webp",
+      "history": "Bulgur ve kıymadan yapılan köftelerin domatesli suda pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sulu_kofte_in_Ankara.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "elazig_sirin_sirin-sor",
-      "name": "Sırın (Sırın-Şor)",
+      "name": "Elazığ Sırın Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/elazig_sirin_sirin-sor_sirin_sirin_sor.jpg",
-      "history": "Sacda pişirilmiş incecik yufkaların rulo yapılarak üçer santimlik dilimler halinde kesilip tepsiye dik dik dizilmesi, üzerine bol sarımsaklı süzme yoğurt ve cızırdayan kızgın tereyağı dökülerek yumuşatılmasıdır."
-    },
-    {
-      "id": "elazig_lobik_corbasi",
-      "name": "Lobik Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/elazig_lobik_corbasi_lobik_corbasi.jpg",
-      "history": "Küçük taneli ve siyah gözlü bir tür yöresel börülce olan \"lobik\" otu/bakliyatı ile hazırlanan, içine aşurelik buğday, kavrulmuş soğan ve nane katılan eski bir kış çorbasıdır."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Elazığ'a özgü geleneksel bir yemektir. Elazığ Ticaret ve Sanayi Odası adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/tr/pub/akusosbil/article/1081004",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "elazig_gombe_kombe",
-      "name": "Gömbe (Kömbe)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/elazig_gombe_kombe_gombe_kombe.jpg",
-      "history": "Altı ve üstü oldukça kalın, mayalı bir hamurdan yapılan, arasına yöresel kavrulmuş kıyma, ceviz ve bol baharat konularak taş fırınlarda tepsilerle pişen ağır ve son derece doyurucu bir Anadolu çöreğidir."
+      "name": "Gömbe",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Elazığ'da yapılan, kalın ve yumuşak dokulu bir çörektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "elazig_orcik_cevizli_sucuk",
-      "name": "Orcik (Cevizli Sucuk)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/elazig_orcik_cevizli_sucuk_orcik_cevizli_sucuk.jpg",
-      "history": "İpe dizilmiş yarım cevizlerin, bölgenin dünyaca ünlü üzümlerinden elde edilen şıranın un ile kaynatılmasıyla yapılan \"bulamaç\" (paluze) kazanlarına defalarca batırılıp güneşte asılarak kurutulmasıdır. Harput'un eski bağcılık kültürünün en değerli kışlık ürünüdür."
+      "name": "Elazığ Orciği",
+      "category": "Tatlı",
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Cevizin ipe dizilip üzüm şırası ve nişastayla hazırlanan bulamaca defalarca batırılarak kurutulmasıyla yapılır; cevizli sucuk olarak da bilinir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/tr/pub/akusosbil/article/1081004",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "elazig_agin_leblebisi",
+      "name": "Ağın Leblebisi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/corum_leblebi.webp",
+      "history": "Elazığ'ın Ağın ilçesinde üretilen leblebidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/tr/pub/akusosbil/article/1081004",
+      "gorsel": {
+        "yazar": "Physicistjedi",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leblebi.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Klaus-Peter Simon",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Elazig_Izzetpascha-Moschee.jpg"
+  }
 }

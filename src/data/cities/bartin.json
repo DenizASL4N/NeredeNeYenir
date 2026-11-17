@@ -2,43 +2,106 @@
   "id": "bartin",
   "il_adi": "Bartın",
   "title": "Amasra'nın Tarihi Limanı",
-  "unsplash_query": "bartin amasra landscape",
-  "image": "/sehirler/bartin.jpg",
+  "image": "/sehirler/bartin.webp",
   "yemekler": [
+    {
+      "id": "bartin_yumurtali_isput",
+      "name": "Bartın Yumurtalı Isput Yemeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Isput otunun yumurtayla pişirildiği yöresel bir yemektir. 2022'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bartin-yumurtali-isput-yemegi-59683",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
     {
       "id": "bartin_amasra_salatasi",
       "name": "Amasra Salatası",
-      "category": "Meze",
-      "image": "/yemekler/bartin_amasra_salatasi_amasra_salatasi.jpg",
-      "history": "İçinde 30'dan fazla sebze çeşidinin (yöresel otlar, turplar, marullar) bulunduğu, özel sosuyla sunulan ve \"bir salatadan fazlası\" olarak kabul edilen, Türkiye'nin en ünlü salatasıdır."
-    },
-    {
-      "id": "bartin_yumurtali_i̇sput",
-      "name": "Yumurtalı İsput",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bartin_yumurtali_i̇sput_yumurtali_isput.jpg",
-      "history": "Karadeniz'in yöresel otu olan \"isput\"un haşlanıp soğanla kavrulması ve üzerine yumurta kırılmasıyla yapılan sağlıklı bir sebze yemeğidir."
-    },
-    {
-      "id": "bartin_pirincli_manti",
-      "name": "Pirinçli Mantı",
-      "category": "Aperatif",
-      "image": "/yemekler/bartin_pirincli_manti_pirincli_manti.jpg",
-      "history": "Mantı hamurunun içine kıyma yerine pirinç, soğan ve baharatlı bir iç harcın konulmasıyla yapılan, Bartın'a özgü ilginç bir mantı türüdür."
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Bartın'ın Amasra ilçesine özgü, yeşillik ve sebzelerle hazırlanan bir salatadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "bartin_pumpum_corbasi",
       "name": "Pumpum Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/bartin_pumpum_corbasi_pumpum_corbasi.jpg",
-      "history": "Mısır ununun tavuk suyu ve yöresel malzemelerle pişirilmesiyle yapılan, yoğun kıvamlı geleneksel bir çorbadır."
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Mısır unu ve fasulyeyle hazırlanan, Bartın ve Zonguldak'ta yapılan bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "bartin_i̇ncir_dondurmasi",
-      "name": "İncir Dondurması",
+      "id": "bartin_ramazan_simidi",
+      "name": "Bartın Ramazan Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/corum_corum_simidi.webp",
+      "history": "Ramazan aylarında yapılan geleneksel bir simittir. Bartın Belediyesi adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bartin-ramazan-simidi-6cfcc",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Simit-2x.JPG",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bartin_tatli_boregi",
+      "name": "Bartın Tatlı Böreği",
       "category": "Tatlı",
-      "image": "/yemekler/bartin_i̇ncir_dondurmasi_incir_dondurmasi.jpg",
-      "history": "İncirin mevsiminde toplanıp süt ile mayalanması ve dondurulmuş gibi servis edilmesiyle yapılan, tamamen doğal ve ferahlatıcı bir tatlıdır."
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "Bartın'a özgü, tatlı olarak hazırlanan geleneksel bir böreğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bartin-tatli-boregi-94443",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bartin_kabak_burma",
+      "name": "Bartın Kabak Burma Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Kabakla hazırlanan bir burma tatlısıdır. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bartin-kabak-burma-tatlisi-bartin-kabak-burmasi-b4",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Wixama",
+    "lisans": "CC BY 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Bartin_SehirMerkezi.jpg"
+  }
 }

@@ -2,43 +2,85 @@
   "id": "artvin",
   "il_adi": "Artvin",
   "title": "Yeşilin Binbir Tonu",
-  "unsplash_query": "artvin karagol landscape",
-  "image": "/sehirler/artvin.jpg",
+  "image": "/sehirler/artvin.webp",
   "yemekler": [
     {
-      "id": "artvin_kuymak",
-      "name": "Kuymak",
-      "category": "Ana Yemek",
-      "image": "/yemekler/artvin_kuymak_kuymak.jpg",
-      "history": "Mısır unu ve tereyağının kavrulup üzerine Artvin'e özgü minci (çökelek) veya imansız peynir ve su eklenerek uzayana kadar pişirilmesiyle yapılır. Karadeniz'in zorlu ve dik yamaçlarında çalışan halkın sabahları güne enerjiyle başlamak için tükettiği en temel gıdadır."
+      "id": "artvin_laz_boregi",
+      "name": "Hopa Laz Böreği",
+      "category": "Tatlı",
+      "image": "/yemekler/artvin_laz_boregi.webp",
+      "history": "İnce yufka katlarının arasına muhallebi konarak fırınlanan ve şerbetlenen bir tatlıdır. Hopa'nın coğrafi işaretle tescil edilen ilk ürünüdür.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/laz-boregi-tescillendi-2345266",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Real_laz_b%C3%B6re%C4%9Fi_(with_pepper).jpg"
+      }
+    },
+    {
+      "id": "artvin_hamsili_ekmek",
+      "name": "Artvin Hamsili Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_ekmek.webp",
+      "history": "Mısır unlu hamura hamsi katılarak fırında pişirilen bir ekmektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.kalkinmakutuphanesi.gov.tr/assets/upload/dosyalar/yoresel-urun-katalogu--cift-sayfa-lq.pdf",
+      "gorsel": {
+        "yazar": "James (Jim) Gordon",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woman_making_flat_bread_in_a_Kurdish_village_near_the_Turkish_border.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "artvin_savsat_ketesi",
+      "name": "Şavşat Ketesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Artvin'in Şavşat ilçesine özgü, katmerli bir hamur işidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.kalkinmakutuphanesi.gov.tr/assets/upload/dosyalar/yoresel-urun-katalogu--cift-sayfa-lq.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "artvin_karalahana_sarmasi",
       "name": "Karalahana Sarması",
-      "category": "Aperatif",
-      "image": "/yemekler/artvin_karalahana_sarmasi_karalahana_sarmasi.jpg",
-      "history": "Haşlanmış sarmalık karalahana yapraklarının içine satır kıyması, bulgur (veya pirinç), soğan, salça ve yöresel baharatlardan oluşan harcın sarılarak pişirilmesidir. Karadeniz iklimine en çok dayanan bitki olan lahananın binbir çeşidinden en sevileni ve besleyicisidir."
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/artvin_karalahana_sarmasi.webp",
+      "history": "Karalahana yapraklarının pirinçli ve kıymalı harçla sarılmasıyla yapılan, Doğu Karadeniz'de yaygın bir sarmadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Garrett Ziegler",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Karalahana_Sarmas%C4%B1.jpg"
+      }
     },
     {
-      "id": "artvin_silor_sira",
-      "name": "Silor (Sira)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/artvin_silor_sira_silor_sira.jpg",
-      "history": "Yufkaların ince rulo halinde sarılıp kesilmesi, fırınlandıktan sonra üzerine sarımsaklı yoğurt ve eritilmiş tereyağlı sos dökülerek yumuşatılmasıyla elde edilir. Artvin köylerinde kışlık hazırlık olarak kurutulan yufkaların anında lezzetli bir yemeğe dönüştürülme sanatıdır."
-    },
-    {
-      "id": "artvin_kalaco",
-      "name": "Kalaco",
-      "category": "Ana Yemek",
-      "image": "/yemekler/artvin_kalaco_kalaco.jpg",
-      "history": "Mısır unu, süzme yoğurt ve tereyağının kaynatılarak yoğun bir lapa haline getirilip sıcak servis edildiği yöresel bir aştır. Çobanların yaylalarda yanlarında taşıdıkları malzemelerle pratik olarak yaptıkları doyurucu bir Karadeniz lezzetidir."
-    },
-    {
-      "id": "artvin_laz_boregi",
-      "name": "Laz Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/artvin_laz_boregi_laz_boregi.jpg",
-      "history": "İnce açılmış onlarca kat baklava yufkasının arasına bol karabiberli ve muhallebili bir iç harç konularak fırınlandığı, üzerine şerbet dökülen bir tatlıdır. Adı börek olmasına rağmen bölgenin en şaşırtıcı ve meşhur tatlısıdır; tuzlu-tatlı kontrastını barındırır."
+      "id": "artvin_hatila_bali",
+      "name": "Hatila Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Hatila Vadisi'nde üretilen çiçek balıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.kalkinmakutuphanesi.gov.tr/assets/upload/dosyalar/yoresel-urun-katalogu--cift-sayfa-lq.pdf",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Cagriaksu25",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:A%C3%87%C3%9C_%C5%9Eehir_Yerle%C5%9Fkesi.jpg"
+  }
 }

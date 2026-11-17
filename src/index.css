@@ -4,7 +4,7 @@
 
 
 @theme {
-  --color-cream: #F5F2ED;
+  --color-cream: #EFE6D6;
   --color-forest: #2D6A4F;
   --color-forest-dark: #1B3B2B;
   --color-forest-light: #40916C;
@@ -47,7 +47,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #F5F2ED;
+  background: var(--color-cream);
 }
 
 .dark ::-webkit-scrollbar-track {
@@ -65,7 +65,7 @@
 
 /* Light Glassmorphism */
 .glassmorphism {
-  background: rgba(245, 242, 237, 0.85);
+  background: rgba(239, 230, 214, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(212, 163, 115, 0.2);

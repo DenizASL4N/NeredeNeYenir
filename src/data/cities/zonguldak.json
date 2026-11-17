@@ -2,43 +2,90 @@
   "id": "zonguldak",
   "il_adi": "Zonguldak",
   "title": "Emeğin ve Kömürün Başkenti",
-  "unsplash_query": "zonguldak gokgol magarasi",
-  "image": "/sehirler/zonguldak.jpg",
+  "image": "/sehirler/zonguldak.webp",
   "yemekler": [
     {
-      "id": "zonguldak_teneke_tavuk",
-      "name": "Teneke Tavuk",
+      "id": "zonguldak_zilbit_yemegi",
+      "name": "Zonguldak Zılbıt Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/zonguldak_teneke_tavuk_teneke_tavuk.jpg",
-      "history": "Tavuğun bir direğe (şişe) geçirilip üzerinin teneke ile kapatılması, çevresine yakılan odun ateşiyle tenekenin ısınması sonucu tavuğun kendi buharında nar gibi pişmesidir. Maden ocaklarında çalışanların icat ettiği bir pişirme yöntemidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Zonguldak'a özgü yöresel bir yemektir. Zonguldak Ticaret ve Sanayi Odası adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.zonguldakgeopark.com/assets/upload/dosyalar/cografi-isaretler-ve-geleneksel-urun-adlari.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "zonguldak_malay",
       "name": "Malay",
-      "category": "Ana Yemek",
-      "image": "/yemekler/zonguldak_malay_malay.jpg",
-      "history": "Mısır ununun süt ve tereyağıyla pişirilip üzerine cevizli bir sos dökülmesiyle yapılan, Zonguldak'ın geleneksel köy yemeğidir."
-    },
-    {
-      "id": "zonguldak_ugmac_corbasi",
-      "name": "Uğmaç Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/zonguldak_ugmac_corbasi_ugmac_corbasi.jpg",
-      "history": "Unun su ile ovularak küçük parçalar haline getirilip (uğmaç) salçalı suda haşlanmasıyla yapılan, hızlı ve pratik bir ev çorbasıdır."
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "Mısır unuyla hazırlanan geleneksel bir yemektir. Slow Food'un korunması gereken lezzetler listesine (Ark of Taste) alınmıştır.",
+      "cografiIsaret": false,
+      "kaynak": "https://www.habergazetesi.com.tr/zonguldak-karabuk-ve-bartindan-7-urun-slow-foodun-ark-of-taste-agina-girdi",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "zonguldak_pumpum_corbasi",
       "name": "Pumpum Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/zonguldak_pumpum_corbasi_pumpum_corbasi.jpg",
-      "history": "Mısır unu ve bölgeye has sebzelerle yapılan, yöresel ve oldukça doyurucu bir çorba çeşididir."
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Mısır unu ve fasulyeyle hazırlanan, Zonguldak ve Bartın'da yapılan bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "zonguldak_beyaz_baklava",
-      "name": "Beyaz Baklava",
-      "category": "Tatlı",
-      "image": "/yemekler/zonguldak_beyaz_baklava_beyaz_baklava.jpg",
-      "history": "Bölgedeki fındık ve süt ürünlerinin birleşimiyle yapılan, şerbetinin daha berrak ve tadının daha hafif olduğu yöresel bir baklava türüdür."
+      "id": "zonguldak_manda_yogurdu",
+      "name": "Çaycuma Manda Yoğurdu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/afyonkarahisar_manda_yogurdu.webp",
+      "history": "Manda sütünden yapılan kıvamlı bir yoğurttur. Zonguldak'ın ilk tescilli lezzetidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/lezizz/caycuma-manda-yogurdu-zonguldakin-ilk-tescilli-lezzeti-oldu-41527953",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Manda_yo%C4%9Furdu.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "zonguldak_kestane_bali",
+      "name": "Zonguldak Kestane Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Zonguldak ormanlarındaki kestane ağaçlarından elde edilen baldır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://halktv.com.tr/turkiye/zonguldak-ormanlarindan-cikan-sifa-deposu-bal-tescillendi-1050364h",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "İncelemeelemani",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg"
+  }
 }

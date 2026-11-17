@@ -2,43 +2,185 @@
   "id": "gaziantep",
   "il_adi": "Gaziantep",
   "title": "Gastronominin Başkenti",
-  "unsplash_query": "gaziantep castle landscape",
-  "image": "/sehirler/gaziantep.jpg",
+  "image": "/sehirler/gaziantep.webp",
   "yemekler": [
     {
       "id": "gaziantep_beyran",
-      "name": "Beyran",
+      "name": "Antep Beyranı",
+      "category": "Çorba",
+      "image": "/yemekler/gaziantep_beyran.webp",
+      "history": "Kuzu eti, pirinç, bol sarımsak ve pul biberle hazırlanan yoğun bir et çorbasıdır. Gaziantep'te geleneksel olarak sabahları içilir ve bakır kâselerde kaynar halde servis edilir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=27",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyran.jpg"
+      }
+    },
+    {
+      "id": "gaziantep_antep_lahmacunu",
+      "name": "Antep Lahmacunu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/gaziantep_antep_lahmacunu.webp",
+      "history": "İnce açılan hamurun üzerine kıyma, soğan, sarımsak, domates ve biberden hazırlanan harç sürülerek taş fırında pişirilir. Avrupa Birliği'nde de coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yerel-haberler/gaziantep/gaziantep-lahmacunu-abden-cografi-isaret-tescili-aldi-2356289",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Antep_lahmacunu.jpg"
+      }
+    },
+    {
+      "id": "gaziantep_alli_yesilli_dolma",
+      "name": "Allı Yeşilli Dolma",
       "category": "Ana Yemek",
-      "image": "/yemekler/gaziantep_beyran_beyran.jpg",
-      "history": "Önceden 12 saat kısık ateşte haşlanan kuzu incik etinin kemikten ayrılıp, bakır sahanlarda pirinç, yoğun et suyu, bol sarımsak, kırmızı pul biber ve kuzu iç yağı ile harlı ateşte tek porsiyonluk olarak fokurdatılmasıdır. Antep esnafının sabah erken saatte güne enerjik başlamak için içtiği \"ateş gibi\" bir çorbadır."
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Kurutulmuş patlıcan, biber ve kabağın kıymalı pirinç harcıyla doldurulup birlikte pişirildiği bir dolmadır. Farklı renkteki sebzeler nedeniyle \"nakışlı dolma\" adıyla da bilinir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=27",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "gaziantep_ali_nazik",
       "name": "Ali Nazik",
       "category": "Ana Yemek",
-      "image": "/yemekler/gaziantep_ali_nazik_ali_nazik.jpg",
-      "history": "Közlenmiş patlıcanların dövülmüş sarımsak ve süzme yoğurtla karıştırılıp yatak yapılması, üzerine zırhta çekilmiş, baharatla kavrulmuş kuzu kıymasının (veya kuşbaşının) oturtulmasıdır. Rivayete göre Yavuz Sultan Selim'in yediğinde \"Hangi eli nazik yaptı bunu?\" diyerek ismini verdiği imparatorluk lezzetidir."
+      "image": "/yemekler/gaziantep_ali_nazik.webp",
+      "history": "Közlenmiş patlıcan sarımsaklı yoğurtla ezilir, üzerine tereyağında pişirilmiş kuşbaşı et ya da kıyma konur. Gaziantep mutfağının en bilinen kebap yanı yemeklerindendir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Mence",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ali-nazik-2.jpg"
+      }
     },
     {
       "id": "gaziantep_yuvalama_yuvalca",
-      "name": "Yuvalama (Yuvalça)",
+      "name": "Yuvalama",
+      "category": "Çorba",
+      "image": "/yemekler/gaziantep_yuvalama_yuvalca.webp",
+      "history": "Bulgur ve kıymadan yapılan nohut büyüklüğündeki küçük köfteler, et ve nohutla birlikte sarımsaklı yoğurt sosunda pişirilir. Gaziantep'te bayram sofralarının geleneksel yemeğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yuvalama_from_Gaziantep.jpg"
+      }
+    },
+    {
+      "id": "gaziantep_antep_yarim_tava",
+      "name": "Antep Yarım Tava",
       "category": "Ana Yemek",
-      "image": "/yemekler/gaziantep_yuvalama_yuvalca_yuvalama_yuvalca.jpg",
-      "history": "Pirinç unu, yağsız kıyma ve karabiberin yoğrulup nohut büyüklüğünde binlerce adet top haline getirilmesi, ardından et parçaları, nohut ve süzme yoğurtlu-naneli sosla kaynatılarak sunulmasıdır. Çok zahmetli olduğu için Antep'te Ramazan Bayramı sabahtarı imece usulü yapılan en prestijli yemektir."
+      "image": "/yemekler/_tur_tava.webp",
+      "history": "Kıyma ile domates, biber ve sarımsağın tepsiye yerleştirilip fırında pişirildiği bir tava yemeğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/gaziantep-antep-yarim-tava-9dfe4",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_tava_from_Bing%C3%B6l.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "gaziantep_sini_koftesi",
+      "name": "Sini Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/gaziantep_sini_koftesi.webp",
+      "history": "Bulgurlu köfte harcının iki kat halinde siniye (geniş tepsi) yayılıp arasına kavrulmuş kıyma konarak fırında pişirildiği bir köftedir. Dilimlenerek servis edilir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/gaziantep-sini-koftesi-731e8",
+      "gorsel": {
+        "yazar": "Benoît Prieur",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cuisine_arm%C3%A9nienne_-_Sini_Kofte_(%C3%A0_gauche)_et_deux_Mitchougov_Kofte_(%C3%A0_droite).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "gaziantep_mas_corbasi",
+      "name": "Maş Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Maş fasulyesi ve bulgurla hazırlanan, Gaziantep'te kış aylarında sık yapılan bir çorbadır.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=27",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "gaziantep_antep_baklavasi",
       "name": "Antep Baklavası",
       "category": "Tatlı",
-      "image": "/yemekler/gaziantep_antep_baklavasi_antep_baklavasi.jpg",
-      "history": "40 kat incecik yufkanın arasına bölgenin yeşil altın olarak bilinen \"Boz İç\" fıstığının ve Şanlıurfa sade yağının döşenip meşe odunu yanan taş fırınlarda pişirilmesidir. AB tarafından da coğrafi işaret almış bir Türk gastronomisi zirvesidir."
+      "image": "/yemekler/gaziantep_antep_baklavasi.webp",
+      "history": "İnce açılan yufka katları arasına Antep fıstığı serpilerek fırınlanır ve şerbetlenir. Türkiye'nin Avrupa Birliği'nde coğrafi işaretle tescil edilen ilk ürünüdür.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=27",
+      "gorsel": {
+        "yazar": "User:Tatlicim",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Baklava_from_Gaziantep.jpg"
+      }
     },
     {
       "id": "gaziantep_katmer",
       "name": "Katmer",
-      "category": "Ana Yemek",
-      "image": "/yemekler/gaziantep_katmer_katmer.jpg",
-      "history": "Zar inceliğinde açılan hamurun ortasına yoğun Antep fıstığı, şeker ve yöresel kaymak sürülüp mektup gibi kare katlanarak taş fırında pişirilmesidir. Antep'te düğün sonrası ilk sabah damada güç vermesi için yenmesi adet olan ikonik bir kahvaltılık tatlıdır."
+      "category": "Tatlı",
+      "image": "/yemekler/gaziantep_katmer.webp",
+      "history": "Çok ince açılan hamurun içine kaymak, toz Antep fıstığı ve şeker konarak katlanıp sacda pişirilir. Gaziantep'te geleneksel olarak sabah kahvaltısında yenir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "YG1",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:F%C4%B1st%C4%B1kl%C4%B1_kaymakl%C4%B1_muska_katmer.jpg"
+      }
+    },
+    {
+      "id": "gaziantep_menengic_kahvesi",
+      "name": "Menengiç Kahvesi",
+      "category": "İçecek",
+      "image": "/yemekler/gaziantep_menengic_kahvesi.webp",
+      "history": "Yabani fıstık olarak bilinen menengiç tanelerinin kavrulup dövülmesiyle hazırlanan, sütle de pişirilebilen kafeinsiz bir içecektir. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomigazetesi.com/sektor-haberleri/gaziantepin-menengic-kahvesi-ab-cografi-isaret-tescilini-aldi-42333",
+      "gorsel": {
+        "yazar": "Zeynel Cebeci",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Terebinth_coffee_-_Menengi%C3%A7_kahvesi.jpg"
+      }
+    },
+    {
+      "id": "gaziantep_antep_fistigi",
+      "name": "Antep Fıstığı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/gaziantep_antep_fistigi.webp",
+      "history": "Gaziantep ve çevresinde yetişen, baklavadan kebaba kadar Gaziantep mutfağının temel malzemesi olan fıstıktır. Menşe adıyla coğrafi işaretlidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=27",
+      "gorsel": {
+        "yazar": "Unknown authorUnknown author",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Antep_F%C4%B1st%C4%B1%C4%9F%C4%B1_A%C4%9Fac%C4%B1.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Dosseman",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg"
+  }
 }

@@ -2,43 +2,71 @@
   "id": "nevsehir",
   "il_adi": "Nevşehir",
   "title": "Kapadokya ve Balonlar Ülkesi",
-  "unsplash_query": "nevsehir cappadocia balloons landscape",
-  "image": "/sehirler/nevsehir.jpg",
+  "image": "/sehirler/nevsehir.webp",
   "yemekler": [
     {
       "id": "nevsehir_testi_kebabi",
-      "name": "Testi Kebabı",
+      "name": "Nevşehir Testi Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/nevsehir_testi_kebabi_testi_kebabi.jpg",
-      "history": "Kapadokya'nın Avanos topraklarından üretilen testilerin içine et, domates, biber ve sarımsak doldurulup ağzının hamurla kapatılması, közde saatlerce piştikten sonra kılıçla kırılarak servis edilmesi geleneğidir."
+      "image": "/yemekler/nevsehir_testi_kebabi.webp",
+      "history": "Et, arpacık soğan, sarımsak, domates ve biberin Avanos çömleğinden yapılan testiye konulup fırında uzun süre pişirilmesiyle hazırlanır; testi masada kırılarak servis edilir. 2021'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/nevsehir-testi-kebabi-091a9",
+      "gorsel": {
+        "yazar": "Niels Elgaard Larsen",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:TestiKebabGoreme.jpg"
+      }
     },
     {
-      "id": "nevsehir_nevsehir_tavasi",
-      "name": "Nevşehir Tavası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/nevsehir_nevsehir_tavasi_nevsehir_tavasi.jpg",
-      "history": "Kuzu eti, domates, biber ve bol sarımsağın tepsiye dizilip, üzerine parça kuyruk yağı konarak taş fırında kendi suyuyla ağır ağır pişirilmesiyle yapılır."
-    },
-    {
-      "id": "nevsehir_agpakla",
-      "name": "Ağpakla",
-      "category": "Ana Yemek",
-      "image": "/yemekler/nevsehir_agpakla_agpakla.jpg",
-      "history": "Kuru fasulye ve kuzu kemikli etin birlikte pişirilmesiyle yapılan, bölgenin en sevilen tencere yemeklerinden biridir."
-    },
-    {
-      "id": "nevsehir_sizgit",
-      "name": "Sızgıt",
-      "category": "Ana Yemek",
-      "image": "/yemekler/nevsehir_sizgit_sizgit.jpg",
-      "history": "Kurban kesildiğinde veya çok et alındığında, etin uzun süre saklanması için küçük parçalara doğranıp kendi yağıyla kavrulup kavanozlara basılmasıdır; kış boyu kahvaltılarda veya yemeklerde kullanılır."
+      "id": "nevsehir_kaymakli_coregi",
+      "name": "Kaymaklı Çöreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Nevşehir'in Kaymaklı beldesine özgü geleneksel bir ekmektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kaymakli-coregi-fdf34",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "nevsehir_koftur",
       "name": "Köftür",
-      "category": "Ana Yemek",
-      "image": "/yemekler/nevsehir_koftur_koftur.jpg",
-      "history": "Nevşehir'in üzüm bağlarından çıkan şıranın, nişasta ile karıştırılarak jöle kıvamına gelene dek kaynatılması, ardından tepsilere dökülüp güneşte kurutulmasıyla yapılan şeker ilavesiz, tamamen doğal bir lokum türüdür."
+      "category": "Tatlı",
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Üzüm şırasının nişasta ile kaynatılıp kalıplarda kurutulmasıyla yapılan, lokuma benzer bir Kapadokya tatlısıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "nevsehir_kabak_cekirdegi",
+      "name": "Nevşehir Kabak Çekirdeği",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kabak_cekirdegi.webp",
+      "history": "Nevşehir'de yetiştirilen kabaklardan elde edilen çekirdektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/nevsehir-kabak-cekirdegi-b414f",
+      "gorsel": {
+        "yazar": "Daniel Schwen",
+        "lisans": "CC BY 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pumpkin_Seeds_macro_1.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "NuriCanY",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg"
+  }
 }

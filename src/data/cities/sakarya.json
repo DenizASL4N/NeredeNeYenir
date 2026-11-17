@@ -2,43 +2,55 @@
   "id": "sakarya",
   "il_adi": "Sakarya",
   "title": "Sapanca Gölü ve Yeşillik",
-  "unsplash_query": "sakarya sapanca golu landscape",
-  "image": "/sehirler/sakarya.jpg",
+  "image": "/sehirler/sakarya.webp",
   "yemekler": [
     {
       "id": "sakarya_islama_kofte",
-      "name": "Islama Köfte",
+      "name": "Adapazarı Islama Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/sakarya_islama_kofte_islama_kofte.jpg",
-      "history": "İnce kesilmiş bayat ekmeklerin (veya pidelerin) tavuk suyu ve kırmızı biberli sosa batırılıp ızgarada kızartılması, üzerine ızgara köftelerin dizilip köz biber ve soğanla servis edilmesidir. Sakarya'nın Balkan göçmenlerinden miras kalan marka yemeğidir."
-    },
-    {
-      "id": "sakarya_darti",
-      "name": "Dartı",
-      "category": "Meze",
-      "image": "/yemekler/sakarya_darti_darti.jpg",
-      "history": "Sütün uzun süre kaynatılarak üzerinde biriken yoğun kaymak tabakasının (peynir tortusu) biriktirilip kızartılmasıdır. Kahvaltılarda ekmek üzerine sürülür veya makarnalara sos olarak eklenir."
-    },
-    {
-      "id": "sakarya_kara_lahana",
-      "name": "Kara Lahana",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sakarya_kara_lahana_kara_lahana.jpg",
-      "history": "Sakarya'nın tarım arazilerinde yetişen karalahananın (pancar) etli ve bulgurlu sarmasının yapılması, bölgenin hem Karadeniz hem de Marmara etkileşimli mutfağını gösterir."
-    },
-    {
-      "id": "sakarya_uhut_tatlisi",
-      "name": "Uhut Tatlısı",
-      "category": "Tatlı",
-      "image": "/yemekler/sakarya_uhut_tatlisi_uhut_tatlisi.jpg",
-      "history": "Çimlendirilmiş buğdayın (başaklanmadan önce) suyla uzun süre kaynatılıp unla bulamaç haline getirilerek sabaha kadar pişirilmesiyle yapılan, hiç şeker içermeyen ama tatlı olan çok eski bir Orta Asya-Anadolu mirasıdır."
+      "image": "/yemekler/sakarya_islama_kofte.webp",
+      "history": "Izgara köftelerin et suyuna batırılmış ekmek üzerine konarak servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Islama_k%C3%B6fte_in_Kad%C4%B1k%C3%B6y.jpg"
+      }
     },
     {
       "id": "sakarya_kabak_tatlisi",
-      "name": "Kabak Tatlısı",
+      "name": "Sakarya Kabak Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/sakarya_kabak_tatlisi_kabak_tatlisi.jpg",
-      "history": "Sakarya'nın meşhur kabağının, kireç kaymağında (dışı çıtır, içi yumuşak olması için) bekletildikten sonra şekerle fırınlanması ve üzerine bol tahin-ceviz eklenerek servis edilmesidir."
+      "image": "/yemekler/sakarya_kabak_tatlisi.webp",
+      "history": "Sakarya'da yetişen bal kabağının şekerle pişirilmesiyle yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/sakaryanin-kabak-tatlisi-ve-abhaz-peyniri-cografi-isaret-aldi-1649231",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kabak_dessert.jpg"
+      }
+    },
+    {
+      "id": "sakarya_abhaz_peyniri",
+      "name": "Abhaz Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Sakarya'daki Abhaz topluluğunun geleneksel yöntemiyle yapılan bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/sakaryanin-kabak-tatlisi-ve-abhaz-peyniri-cografi-isaret-aldi-1649231",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Acar54",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Hisar_Tepesi,_Tarakl%C4%B1.jpg"
+  }
 }

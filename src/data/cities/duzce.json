@@ -2,43 +2,104 @@
   "id": "duzce",
   "il_adi": "Düzce",
   "title": "Şelaleler ve Doğa Cenneti",
-  "unsplash_query": "duzce guzelce selalesi landscape",
-  "image": "/sehirler/duzce.jpg",
+  "image": "/sehirler/duzce.webp",
   "yemekler": [
+    {
+      "id": "duzce_konuralp_pilavi",
+      "name": "Yufkalı Konuralp Pilavı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_pilav.webp",
+      "history": "Konuralp pirinciyle hazırlanan pilavın yufkayla kaplanarak pişirildiği bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/yufkali-konuralp-pilavi-ve-duzce-seker-kamisi-pekmezi-tescillendi,619lmteo6UGccNsxLbgfXA",
+      "gorsel": {
+        "yazar": "El Mono Español",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Arabic_rice.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "duzce_duzce_koftesi",
+      "name": "Düzce Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Düzce'ye özgü bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/yufkali-konuralp-pilavi-ve-duzce-seker-kamisi-pekmezi-tescillendi,619lmteo6UGccNsxLbgfXA",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
+    },
     {
       "id": "duzce_cerkez_tavugu",
       "name": "Çerkez Tavuğu",
-      "category": "Ana Yemek",
-      "image": "/yemekler/duzce_cerkez_tavugu_cerkez_tavugu.webp",
-      "history": "Çerkezlerin bölgeye yerleşimiyle gelişen; haşlanmış tavuğun, ceviz, sarımsak ve bayat ekmek içiyle püre haline getirilip servis edildiği tarihi bir mezedir."
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Haşlanmış tavuğun ceviz, ekmek ve sarımsakla hazırlanan sosla karıştırıldığı, üzerine kırmızı biberli yağ gezdirilen bir mezedir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "duzce_i̇sli_balik",
-      "name": "İsli Balık",
-      "category": "Ana Yemek",
-      "image": "/yemekler/duzce_i̇sli_balik_isli_balik.jpg",
-      "history": "Düzce'nin derelerinden veya göllerinden tutulan balıkların, özel duman odalarında odun ateşiyle (islenerek) kurutulmasıdır."
-    },
-    {
-      "id": "duzce_haluj_cerkez_mantisi",
-      "name": "Haluj (Çerkez Mantısı)",
-      "category": "Aperatif",
-      "image": "/yemekler/duzce_haluj_cerkez_mantisi_haluj_cerkez_mantisi.jpg",
-      "history": "İnce açılmış hamurun içine peynir veya patates konulup, üzerine tereyağlı pul biberli sos dökülerek yenen Çerkez mantısıdır."
-    },
-    {
-      "id": "duzce_kiremitte_alabalik",
-      "name": "Kiremitte Alabalık",
-      "category": "Ana Yemek",
-      "image": "/yemekler/duzce_kiremitte_alabalik_kiremitte_alabalik.jpg",
-      "history": "Düzce'nin soğuk su kaynaklarında yetişen alabalıkların, tereyağı, domates ve biberle kiremit kaplarda fırınlanmasıdır."
+      "id": "duzce_mancarli_pide",
+      "name": "Akçakoca Mancarlı Pide",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_pide.webp",
+      "history": "Mancar (pancar otu) ile hazırlanan, Akçakoca'ya özgü bir pidedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://duzce.tarimorman.gov.tr/Belgeler/Cografi_İsaret/Akcakoca_Mancarli_Pide.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pide_with_ground_beef.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "duzce_melenguccegi_tatlisi",
-      "name": "Melengücceği Tatlısı",
+      "name": "Akçakoca Melengücceği Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/duzce_melenguccegi_tatlisi_melenguccegi_tatlisi.jpg",
-      "history": "Düzce'nin Akçakoca ilçesine özgü; 15 kat yufkanın arasına fındık konulup, kızartıldıktan sonra süt ve şeker şerbeti ile hazırlanan, tescilli bir yöresel tatlıdır."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Akçakoca'ya özgü geleneksel bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/yufkali-konuralp-pilavi-ve-duzce-seker-kamisi-pekmezi-tescillendi,619lmteo6UGccNsxLbgfXA",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "duzce_seker_kamisi_pekmezi",
+      "name": "Düzce Şeker Kamışı Pekmezi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Şeker kamışından elde edilen pekmezdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/yufkali-konuralp-pilavi-ve-duzce-seker-kamisi-pekmezi-tescillendi,619lmteo6UGccNsxLbgfXA",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "sabah gazetesi",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:645x344-1573480687396.jpg"
+  }
 }

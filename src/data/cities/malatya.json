@@ -2,43 +2,69 @@
   "id": "malatya",
   "il_adi": "Malatya",
   "title": "Kayısı Diyarı Battalgazi",
-  "unsplash_query": "malatya kayisi bahceleri",
-  "image": "/sehirler/malatya.jpg",
+  "image": "/sehirler/malatya.webp",
   "yemekler": [
     {
       "id": "malatya_anali_kizli",
       "name": "Analı Kızlı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/malatya_anali_kizli_anali_kizli.jpg",
-      "history": "İnce bulgur ve irmiğin yoğrulup köfte haline getirildiği (büyükler \"analı\", nohut büyüklüğündekiler \"ızlı\"), et suyu, nohut ve salçalı sos içinde pişirilen görkemli bir Malatya yemeğidir. Anadolu'nun en zahmetli ve en sevilen tören yemeklerinden biridir."
+      "category": "Çorba",
+      "image": "/yemekler/malatya_anali_kizli.webp",
+      "history": "Bulgurlu hamurdan yapılan büyük (ana) ve küçük (kız) köftelerin nohutla birlikte ekşili bir suda pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Yemekta",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Anal%C4%B1_K%C4%B1zl%C4%B1_K%C3%B6fte.jpg"
+      }
     },
     {
       "id": "malatya_kiraz_yapragi_sarmasi",
-      "name": "Kiraz Yaprağı Sarması",
-      "category": "Aperatif",
-      "image": "/yemekler/malatya_kiraz_yapragi_sarmasi_kiraz_yapragi_sarmasi.jpg",
-      "history": "Malatya yöresinin ekşi aromalı kiraz yapraklarının, ince bulgur ve çeşitli baharatlarla sarılıp üzerine süzme yoğurtlu-naneli bir sos ve sumaklı soğan dökülerek servis edilmesiyle yapılır."
-    },
-    {
-      "id": "malatya_geleli_kebabi",
-      "name": "Geleli Kebabı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/malatya_geleli_kebabi_geleli_kebabi.jpg",
-      "history": "Patlıcanların közlenip küçük doğranması, üzerine kuşbaşı kuzu eti ve domatesli sosun eklenip fırınlanmasıyla yapılan, Malatya'nın yöresel kebap tarzıdır."
+      "name": "Malatya Kiraz Yaprağı Sarması",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/tokat_tokat_yapragi_sarmasi.webp",
+      "history": "Kiraz yapraklarının harçla sarılmasıyla yapılan bir sarmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=44",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Etli_yaprak_sarma_in_Turkey.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "malatya_kagit_kebabi",
-      "name": "Kağıt Kebabı",
+      "name": "Malatya Kağıt Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/malatya_kagit_kebabi_kagit_kebabi.jpg",
-      "history": "Malatya'ya has, kuzu eti, kuyruk yağı, domates, biber ve sarımsağın yağlı kağıtlara sarılarak fırında pişirilmesiyle yapılan oldukça lezzetli ve sunumu özel bir yemektir."
+      "image": "/yemekler/malatya_kagit_kebabi.webp",
+      "history": "Etin yağlı kağıda sarılarak fırında pişirildiği bir kebaptır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ka%C4%9F%C4%B1t_kebab%C4%B1_and_pilav.jpg"
+      }
     },
     {
-      "id": "malatya_kayisi_tatlisi",
-      "name": "Kayısı Tatlısı",
-      "category": "Tatlı",
-      "image": "/yemekler/malatya_kayisi_tatlisi_kayisi_tatlisi.jpg",
-      "history": "Malatya'nın dünyaca ünlü kuru kayısılarının, içi cevizle doldurularak şerbetle hafifçe haşlanması ve üzerine tahin dökülerek servis edilmesiyle yapılan, meyvenin en rafine halidir."
+      "id": "malatya_malatya_kayisisi",
+      "name": "Malatya Kayısısı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/malatya_malatya_kayisisi.webp",
+      "history": "Malatya ve çevresinde yetiştirilen, kurutularak satılan kayısıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/malatya-kayisisi-3d1d3",
+      "gorsel": {
+        "yazar": "Burhanerşahin",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Malatya_Kay%C4%B1s%C4%B1s%C4%B1.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "L.Versoa",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg"
+  }
 }

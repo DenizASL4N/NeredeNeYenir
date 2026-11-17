@@ -2,43 +2,117 @@
   "id": "mardin",
   "il_adi": "Mardin",
   "title": "Taş Evlerin Masalsı Şehri",
-  "unsplash_query": "mardin eski mardin evleri landscape",
-  "image": "/sehirler/mardin.jpg",
+  "image": "/sehirler/mardin.webp",
   "yemekler": [
     {
       "id": "mardin_kaburga_dolmasi",
-      "name": "Kaburga Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/mardin_kaburga_dolmasi_kaburga_dolmasi.jpg",
-      "history": "Kuzu kaburgasının içinin; badem, fıstık, kuş üzümü, yenibahar ve kavrulmuş pirinçle doldurulup dikilmesiyle yapılan Mardin ziyafetlerinin baş tacıdır."
+      "name": "Mardin Kaburga Dolması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/mardin_kaburga_dolmasi.webp",
+      "history": "Kuzu kaburgasının içi baharatlı pirinçle doldurulup dikilerek uzun süre pişirilir. 2009'da mahreç işaretiyle tescillenmiştir (tescil no 123).",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-kaburga-dolmasi-97688",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kaburga_dolma.jpg"
+      }
     },
     {
       "id": "mardin_sembusek",
       "name": "Sembusek",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mardin_sembusek_sembusek.jpg",
-      "history": "İnce açılmış hamurun içine kıyma, soğan ve baharatlı harcın konup yarım ay şeklinde kapatılması ve ardından kızartılması ya da fırınlanmasıyla yapılan, Mardin'in kapalı pidesidir (Lübnan'da Sambousek olarak bilinir)."
+      "category": "Hamur İşi",
+      "image": "/yemekler/mardin_sembusek.webp",
+      "history": "İnce açılan hamurun içine kıymalı harç konup yarım ay şeklinde kapatılarak pişirilen bir hamur işidir. Mardin adına coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-sembusek-e81d3",
+      "gorsel": {
+        "yazar": "Logosfili",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sembusek.jpg"
+      }
     },
     {
-      "id": "mardin_i̇rok_i̇cli_kofte",
-      "name": "İrok (İçli Köfte)",
+      "id": "mardin_irok_icli_kofte",
+      "name": "Mardin Irok",
       "category": "Ana Yemek",
-      "image": "/yemekler/mardin_i̇rok_i̇cli_kofte_irok_icli_kofte.jpg",
-      "history": "Mardin usulü içli köfte; dışı daha ince, içi ise daha bol baharatlı ve cevizli olan, genellikle haşlanarak servis edilen bir lezzettir."
+      "image": "/yemekler/diyarbakir_icli_kofte.webp",
+      "history": "Mardin usulü içli köftedir: bulgurlu dış hamurun içi kıymalı harçla doldurulur. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-mutfagi-ad3cc",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0%C3%A7li_k%C3%B6fte_2023.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "mardin_alluciye",
+      "name": "Alluciye",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Et ile kurutulmuş erik (alluç) kullanılarak hazırlanan, ekşi-tatlı tadıyla Mardin mutfağına özgü bir yemektir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-alluciye-a0faa",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "mardin_incasiyye",
+      "name": "İncasiyye",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Et ve kuru meyvelerle hazırlanan, ekşi-tatlı tadıyla Mardin'in özel günlerde yapılan yemeklerindendir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-incasiyye-12973",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "mardin_kilice",
-      "name": "Kiliçe",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mardin_kilice_kilice.jpg",
-      "history": "Mardin'in özel günlerde (bayramlarda) yapılan; tarçın, mahlep, anason ve çörek otu gibi çok sayıda baharatla hazırlanan yumuşak dokulu tarihi bir çörektir."
+      "name": "Mardin Kiliçesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Bayramlarda ve dini günlerde yapılan, mahlep ve çörek otu gibi baharatlarla hazırlanan geleneksel bir çörektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mardin-kilicesi-mardin-kilice-coregi-0fe90",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "mardin_harire_tatlisi",
       "name": "Harire Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/mardin_harire_tatlisi_harire_tatlisi.jpg",
-      "history": "Üzüm pekmezi, un ve tarçınla hazırlanan; içine ceviz eklenen, pudingten daha kıvamlı olan, oldukça sağlıklı ve geleneksel bir kış tatlısıdır."
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Üzüm pekmezinin nişasta ya da unla kıvam alana kadar pişirilmesiyle yapılan, üzerine ceviz serpilen bir tatlıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ben Bender",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Mardin,_Mardin_Merkez-Mardin,_Turkey_-_panoramio_(1).jpg"
+  }
 }

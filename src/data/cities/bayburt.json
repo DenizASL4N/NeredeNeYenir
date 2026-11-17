@@ -2,43 +2,42 @@
   "id": "bayburt",
   "il_adi": "Bayburt",
   "title": "Baksı Müzesi ve Çoruh",
-  "unsplash_query": "bayburt kalesi landscape",
-  "image": "/sehirler/bayburt.jpg",
+  "image": "/sehirler/bayburt.webp",
   "yemekler": [
     {
       "id": "bayburt_lor_dolmasi",
-      "name": "Lor Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/bayburt_lor_dolmasi_lor_dolmasi.jpg",
-      "history": "Bayburt'a has \"lor\" peynirinin ince bulgur ve yeşilliklerle karıştırılıp pazı yapraklarına sarılarak pişirilmesiyle yapılır. Bayburt mutfağının en karakteristik yemeğidir."
+      "name": "Bayburt Lor Dolması",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Lor peyniri ve evelik otuyla hazırlanan harcın hamura sarılmasıyla yapılan bir yemektir. 2017 civarında mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/guncel/bayburtun-tescilli-yemegi-lor-dolmasi-486692.html",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "bayburt_yalanci_dolma",
-      "name": "Yalancı Dolma",
-      "category": "Aperatif",
-      "image": "/yemekler/bayburt_yalanci_dolma_yalanci_dolma.jpg",
-      "history": "İçinde et bulunmayan; pirinç, soğan, domates salçası ve baharatlarla sarılan, genellikle zeytinyağlı olarak tüketilen yöresel bir sarmadır."
-    },
-    {
-      "id": "bayburt_herse",
-      "name": "Herse",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bayburt_herse_herse.jpg",
-      "history": "Buğday ve etin, büyük kazanlarda uzun süre tokmakla dövülerek sakız kıvamına getirilmesiyle yapılan; düğün ve taziye yemeklerinin olmazsa olmazıdır."
-    },
-    {
-      "id": "bayburt_tatli_corba",
-      "name": "Tatlı Çorba",
-      "category": "Çorba",
-      "image": "/yemekler/bayburt_tatli_corba_tatli_corba.jpg",
-      "history": "Kuru meyveler (kayısı, erik, üzüm) ve kuşburnu ile yapılan, içine bir miktar un ve şeker eklenen, kış aylarında tatlı niyetine içilen çok özel bir Bayburt çorbasıdır."
-    },
-    {
-      "id": "bayburt_sut_boregi",
-      "name": "Süt Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bayburt_sut_boregi_sut_boregi.jpg",
-      "history": "İnce yufkaların sütlü bir harçla ıslatılıp tepsiye dizilmesi ve fırınlanmasıyla yapılan, hafif ve yöresel bir börektir."
+      "name": "Bayburt Yalancı Dolma",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/bayburt_yalanci_dolma.webp",
+      "history": "Bayburt'a özgü bir yalancı dolmadır. Bayburt Belediyesi adına coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bayburt-yalanci-dolma-ef629",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/w/index.php?curid=40691014",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "SALTOnline",
+    "lisans": "No restrictions",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Bayburt_Clock_Tower_(16034875507).jpg"
+  }
 }

@@ -2,43 +2,58 @@
   "id": "erzincan",
   "il_adi": "Erzincan",
   "title": "Doğa Sporlarının Beşiği",
-  "unsplash_query": "erzincan girlevik selalesi",
-  "image": "/sehirler/erzincan.jpg",
+  "image": "/sehirler/erzincan.webp",
   "yemekler": [
-    {
-      "id": "erzincan_erzincan_doneri",
-      "name": "Erzincan Döneri",
-      "category": "Ana Yemek",
-      "image": "/yemekler/erzincan_erzincan_doneri_erzincan_doneri.jpg",
-      "history": "Etin soğan suyu, tuz ve karabiberle uzun süre marine edilip, kıyma kullanılmadan sadece saf yaprak kuzu/dana eti ve kuzu kuyruk yağı katmanları halinde şişe dizilmesiyle yapılır. Saf et dönerinin Türkiye'deki en önemli temsilcilerindendir."
-    },
     {
       "id": "erzincan_kesme_corbasi",
       "name": "Kesme Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/erzincan_kesme_corbasi_kesme_corbasi.jpg",
-      "history": "Elde açılıp ince ince kesilen erişte (kesme), yeşil mercimek, reyhan, tarhun ve kavrulmuş soğanın koyu bir kıvamda kaynatılmasıyla hazırlanan çorbadır. Doğu Anadolu'nun sert kış şartlarında tok tutması için geliştirilmiştir."
+      "image": "/yemekler/erzincan_kesme_corbasi.webp",
+      "history": "Ev yapımı kesme hamurla hazırlanan bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Soochun Yuk",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eri%C5%9Fte_%C3%A7orbas%C4%B1.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "erzincan_kemah_tiridi",
-      "name": "Kemah Tiridi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/erzincan_kemah_tiridi_kemah_tiridi.jpg",
-      "history": "Kurutulmuş tandır ekmeklerinin tepsiye dizilip üzerine haşlanmış kuşbaşı et, et suyu ve bol tereyağı dökülmesiyle yapılan yemektir. Geçmişte az malzemeyle çok kişiyi doyurma çabasından (yoksulluk yemeği) günümüzde bir ziyafete dönüşmüştür."
-    },
-    {
-      "id": "erzincan_kete",
-      "name": "Kete",
-      "category": "Ana Yemek",
-      "image": "/yemekler/erzincan_kete_kete.jpg",
-      "history": "İçi kavrulmuş un (bazen cevizli) ile doldurulan, hamuruna bolca tereyağı katılarak kat kat açılıp fırınlanan, dışı çıtır içi yumuşak bir hamur işidir. Bölgede çay kültürünün ve kahvaltıların ayrılmaz parçasıdır."
-    },
-    {
-      "id": "erzincan_gasefe_tatlisi",
-      "name": "Gasefe Tatlısı",
+      "id": "erzincan_lok_tatlisi",
+      "name": "Kemaliye Lök Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/erzincan_gasefe_tatlisi_gasefe_tatlisi.jpg",
-      "history": "Çekirdeği çıkarılmış bütün kuru kayısıların hafifçe haşlanıp yumuşatıldıktan sonra üzerine kızdırılmış tereyağı dökülüp bütün cevizle servis edildiği, şekersiz ve tamamen meyvenin kendi tatlılığına dayanan doğal bir tatlıdır."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Erzincan'ın Kemaliye (Eğin) ilçesine özgü geleneksel bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/erzincan-haberleri/117232816-kemaliyenin-el-sanati-ve-yoresel-lezzeti-artik-tescilli",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "erzincan_tulum_peyniri",
+      "name": "Erzincan Tulum Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_tulum_peyniri.webp",
+      "history": "Koyun sütünden yapılıp tulumlarda olgunlaştırılan peynirdir. 2025'te Avrupa Birliği'nde de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/erzincan-tulum-peyniri-avrupa-birliginden-cografi-isaret-tescili-aldi,WerO_-1bNUCGWaXA-ut_dQ",
+      "gorsel": {
+        "yazar": "Superraptor123",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Obruk_peyniri_(Obruk_cheese).jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Erzincann",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Erzincanmerkezi.jpg"
+  }
 }

@@ -2,43 +2,102 @@
   "id": "batman",
   "il_adi": "Batman",
   "title": "Hasankeyf'in Tarihi Mirası",
-  "unsplash_query": "batman hasankeyf landscape",
-  "image": "/sehirler/batman.jpg",
+  "image": "/sehirler/batman.webp",
   "yemekler": [
     {
       "id": "batman_sam_boregi",
-      "name": "Şam Böreği",
+      "name": "Batman Şam Böreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "İnce hamurun içine kıymalı ve soğanlı harç konup kızartılarak yapılan bir böreğidir. Batman İl Kültür ve Turizm Müdürlüğü adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=72",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "batman_picik_yemegi",
+      "name": "Batman Piçik Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/batman_sam_boregi_sam_boregi.jpg",
-      "history": "İnce açılmış hamurun içine soğanlı, kıymalı ve baharatlı bir harcın konulup, yağda kızartılmasıyla yapılan; bölgenin Arap mutfağı ile etkileşimini gösteren çıtır bir börektir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "İçli köfte yapımından artan bulgurlu hamurun değerlendirilmesiyle hazırlanan, et ve salça kullanılmayan bir yemektir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=72",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "batman_mumbar",
-      "name": "Mumbar",
+      "name": "Mumbar Dolması",
       "category": "Ana Yemek",
-      "image": "/yemekler/batman_mumbar_mumbar.jpg",
-      "history": "Koyun bağırsaklarının temizlenip iç harcı (pirinç, kıyma, baharat) ile doldurulup, kendi suyuyla saatlerce haşlanmasıyla yapılır. Batman'da sakatat kültürünün en sevilen temsilcisidir."
+      "image": "/yemekler/batman_mumbar.webp",
+      "history": "Temizlenen kuzu bağırsağının pirinçli ve kıymalı harçla doldurulup haşlanmasıyla yapılır. Güneydoğu mutfağında yaygındır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Garrett Ziegler",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mumbar_Dolmas%C4%B1.jpg"
+      }
     },
     {
-      "id": "batman_ayran_corbasi",
-      "name": "Ayran Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/batman_ayran_corbasi_ayran_corbasi.jpg",
-      "history": "İnce bulgur veya dövme buğdayın haşlanıp, soğutulmuş süzme yoğurt (ayran) ve taze nane ile karıştırılmasıyla yapılan, yaz aylarının ferahlatıcı yemeğidir."
+      "id": "batman_mehina_sarimsagi",
+      "name": "Hasankeyf Mehina Sarımsağı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_sarimsak.webp",
+      "history": "Hasankeyf'e özgü yerel bir sarımsak çeşididir. Menşe adıyla coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.benguturk.com/guncel/hasankeyfe-ozgu-mehina-sarimsagi-cografi-isaretle-tescillendi-151047h",
+      "gorsel": {
+        "yazar": "Matthew Pilachowski matthewpilachowski",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Garlic_Bulbs_(Unsplash).jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "batman_kaburga_dolmasi",
-      "name": "Kaburga Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/batman_kaburga_dolmasi_kaburga_dolmasi.jpg",
-      "history": "Kuzu kaburgasının, iç pilav (bademli, üzümlü) ile doldurulup ağır ateşte pişirilmesi, Batman'ın düğün sofralarının olmazsa olmazıdır."
+      "id": "batman_sason_bali",
+      "name": "Sason Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Batman'ın Sason ilçesinin dağlık bölgelerinde üretilen çiçek balıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/ekonomi/sason-balina-cografi-isaret-tescili/321432",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     },
     {
-      "id": "batman_tandir_ekmegi",
-      "name": "Tandır Ekmeği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/batman_tandir_ekmegi_tandir_ekmegi.jpg",
-      "history": "Batman'da ekmek, yerel tandırlarda uzun ve yassı formda pişirilir. Tandırın kendine has isli aroması, ekmeğin lezzetini başka bir boyuta taşır."
+      "id": "batman_kozluk_domatesi",
+      "name": "Kozluk Domatesi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_domates.webp",
+      "history": "Batman'ın Kozluk ilçesinde yetiştirilen yerel bir domates çeşididir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kozluk-domatesi-e434b",
+      "gorsel": {
+        "yazar": "Glenda Green",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ripe_Red_Tomatoes.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ferhat 72 at Turkish Wikipedia",
+    "lisans": "Public domain",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Batman(city).jpg"
+  }
 }

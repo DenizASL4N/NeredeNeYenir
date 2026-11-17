@@ -2,43 +2,125 @@
   "id": "izmir",
   "il_adi": "İzmir",
   "title": "Ege'nin Modern ve Tarihi Sentezi",
-  "unsplash_query": "izmir saat kulesi landscape",
-  "image": "/sehirler/izmir.jpg",
+  "image": "/sehirler/izmir.webp",
   "yemekler": [
     {
-      "id": "izmir_i̇zmir_kofte",
+      "id": "izmir_izmir_kofte",
       "name": "İzmir Köfte",
       "category": "Ana Yemek",
-      "image": "/yemekler/izmir_i̇zmir_kofte_izmir_kofte.jpg",
-      "history": "Kıyma, ekmek, soğan ve kimyonla yoğrulan uzun köftelerin, elma dilim patateslerle birlikte hafifçe kızartıldıktan sonra salçalı ve domatesli sos içinde fırınlanmasıdır. Ege otları dışındaki en meşhur geleneksel İzmir ev ve esnaf lokantası yemeğidir."
+      "image": "/yemekler/izmir_izmir_kofte.webp",
+      "history": "Kızartılan köfte ve patateslerin domates, biber ve salçalı sosla fırında pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Izmir_k%C3%B6fte.jpg"
+      }
     },
     {
-      "id": "izmir_kumru",
-      "name": "Kumru",
-      "category": "Aperatif",
-      "image": "/yemekler/izmir_kumru_kumru.jpg",
-      "history": "İzmir'e has nohut mayalı, üzeri bol susamlı, kuş gövdesine benzeyen özel ekmeğin içine kömürde kızarmış kasap sucuk, sosis, salam, erimiş İzmir tulum peyniri ve domates konularak yapılan efsanevi sokak lezzetidir."
+      "id": "izmir_tire_sis_kofte",
+      "name": "Tire Şiş Köfte",
+      "category": "Ana Yemek",
+      "image": "/yemekler/izmir_tire_sis_kofte.webp",
+      "history": "Odun ateşinde pişirilen şiş köftelerin pide üzerine konup tereyağı ve domates sosuyla servis edildiği bir yemektir. 2021'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.benguturk.com/yasam/en-iyi-kiyma-yemegi-secilen-tire-sis-kofte-lezzetini-odun-atesi-ve-tereyagindan-195941h",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_k%C3%B6fte_(with_tomato_sauce).jpg"
+      }
+    },
+    {
+      "id": "izmir_odemis_koftesi",
+      "name": "Ödemiş Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/izmir_odemis_koftesi.webp",
+      "history": "İzmir'in Ödemiş ilçesine özgü bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/tr/download/article-file/3280160",
+      "gorsel": {
+        "yazar": "Kingbjelica",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%96demi%C5%9F_K%C3%B6ftesi.jpg"
+      }
     },
     {
       "id": "izmir_boyoz",
-      "name": "Boyoz",
-      "category": "Aperatif",
-      "image": "/yemekler/izmir_boyoz_boyoz.jpg",
-      "history": "Un, tuz, su ve bol sıvıyağ ile kat kat açılıp rulo yapıldıktan sonra iki saat dinlendirilen ve fırınlanan, hiç maya içermeyen yuvarlak hamur işidir. 1492'de İspanya'dan İzmir'e göç eden Sefarad Yahudilerinin kente bıraktığı en büyük mirastır; yanında fırınlanmış katı yumurta ile yenir."
+      "name": "İzmir Boyozu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/izmir_boyoz.webp",
+      "history": "Hamurun tahin ve yağla katlanarak fırında pişirildiği, haşlanmış yumurtayla yenen bir hamur işidir. Sefarad Yahudilerinin mutfağından İzmir'e geçmiştir. 2017'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haber7.com/izmir/2509048-izmir-boyozuna-cografi-isaret",
+      "gorsel": {
+        "yazar": "BSRF",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Boyoz_in_%C4%B0zmir.jpg"
+      }
+    },
+    {
+      "id": "izmir_kumru",
+      "name": "İzmir Kumrusu",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/izmir_kumru.webp",
+      "history": "Susamlı kumru ekmeğinin içine sucuk, kaşar peyniri ve domates konup ızgarada ısıtılmasıyla yapılan bir sandviçtir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/izmir-tulum-peyniri-tescillendi,v0GDiSsv2EOTft_5H4MXIQ",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Izmir_kumru_sandwich_2.jpg"
+      }
     },
     {
       "id": "izmir_sambali_sambaba_tatlisi",
-      "name": "Şambali (Şambaba) Tatlısı",
+      "name": "İzmir Şambalisi",
       "category": "Tatlı",
-      "image": "/yemekler/izmir_sambali_sambaba_tatlisi_sambali_sambaba_tatlisi.jpg",
-      "history": "İrmik, şeker, yoğurt (veya süt) karışımının un ve yumurta kullanılmadan tepsiye dökülüp, üzeri badem veya yer fıstığı ile süslenerek fırınlanması ve yoğun şerbet dökülmesiyle yapılır. İzmir sokaklarında camekanlı arabalarda satılan meşhur ayaküstü tatlısıdır."
+      "image": "/yemekler/izmir_sambali_sambaba_tatlisi.webp",
+      "history": "İrmik ve yoğurtla hazırlanan hamurun fırında pişirilip şerbetlendiği, üzerine badem konan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/izmir-tulum-peyniri-tescillendi,v0GDiSsv2EOTft_5H4MXIQ",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eambali.jpg"
+      }
     },
     {
-      "id": "izmir_i̇zmir_lokmasi",
+      "id": "izmir_izmir_lokmasi",
       "name": "İzmir Lokması",
-      "category": "Ana Yemek",
-      "image": "/yemekler/izmir_i̇zmir_lokmasi_izmir_lokmasi.jpg",
-      "history": "Mayalı ve cıvık bir hamurun ortası delik yuvarlaklar halinde kızgın yağa dökülüp çıtır çıtır kızartılması ve soğuk şerbete atılmasıdır. İzmir'de bir ölüm, kutlama veya adak durumunda sokaklarda halka ücretsiz dağıtılması yüz yıllık bir dayanışma geleneğidir."
+      "category": "Tatlı",
+      "image": "/yemekler/izmir_izmir_lokmasi.webp",
+      "history": "Mayalı hamurdan yapılan halka şeklindeki lokmaların kızartılıp şerbete batırılmasıyla hazırlanır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/izmir-tulum-peyniri-tescillendi,v0GDiSsv2EOTft_5H4MXIQ",
+      "gorsel": {
+        "yazar": "Atacameño (Vikipedi)",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_lokmas%C4%B1.jpg"
+      }
+    },
+    {
+      "id": "izmir_tulum_peyniri",
+      "name": "İzmir Tulum Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_tulum_peyniri.webp",
+      "history": "İzmir yöresinde üretilen tulum peyniridir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/izmir-tulum-peyniri-tescillendi,v0GDiSsv2EOTft_5H4MXIQ",
+      "gorsel": {
+        "yazar": "Superraptor123",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Obruk_peyniri_(Obruk_cheese).jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "BSRF",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg"
+  }
 }

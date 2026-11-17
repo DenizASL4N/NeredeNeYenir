@@ -2,43 +2,57 @@
   "id": "yalova",
   "il_adi": "Yalova",
   "title": "Termal Kaplıcalar ve Deniz",
-  "unsplash_query": "yalova yuruyen kosk landscape",
-  "image": "/sehirler/yalova.jpg",
+  "image": "/sehirler/yalova.webp",
   "yemekler": [
     {
-      "id": "yalova_yalova_koftesi",
-      "name": "Yalova Köftesi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/yalova_yalova_koftesi_yalova_koftesi.jpg",
-      "history": "Dana ve kuzu etinin, içine çok az ekmek ve bölgenin taze otlarıyla karıştırılıp ızgaralanmasıyla yapılan, hafif ve lezzetli bir köftedir."
+      "id": "yalova_yalova_kivisi",
+      "name": "Yalova Kivisi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kivi.webp",
+      "history": "Yalova'da yetiştirilen kividir. 2021'de menşe adıyla tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/yalova-kivisi-ff445",
+      "gorsel": {
+        "yazar": "Luc Viatour",
+        "lisans": "CC BY-SA 2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "yalova_termal_sarma",
-      "name": "Termal Sarma",
-      "category": "Aperatif",
-      "image": "/yemekler/yalova_termal_sarma_termal_sarma.jpg",
-      "history": "İnce yufkaların içine kıymalı/sebzeli bir harcın konup rulo yapılması ve üzerine özel yoğurtlu sosun dökülmesiyle yapılan yöresel bir yemektir."
-    },
-    {
-      "id": "yalova_milfoylu_yalova_kebabi",
-      "name": "Milföylü Yalova Kebabı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/yalova_milfoylu_yalova_kebabi_milfoylu_yalova_kebabi.jpg",
-      "history": "Etin milföy hamuruna sarılıp fırınlanmasıyla yapılan, modern Yalova mutfağının sevilen bir yorumudur."
+      "id": "yalova_kestane_bali",
+      "name": "Yalova Kestane Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Yalova'nın kestane ormanlarında üretilen koyu renkli baldır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://halktv.com.tr/yasam/bala-oyle-oyle-bir-sey-kattilar-ki-yalovadan-dunyaya-acildi-800760h",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     },
     {
       "id": "yalova_pavli",
       "name": "Pavli",
       "category": "Ana Yemek",
-      "image": "/yemekler/yalova_pavli_pavli.jpg",
-      "history": "Balkanlardan gelenlerin yaptığı, lahana, soğan ve mısır unu ile fırınlanan bir tür sebzeli börektir."
-    },
-    {
-      "id": "yalova_cirpma",
-      "name": "Çırpma",
-      "category": "Ana Yemek",
-      "image": "/yemekler/yalova_cirpma_cirpma.jpg",
-      "history": "Ispanak ve mısır ununun karıştırılıp fırın tepsisinde pişirilmesiyle yapılan, pratik ve sağlıklı bir sebze yemeğidir."
+      "image": "/yemekler/_tur_sarma.webp",
+      "history": "Beyaz lahana yaprakları ve bol kıymayla hazırlanan, dilimlenerek servis edilen bir lahana sarmasıdır. Yalova'nın yöresel yemeklerindendir.",
+      "cografiIsaret": false,
+      "kaynak": "https://www.tatilbudur.com/blog/yalovanin-meshur-yemekleri/",
+      "gorsel": {
+        "yazar": "Petar Milošević",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Postna_sarma_(vegetarian_sarma,_Cuisine_of_Serbia).jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Annikat53",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Departing_Yalova.JPG"
+  }
 }

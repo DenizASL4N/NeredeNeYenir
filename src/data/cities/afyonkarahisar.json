@@ -2,43 +2,115 @@
   "id": "afyonkarahisar",
   "il_adi": "Afyonkarahisar",
   "title": "Termal ve Lezzet Diyarı",
-  "unsplash_query": "afyonkarahisar castle",
-  "image": "/sehirler/afyonkarahisar.jpg",
+  "image": "/sehirler/afyonkarahisar.webp",
   "yemekler": [
     {
       "id": "afyonkarahisar_afyon_sucugu",
       "name": "Afyon Sucuğu",
-      "category": "Ana Yemek",
-      "image": "/yemekler/afyonkarahisar_afyon_sucugu_afyon_sucugu.jpg",
-      "history": "Manda ve dana etinin özel baharatlar, sarımsak ve Afyon'un yöresel lezzetleriyle harmanlanıp bağırsaklara doldurulması ve rüzgarda kurutulmasıyla yapılır. Afyon'un köklü hayvancılık tarihinin en önemli ihraç ürünlerinden biridir."
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/afyonkarahisar_afyon_sucugu.webp",
+      "history": "Sığır ve manda etinin baharatla hazırlanıp kurutulmasıyla yapılan sucuktur. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/ekonomi/bakan-kacir-duyurdu-afyon-sucugu-abden-cografi-isaret-tescili-aldi-haberi-823821",
+      "gorsel": {
+        "yazar": "Rainer Zenz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sucuk-2.jpg"
+      }
     },
     {
-      "id": "afyonkarahisar_cullama_kofte",
-      "name": "Çullama Köfte",
-      "category": "Ana Yemek",
-      "image": "/yemekler/afyonkarahisar_cullama_kofte_cullama_kofte.jpg",
-      "history": "Kıyma, ince bulgur ve maydanozla hazırlanan köftelerin haşlandıktan sonra yumurta ve una bulanarak kızartılması işlemidir. Düğün yemeklerinin ve özel misafir sofralarının Osmanlı'dan kalma zengin yemeklerindendir."
+      "id": "afyonkarahisar_afyon_pastirmasi",
+      "name": "Afyon Pastırması",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/sivas_sivas_pastirmasi.webp",
+      "history": "Kurutulmuş etin çemenle kaplanmasıyla yapılan pastırmadır. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/ekonomi/afyon-pastirmasina-abden-cografi-isaret-34-tescilli-urun-oldu-haberi-823533",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pastirma.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "afyonkarahisar_tandir_corbasi",
+      "name": "Afyon Tandır Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Afyonkarahisar'a özgü geleneksel bir çorbadır. 2025'te mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/afyon-tandir-corbasiafyonkarahisar-tandir-corbasi-",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "afyonkarahisar_hashasli_bukme",
       "name": "Haşhaşlı Bükme",
-      "category": "Aperatif",
-      "image": "/yemekler/afyonkarahisar_hashasli_bukme_hashasli_bukme.jpg",
-      "history": "İçerisinde yeşil mercimek ve ezilmiş siyah haşhaş bulunan, tel tel ayrılan ve taş fırınlarda pişen bir hamur işidir. Afyon ovasının dünyaca ünlü haşhaş üretiminin mutfağa yansımış en güzel örneğidir."
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "Hamurun haşhaş ezmesiyle sarılıp bükülerek pişirildiği bir hamur işidir. Afyon'un haşhaş üretimiyle bağlantılıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "afyonkarahisar_ilibada_sarmasi",
+      "name": "İlibada Dolması",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "İlibada (labada) yapraklarının pirinçli harçla sarılmasıyla yapılan, Afyonkarahisar'da yaygın bir sarmadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "afyonkarahisar_kaymakli_ekmek_kadayifi",
       "name": "Kaymaklı Ekmek Kadayıfı",
       "category": "Tatlı",
-      "image": "/yemekler/afyonkarahisar_kaymakli_ekmek_kadayifi_kaymakli_ekmek_kadayifi.jpg",
-      "history": "Kurutulmuş özel ekmeğin vişne veya sade şerbetle yavaşça ıslatılıp şişirilmesi ve ortasına kalın bir tabaka manda kaymağı konulmasıyla sunulur. Afyon'un meşhur manda kaymağı geleneğiyle bütünleşmiş saray kökenli bir tatlıdır."
+      "image": "/yemekler/afyonkarahisar_kaymakli_ekmek_kadayifi.webp",
+      "history": "Şerbetle pişirilen ekmek kadayıfının üzerine Afyon kaymağı konarak servis edilen bir tatlıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kaymakl%C4%B1_ekmek_kaday%C4%B1f%C4%B1.jpg"
+      }
     },
     {
-      "id": "afyonkarahisar_i̇libada_sarmasi",
-      "name": "İlibada Sarması",
-      "category": "Aperatif",
-      "image": "/yemekler/afyonkarahisar_i̇libada_sarmasi_ilibada_sarmasi.jpg",
-      "history": "Labada (ilibada) yapraklarının içine ince bulgur (düğür), soğan, salça ve nane ile hazırlanan harcın konulup sarılmasıyla yapılır. Baharın gelişiyle doğadan toplanan otların değerlendirildiği eski bir Anadolu geleneğidir."
+      "id": "afyonkarahisar_manda_yogurdu",
+      "name": "Afyon Manda Yoğurdu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/afyonkarahisar_manda_yogurdu.webp",
+      "history": "Manda sütünden yapılan, kıvamlı ve yağlı bir yoğurttur. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yemek-tarifleri/afyon-manda-yogurdu-cografi-isaret-tescil-belgesi-aldi-1682833",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Manda_yo%C4%9Furdu.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ingeborg Simon",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_02.jpg"
+  }
 }

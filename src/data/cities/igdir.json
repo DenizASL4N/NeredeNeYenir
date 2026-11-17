@@ -2,43 +2,56 @@
   "id": "igdir",
   "il_adi": "Iğdır",
   "title": "Aralık Ovası ve Kayısı",
-  "unsplash_query": "igdir suveren landscape",
-  "image": "/sehirler/igdir.jpg",
+  "image": "/sehirler/igdir.webp",
   "yemekler": [
     {
-      "id": "igdir_bozbas_piti",
-      "name": "Bozbaş (Piti)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/igdir_bozbas_piti_bozbas_piti.jpg",
-      "history": "Kuzu etinin, nohut ve sarıkök (zerdeçal) ile toprak kaplarda ağır ağır pişirilmesi; sunumda suyunun ekmekle, etin ise ezilerek yenmesiyle meşhurdur."
-    },
-    {
       "id": "igdir_tas_kofte",
-      "name": "Taş Köfte",
+      "name": "Iğdır Taş Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/igdir_tas_kofte_tas_kofte.jpg",
-      "history": "Etin, taş üzerinde tokmakla dövülerek macun kıvamına getirilmesi ve ardından yumurta, bulgur ile karıştırılıp haşlanmasıyla yapılan iri, doyurucu bir köftedir."
+      "image": "/yemekler/_tur_kofte_sulu.webp",
+      "history": "Iğdır'a özgü bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.kalkinmakutuphanesi.gov.tr/assets/upload/dosyalar/yoresel-urun-katalogu--cift-sayfa-lq.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sulu_kofte_in_Ankara.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "igdir_lepeli_etli_pilav",
-      "name": "Lepeli Etli Pilav",
+      "id": "igdir_bozbas_piti",
+      "name": "Bozbaş",
       "category": "Ana Yemek",
-      "image": "/yemekler/igdir_lepeli_etli_pilav_lepeli_etli_pilav.jpg",
-      "history": "Iğdır'ın meşhur \"lepe\"si (bölgeye özgü bir tür bölünmüş nohut/mercimek) ile yapılan, içine kuşbaşı et ve safran eklenen zengin bir pilavdır."
+      "image": "/yemekler/igdir_bozbas_piti.webp",
+      "history": "Kuzu eti, nohut ve patatesin toprak kaplarda pişirildiği, piti olarak da bilinen bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bozbash_from_Iranian_(Azeri)_cuisine.jpg"
+      }
     },
     {
-      "id": "igdir_kuymak",
-      "name": "Kuymak",
-      "category": "Ana Yemek",
-      "image": "/yemekler/igdir_kuymak_kuymak.jpg",
-      "history": "Iğdır'da da Karadeniz etkisiyle mısır unu, tereyağı ve peynirle yapılır, ancak yöresel peynir türleri sayesinde daha farklı bir aromaya sahiptir."
-    },
-    {
-      "id": "igdir_omac_helvasi",
-      "name": "Omaç Helvası",
-      "category": "Tatlı",
-      "image": "/yemekler/igdir_omac_helvasi_omac_helvasi.jpg",
-      "history": "Unun tereyağında kavrulup üzerine sıcak su ve şeker eklenerek yapılan, çok hızlı hazırlanan geleneksel bir tatlıdır."
+      "id": "igdir_igdir_kayisisi",
+      "name": "Iğdır Kayısısı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/malatya_malatya_kayisisi.webp",
+      "history": "Iğdır ve Kars'ın Kağızman ilçesinde yetiştirilen kayısıdır. 2017'den beri coğrafi işaretle korunmaktadır.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/igdir-kayisisi-70d54",
+      "gorsel": {
+        "yazar": "Burhanerşahin",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Malatya_Kay%C4%B1s%C4%B1s%C4%B1.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Sabri76",
+    "lisans": "CC0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:I%C4%9Fd%C4%B1r_ve_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg"
+  }
 }

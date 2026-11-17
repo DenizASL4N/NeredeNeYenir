@@ -2,43 +2,101 @@
   "id": "gumushane",
   "il_adi": "Gümüşhane",
   "title": "Karaca Mağarası ve Yaylalar",
-  "unsplash_query": "gumushane karaca magarasi",
-  "image": "/sehirler/gumushane.jpg",
+  "image": "/sehirler/gumushane.webp",
   "yemekler": [
     {
       "id": "gumushane_siron",
-      "name": "Siron",
-      "category": "Ana Yemek",
-      "image": "/yemekler/gumushane_siron_siron.jpg",
-      "history": "Yufkaların çok sıkı bir rulo haline getirilip birer parmak kalınlığında kesilmesi, tepsiye yan yana fırınlanarak kurutulmasıdır. Kışın tüketileceği zaman üzerine bol miktarda sarımsaklı süzme yoğurt ve eritilmiş köy tereyağı dökülerek pratik bir şekilde hazırlanır."
+      "name": "Gümüşhane Sironu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/gumushane_siron.webp",
+      "history": "Yufkaların rulo şeklinde sarılıp dilimlenmesi ve üzerine sarımsaklı yoğurt ile tereyağı dökülmesiyle yapılan bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.sozcu.com.tr/kelkit-seker-fasulyesi-cografi-isaretini-aldi-wp5546483",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:A_plate_of_siron.jpg"
+      }
     },
     {
-      "id": "gumushane_kuymak",
-      "name": "Kuymak",
+      "id": "gumushane_dolek_guveci",
+      "name": "Gümüşhane Dölek Güveci",
       "category": "Ana Yemek",
-      "image": "/yemekler/gumushane_kuymak_kuymak.jpg",
-      "history": "Trabzon ve Rize kuymaklarına göre Gümüşhane kuymağının farkı, su yerine süt ile yapılması ve içine bölgenin peynirlerinin katılıp kavrulmuş mısır ununun daha belirgin bir hal almasıdır. Mideyi yormayan daha hafif bir kuymaktır."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Gümüşhane'ye özgü bir güveç yemeğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/videolar/gumushanenin-dolek-guveci-tescillendi-55875.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "gumushane_lemis",
-      "name": "Lemis",
-      "category": "Ana Yemek",
-      "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=800&auto=format&fit=crop&q=80",
-      "history": "İnce açılmış mayasız hamurun içine haşlanmış ezik patates, kuru soğan, maydanoz veya pazı gibi otların konulup sac üzerinde ikiye katlanarak (D harfi şeklinde) pişirilmesi işlemidir. Gümüşhane köylerinin en bilinen ekmek arası alternatifidir."
-    },
-    {
-      "id": "gumushane_fitfit_hasili",
-      "name": "Fıtfıt Haşılı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/gumushane_fitfit_hasili_fitfit_hasili.jpg",
-      "history": "Pilavlık iri bulgur ve süzme yoğurdun su ile kaynatılarak koyu bir lapa (haşıl) haline getirilmesi, ortasına bir çukur açılarak eritilmiş tereyağı dökülmesidir. Eskiden kış sabahlarında bağ bahçe işlerine gidenlerin tok tutması için yediği bir güç yemeğidir."
+      "id": "gumushane_gumushane_ekmegi",
+      "name": "Gümüşhane Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_ekmek.webp",
+      "history": "Gümüşhane'ye özgü geleneksel ekmektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.sozcu.com.tr/kelkit-seker-fasulyesi-cografi-isaretini-aldi-wp5546483",
+      "gorsel": {
+        "yazar": "James (Jim) Gordon",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woman_making_flat_bread_in_a_Kurdish_village_near_the_Turkish_border.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "gumushane_pestil_ve_kome",
-      "name": "Pestil ve Köme",
-      "category": "Ana Yemek",
-      "image": "/yemekler/gumushane_pestil_ve_kome_pestil_ve_kome.jpg",
-      "history": "Gümüşhane'nin yüzyıllık ticaret ürünüdür. Yöredeki dutların pekmezi, bal, süt ve unla kaynatılır, bezlere incecik serilip güneşte kurutulunca \"Pestil\" olur. Aynı karışıma ipe dizilmiş yarım cevizlerin defalarca batırılıp asılmasıyla da \"Köme\" (cevizli sucuk) elde edilir."
+      "name": "Gümüşhane Pestili ve Kömesi",
+      "category": "Tatlı",
+      "image": "/yemekler/bingol_sivan_dut_pekmezi.webp",
+      "history": "Dut pekmezinden yapılan pestil ile cevizin pekmeze batırılıp kurutulmasıyla yapılan kömedir. İkisi de coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.sozcu.com.tr/kelkit-seker-fasulyesi-cografi-isaretini-aldi-wp5546483",
+      "gorsel": {
+        "yazar": "Martin Henke",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pekmez.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "gumushane_kelkit_seker_fasulyesi",
+      "name": "Kelkit Şeker Fasulyesi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_fasulye.webp",
+      "history": "Kelkit'te yetiştirilen kuru fasulyedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.sozcu.com.tr/kelkit-seker-fasulyesi-cografi-isaretini-aldi-wp5546483",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kuru_fasulye,_Ispir_tipi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "gumushane_deleme_peyniri",
+      "name": "Gümüşhane Deleme Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Gümüşhane'ye özgü yöresel bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/gumushane-nin-deleme-peyniri-tescillendi-3090300",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ghanevalilik",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%BCm%C3%BC%C5%9Fhane_Genel.JPG"
+  }
 }

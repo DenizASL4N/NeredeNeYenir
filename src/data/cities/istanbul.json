@@ -2,43 +2,141 @@
   "id": "istanbul",
   "il_adi": "İstanbul",
   "title": "İki Kıtayı Birleştiren Metropol",
-  "unsplash_query": "istanbul bosphorus bridge landscape",
-  "image": "/sehirler/istanbul.jpg",
+  "image": "/sehirler/istanbul.webp",
   "yemekler": [
     {
       "id": "istanbul_sultanahmet_koftesi",
       "name": "Sultanahmet Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/istanbul_sultanahmet_koftesi_sultanahmet_koftesi.jpg",
-      "history": "%100 dana kıyması, çok az ekmek içi, kuru soğan ve tuz kullanılarak, baharatsız hazırlanan ızgara köftedir. 1920'lerde Balkan göçmeni bir aile tarafından İstanbul mutfağına kazandırılmış, kentin en meşhur tarihi yarımada lezzetidir."
+      "image": "/yemekler/istanbul_sultanahmet_koftesi.webp",
+      "history": "Kıyma ve bayat ekmekle hazırlanan ızgara köftenin piyaz ve acı sosla servis edildiği, Sultanahmet'teki köftecilerle özdeşleşmiş bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Tarihi Sultanahmet Köftecisi",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sultanahmet_K%C3%B6ftesi.jpg"
+      }
     },
     {
       "id": "istanbul_suleymaniye_kurufasulyesi",
-      "name": "Süleymaniye Kurufasulyesi",
+      "name": "Süleymaniye Kuru Fasulyesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/istanbul_suleymaniye_kurufasulyesi_suleymaniye_kurufasulyesi.jpg",
-      "history": "Dermason cinsi fasulyelerin kalaylı bakır tencerelerde, kemik suyu ve tereyağı ile taş fırınlarda saatlerce ağır ağır helmelenerek pişirilmesidir. Süleymaniye Camii etrafındaki esnafın yarattığı bir İstanbul klasiğidir."
+      "image": "/yemekler/_tur_fasulye.webp",
+      "history": "Süleymaniye Camii çevresindeki fasulyecilerde pilavla birlikte servis edilen etli kuru fasulyedir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kuru_fasulye,_Ispir_tipi.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "istanbul_kanlica_yogurdu",
-      "name": "Kanlıca Yoğurdu",
+      "id": "istanbul_hunkar_begendi",
+      "name": "Hünkâr Beğendi",
       "category": "Ana Yemek",
-      "image": "/yemekler/istanbul_kanlica_yogurdu_kanlica_yogurdu.jpg",
-      "history": "Manda ve inek sütünün karışımıyla özel maya kullanılarak üretilen, üzerinde kalın bir kaymak tabakası bulunan pembemsi tarihi yoğurttur. Üzerine pudra şekeri dökülerek yenmesi, 19. yüzyıldan beri süregelen bir Boğaziçi yalı ritüelidir."
+      "image": "/yemekler/istanbul_hunkar_begendi.webp",
+      "history": "Közlenmiş patlıcan, süt ve kaşarla hazırlanan beğendinin üzerine kuzu eti yahnisi konarak servis edilir. Osmanlı saray mutfağıyla özdeşleşmiş bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:H%C3%BCnkarbe%C4%9Fendi.jpg"
+      }
+    },
+    {
+      "id": "istanbul_balik_ekmek",
+      "name": "Balık Ekmek",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/istanbul_balik_ekmek.webp",
+      "history": "Izgarada pişen balığın soğan ve yeşilliklerle ekmek arasında sunulmasıdır. Eminönü ve Karaköy kıyılarının simgesidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Benreis",
+        "lisans": "CC BY 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Balik_ekmek_Galata_Bridge.JPG"
+      }
+    },
+    {
+      "id": "istanbul_midye_dolma",
+      "name": "Midye Dolma",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/istanbul_midye_dolma.webp",
+      "history": "Midyelerin baharatlı pirinçle doldurulup pişirilmesiyle yapılır ve limonla yenir. İstanbul'un en bilinen sokak lezzetlerindendir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:A_plate_of_%22midye_dolma%22.jpg"
+      }
     },
     {
       "id": "istanbul_sariyer_boregi",
       "name": "Sarıyer Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/istanbul_sariyer_boregi_sariyer_boregi.jpg",
-      "history": "Zar inceliğinde açılan mayasız hamurun içine kavrulmuş kıyma, çam fıstığı, kuş üzümü, karabiber ve yenibahar konularak \"U\" şeklinde kol böreği olarak sarılıp fırınlanmasıdır. Osmanlı payitahtının zengin baharat kullanımının hamur işine yansımasıdır."
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "İnce yufka katlarıyla hazırlanan, kıymalı ya da peynirli küçük börekler olarak Sarıyer'de yapılır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "istanbul_kanlica_yogurdu",
+      "name": "Kanlıca Yoğurdu",
+      "category": "Tatlı",
+      "image": "/yemekler/afyonkarahisar_manda_yogurdu.webp",
+      "history": "Kanlıca'da üzerine pudra şekeri serpilerek servis edilen koyu kıvamlı yoğurttur.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Manda_yo%C4%9Furdu.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "istanbul_vefa_bozasi",
       "name": "Vefa Bozası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/istanbul_vefa_bozasi_vefa_bozasi.jpg",
-      "history": "Darı irmiği, su ve şekerin fermantasyonu ile üretilen, hafif mayhoş, koyu kıvamlı bir kış içeceğidir. Üzerine tarçın ve sarı leblebi dökülerek içilir. 1876'da Vefa semtinde standartlaşan, İstanbul'un kış gecelerinin nostaljik simgesidir."
+      "category": "İçecek",
+      "image": "/yemekler/istanbul_vefa_bozasi.webp",
+      "history": "Darı ya da bulgurun fermente edilmesiyle hazırlanan, tarçın ve leblebiyle içilen bir kış içeceğidir. Vefa semtindeki tarihi bozacıyla bilinir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Boza_from_Vefa_in_Ankara.jpg"
+      }
+    },
+    {
+      "id": "istanbul_bogazici_luferi",
+      "name": "Boğaziçi Lüferi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/istanbul_bogazici_luferi.webp",
+      "history": "İstanbul Boğazı'nda avlanan lüfer balığıdır. 2024'te coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/bogazici-luferi-artik-tescilli-42393304",
+      "gorsel": {
+        "yazar": "İsa şahintürk",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ist-Bogaz-Lufer-20210922.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Alexxx Malev",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg"
+  }
 }

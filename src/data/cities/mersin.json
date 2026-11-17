@@ -2,43 +2,113 @@
   "id": "mersin",
   "il_adi": "Mersin",
   "title": "Akdeniz'in Liman Şehri",
-  "unsplash_query": "mersin kizkalesi landscape",
-  "image": "/sehirler/mersin.jpg",
+  "image": "/sehirler/mersin.webp",
   "yemekler": [
     {
       "id": "mersin_tantuni",
       "name": "Tantuni",
       "category": "Sokak Lezzeti",
-      "image": "/yemekler/mersin_tantuni_tantuni.jpg",
-      "history": "Dana etinin (genellikle tranç kısmı) veya kuzu etinin zar büyüklüğünde doğranıp haşlandıktan sonra, özel ortası çukur sac tavalarda pamuk yağı, toz biber ve et suyu serpilerek hızla kavrulması, sumaklı soğan ve maydanozla lavaşa sarılmasıdır. Arap ve Türkmen göçebelerin Mersin limanındaki işçiler için geliştirdiği ikonik bir sokak yemeğidir."
-    },
-    {
-      "id": "mersin_batirik",
-      "name": "Batırık",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mersin_batirik_batirik.jpg",
-      "history": "İnce bulgur, tahin (veya kavrulmuş yer fıstığı), domates, biber salçası ve ince kıyılmış yeşilliklerin yoğrulmasıyla yapılır. Kısırın sulu hali gibidir; yaz aylarında içine soğuk su ve buz katılarak çorba gibi kaşıklanır. Torosların sıcağında ferahlatıcı bir besindir."
+      "image": "/yemekler/mersin_tantuni.webp",
+      "history": "Küçük doğranmış dana etinin sacda pamuk yağıyla pişirilip domates, soğan ve maydanozla birlikte lavaşa sarılmasıyla yapılır. Mersin'in en bilinen sokak lezzetidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Joquee",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tantuni_sokak_yeme%C4%9Fi.jpg"
+      }
     },
     {
       "id": "mersin_tarsus_kebabi",
       "name": "Tarsus Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/mersin_tarsus_kebabi_tarsus_kebabi.jpg",
-      "history": "Adana kebabına çok benzer ancak içine mutlaka ince doğranmış soğan katılmasıyla ondan ayrılır. Yine zırhla çekilir, kuyruk yağı içerir ve yassı şişlerde pişirilir."
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Tarsus'a özgü bir kebaptır. 2020'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/tarsus-kebabi-7df13",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "mersin_tarsus_findik_lahmacunu",
+      "name": "Tarsus Fındık Lahmacunu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/mersin_tarsus_findik_lahmacunu.webp",
+      "history": "Normal lahmacundan çok daha küçük, fındık büyüklüğünde yapılan bir lahmacundur. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/tarsus-findik-lahmacunu-ve-kebabi-tescillendi-1572719",
+      "gorsel": {
+        "yazar": "Basak",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tarsus_f%C4%B1nd%C4%B1k_lahmacunu_20250206.jpg"
+      }
+    },
+    {
+      "id": "mersin_tarsus_humusu",
+      "name": "Tarsus Humusu",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_humus.webp",
+      "history": "Haşlanmış nohudun tahin, limon ve sarımsakla ezilmesiyle hazırlanır. Tarsus'ta sıcak servis edilmesiyle bilinir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/seyahat/kulturlerin-mozaigi-tarsus-tescilli-lezzet-atagina-geciyor,dGyzuV1rGUaDKKlTncV1ow",
+      "gorsel": {
+        "yazar": "Orenrosenfeld",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hummus_plate.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "mersin_tarsus_salgami",
+      "name": "Tarsus Şalgamı",
+      "category": "İçecek",
+      "image": "/yemekler/_tur_salgam.webp",
+      "history": "Mor havuç ve şalgamla fermente edilen ekşi bir içecektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/seyahat/kulturlerin-mozaigi-tarsus-tescilli-lezzet-atagina-geciyor,dGyzuV1rGUaDKKlTncV1ow",
+      "gorsel": {
+        "yazar": "Anatolianpride",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yeni3.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "mersin_cezerye",
-      "name": "Cezerye",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mersin_cezerye_cezerye.jpg",
-      "history": "Mersin havuçlarının saatlerce kaynatılıp püre haline getirildikten sonra toz şeker, karanfil, tarçın ve bol ceviz (veya fıstık) ile macun kıvamına gelene dek pişirilip, soğutulduktan sonra Hindistan cevizine bulanmasıyla yapılır. Tarihi bir Arap-Akdeniz tatlısıdır."
+      "name": "Mersin Cezeryesi",
+      "category": "Tatlı",
+      "image": "/yemekler/mersin_cezerye.webp",
+      "history": "Havucun şekerle kaynatılıp koyulaştırılması ve içine ceviz, fındık ya da fıstık katılmasıyla yapılan, hindistan cevizine bulanarak kesilen bir şekerlemedir. 2002'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/seyahat/kulturlerin-mozaigi-tarsus-tescilli-lezzet-atagina-geciyor,dGyzuV1rGUaDKKlTncV1ow",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_cezerye.jpg"
+      }
     },
     {
       "id": "mersin_kerebic",
-      "name": "Kerebiç",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mersin_kerebic_kerebic.jpg",
-      "history": "İrmik ve yağ ile hazırlanan kurabiye hamurunun içine ceviz veya Antep fıstığı doldurulup pişirilmesi ve üzerine çöven otu kökünün saatlerce çırpılmasıyla elde edilen beyaz, köpük gibi şanti (kaymak) dökülerek yenmesidir. Ramazan aylarının en meşhur Mersin tatlısıdır."
+      "name": "Mersin Kerebiçi",
+      "category": "Tatlı",
+      "image": "/yemekler/mersin_kerebic.webp",
+      "history": "İrmikli hamurun içine fıstık konarak hazırlanan kurabiyeler, çöven kökünden yapılan beyaz köpüğe batırılarak yenir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/mersin-in-kerebici-tescillendi-2470798",
+      "gorsel": {
+        "yazar": "Basak",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kerebi%C3%A7_20250206.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Nedim Ardoğa (talk)",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg"
+  }
 }

@@ -2,43 +2,104 @@
   "id": "cankiri",
   "il_adi": "Çankırı",
   "title": "Tuz Mağaraları ve Kültür",
-  "unsplash_query": "cankiri tuz magarasi",
-  "image": "/sehirler/cankiri.jpg",
+  "image": "/sehirler/cankiri.webp",
   "yemekler": [
     {
       "id": "cankiri_sarimsakli_et",
-      "name": "Sarımsaklı Et",
+      "name": "Çankırı Sarımsaklı Et",
       "category": "Ana Yemek",
-      "image": "/yemekler/cankiri_sarimsakli_et_sarimsakli_et.jpg",
-      "history": "Kuşbaşı doğranmış kuzu veya dana etinin, bol miktarda bütün diş sarımsak, arpacık soğan ve salçalı suyla toprak güveçlerde uzun süre yavaş yavaş pişirilmesidir. Çankırı'nın kış aylarında hastalıklardan korunmak için şifa niyetine yaptığı en ünlü ev yemeğidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Etin sarımsak ve Çankırı kaya tuzuyla az malzemeyle pişirildiği bir yemektir. 2019'da coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/haberleri/cankiri-sarimsakli-et-yemegi",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "cankiri_yaren_guveci",
-      "name": "Yaren Güveci",
+      "id": "cankiri_pirasa_dolmasi",
+      "name": "Çerkeş Pırasa Dolması",
       "category": "Ana Yemek",
-      "image": "/yemekler/cankiri_yaren_guveci_yaren_guveci.jpg",
-      "history": "Ahilik ve Yarenlik kültürünün merkezi olan Çankırı'da, Yaren meclislerinde toplanan esnaf ve halk için et, patlıcan, domates ve biberin güveçte saatlerce kendi buharıyla pişirildiği büyük porsiyonlu bir dayanışma yemeğidir."
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Pırasa yapraklarının harçla doldurulmasıyla yapılan, Çankırı'nın Çerkeş ilçesine özgü bir dolmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/cerkes-pirasa-dolmasi-b6dcc",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "cankiri_i̇nce_ekmek_muskasi",
-      "name": "İnce Ekmek Muskası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/cankiri_i̇nce_ekmek_muskasi_ince_ekmek_muskasi.jpg",
-      "history": "Sacda yarı pişmiş ince yufkaların (şebit) içine kavrulmuş kıymalı ve baharatlı harcın konup üçgen (muska) şeklinde sarıldıktan sonra tavada kızartılmasıdır. Yörük çadır kültüründen şehir hayatına taşınmış pratik bir börektir."
-    },
-    {
-      "id": "cankiri_cankiri_hosmerimi",
-      "name": "Çankırı Höşmerimi",
-      "category": "Tatlı",
-      "image": "/yemekler/cankiri_cankiri_hosmerimi_cankiri_hosmerimi.jpg",
-      "history": "Balıkesir höşmeriminin aksine peynir kullanılmaz. Sadece un ve kaliteli tereyağının ufalanana kadar kavrulup içine çok az tuz katılmasıyla elde edilen kahvaltılık veya üzerine bal/pekmez dökülerek tatlı olarak yenilen eski bir göçebe besinidir."
+      "id": "cankiri_cankiri_kiymalisi",
+      "name": "Çankırı Kıymalısı",
+      "category": "Hamur İşi",
+      "image": "/yemekler/cankiri_cankiri_kiymalisi.webp",
+      "history": "Kıymayla hazırlanan, Çankırı'da sabah kahvaltısından akşama kadar yenen bir hamur işidir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/cankiri-kiymalisi-bf46e",
+      "gorsel": {
+        "yazar": "Sadikaltiparmak",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kiymalipide2.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "cankiri_yumurta_tatlisi",
-      "name": "Yumurta Tatlısı",
+      "name": "Çankırı Yumurta Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/cankiri_yumurta_tatlisi_yumurta_tatlisi.jpg",
-      "history": "Bol yumurta (bazen 10-12 adet), un ve şekerin çırpılarak pandispanya gibi fırınlanması ve ardından şerbet dökülmesiyle yapılan süngerimsi dokuda, yöreye has eski bir tatlı türüdür."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Bol yumurtayla hazırlanan geleneksel bir tatlıdır. Çankırı Belediyesi adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/galeri-20-adet-yumurtadan-yapiyorlar-giden-yemeden-donmuyor-1718970",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "cankiri_ehlibilir",
+      "name": "Ehlibilir Kurabiyesi",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_kurabiye.webp",
+      "history": "Bol unla hazırlanan geleneksel bir Çankırı kurabiyesidir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/cankiri-nin-tescilli-lezzeti-ehlibilir-kurabiyesi-3876049",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Un_kurabiyesi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "cankiri_kupecik_peyniri",
+      "name": "Çankırı Küpecik Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Çankırı Tuz Mağarası'nın kaya tuzu kullanılarak üretilen yöresel bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/cankiri-kupecik-peyniri-0249f",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "XperfectTR",
+    "lisans": "Public domain",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg"
+  }
 }

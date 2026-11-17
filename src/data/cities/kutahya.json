@@ -2,43 +2,117 @@
   "id": "kutahya",
   "il_adi": "Kütahya",
   "title": "Çininin ve Kaplıcaların Başkenti",
-  "unsplash_query": "kutahya aizonai landscape",
-  "image": "/sehirler/kutahya.jpg",
+  "image": "/sehirler/kutahya.webp",
   "yemekler": [
     {
       "id": "kutahya_cimcik_manti",
-      "name": "Cimcik Mantı",
-      "category": "Aperatif",
-      "image": "/yemekler/kutahya_cimcik_manti_cimcik_manti.jpg",
-      "history": "Kütahya mantısının en belirgin özelliği, hamurunun mercimek kadar küçük parçalar halinde koparılıp el ile çimdiklenerek (birleştirilerek) şekillendirilmesidir. Üzerine sarımsaklı yoğurt ve kızgın tereyağlı salça dökülerek servis edilir."
+      "name": "Kütahya Cimcik Aşı",
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_mantisi.webp",
+      "history": "Hamurun parmak uçlarıyla küçük parçalar halinde koparılarak (cimciklenerek) pişirildiği, yoğurt ve tereyağıyla servis edilen bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/11-yoresel-urune-daha-cografi-isaret-tescili,9bsRSuTUYEeFPwxZWDcBtQ",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Mant%C4%B1s%C4%B1_(6344302909).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kutahya_kaz_tiridi",
+      "name": "Kütahya Kaz Tiridi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/kutahya_kaz_tiridi.webp",
+      "history": "Kaz eti ve suyunun ekmek üzerine dökülerek hazırlandığı bir tirittir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/11-yoresel-urune-daha-cografi-isaret-tescili,9bsRSuTUYEeFPwxZWDcBtQ",
+      "gorsel": {
+        "yazar": "Suranb",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kaz_Tiridi.jpg"
+      }
+    },
+    {
+      "id": "kutahya_emet_kebabi",
+      "name": "Emet Kebabı",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Kütahya'nın Emet ilçesine özgü bir kebaptır. Emet Belediyesi adına coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/11-yoresel-urune-daha-cografi-isaret-tescili,9bsRSuTUYEeFPwxZWDcBtQ",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kutahya_sikicik_corbasi",
       "name": "Sıkıcık Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/kutahya_sikicik_corbasi_sikicik_corbasi.jpg",
-      "history": "İnce bulgur ve tarhananın yoğrularak küçük fındık büyüklüğünde toplar haline getirilmesi ve salçalı su içinde kaynatılmasıyla yapılan, üzerine süzme yoğurt dökülen pratik ve doyurucu bir kış çorbasıdır."
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Bulgurlu hamurdan sıkılarak yapılan küçük parçaların yeşil mercimekle pişirildiği bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "kutahya_govec",
-      "name": "Göveç",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kutahya_govec_govec.jpg",
-      "history": "Kütahya'nın toprak güveç kaplarında; kuzu eti, patlıcan, domates ve biberin, ağır ateşte su eklenmeden sebzelerin kendi suyuyla özleşerek pişirilmesiyle yapılan yöresel tencere yemeğidir."
+      "id": "kutahya_kopuk_helvasi",
+      "name": "Kütahya Köpük Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Çöven kökünden elde edilen köpükle hazırlanan beyaz renkli bir helvadır. 2020'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kutahya-kopuk-helvasi-c41da",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "kutahya_tosunum",
-      "name": "Tosunum",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kutahya_tosunum_tosunum.jpg",
-      "history": "Mercimekli bir iç harcın sarma gibi yapılıp, hamurla kaplandıktan sonra fırınlanmasıyla yapılan; hem börek hem de ana yemek niteliğinde olan çok eski bir Kütahya hamur işidir."
+      "id": "kutahya_pasa_helvasi",
+      "name": "Paşa Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Kütahya'ya özgü, bayram ikramlarında yer alan geleneksel bir helvadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/pasa-helvasi-400b1",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "kutahya_sibit_sebit",
-      "name": "Şibit (Şebit)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kutahya_sibit_sebit_sibit_sebit.jpg",
-      "history": "İnce yufkaların sac üzerinde pişirilmesi ve üzerine peynir, kavurma veya çeşitli otların konularak dürüm yapılmasıdır. Bölgenin en temel ve kadim ekmek yemeği formudur."
+      "id": "kutahya_simav_kestanesi",
+      "name": "Simav Kestanesi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/kutahya_simav_kestanesi.webp",
+      "history": "Kütahya'nın Simav ilçesinde yetişen kestanedir. Menşe adıyla tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/simav-kestanesi-5ee46",
+      "gorsel": {
+        "yazar": "muammerokumus",
+        "lisans": "CC BY-SA 2.0",
+        "kaynak": "https://www.flickr.com/photos/19475163@N00/5155126523",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Dosseman",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:K%C3%BCtahya_City_Museum_9132.jpg"
+  }
 }

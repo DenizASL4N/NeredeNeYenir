@@ -2,43 +2,56 @@
   "id": "sinop",
   "il_adi": "Sinop",
   "title": "Karadeniz'in Sakin Fiyordu",
-  "unsplash_query": "sinop hamsilos koyu landscape",
-  "image": "/sehirler/sinop.jpg",
+  "image": "/sehirler/sinop.webp",
   "yemekler": [
     {
       "id": "sinop_sinop_mantisi",
       "name": "Sinop Mantısı",
-      "category": "Aperatif",
-      "image": "/yemekler/sinop_sinop_mantisi_sinop_mantisi.jpg",
-      "history": "Diğer mantılardan farkı; bir yarısının etli, diğer yarısının cevizli yapılıp aynı tabakta servis edilmesidir. Üzerine eritilmiş tereyağı ve sarımsaklı yoğurt dökülür; Sinop'un denizle buluştuğu noktadaki en ikonik ev yemeğidir."
+      "category": "Hamur İşi",
+      "image": "/yemekler/sinop_sinop_mantisi.webp",
+      "history": "Sinop'a özgü bir mantıdır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/guncel/sinopun-mantisi-cografi-isaretle-tescillendi-641932.html",
+      "gorsel": {
+        "yazar": "Tpinar",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:20251213_Sinop_Mant%C4%B1s%C4%B1.jpg"
+      }
     },
     {
       "id": "sinop_nokul",
-      "name": "Nokul",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sinop_nokul_nokul.jpg",
-      "history": "Sinop'a özgü, içine üzüm, ceviz ve şeker konulan (bazen kıymalı da yapılır) hamurun rulo yapılıp pişirilmesiyle yapılan meşhur bir hamur işidir."
+      "name": "Sinop Nokulu",
+      "category": "Hamur İşi",
+      "image": "/yemekler/sinop_nokul.webp",
+      "history": "Hamurun cevizli ya da kıymalı harçla sarılıp fırında pişirilmesiyle yapılan bir hamur işidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nokul.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "sinop_sirik_kebabi",
-      "name": "Sırık Kebabı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sinop_sirik_kebabi_sirik_kebabi.jpg",
-      "history": "(Sinop'un Ayancık ilçesi çevresi) Temizlenmiş kuzunun uzun bir çam sırığına geçirilip ateşin karşısında saatlerce döndürülerek pişirilmesi, odun ateşinin en güzel et pişirme sanatıdır."
-    },
-    {
-      "id": "sinop_kestane",
-      "name": "Kestane",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sinop_kestane_kestane.jpg",
-      "history": "Sinop'un ormanlık alanlarında yetişen kaliteli kestane, közde veya fırında pişirilerek kış aylarının temel atıştırmalığı olarak tüketilir."
-    },
-    {
-      "id": "sinop_i̇ncir_uyusturmasi",
-      "name": "İncir Uyuşturması",
-      "category": "Ana Yemek",
-      "image": "/yemekler/sinop_i̇ncir_uyusturmasi_incir_uyusturmasi.jpg",
-      "history": "Süt ve taze/kuru incirin karıştırılıp mayalanmasıyla yapılan, hafif ve geleneksel bir sütlü tatlıdır."
+      "id": "sinop_gazidere_domatesi",
+      "name": "Gazidere Domatesi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_domates.webp",
+      "history": "Sinop'un Boyabat ilçesinde yetiştirilen bir domates çeşididir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/turkiye/galeri-cografi-isaret-tescilli-hasat-basladi-sofralara-ulasiyor,D_VhZlMxwkeAhmOaUO-Mbg",
+      "gorsel": {
+        "yazar": "Glenda Green",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ripe_Red_Tomatoes.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Bjørn Christian Tørrissen",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Sinop_Overview_2009.JPG"
+  }
 }

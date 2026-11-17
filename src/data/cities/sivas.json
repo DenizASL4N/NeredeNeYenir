@@ -2,43 +2,115 @@
   "id": "sivas",
   "il_adi": "Sivas",
   "title": "Selçuklu Mirası Gök Medrese",
-  "unsplash_query": "sivas divrigi ulu cami landscape",
-  "image": "/sehirler/sivas.jpg",
+  "image": "/sehirler/sivas.webp",
   "yemekler": [
     {
       "id": "sivas_sivas_koftesi",
       "name": "Sivas Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/sivas_sivas_koftesi_sivas_koftesi.jpg",
-      "history": "%100 dana eti ve tuz kullanılarak yapılan, başka hiçbir baharat veya ekmek içermeyen, odun ateşinde ızgaralanan çok saf ve lezzetli bir köftedir."
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kıymanın şişe dizilip ızgarada pişirildiği, közlenmiş domates ve biberle servis edilen bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/sivas-koftesi-9743d",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "sivas_divrigi_pilavi",
       "name": "Divriği Pilavı",
       "category": "Ana Yemek",
-      "image": "/yemekler/sivas_divrigi_pilavi_divrigi_pilavi.jpg",
-      "history": "Kuzu eti, nohut, kuş üzümü, badem ve özel baharatlarla hazırlanan, kat kat döşenen ve fırınlanan, Sivas'ın en zengin ve en özel tören pilavıdır."
+      "image": "/yemekler/_tur_pilav.webp",
+      "history": "Alat adı verilen bulgurla, et ve nohutla hazırlanan bir pilavdır. Alatlı pilav olarak da bilinir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://sivas.ktb.gov.tr/Eklenti/135210,divrigi-pilavipdf.pdf",
+      "gorsel": {
+        "yazar": "El Mono Español",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Arabic_rice.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "sivas_sivas_kellesi",
+      "name": "Sivas Kellesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/sivas_sivas_kellesi.webp",
+      "history": "Koyun kellesinin fırında pişirilmesiyle hazırlanan yöresel bir yemektir. 2026'da coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/sivas-haberleri/116530885-sivasin-yoresel-lezzeti-sivas-kellesi-cografi-isaret-aldi",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kelle_on_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "sivas_peskutan_corbasi",
-      "name": "Peskutan Çorbası",
+      "name": "Peskütan Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/sivas_peskutan_corbasi_peskutan_corbasi.jpg",
-      "history": "Sivas'a özgü \"peskutan\" denilen (yoğurt ve yarma karışımı) süt ürününün, yeşil mercimek ve döğme ile kaynatılmasıyla yapılan, kışın dondurucu soğuğunda içilen şifa çorbasıdır."
+      "image": "/yemekler/corum_alaca_yarma_asi.webp",
+      "history": "Ayran ya da yoğurtla hazırlanan, Sivas'ta yaygın bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran_a%C5%9F%C4%B1.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "sivas_madimak",
       "name": "Madımak",
       "category": "Ana Yemek",
-      "image": "/yemekler/sivas_madimak_madimak.jpg",
-      "history": "Sivas'ın meralarında kendiliğinden yetişen \"madımak\" otunun (yabani bir bitki) toplanıp bulgur veya pastırma ile pişirilmesiyle yapılan yöresel yemektir; Sivaslıların vazgeçilmezidir."
+      "image": "/yemekler/sivas_madimak.webp",
+      "history": "Baharda toplanan madımak otunun soğan ve bulgurla kavrulmasıyla yapılan bir yemektir. Sivas ve Tokat'ta yaygındır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Vikiçizer",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mad%C4%B1mak.jpg"
+      }
     },
     {
-      "id": "sivas_kelle_tatlisi",
-      "name": "Kelle Tatlısı",
+      "id": "sivas_sivas_katmeri",
+      "name": "Sivas Katmeri",
       "category": "Tatlı",
-      "image": "/yemekler/sivas_kelle_tatlisi_kelle_tatlisi.jpg",
-      "history": "Sivas mutfağının çok eski, unutulmaya yüz tutmuş bir tatlısı; un, şeker ve yağın özel yöntemlerle kavrulup şekillendirilmesiyle yapılır."
+      "image": "/yemekler/sivas_sivas_katmeri.webp",
+      "history": "Sivas'a özgü bir katmerdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/tr/pub/saktad/article/820223",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Katmer_-_Sivas.jpg"
+      }
+    },
+    {
+      "id": "sivas_sivas_pastirmasi",
+      "name": "Sivas Pastırması",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/sivas_sivas_pastirmasi.webp",
+      "history": "Sivas'ta üretilen pastırmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haber7.com/yemek/haber/3233125-pastirma-tartismalarini-alevlendirecek-resmen-tescil-edildi",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pastirma.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Dosseman",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Sivas_Cumhuriyet_Meydan%C4%B1_in_2011_8145.jpg"
+  }
 }

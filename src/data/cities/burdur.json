@@ -2,43 +2,73 @@
   "id": "burdur",
   "il_adi": "Burdur",
   "title": "Göller Yöresinin İncisi",
-  "unsplash_query": "burdur salda golu landscape",
-  "image": "/sehirler/burdur.jpg",
+  "image": "/sehirler/burdur.webp",
   "yemekler": [
     {
       "id": "burdur_burdur_sis",
-      "name": "Burdur Şiş",
+      "name": "Burdur Şiş Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/burdur_burdur_sis_burdur_sis.jpg",
-      "history": "Kısa ve çok ince şişlere, içine sadece tuz katılmış yöresel dana/kuzu kıymasının dizilerek kömür ateşinde kurutulmadan hızlıca pişirilmesidir. Yanında pide ile sunulan bu köfte, Yörüklerin eti en saf haliyle tüketme sevdasının en güzel kanıtıdır."
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kıymanın şişlere sarılıp mangalda pişirildiği, yanında piyaz ile servis edilen bir köftedir. 2012'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/burdur-sis-koftesi-eae0f",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "burdur_testi_kebabi",
-      "name": "Testi Kebabı",
+      "id": "burdur_golhisar_kavurmasi",
+      "name": "Gölhisar Sac Kavurması",
       "category": "Ana Yemek",
-      "image": "/yemekler/burdur_testi_kebabi_testi_kebabi.jpg",
-      "history": "Etlerin, domates, biber ve arpacık soğanlarla birlikte çömlek testilere doldurulup, ağzının hamurla kapatılarak meşe kömüründe ağır ağır pişirilmesidir. Göller Yöresinin tarım ve hayvancılık ürünlerinin toprak kaplarda birleştiği ziyafet yemeğidir."
-    },
-    {
-      "id": "burdur_gazel_boregi",
-      "name": "Gazel Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/burdur_gazel_boregi_gazel_boregi.jpg",
-      "history": "İncecik açılan yufkaların arasına kıymalı, patatesli veya peynirli harç konulup rulo halinde tepsilere dizilen ve fırında sonbahar yaprakları (gazel) gibi çıtır çıtır olana kadar pişirilen börektir."
+      "image": "/yemekler/burdur_golhisar_kavurmasi.webp",
+      "history": "Burdur'un Gölhisar ilçesine özgü, ince doğranan etin sacda çok kısa sürede pişirildiği bir kavurmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/7-saniyede-pisen-asirlik-lezzete-cografi-isaret-2010048",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87oban_kavurma_(xai).jpg",
+        "temsili": true
+      }
     },
     {
       "id": "burdur_ceviz_ezmesi",
-      "name": "Ceviz Ezmesi",
+      "name": "Burdur Ceviz Ezmesi",
       "category": "Tatlı",
-      "image": "/yemekler/burdur_ceviz_ezmesi_ceviz_ezmesi.jpg",
-      "history": "Burdur yöresinin yüksek yağlı cevizlerinin havanda dövülerek irmik, şeker ve su ile kaynatılmadan elle saatlerce yoğrulmasıyla yapılır. Padişahlara hediye olarak götürüldüğü rivayet edilen, tamamen doğal ve uzun ömürlü bir tatlıdır."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Ceviz içi ve şekerle hazırlanan, rulo halinde kesilen bir şekerlemedir. 2009'da mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/burdur-ceviz-ezmesi-18101",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "burdur_burdur_muhallebisi",
-      "name": "Burdur Muhallebisi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/burdur_burdur_muhallebisi_burdur_muhallebisi.jpg",
-      "history": "Pirinç ununun süt ile kaynatılıp üzerine nişasta ve sakız reçeli eklenerek hazırlanan oldukça hafif bir sütlü tatlıdır. Ağır et yemeklerinin ardından mideyi rahatlatması için geliştirilmiştir."
+      "id": "burdur_kabak_helvasi",
+      "name": "Burdur Kabak Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Burdur'a özgü, bal kabağıyla hazırlanan geleneksel bir helvadır. 2010'da mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/burdur-kabak-helvasi-46011",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Nihat1988",
+    "lisans": "CC BY 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg"
+  }
 }

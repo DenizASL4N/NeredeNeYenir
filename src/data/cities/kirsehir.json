@@ -2,43 +2,105 @@
   "id": "kirsehir",
   "il_adi": "Kırşehir",
   "title": "Ahi Evran ve Neşet Ertaş Toprağı",
-  "unsplash_query": "kirsehir cacabey cami",
-  "image": "/sehirler/kirsehir.jpg",
+  "image": "/sehirler/kirsehir.webp",
   "yemekler": [
     {
-      "id": "kirsehir_cullama",
-      "name": "Çullama",
+      "id": "kirsehir_cirleme",
+      "name": "Kırşehir Çirleme Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirsehir_cullama_cullama.jpg",
-      "history": "Tavuk (veya kuzu) eti kemikleriyle birlikte haşlandıktan sonra suyunun un ile kavrularak pekmez kıvamında bir sos haline getirilmesi, bu sosun geniş tepsilere yayılarak üzerine tiftiklenmiş etlerin dizilip tereyağı gezdirilmesiyle yapılan çok eski bir Selçuklu dönemi Orta Anadolu yemeğidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Kayısı ve pekmezle hazırlanan, Kırşehir'e özgü bir yemektir. 2021'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kirsehir-cirleme-yemegi-e7dac",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "kirsehir_besmec",
-      "name": "Besmeç",
+      "id": "kirsehir_sula_kabagi",
+      "name": "Kırşehir Süla Kabağı Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirsehir_besmec_besmec.jpg",
-      "history": "Kıyma, ince bulgur, salça, soğan ve reyhanın tıpkı çiğ köfte gibi uzun süre yoğrulması, ardından yassı köfteler haline getirilip fırında veya sac üzerinde pişirilmesidir. Ahilik kültürünün hakim olduğu şehirde esnafın pratik yemeklerinden biridir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Süla kabağıyla hazırlanan geleneksel bir yemektir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=40",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "kirsehir_tandirda_comlek_kebabi",
-      "name": "Tandırda Çömlek Kebabı",
+      "id": "kirsehir_ayva_boranisi",
+      "name": "Kırşehir Ayva Boranisi",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirsehir_tandirda_comlek_kebabi_tandirda_comlek_kebabi.jpg",
-      "history": "İri doğranmış et, soğan, yeşil biber, domates ve sarımsakların toprak çömleklere konulup, ağzının hamurla kapatılarak Kırşehir tandırlarında kül ve köz içinde saatlerce pişirilmesidir."
-    },
-    {
-      "id": "kirsehir_dugur_corbasi",
-      "name": "Düğür Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/kirsehir_dugur_corbasi_dugur_corbasi.jpg",
-      "history": "İnce bulgurun en ufak haline \"düğür\" denir. Kırşehir ovasındaki buğdayın öğütülmesinden arta kalan düğürün; tereyağı, domates salçası ve nane kavrularak çorba haline getirildiği, yokluk ve kıtlık dönemlerinden günümüze taşınmış, kış aylarının iç ısıtan besini."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Ayvayla hazırlanan bir boranidir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kirsehir-ayva-boranisi-b8bdc",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "kirsehir_ahi_helvasi",
-      "name": "Ahi Helvası",
+      "name": "Kırşehir Ahi Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/kirsehir_ahi_helvasi_ahi_helvasi.jpg",
-      "history": "Kırşehir merkezli Ahilik (Esnaf loncası) teşkilatının kurucusu Ahi Evran döneminden gelen; un, tereyağı, ceviz ve üzüm pekmezi kullanılarak yapılan, esnaf şenliklerinde büyük kazanlarda kavrulup halka dağıtılan köklü ve manevi değeri yüksek bir helvadır."
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Adını Ahilik geleneğinden alan geleneksel bir helvadır. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kirsehir-ahi-helvasi-c80e5",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kirsehir_hosmerim",
+      "name": "Kırşehir Höşmerimi",
+      "category": "Tatlı",
+      "image": "/yemekler/balikesir_hosmerim_tatlisi.webp",
+      "history": "Kırşehir'e özgü höşmerim tatlısıdır. 2017'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kirsehir-hosmerim-tatlisi-027d6",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:H%C3%B6%C5%9Fmerim_from_Bal%C4%B1kesir.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kirsehir_kaman_cevizi",
+      "name": "Kaman Cevizi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/kirsehir_kaman_cevizi.webp",
+      "history": "Kırşehir'in Kaman ilçesinde yetişen cevizdir. Menşe adıyla tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kaman-cevizi-7cbcc",
+      "gorsel": {
+        "yazar": "Hamdigumus",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ceviz_K%C4%B1r%C4%B1lmam%C4%B1%C5%9F.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Omur Tanyel",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Kircenter.jpg"
+  }
 }

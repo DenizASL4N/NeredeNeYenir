@@ -2,43 +2,113 @@
   "id": "eskisehir",
   "il_adi": "Eskişehir",
   "title": "Göçmenlerin Şehri",
-  "unsplash_query": "eskisehir odunpazari landscape",
-  "image": "/sehirler/eskisehir.jpg",
+  "image": "/sehirler/eskisehir.webp",
   "yemekler": [
     {
       "id": "eskisehir_ciborek_cigborek",
-      "name": "Çibörek (Çiğbörek)",
-      "category": "Aperatif",
-      "image": "/yemekler/eskisehir_ciborek_cigborek_ciborek_cigborek.jpg",
-      "history": "İncecik açılmış mayasız hamurun yarısına çiğ dana kıyması, ince doğranmış soğan, karabiber ve bir miktar su (içinin sulu kalması için) konup yarım ay şeklinde kapatılır ve dev kazanlarda kızgın yağda 15 saniye kızartılır. Kırım Tatarlarının göçle getirdiği Eskişehir'in bir numaralı lezzetidir."
+      "name": "Çibörek",
+      "category": "Hamur İşi",
+      "image": "/yemekler/eskisehir_ciborek_cigborek.webp",
+      "history": "İnce hamurun içine çiğ kıymalı harç konup yarım ay şeklinde kapatılarak kızgın yağda pişirilir. Eskişehir'e Kırım Tatarlarıyla gelmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/eskisehirin-tescilli-lezzetleriturkmutfagihaftasi-etkinliginde-tanitildi,N4KlP6Bb806SxTZ9J-iR6w",
+      "gorsel": {
+        "yazar": "Eaeeae",
+        "lisans": "CC BY 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran%2B%C3%87ib%C3%B6rek.jpg"
+      }
     },
     {
       "id": "eskisehir_balaban_kebabi",
       "name": "Balaban Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/eskisehir_balaban_kebabi_balaban_kebabi.jpg",
-      "history": "Kare şeklinde kesilmiş pidelerin kemik suyuyla ıslatılması, üzerine yoğurt dökülüp ızgarada pişmiş şiş köfteler ve bonfile parçalarının dizilmesi, en son kaynar tereyağı ve domates sosu gezdirilmesiyle yapılır. Tatar ve Balkan et kültürünün yoğun bir füzyonudur."
+      "image": "/yemekler/eskisehir_balaban_kebabi.webp",
+      "history": "Izgara köftelerin doğranmış pide üzerine konup domates sosu, tereyağı ve yoğurtla servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "halil.gamsizkan",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Abd%C3%BCsselam_Balaban_-_Balaban_Kebab%C4%B1_-_panoramio.jpg"
+      }
     },
     {
-      "id": "eskisehir_sorpa_corbasi",
-      "name": "Sorpa Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/eskisehir_sorpa_corbasi_sorpa_corbasi.jpg",
-      "history": "Kuzu veya koyun eti, taze soğan ve yoğurtlu terbiyenin bolca karabiberle kaynatılmasıyla hazırlanan Kırım Tatar mutfağına ait geleneksel, besleyici ve şifa deposu bir çorbadır."
-    },
-    {
-      "id": "eskisehir_hashasli_corek",
-      "name": "Haşhaşlı Çörek",
+      "id": "eskisehir_kelem_dolmasi",
+      "name": "Sivrihisar Kelem Dolması",
       "category": "Ana Yemek",
-      "image": "/yemekler/eskisehir_hashasli_corek_hashasli_corek.jpg",
-      "history": "Eskişehir yöresinin tarım havzasında yetişen haşhaşların ezilip sıvı yağ veya tereyağı ile karıştırılarak hamurun arasına kat kat sürülmesi ve burularak fırınlanmasıdır. Çay saatlerinin tok tutan vazgeçilmezidir."
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Lahana (kelem) yapraklarının harçla sarılmasıyla yapılan bir dolmadır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/sivrihisar-kelem-dolmasi-0cdfb",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "eskisehir_sivrihisar_arabasi",
+      "name": "Sivrihisar Arabaşı",
+      "category": "Çorba",
+      "image": "/yemekler/eskisehir_sivrihisar_arabasi.webp",
+      "history": "Tavuk suyuyla hazırlanan acılı bir çorbadır; yanında soğutulmuş katı hamurla yenir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/eskisehir-simidinin-cografi-isaret-tescili-yapildi-673866.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Araba%C5%9F%C4%B1_soup.jpg"
+      }
+    },
+    {
+      "id": "eskisehir_eskisehir_simidi",
+      "name": "Eskişehir Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/eskisehir_eskisehir_simidi.webp",
+      "history": "Eskişehir'e özgü bir simittir. 2022'de Eskişehir Ticaret Odası adına tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/eskisehir-simidinin-cografi-isaret-tescili-yapildi-673866.html",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Simit-2x.JPG",
+        "temsili": true
+      }
     },
     {
       "id": "eskisehir_met_helvasi",
-      "name": "Met Helvası",
+      "name": "Eskişehir Met Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/eskisehir_met_helvasi_met_helvasi.jpg",
-      "history": "Pişmaniye ve çekme helvaya benzer ancak çubuk şeklinde (met) ve daha kıtır formdadır. Un, şeker, yağ ve limon tuzunun ustalar tarafından defalarca çekilerek lif lif yapılmasıyla oluşur. Adını eskiden sokaklarda oynanan \"Met\" isimli çelik-çomak benzeri oyundan alır."
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Eskişehir'e özgü geleneksel bir helvadır. 2017'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/eskisehir-met-helvasi-91175",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "eskisehir_hosmerim",
+      "name": "Sivrihisar Höşmerimi",
+      "category": "Tatlı",
+      "image": "/yemekler/eskisehir_hosmerim.webp",
+      "history": "Kaymak ile unun birlikte kavrulmasıyla yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/kaymak-ile-unun-kavrulmasindan-dogan-tescilli-lezzet-sivrihisar-hosmerim-tatlisi-1597021",
+      "gorsel": {
+        "yazar": "Basak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sivrihisar_h%C3%B6%C5%9Fmerim_taba%C4%9F%C4%B1.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "BSRF",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Sazova_Park_2.jpg"
+  }
 }

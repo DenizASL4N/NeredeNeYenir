@@ -2,43 +2,96 @@
   "id": "usak",
   "il_adi": "Uşak",
   "title": "Karun Hazinelerinin Şehri",
-  "unsplash_query": "usak ulubey kanyonu landscape",
-  "image": "/sehirler/usak.jpg",
+  "image": "/sehirler/usak.webp",
   "yemekler": [
     {
       "id": "usak_tarhana_corbasi",
-      "name": "Tarhana Çorbası",
+      "name": "Uşak Tarhanası",
       "category": "Çorba",
-      "image": "/yemekler/usak_tarhana_corbasi_tarhana_corbasi.jpg",
-      "history": "Uşak tarhanası, sebze (domates, biber, soğan) oranının yüksekliği ve uzun süre fermente edilmesiyle ünlüdür. Bir yıl boyunca kurutulup saklanan tarhana, Uşak'ta kahvaltıdan akşama kadar her öğünde içilir."
+      "image": "/yemekler/usak_tarhana_corbasi.webp",
+      "history": "Yaz aylarında topluca hazırlanıp kurutulan tarhanadan yapılan bir çorbadır. 2017'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.istiklal.com.tr/foto-galeri/usakli-kadinlar-tescilli-tarhana-icin-bir-araya-geldi-930905h",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tarhana_%C3%A7orbas%C4%B1.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "usak_usak_dondurmesi",
-      "name": "Uşak Döndürmesi",
+      "id": "usak_karahalli_cigeri",
+      "name": "Karahallı Ciğeri",
       "category": "Ana Yemek",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&auto=format&fit=crop&q=80",
-      "history": "Ispanak, peynir veya kıymalı harcın, ince hamur bezeleriyle üst üste dizilip sac üzerinde çevrilerek (döndürülerek) pişirildiği bir börek çeşididir."
+      "image": "/yemekler/usak_karahalli_cigeri.webp",
+      "history": "Dana ciğerinin bitkisel yağla sac üzerinde pişirilmesiyle hazırlanır. Uşak'ın Karahallı ilçesine özgüdür ve 2022'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/karahalli-cigeri-e82f0",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Fried_liver_a_la_turca_(Ci%C4%9Fer_tava).jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "usak_zini_kebabi",
-      "name": "Zini Kebabı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/usak_zini_kebabi_zini_kebabi.jpg",
-      "history": "Kuzu eti ve sebzelerin tepsiye (zini) dizilip fırınlanmasıyla yapılan, bölgenin en geleneksel et yemeğidir."
-    },
-    {
-      "id": "usak_keskek",
-      "name": "Keşkek",
-      "category": "Ana Yemek",
-      "image": "/yemekler/usak_keskek_keskek.jpg",
-      "history": "Anadolu'nun her yerinde olduğu gibi Uşak'ta da düğünlerin baş tacıdır. Buğday ve etin saatlerce dövülerek sakız kıvamına getirilmesiyle yapılır."
-    },
-    {
-      "id": "usak_demir_tatlisi",
-      "name": "Demir Tatlısı",
+      "id": "usak_usak_baklavasi",
+      "name": "Uşak Baklavası",
       "category": "Tatlı",
-      "image": "/yemekler/usak_demir_tatlisi_demir_tatlisi.jpg",
-      "history": "Demir bir kalıbın kızgın yağa batırılıp ardından cıvık hamura daldırılması, sonra tekrar kızgın yağa atılarak çiçek şekli almasıyla yapılan, üzerine şerbet dökülen çıtır bir atıştırmalıktır."
+      "image": "/yemekler/usak_usak_baklavasi.webp",
+      "history": "Uşak'a özgü bir baklavadır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/en/pub/jtri/article/1662937",
+      "gorsel": {
+        "yazar": "Challiyan",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Baklava_2.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "usak_gelin_helvasi",
+      "name": "Uşak Gelin Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Uşak'ta düğünlerde yapılan geleneksel bir helvadır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/usak-gelin-helvasi-aeb41",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "usak_usak_helvasi",
+      "name": "Uşak Helvası",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Uşak'a özgü geleneksel bir helvadır. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/usak-helvasi-a9d2f",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "usak_hashas_ezmesi",
+      "name": "Uşak Haşhaş Ezmesi",
+      "category": "Yöresel Ürün",
+      "image": "",
+      "history": "Haşhaş tohumunun ezilmesiyle elde edilen, hamur işlerinde kullanılan bir üründür. 2022'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/usak-hashas-ezmesi-3ec92"
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "SusamCocuk",
+    "lisans": "CC BY 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:U%C5%9Fak_Kurtulu%C5%9F_An%C4%B1t%C4%B1_ve_Atat%C3%BCrk_Heykeli.jpg"
+  }
 }

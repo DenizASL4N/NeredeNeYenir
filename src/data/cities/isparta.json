@@ -2,43 +2,55 @@
   "id": "isparta",
   "il_adi": "Isparta",
   "title": "Güller ve Göller Şehri",
-  "unsplash_query": "isparta gul bahcesi landscape",
-  "image": "/sehirler/isparta.jpg",
+  "image": "/sehirler/isparta.webp",
   "yemekler": [
     {
       "id": "isparta_firin_kebabi",
-      "name": "Fırın Kebabı",
+      "name": "Isparta Fırın Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/isparta_firin_kebabi_firin_kebabi.jpg",
-      "history": "Yaşına girmemiş kuzuların veya erkeçlerin (kısırlaştırılmış teke) sadece tuzlanarak, meşe odunu yakılmış derin taş fırınlarda bakır tavalar içinde saatlerce kemiğinden ayrılacak kıvama gelene dek pişirilmesidir. Isparta'daki Yörük geleneğinin şaheseridir."
+      "image": "/yemekler/isparta_firin_kebabi.webp",
+      "history": "Kuzu ya da keçi etinin taş fırında uzun süre pişirilmesiyle yapılan, Isparta'nın bilinen et yemeğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Muratkkara",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:F%C4%B1r%C4%B1n_Kebab%C4%B1.jpg"
+      }
     },
     {
-      "id": "isparta_sazan_dolmasi",
-      "name": "Sazan Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/isparta_sazan_dolmasi_sazan_dolmasi.jpg",
-      "history": "Eğirdir Gölü'nden tutulan pullu sazan balıklarının içinin pirinç, nane, çam fıstığı, kuş üzümü ve tarçınlı bir iç pilavla doldurulup fırınlanmasıdır. Göller Yöresinin tatlı su balıkçılığı ile saray mutfağı baharatlarının eşsiz bir füzyonudur."
+      "id": "isparta_gul_suyu",
+      "name": "Isparta Gül Suyu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/isparta_gul_suyu.webp",
+      "history": "Isparta'da yetiştirilen yağ gülünden elde edilen gül suyudur; tatlı ve şerbetlerde kullanılır. 2021'de menşe adıyla tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/isparta-gul-suyu-3a8fb",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%BClsuyu.jpg"
+      }
     },
     {
-      "id": "isparta_dirgit_hedik",
-      "name": "Dirgit (Hedik)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/isparta_dirgit_hedik_dirgit_hedik.jpg",
-      "history": "Haşlanmış aşurelik buğday, nohut ve fasulyenin karışımıyla yapılan, yöreye göre tuzlu veya ceviz-şeker ilavesiyle tatlı yenilebilen kadim bir atıştırmalıktır. Geleneksel olarak bebeklerin ilk dişi çıktığında \"diş dirgiti\" olarak kaynatılır ve komşulara dağıtılır."
-    },
-    {
-      "id": "isparta_yalvac_gullaci",
-      "name": "Yalvaç Güllacı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/isparta_yalvac_gullaci_yalvac_gullaci.jpg",
-      "history": "Klasik güllaçtan farklı olarak, yöreye has ince yufkaların sıcak süt ve bol cevizle kat kat döşenip, rulo halinde veya gül şeklinde sarılarak dinlendirilmesiyle yapılan Isparta'nın Yalvaç ilçesine özgü hafif bir tatlıdır."
-    },
-    {
-      "id": "isparta_i̇rmik_corbasi",
-      "name": "İrmik Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/isparta_i̇rmik_corbasi_irmik_corbasi.jpg",
-      "history": "Kavrulmuş irmik, tereyağı, et suyu ve nane kullanılarak yapılan, hafif yoğun kıvamlı ve son derece besleyici geleneksel bir Isparta çorbasıdır."
+      "id": "isparta_isparta_elmasi",
+      "name": "Isparta Elması",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_elma.webp",
+      "history": "Isparta'da yetiştirilen elmadır. 2023'te coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/isparta-elmasi-8a00f",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ecologic_fruits_from_Turkey.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Isparta at Turkish Wikipedia",
+    "lisans": "Public domain",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:DaglardanIsparta.jpg"
+  }
 }

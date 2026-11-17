@@ -1,13 +1,66 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Heart, Trash2, Edit2, Check, MapPin, Calendar, BookOpen } from 'lucide-react';
 import FoodModal from '../components/FoodModal';
+import SafeImage from '../components/SafeImage';
+
+// Food ids start with their city id, e.g. "adana_adana_kebap"
+const cityIdOf = (foodId) => foodId.split('_')[0];
 
 export default function Favorites({ favorites, onToggleFavorite, onUpdateNote }) {
   const [editingId, setEditingId] = useState(null);
   const [editNoteText, setEditNoteText] = useState('');
   const [selectedFood, setSelectedFood] = useState(null);
   const [selectedCityName, setSelectedCityName] = useState(null);
+  // Current version of each favorited food, keyed by food id
+  const [currentFoods, setCurrentFoods] = useState({});
+
+  const cityIdsKey = [...new Set(favorites.map((fav) => cityIdOf(fav.id)))].sort().join(',');
+
+  // Favorites keep a copy of the food from when it was added; load the current
+  // city data so corrected names, categories, photos and stories show up
+  useEffect(() => {
+    let ignore = false;
+    const cityIds = cityIdsKey ? cityIdsKey.split(',') : [];
+
+    Promise.all(
+      cityIds.map((cityId) =>
+        import(`../data/cities/${cityId}.json`)
+          .then((module) => module.default)
+          .catch(() => null)
+      )
+    ).then((cities) => {
+      if (ignore) return;
+      const foodsById = {};
+      cities.filter(Boolean).forEach((city) => {
+        city.yemekler.forEach((food) => {
+          foodsById[food.id] = { ...food, cityName: city.il_adi };
+        });
+      });
+      setCurrentFoods(foodsById);
+    });
+
+    return () => {
+      ignore = true;
+    };
+  }, [cityIdsKey]);
+
+  // A food removed from the data keeps its saved copy
+  const displayedFavorites = favorites.map((fav) => {
+    const current = currentFoods[fav.id];
+    if (!current) return fav;
+    return {
+      ...fav,
+      name: current.name,
+      category: current.category,
+      image: current.image,
+      history: current.history,
+      cityName: current.cityName,
+      cografiIsaret: current.cografiIsaret,
+      kaynak: current.kaynak,
+      gorsel: current.gorsel,
+    };
+  });
 
   const handleStartEdit = (favItem) => {
     setEditingId(favItem.id);
@@ -29,7 +82,10 @@ export default function Favorites({ favorites, onToggleFavorite, onUpdateNote })
       name: favItem.name,
       category: favItem.category,
       image: favItem.image,
-      history: favItem.history
+      history: favItem.history,
+      cografiIsaret: favItem.cografiIsaret,
+      kaynak: favItem.kaynak,
+      gorsel: favItem.gorsel
     });
     setSelectedCityName(favItem.cityName);
   };
@@ -49,7 +105,7 @@ export default function Favorites({ favorites, onToggleFavorite, onUpdateNote })
 
       {favorites.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {favorites.map((fav) => (
+          {displayedFavorites.map((fav) => (
             <div
               key={fav.id}
               className="bg-white dark:bg-forest-dark/80 rounded-3xl overflow-hidden border border-gold/15 dark:border-cream/10 food-card-shadow flex flex-col sm:flex-row h-full transition-all duration-300"
@@ -60,7 +116,7 @@ export default function Favorites({ favorites, onToggleFavorite, onUpdateNote })
                 onClick={() => handleViewDetails(fav)}
                 className="w-full sm:w-2/5 relative min-h-[160px] sm:min-h-full cursor-pointer overflow-hidden group"
               >
-                <img
+                <SafeImage
                   src={fav.image}
                   alt={fav.name}
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
@@ -176,7 +232,7 @@ export default function Favorites({ favorites, onToggleFavorite, onUpdateNote })
                     className="flex items-center justify-center gap-1.5 text-xs font-bold text-forest dark:text-gold hover:underline cursor-pointer"
                   >
                     <BookOpen size={13} />
-                    <span>Hikaye Detayı</span>
+                    <span>Detaylar</span>
                   </button>
 
                   <button

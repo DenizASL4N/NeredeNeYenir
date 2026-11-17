@@ -3,567 +3,972 @@
     "id": "adana",
     "name": "Adana",
     "title": "Ateşin ve Etin Kenti",
-    "image": "/sehirler/adana.jpg",
-    "featured": true
+    "image": "/sehirler/adana.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "MUSTAFA TOR",
+      "lisans": "CC BY-SA 2.5",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Varda_Demiryolu_Koprusu.jpg"
+    }
   },
   {
     "id": "adiyaman",
     "name": "Adıyaman",
     "title": "Nemrut'un Eteklerinde",
-    "image": "/sehirler/adiyaman.jpg",
-    "featured": false
+    "image": "/sehirler/adiyaman.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Klaus-Peter Simon",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:AdiyamanUhrturm.jpg"
+    }
   },
   {
     "id": "afyonkarahisar",
     "name": "Afyonkarahisar",
     "title": "Termal ve Lezzet Diyarı",
-    "image": "/sehirler/afyonkarahisar.jpg",
-    "featured": false
+    "image": "/sehirler/afyonkarahisar.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ingeborg Simon",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_02.jpg"
+    }
   },
   {
     "id": "agri",
     "name": "Ağrı",
     "title": "İshak Paşa'nın Gölgesinde",
-    "image": "/sehirler/agri.jpg",
-    "featured": false
+    "image": "/sehirler/agri.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "W. Bulach",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:00_3411_%C4%B0shak_Pa%C5%9Fa_Saray%C4%B1_-_Turkey.jpg"
+    }
   },
   {
     "id": "amasya",
     "name": "Amasya",
     "title": "Şehzadeler Şehri",
-    "image": "/sehirler/amasya.jpg",
-    "featured": false
+    "image": "/sehirler/amasya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ahmtzngn34",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil%C4%B1rmak2.jpg"
+    }
   },
   {
     "id": "ankara",
     "name": "Ankara",
     "title": "Cumhuriyetin Kalbi",
-    "image": "/sehirler/ankara.jpg",
-    "featured": false
+    "image": "/sehirler/ankara.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "A.Savin",
+      "lisans": "FAL",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img11_view_from_Atakule_mall.jpg"
+    }
   },
   {
     "id": "antalya",
     "name": "Antalya",
     "title": "Turizmin Başkenti",
-    "image": "/sehirler/antalya.jpg",
-    "featured": false
+    "image": "/sehirler/antalya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Esginmurat",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg"
+    }
   },
   {
     "id": "artvin",
     "name": "Artvin",
     "title": "Yeşilin Binbir Tonu",
-    "image": "/sehirler/artvin.jpg",
-    "featured": false
+    "image": "/sehirler/artvin.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Cagriaksu25",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:A%C3%87%C3%9C_%C5%9Eehir_Yerle%C5%9Fkesi.jpg"
+    }
   },
   {
     "id": "aydin",
     "name": "Aydın",
     "title": "Efe Kültürünün Beşiği",
-    "image": "/sehirler/aydin.jpg",
-    "featured": false
+    "image": "/sehirler/aydin.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "CeeGee",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:MonumentAyd%C4%B1n_(3).JPG"
+    }
   },
   {
     "id": "balikesir",
     "name": "Balıkesir",
     "title": "İki Denizin Kesiştiği Yer",
-    "image": "/sehirler/balikesir.jpg",
-    "featured": false
+    "image": "/sehirler/balikesir.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ersin Soken",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eahinderesi_Canyon.jpg"
+    }
   },
   {
     "id": "bilecik",
     "name": "Bilecik",
     "title": "Kuruluşun Toprakları",
-    "image": "/sehirler/bilecik.jpg",
-    "featured": false
+    "image": "/sehirler/bilecik.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Samet Berber",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Bilecik.jpg"
+    }
   },
   {
     "id": "bingol",
     "name": "Bingöl",
     "title": "Yüzen Adalar Diyarı",
-    "image": "/sehirler/bingol.jpg",
-    "featured": false
+    "image": "/sehirler/bingol.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Bingolll",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg"
+    }
   },
   {
     "id": "bitlis",
     "name": "Bitlis",
     "title": "Beş Minareli Tarih Şehri",
-    "image": "/sehirler/bitlis.jpg",
-    "featured": false
+    "image": "/sehirler/bitlis.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Rojkan13",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:BitlisKaleAlti.jpg"
+    }
   },
   {
     "id": "bolu",
     "name": "Bolu",
     "title": "Tabiatın Kalbi",
-    "image": "/sehirler/bolu.jpg",
-    "featured": false
+    "image": "/sehirler/bolu.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "A.Savin",
+      "lisans": "FAL",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:TR_Bolu_asv2021-10_img23_Beyaz%C4%B1t_Mosque.jpg"
+    }
   },
   {
     "id": "burdur",
     "name": "Burdur",
     "title": "Göller Yöresinin İncisi",
-    "image": "/sehirler/burdur.jpg",
-    "featured": false
+    "image": "/sehirler/burdur.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Nihat1988",
+      "lisans": "CC BY 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg"
+    }
   },
   {
     "id": "bursa",
     "name": "Bursa",
     "title": "Osmanlı'nın İlk Başkenti",
-    "image": "/sehirler/bursa.jpg",
-    "featured": true
+    "image": "/sehirler/bursa.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "Ahmet Baris Isitan",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Teleferik,_Uluda%C4%9F.jpg"
+    }
   },
   {
     "id": "canakkale",
     "name": "Çanakkale",
     "title": "Tarihin Yazıldığı Yer",
-    "image": "/sehirler/canakkale.jpg",
-    "featured": false
+    "image": "/sehirler/canakkale.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Myamya",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg"
+    }
   },
   {
     "id": "cankiri",
     "name": "Çankırı",
     "title": "Tuz Mağaraları ve Kültür",
-    "image": "/sehirler/cankiri.jpg",
-    "featured": false
+    "image": "/sehirler/cankiri.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "XperfectTR",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg"
+    }
   },
   {
     "id": "corum",
     "name": "Çorum",
     "title": "Hattuşaş'ın Başkenti",
-    "image": "/sehirler/corum.jpg",
-    "featured": false
+    "image": "/sehirler/corum.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Klaus-Peter Simon",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:CorumMuseum1.jpg"
+    }
   },
   {
     "id": "denizli",
     "name": "Denizli",
     "title": "Travertenler Diyarı",
-    "image": "/sehirler/denizli.jpg",
-    "featured": false
+    "image": "/sehirler/denizli.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Juicybear213",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Pamukkale_Traventines,_Turkey.jpg"
+    }
   },
   {
     "id": "diyarbakir",
     "name": "Diyarbakır",
     "title": "Surların ve Kültürün Şehri",
-    "image": "/sehirler/diyarbakir.jpg",
-    "featured": false
+    "image": "/sehirler/diyarbakir.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "İbrahimtrn00",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Surlar%C4%B1,_Diyarbak%C4%B1r_Turkey.jpg"
+    }
   },
   {
     "id": "edirne",
     "name": "Edirne",
     "title": "Mimar Sinan'ın İncisi",
-    "image": "/sehirler/edirne.jpg",
-    "featured": false
+    "image": "/sehirler/edirne.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Tevfik Teker",
+      "lisans": "CC BY 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg"
+    }
   },
   {
     "id": "elazig",
     "name": "Elazığ",
     "title": "Gakkoşlar Diyarı Harput",
-    "image": "/sehirler/elazig.jpg",
-    "featured": false
+    "image": "/sehirler/elazig.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Klaus-Peter Simon",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Elazig_Izzetpascha-Moschee.jpg"
+    }
   },
   {
     "id": "erzincan",
     "name": "Erzincan",
     "title": "Doğa Sporlarının Beşiği",
-    "image": "/sehirler/erzincan.jpg",
-    "featured": false
+    "image": "/sehirler/erzincan.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Erzincann",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Erzincanmerkezi.jpg"
+    }
   },
   {
     "id": "erzurum",
     "name": "Erzurum",
     "title": "Çifte Minarelerin Gölgesinde",
-    "image": "/sehirler/erzurum.jpg",
-    "featured": false
+    "image": "/sehirler/erzurum.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Zeynel Cebeci",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg"
+    }
   },
   {
     "id": "eskisehir",
     "name": "Eskişehir",
     "title": "Göçmenlerin Şehri",
-    "image": "/sehirler/eskisehir.jpg",
-    "featured": true
+    "image": "/sehirler/eskisehir.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "BSRF",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Sazova_Park_2.jpg"
+    }
   },
   {
     "id": "gaziantep",
     "name": "Gaziantep",
     "title": "Gastronominin Başkenti",
-    "image": "/sehirler/gaziantep.jpg",
-    "featured": true
+    "image": "/sehirler/gaziantep.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Roman_Statues_Hall_4431.jpg"
+    }
   },
   {
     "id": "giresun",
     "name": "Giresun",
     "title": "Fındığın ve Kirazın Vatanı",
-    "image": "/sehirler/giresun.jpg",
-    "featured": false
+    "image": "/sehirler/giresun.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Beyoglou",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kapu_Mosque_2.jpg"
+    }
   },
   {
     "id": "gumushane",
     "name": "Gümüşhane",
     "title": "Karaca Mağarası ve Yaylalar",
-    "image": "/sehirler/gumushane.jpg",
-    "featured": false
+    "image": "/sehirler/gumushane.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ghanevalilik",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:G%C3%BCm%C3%BC%C5%9Fhane_Genel.JPG"
+    }
   },
   {
     "id": "hakkari",
     "name": "Hakkari",
     "title": "Cilo Dağlarının Zirvesinde",
-    "image": "/sehirler/hakkari.htm",
-    "featured": false
+    "image": "/sehirler/hakkari.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "VOA",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg"
+    }
   },
   {
     "id": "hatay",
     "name": "Hatay",
     "title": "Medeniyetlerin Buluşma Sofrası",
-    "image": "/sehirler/hatay.jpg",
-    "featured": true
+    "image": "/sehirler/hatay.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "Maarten Sepp",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Antakya_-_2011-04-10.jpg"
+    }
   },
   {
     "id": "isparta",
     "name": "Isparta",
     "title": "Güller ve Göller Şehri",
-    "image": "/sehirler/isparta.jpg",
-    "featured": false
+    "image": "/sehirler/isparta.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Isparta at Turkish Wikipedia",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:DaglardanIsparta.jpg"
+    }
   },
   {
     "id": "mersin",
     "name": "Mersin",
     "title": "Akdeniz'in Liman Şehri",
-    "image": "/sehirler/mersin.jpg",
-    "featured": false
+    "image": "/sehirler/mersin.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Nedim Ardoğa (talk)",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Mersin_Halkevi.jpg"
+    }
   },
   {
     "id": "istanbul",
     "name": "İstanbul",
     "title": "İki Kıtayı Birleştiren Metropol",
-    "image": "/sehirler/istanbul.jpg",
-    "featured": true
+    "image": "/sehirler/istanbul.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "Alexxx Malev",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge_(235499411).jpeg"
+    }
   },
   {
     "id": "izmir",
     "name": "İzmir",
     "title": "Ege'nin Modern ve Tarihi Sentezi",
-    "image": "/sehirler/izmir.jpg",
-    "featured": true
+    "image": "/sehirler/izmir.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "BSRF",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_December_2018.jpg"
+    }
   },
   {
     "id": "kars",
     "name": "Kars",
     "title": "Ani Harabelerinin Gizemi",
-    "image": "/sehirler/kars.jpg",
-    "featured": false
+    "image": "/sehirler/kars.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Bjørn Christian Tørrissen, Sabri76 ve diğerleri",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kars_collage_1.JPG"
+    }
   },
   {
     "id": "kastamonu",
     "name": "Kastamonu",
     "title": "Kanyonlar ve Tarih Şehri",
-    "image": "/sehirler/kastamonu.jpg",
-    "featured": false
+    "image": "/sehirler/kastamonu.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Barış37",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kaleden_Cumhuriyet_Meydan%C4%B1_ve_%C3%87evresi.JPG"
+    }
   },
   {
     "id": "kayseri",
     "name": "Kayseri",
     "title": "Erciyes'in Eteklerinde Ticaret",
-    "image": "/sehirler/kayseri.jpg",
-    "featured": false
+    "image": "/sehirler/kayseri.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Omerali SENAKAYLI",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Wild_horses1.jpg"
+    }
   },
   {
     "id": "kirklareli",
     "name": "Kırklareli",
     "title": "Istrancaların Yeşilliğinde",
-    "image": "/sehirler/kirklareli.jpg",
-    "featured": false
+    "image": "/sehirler/kirklareli.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "User:Darwinek",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5195.jpg"
+    }
   },
   {
     "id": "kirsehir",
     "name": "Kırşehir",
     "title": "Ahi Evran ve Neşet Ertaş Toprağı",
-    "image": "/sehirler/kirsehir.jpg",
-    "featured": false
+    "image": "/sehirler/kirsehir.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Omur Tanyel",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kircenter.jpg"
+    }
   },
   {
     "id": "kocaeli",
     "name": "Kocaeli",
     "title": "Göçmen Kültürünün Zenginliği",
-    "image": "/sehirler/kocaeli.jpg",
-    "featured": true
+    "image": "/sehirler/kocaeli.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "Bozkurttt",
+      "lisans": "FAL",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Eskihisarkale3k.jpg"
+    }
   },
   {
     "id": "konya",
     "name": "Konya",
     "title": "Mevlana'nın Huzur Şehri",
-    "image": "/sehirler/konya.jpg",
-    "featured": false
+    "image": "/sehirler/konya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Perencal",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_21_(cropped).JPG"
+    }
   },
   {
     "id": "kutahya",
     "name": "Kütahya",
     "title": "Çininin ve Kaplıcaların Başkenti",
-    "image": "/sehirler/kutahya.jpg",
-    "featured": false
+    "image": "/sehirler/kutahya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:K%C3%BCtahya_City_Museum_9132.jpg"
+    }
   },
   {
     "id": "malatya",
     "name": "Malatya",
     "title": "Kayısı Diyarı Battalgazi",
-    "image": "/sehirler/malatya.jpg",
-    "featured": false
+    "image": "/sehirler/malatya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "L.Versoa",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg"
+    }
   },
   {
     "id": "manisa",
     "name": "Manisa",
     "title": "Spil Dağı ve Mesir Şehri",
-    "image": "/sehirler/manisa.jpg",
-    "featured": false
+    "image": "/sehirler/manisa.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Manisa_Muradiye_Camii_Muradiye_Camii_side_to_southwest_6124.jpg"
+    }
   },
   {
     "id": "kahramanmaras",
     "name": "Kahramanmaraş",
     "title": "İstiklal ve Dondurma Şehri",
-    "image": "/sehirler/kahramanmaras.jpg",
-    "featured": false
+    "image": "/sehirler/kahramanmaras.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Myrat",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_city_center.jpg"
+    }
   },
   {
     "id": "mardin",
     "name": "Mardin",
     "title": "Taş Evlerin Masalsı Şehri",
-    "image": "/sehirler/mardin.jpg",
-    "featured": false
+    "image": "/sehirler/mardin.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ben Bender",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Mardin,_Mardin_Merkez-Mardin,_Turkey_-_panoramio_(1).jpg"
+    }
   },
   {
     "id": "mugla",
     "name": "Muğla",
     "title": "Mavi Rotaların Başlangıcı",
-    "image": "/sehirler/mugla.jpg",
-    "featured": false
+    "image": "/sehirler/mugla.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Mugla_Old_houses_5826.jpg"
+    }
   },
   {
     "id": "mus",
     "name": "Muş",
     "title": "Malazgirt Ovası ve Tarih",
-    "image": "/sehirler/mus.jpg",
-    "featured": false
+    "image": "/sehirler/mus.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Mush_1213.jpg"
+    }
   },
   {
     "id": "nevsehir",
     "name": "Nevşehir",
     "title": "Kapadokya ve Balonlar Ülkesi",
-    "image": "/sehirler/nevsehir.jpg",
-    "featured": false
+    "image": "/sehirler/nevsehir.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "NuriCanY",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg"
+    }
   },
   {
     "id": "nigde",
     "name": "Niğde",
     "title": "Aladağların Eteklerinde",
-    "image": "/sehirler/nigde.jpg",
-    "featured": false
+    "image": "/sehirler/nigde.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Nigde_Kale_1228.jpg"
+    }
   },
   {
     "id": "ordu",
     "name": "Ordu",
     "title": "Fındığın ve Teleferiğin Şehri",
-    "image": "/sehirler/ordu.jpg",
-    "featured": false
+    "image": "/sehirler/ordu.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ahmet Gürsakal",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ordu,_Turkey.JPG"
+    }
   },
   {
     "id": "rize",
     "name": "Rize",
     "title": "Çayın ve Kaçkarların Vatanı",
-    "image": "/sehirler/rize.jpg",
-    "featured": false
+    "image": "/sehirler/rize.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "yeomans (Flickr)",
+      "lisans": "CC BY 2.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Rize%27den_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg"
+    }
   },
   {
     "id": "sakarya",
     "name": "Sakarya",
     "title": "Sapanca Gölü ve Yeşillik",
-    "image": "/sehirler/sakarya.jpg",
-    "featured": false
+    "image": "/sehirler/sakarya.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Acar54",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Hisar_Tepesi,_Tarakl%C4%B1.jpg"
+    }
   },
   {
     "id": "samsun",
     "name": "Samsun",
     "title": "Kurtuluş Meşalesinin Yandığı Yer",
-    "image": "/sehirler/samsun.jpg",
-    "featured": false
+    "image": "/sehirler/samsun.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Johnstanbul",
+      "lisans": "CC0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Samsun_Saathane_Square.jpg"
+    }
   },
   {
     "id": "siirt",
     "name": "Siirt",
     "title": "Veysel Karani Toprakları",
-    "image": "/sehirler/siirt.jpg",
-    "featured": false
+    "image": "/sehirler/siirt.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Veleye",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:City_center.jpg"
+    }
   },
   {
     "id": "sinop",
     "name": "Sinop",
     "title": "Karadeniz'in Sakin Fiyordu",
-    "image": "/sehirler/sinop.jpg",
-    "featured": false
+    "image": "/sehirler/sinop.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Bjørn Christian Tørrissen",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Sinop_Overview_2009.JPG"
+    }
   },
   {
     "id": "sivas",
     "name": "Sivas",
     "title": "Selçuklu Mirası Gök Medrese",
-    "image": "/sehirler/sivas.jpg",
-    "featured": false
+    "image": "/sehirler/sivas.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Sivas_Cumhuriyet_Meydan%C4%B1_in_2011_8145.jpg"
+    }
   },
   {
     "id": "tekirdag",
     "name": "Tekirdağ",
     "title": "Bağ Rotaları ve Köfte Şehri",
-    "image": "/sehirler/tekirdag.jpg",
-    "featured": false
+    "image": "/sehirler/tekirdag.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ollios",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Tekirda%C4%9F_Valilik.JPG"
+    }
   },
   {
     "id": "tokat",
     "name": "Tokat",
     "title": "Tarihi Yazmacılık ve Hanlar",
-    "image": "/sehirler/tokat.jpg",
-    "featured": false
+    "image": "/sehirler/tokat.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "BurakOtto",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Tokat_City_Square.JPG"
+    }
   },
   {
     "id": "trabzon",
     "name": "Trabzon",
     "title": "Sümela'nın Gizemli Ormanları",
-    "image": "/sehirler/trabzon.jpg",
-    "featured": true
+    "image": "/sehirler/trabzon.webp",
+    "featured": true,
+    "gorsel": {
+      "yazar": "İlayda.tr",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Trabzon_Kalesi.jpeg"
+    }
   },
   {
     "id": "tunceli",
     "name": "Tunceli",
     "title": "Munzur Vadisi'nin Eşsiz Doğası",
-    "image": "/sehirler/tunceli.jpg",
-    "featured": false
+    "image": "/sehirler/tunceli.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dûrzan Cîrano",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:D%C3%AArsim.jpg"
+    }
   },
   {
     "id": "sanliurfa",
     "name": "Şanlıurfa",
     "title": "Peygamberler Şehri Balıklıgöl",
-    "image": "/sehirler/sanliurfa.jpg",
-    "featured": false
+    "image": "/sehirler/sanliurfa.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Bernard Gagnon",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Balikli_G%C3%B6l_03.jpg"
+    }
   },
   {
     "id": "usak",
     "name": "Uşak",
     "title": "Karun Hazinelerinin Şehri",
-    "image": "/sehirler/usak.jpg",
-    "featured": false
+    "image": "/sehirler/usak.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "SusamCocuk",
+      "lisans": "CC BY 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:U%C5%9Fak_Kurtulu%C5%9F_An%C4%B1t%C4%B1_ve_Atat%C3%BCrk_Heykeli.jpg"
+    }
   },
   {
     "id": "van",
     "name": "Van",
     "title": "Urartu Başkenti ve Akdamar",
-    "image": "/sehirler/van.htm",
-    "featured": false
+    "image": "/sehirler/van.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Mevlüt Kılıç",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG"
+    }
   },
   {
     "id": "yozgat",
     "name": "Yozgat",
     "title": "Çamlık Milli Parkı ve Saat Kulesi",
-    "image": "/sehirler/yozgat.jpg",
-    "featured": false
+    "image": "/sehirler/yozgat.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "AHMET AKGÜL",
+      "lisans": "CC BY 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg"
+    }
   },
   {
     "id": "zonguldak",
     "name": "Zonguldak",
     "title": "Emeğin ve Kömürün Başkenti",
-    "image": "/sehirler/zonguldak.jpg",
-    "featured": false
+    "image": "/sehirler/zonguldak.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "İncelemeelemani",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Zonguldak_51.jpg"
+    }
   },
   {
     "id": "aksaray",
     "name": "Aksaray",
     "title": "Ihlara Vadisi'nin İncisi",
-    "image": "/sehirler/aksaray.jpg",
-    "featured": false
+    "image": "/sehirler/aksaray.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "emreozgul68",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:I_Love_Aksaray_-_Aksaray_Meydan%C4%B1.jpg"
+    }
   },
   {
     "id": "bayburt",
     "name": "Bayburt",
     "title": "Baksı Müzesi ve Çoruh",
-    "image": "/sehirler/bayburt.jpg",
-    "featured": false
+    "image": "/sehirler/bayburt.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "SALTOnline",
+      "lisans": "No restrictions",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Bayburt_Clock_Tower_(16034875507).jpg"
+    }
   },
   {
     "id": "karaman",
     "name": "Karaman",
     "title": "Türk Dilinin Başkenti",
-    "image": "/sehirler/karaman.jpg",
-    "featured": false
+    "image": "/sehirler/karaman.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Karaman_street_scene_4727.jpg"
+    }
   },
   {
     "id": "kirikkale",
     "name": "Kırıkkale",
     "title": "Silah Sanayisi ve Kızılırmak",
-    "image": "/sehirler/kirikkale.jpg",
-    "featured": false
+    "image": "/sehirler/kirikkale.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "71ergun",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1r%C4%B1kkale_1_(2013)_-_panoramio.jpg"
+    }
   },
   {
     "id": "batman",
     "name": "Batman",
     "title": "Hasankeyf'in Tarihi Mirası",
-    "image": "/sehirler/batman.jpg",
-    "featured": false
+    "image": "/sehirler/batman.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Ferhat 72 at Turkish Wikipedia",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Batman(city).jpg"
+    }
   },
   {
     "id": "sirnak",
     "name": "Şırnak",
     "title": "Cudi Dağı'nın Gölgesinde",
-    "image": "/sehirler/sirnak.jpg",
-    "featured": false
+    "image": "/sehirler/sirnak.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Zmangeldi",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg"
+    }
   },
   {
     "id": "bartin",
     "name": "Bartın",
     "title": "Amasra'nın Tarihi Limanı",
-    "image": "/sehirler/bartin.jpg",
-    "featured": false
+    "image": "/sehirler/bartin.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Wixama",
+      "lisans": "CC BY 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Bartin_SehirMerkezi.jpg"
+    }
   },
   {
     "id": "ardahan",
     "name": "Ardahan",
     "title": "Çıldır Gölü ve Kale Şehri",
-    "image": "/sehirler/ardahan.jpg",
-    "featured": false
+    "image": "/sehirler/ardahan.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Volker Höhfeld",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Ardahan_2011_Ardahan_Kalesi_%C3%BCber_der_Kura_084.jpg"
+    }
   },
   {
     "id": "igdir",
     "name": "Iğdır",
     "title": "Aralık Ovası ve Kayısı",
-    "image": "/sehirler/igdir.jpg",
-    "featured": false
+    "image": "/sehirler/igdir.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Sabri76",
+      "lisans": "CC0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:I%C4%9Fd%C4%B1r_ve_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg"
+    }
   },
   {
     "id": "yalova",
     "name": "Yalova",
     "title": "Termal Kaplıcalar ve Deniz",
-    "image": "/sehirler/yalova.jpg",
-    "featured": false
+    "image": "/sehirler/yalova.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Annikat53",
+      "lisans": "CC BY-SA 3.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Departing_Yalova.JPG"
+    }
   },
   {
     "id": "karabuk",
     "name": "Karabük",
     "title": "Safranbolu Evlerinin Şehri",
-    "image": "/sehirler/karabuk.jpg",
-    "featured": false
+    "image": "/sehirler/karabuk.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Dosseman",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Karab%C3%BCk_view_8028.jpg"
+    }
   },
   {
     "id": "kilis",
     "name": "Kilis",
     "title": "Zeytin ve Horoz Karası",
-    "image": "/sehirler/kilis.jpg",
-    "featured": false
+    "image": "/sehirler/kilis.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "Brian Dell",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Kilis_city_center.jpg"
+    }
   },
   {
     "id": "osmaniye",
     "name": "Osmaniye",
     "title": "Kastabala Antik Kenti",
-    "image": "/sehirler/osmaniye.jpg",
-    "featured": false
+    "image": "/sehirler/osmaniye.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "tacirci",
+      "lisans": "Public domain",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:Osmaniyenin_genel_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg"
+    }
   },
   {
     "id": "duzce",
     "name": "Düzce",
     "title": "Şelaleler ve Doğa Cenneti",
-    "image": "/sehirler/duzce.jpg",
-    "featured": false
+    "image": "/sehirler/duzce.webp",
+    "featured": false,
+    "gorsel": {
+      "yazar": "sabah gazetesi",
+      "lisans": "CC BY-SA 4.0",
+      "kaynak": "https://commons.wikimedia.org/wiki/File:645x344-1573480687396.jpg"
+    }
   }
 ]

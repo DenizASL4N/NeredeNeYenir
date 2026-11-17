@@ -2,43 +2,80 @@
   "id": "mugla",
   "il_adi": "Muğla",
   "title": "Mavi Rotaların Başlangıcı",
-  "unsplash_query": "mugla oludeniz landscape",
-  "image": "/sehirler/mugla.jpg",
+  "image": "/sehirler/mugla.webp",
   "yemekler": [
     {
       "id": "mugla_cokertme_kebabi",
-      "name": "Çökertme Kebabı",
+      "name": "Bodrum Çökertme Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/mugla_cokertme_kebabi_cokertme_kebabi.jpg",
-      "history": "Bodrum yöresine özgü, kibrit çöpü inceliğinde doğranıp kızartılmış patateslerin üzerine, sarımsaklı yoğurt ve ızgara dana bonfile parçalarının dizilip tereyağlı domates sosuyla servis edilmesidir."
+      "image": "/yemekler/mugla_cokertme_kebabi.webp",
+      "history": "İnce kesilip kızartılan patatesin üzerine sarımsaklı yoğurt ve sote edilmiş et konarak hazırlanır. Tescilli bir Bodrum lezzetidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/mugla-haberleri/115579876-bodrum-cokertme-kebabi-dunya-listesinde-7nci-sirada",
+      "gorsel": {
+        "yazar": "Jwslubbock",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6kertme_kebab%C4%B1.jpg"
+      }
     },
     {
-      "id": "mugla_bodrum_mantisi",
-      "name": "Bodrum Mantısı",
-      "category": "Aperatif",
-      "image": "/yemekler/mugla_bodrum_mantisi_bodrum_mantisi.jpg",
-      "history": "Klasik mantıdan farklı olarak, hamurların kızartılması (kıtır olması) ve üzerine yoğurt ve kıymalı sos dökülmesiyle yapılan, Ege mutfağının yaratıcı bir yorumudur."
+      "id": "mugla_mugla_koftesi",
+      "name": "Muğla Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Muğla'ya özgü bir köftedir. 2018'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yerel-haberler/galeri-yoruklerin-favori-yemegi-dunya-listesinde-ilk-10a-girdi-1700300",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "mugla_milas_koftesi",
-      "name": "Milas Köftesi",
+      "id": "mugla_kanli_kavurma",
+      "name": "Milas Kanlı Kavurması",
       "category": "Ana Yemek",
-      "image": "/yemekler/mugla_milas_koftesi_milas_koftesi.jpg",
-      "history": "Milas'ın kaliteli zeytinyağı ve yöresel dana etinin, çok az ekmek içi ve kimyonla yoğrulmasıyla yapılan küçük, lezzetli köftelerdir."
+      "image": "/yemekler/bingol_cobantasi_kavurmasi.webp",
+      "history": "Muğla'nın Milas ilçesine özgü bir kavurma yemeğidir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/milas-kanli-kavurmasi-5db26",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kavurma_(lamb).jpg",
+        "temsili": true
+      }
     },
     {
       "id": "mugla_dos_dolmasi",
       "name": "Döş Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/mugla_dos_dolmasi_dos_dolmasi.jpg",
-      "history": "Kuzunun göğüs (döş) kısmının içinin, baharatlı ve fıstıklı iç pilavla doldurulup fırında ağır ağır pişirilmesiyle yapılan bölgeye özgü bir düğün yemeğidir."
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Kuzu döşünün iç pilavla doldurulup pişirildiği, Muğla'da özel günlerde yapılan bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "mugla_mugla_halkasi",
-      "name": "Muğla Halkası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/mugla_mugla_halkasi_mugla_halkasi.jpg",
-      "history": "Mayalı hamurun halka şeklinde kızartılıp üzerine şerbet dökülmesiyle elde edilen, düğünlerde ve kutlamalarda sokaklarda dağıtılan klasik bir yöresel tatlıdır."
+      "id": "mugla_gokova_susami",
+      "name": "Gökova Susamı",
+      "category": "Yöresel Ürün",
+      "image": "",
+      "history": "Gökova yöresinde yetiştirilen susamdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomigazetesi.com/sehirler/gokova-susami-1855-tescil-numarasiyla-cografi-isaret-korumasina-kavustu-81628"
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Dosseman",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Mugla_Old_houses_5826.jpg"
+  }
 }

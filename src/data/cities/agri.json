@@ -2,43 +2,72 @@
   "id": "agri",
   "il_adi": "Ağrı",
   "title": "İshak Paşa'nın Gölgesinde",
-  "unsplash_query": "agri mount ararat landscape",
-  "image": "/sehirler/agri.jpg",
+  "image": "/sehirler/agri.webp",
   "yemekler": [
     {
       "id": "agri_abdigor_koftesi",
-      "name": "Abdigor Köftesi",
+      "name": "Doğubayazıt Abdigör Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/agri_abdigor_koftesi_abdigor_koftesi.jpg",
-      "history": "Sığır etinin (genellikle but kısmı) sinirlerinden arındırılıp tokmakla taş üzerinde merhem kıvamına gelene kadar dövülmesi, ardından soğan ve yumurta ile yoğrulup haşlanmasıyla yapılır. 17. yüzyılda İshak Paşa Sarayı mimarı Çolak Abdi Paşa'nın mide rahatsızlığı yaşaması üzerine eti rahat sindirebilmesi için icat edildiği söylenir."
-    },
-    {
-      "id": "agri_selekeli",
-      "name": "Selekeli",
-      "category": "Ana Yemek",
-      "image": "/yemekler/agri_selekeli_selekeli.jpg",
-      "history": "Taze kuzu etinin, soğan ve sarımsakla birlikte sac üzerinde tereyağı ile kavrulmasıyla hazırlanan pratik ama çok lezzetli bir çoban yemeğidir. Etin en taze haliyle, doğada hemen pişirilmesi kültüründen gelir."
-    },
-    {
-      "id": "agri_gosteberg",
-      "name": "Gösteberg",
-      "category": "Ana Yemek",
-      "image": "/yemekler/agri_gosteberg_gosteberg.jpg",
-      "history": "Et, soğan, salça ve yöresel dağ otlarının bir araya getirilip genellikle kuzu postu veya güveç içinde buharla pişirildiği çok eski bir yöntemdir. Yayla yaşamının zorlu koşullarında ortaya çıkmış bir et saklama ve pişirme tekniğidir."
+      "image": "/yemekler/agri_abdigor_koftesi.webp",
+      "history": "Etin tokmakla dövülerek hazırlandığı, haşlanarak pişirilen iri bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/agri-yaprak-doneri-ve-hasil-yemegi-cografi-isaretle-tescillendi,HV6vkMw7BUiX8igaLHUo0w",
+      "gorsel": {
+        "yazar": "Muhammed Bulut",
+        "lisans": "CC BY 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Abdig%C3%B6r.jpg"
+      }
     },
     {
       "id": "agri_hasil",
-      "name": "Haşıl",
+      "name": "Ağrı Haşıl Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/agri_hasil_hasil.jpg",
-      "history": "İnce bulgur veya yarmadan yapılan, lapa kıvamına geldikten sonra ortası havuz gibi açılarak içine eritilmiş saf tereyağı ve etrafına sarımsaklı yoğurt dökülen kış yemeğidir. Bölgenin soğuk ikliminde vücut ısısını yüksek tutmak için tüketilir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Ağrı'ya özgü geleneksel bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/agri-yaprak-doneri-ve-hasil-yemegi-cografi-isaretle-tescillendi,HV6vkMw7BUiX8igaLHUo0w",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
-      "id": "agri_beyaz_bal",
-      "name": "Beyaz Bal",
+      "id": "agri_yaprak_doneri",
+      "name": "Ağrı Yaprak Döneri",
       "category": "Ana Yemek",
-      "image": "/yemekler/agri_beyaz_bal_beyaz_bal.jpg",
-      "history": "Ağrı ve çevresindeki yüksek rakımlı, binlerce çeşit endemik çiçeğin bulunduğu yaylalarda Kafkas arıları tarafından üretilen, kristalize yapıda, açık renkli ve çok şifalı bir baldır. Yüzyıllardır bölgenin en önemli doğal tatlandırıcısıdır."
+      "image": "/yemekler/agri_yaprak_doneri.webp",
+      "history": "İnce yapraklar halinde dilimlenen etin şişe dizilerek pişirildiği bir dönerdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/agri-yaprak-doneri-ve-hasil-yemegi-cografi-isaretle-tescillendi,HV6vkMw7BUiX8igaLHUo0w",
+      "gorsel": {
+        "yazar": "Cahide sultan",
+        "lisans": "CC BY-SA 2.0",
+        "kaynak": "https://www.flickr.com/photos/67160818@N07/6291562357",
+        "temsili": true
+      }
+    },
+    {
+      "id": "agri_geven_bali",
+      "name": "Ağrı Geven Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Geven bitkisinin çiçeklerinden üretilen baldır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/n-life/n-lezzetler/agri-yaprak-doneri-ve-hasil-yemegi-cografi-isaretle-tescillendi,HV6vkMw7BUiX8igaLHUo0w",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "W. Bulach",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:00_3411_%C4%B0shak_Pa%C5%9Fa_Saray%C4%B1_-_Turkey.jpg"
+  }
 }

@@ -2,43 +2,113 @@
   "id": "kayseri",
   "il_adi": "Kayseri",
   "title": "Erciyes'in Eteklerinde Ticaret",
-  "unsplash_query": "kayseri erciyes dagi landscape",
-  "image": "/sehirler/kayseri.jpg",
+  "image": "/sehirler/kayseri.webp",
   "yemekler": [
     {
       "id": "kayseri_kayseri_mantisi",
       "name": "Kayseri Mantısı",
-      "category": "Aperatif",
-      "image": "/yemekler/kayseri_kayseri_mantisi_kayseri_mantisi.jpg",
-      "history": "Un, su, tuz ve yumurtayla açılan sert hamurun minicik kareler halinde kesilip içine yağsız kıyma, soğan, fesleğen ve baharat konarak dört köşesinden bohça gibi kapatılmasıdır. Bir kaşığa 40 adet sığması makbuldür; Orta Asya göçlerinden günümüze en sağlam kalmış Anadolu hamur işidir."
-    },
-    {
-      "id": "kayseri_pastirma",
-      "name": "Pastırma",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kayseri_pastirma_pastirma.jpg",
-      "history": "Sığır etinin (genellikle sırt ve antrikot kısımları) tuza yatırılması, yıkanıp preslenerek suyunun alınması, güneşte kurutulduktan sonra çevresinin yoğun sarımsaklı ve kırmızı biberli \"çemen\" hamuruyla kaplanmasıdır. Asya steplerindeki atlı savaşçıların eti eyer altında bastırarak saklaması (bastırma) kökeninden gelir."
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_mantisi.webp",
+      "history": "Çok küçük kesilen hamur parçalarının içine kıyma konup kapatılmasıyla yapılır; sarımsaklı yoğurt ve tereyağlı sosla servis edilir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kayseri-mantisi-49c06",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Mant%C4%B1s%C4%B1_(6344302909).jpg"
+      }
     },
     {
       "id": "kayseri_kayseri_yaglamasi_sebit",
-      "name": "Kayseri Yağlaması (Şebit)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kayseri_kayseri_yaglamasi_sebit_kayseri_yaglamasi_sebit.jpg",
-      "history": "İncecik açılan mayasız yufkaların (şebit) arasına bol domatesli, salçalı ve soğanlı sulu kıyma harcının kat kat (genellikle 10-12 kat) döşenip üzerine sarımsaklı yoğurt dökülerek pizza gibi dilimlenip elle yenilen enfes bir ziyafet yemeğidir."
+      "name": "Kayseri Yağlaması",
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_yaglamasi_sebit.webp",
+      "history": "İnce yufkaların arasına kıymalı harç sürülerek kat kat dizildiği ve dilimlenerek servis edildiği bir yemektir. 2021'de tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/kayseri-haberleri/117200596-kayseride-pastirma-sevincikto-baskani-omer-gulsoy-kayseri-pastirmasi-icin-verilen-mucadele",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_ya%C4%9Flamas%C4%B1.jpg"
+      }
     },
     {
-      "id": "kayseri_sucuklu_yumurta",
-      "name": "Sucuklu Yumurta",
+      "id": "kayseri_firinagzi_kebabi",
+      "name": "Kayseri Fırınağzı Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/kayseri_sucuklu_yumurta_sucuklu_yumurta.jpg",
-      "history": "Kayseri'nin baharat ve sarımsak oranı yüksek, özel kurutulmuş meşhur dana sucuğunun bakır sahanlarda kendi yağıyla pişirilip üzerine yumurta kırılmasıdır. Bölgenin ticari zekasının ete katma değer sağladığı en önemli lezzetlerden biridir."
+      "image": "/yemekler/konya_firin_kebabi.webp",
+      "history": "Kayseri'ye özgü, fırında pişirilen bir kebaptır. Kayseri Ticaret Odası adına tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/kayseri-haberleri/117200596-kayseride-pastirma-sevincikto-baskani-omer-gulsoy-kayseri-pastirmasi-icin-verilen-mucadele",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_style_kuzu_tand%C4%B1r.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kayseri_kursun_asi",
+      "name": "Kurşun Aşı Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Kayseri'ye özgü geleneksel bir çorbadır. Kayseri Ticaret Odası adına tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/kayseri-haberleri/117200596-kayseride-pastirma-sevincikto-baskani-omer-gulsoy-kayseri-pastirmasi-icin-verilen-mucadele",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "kayseri_nevzine_tatlisi",
       "name": "Nevzine Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/kayseri_nevzine_tatlisi_nevzine_tatlisi.jpg",
-      "history": "Un, yoğurt, sıvı yağ, sirke ve bol cevizle hazırlanan tok kıvamlı bir hamurun tepsilerde fırınlanması, çıktıktan sonra üzerine pekmez (veya şerbet) dökülerek soğutulmasıdır. Kayseri'de lohusa kadınlara ve önemli misafirlere sunulan ağır ve tarihi bir tatlıdır."
+      "image": "/yemekler/kayseri_nevzine_tatlisi.webp",
+      "history": "Tahin, pekmez ve cevizle hazırlanan, fırında pişirilip şerbetlenen bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/kayseri-haberleri/117200596-kayseride-pastirma-sevincikto-baskani-omer-gulsoy-kayseri-pastirmasi-icin-verilen-mucadele",
+      "gorsel": {
+        "yazar": "Tpinar",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nevzine_tatl%C4%B1s%C4%B1_tabakta.jpg"
+      }
+    },
+    {
+      "id": "kayseri_gul_baklavasi",
+      "name": "Kayseri Gül Baklavası",
+      "category": "Tatlı",
+      "image": "/yemekler/kayseri_gul_baklavasi.webp",
+      "history": "Yufkanın gül şeklinde sarılarak hazırlandığı bir baklavadır. Kayseri Ticaret Odası adına tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/kayseri-haberleri/117200596-kayseride-pastirma-sevincikto-baskani-omer-gulsoy-kayseri-pastirmasi-icin-verilen-mucadele",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Rose_baklava.jpg"
+      }
+    },
+    {
+      "id": "kayseri_pastirma",
+      "name": "Kayseri Pastırması",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/kayseri_pastirma.webp",
+      "history": "Kurutulan sığır etinin çemenle kaplanmasıyla yapılan pastırmadır. Türkiye'de tescillenen ilk pastırmadır; 2026'da Avrupa Birliği'nde de tescil edilmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/ntvpara/kayserinin-pastirmasina-abden-cografi-tescil-1717337",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Past%C4%B1rmas%C4%B1_(6345053444).jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Omerali SENAKAYLI",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Wild_horses1.jpg"
+  }
 }

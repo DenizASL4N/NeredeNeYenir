@@ -2,43 +2,117 @@
   "id": "kars",
   "il_adi": "Kars",
   "title": "Ani Harabelerinin Gizemi",
-  "unsplash_query": "kars ani harabeleri landscape",
-  "image": "/sehirler/kars.jpg",
+  "image": "/sehirler/kars.webp",
   "yemekler": [
     {
       "id": "kars_kaz_eti_ve_pilavi",
-      "name": "Kaz Eti ve Pilavı",
+      "name": "Kars Kaz Eti",
       "category": "Ana Yemek",
-      "image": "/yemekler/kars_kaz_eti_ve_pilavi_kaz_eti_ve_pilavi.jpg",
-      "history": "Kars'ın sert kışında kar yiyerek yağlanan kazların kesilip tuzlanarak haftalarca rüzgarda kurutulması (pastırma gibi), ardından haşlanarak etinin didilmesi ve kaynayan suyunun iri bulgur pilavında kullanılmasıdır. Kafkasya kültürünün bölgedeki en ünlü kış ziyafetidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Tuzlanıp kurutulan kaz etinin bulgur pilavıyla pişirildiği bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ensonhaber.com/her-lokma-essiz-dogu-anadolunun-cografi-isaretli-lezzetleri-h1476923",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "kars_hangel_yaprak_manti",
-      "name": "Hangel (Yaprak Mantı)",
-      "category": "Aperatif",
-      "image": "/yemekler/kars_hangel_yaprak_manti_hangel_yaprak_manti.jpg",
-      "history": "Mayalı veya mayasız hamurun büyük kareler halinde kesilip haşlanması, üzerine bol sarımsaklı yoğurt ve kavrulmuş çıtır soğanlı kızgın tereyağı dökülmesidir. Et içermeyen bu mantı, eski göçmen halkların pratik ve ucuz enerji kaynağıdır."
+      "name": "Hangel",
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_mantisi.webp",
+      "history": "Kare kesilen hamurun haşlanıp üzerine yoğurt ve kavrulmuş soğan konarak servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Mant%C4%B1s%C4%B1_(6344302909).jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kars_piti_bozbas",
-      "name": "Piti (Bozbaş)",
+      "name": "Piti",
       "category": "Ana Yemek",
-      "image": "/yemekler/kars_piti_bozbas_piti_bozbas.jpg",
-      "history": "Parça kuzu eti, kuyruk yağı, nohut ve sarıkök (zerdeçal) baharatının küçük toprak maşrapalarda odun ateşinde demlenerek pişmesi, sunumda lavaş ekmeğinin suyuyla ıslatılıp et ve nohudun ezilerek üzerine dökülmesidir. Azerbaycan ve Kars yöresinin çok güçlü bir ata yemeğidir."
+      "image": "/yemekler/kars_piti_bozbas.webp",
+      "history": "Kuzu eti ve nohudun küçük toprak kaplarda pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Tərxan Paşazadə",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Piti_24.11.2013-01.jpg"
+      }
+    },
+    {
+      "id": "kars_kars_ketesi",
+      "name": "Kars Ketesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Kars'a özgü geleneksel bir ketedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ensonhaber.com/her-lokma-essiz-dogu-anadolunun-cografi-isaretli-lezzetleri-h1476923",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kars_kars_gravyeri",
       "name": "Kars Gravyeri",
-      "category": "Meze",
-      "image": "/yemekler/kars_kars_gravyeri_kars_gravyeri.jpg",
-      "history": "İsviçre'nin gruyere peynirinden köken alan; 1870'lerde bölgeyi işgal eden Rusların ve İsviçreli ustaların getirdiği tekniklerle Kars'ın yüksek rakımlı otlaklarında otlayan ineklerin sütünden dev tekerlekler halinde yapılan, içi delikli, sert ve yıllandırılmış tescilli dünya çapında bir peynirdir."
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kasar.webp",
+      "history": "Yüksek yaylalarda beslenen ineklerin sütünden yapılan gravyer peyniridir. 2024'te coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/karsin-gravyer-peyniri-tescillendi-880695.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ardahan_peyniri.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "kars_umac_helvasi",
-      "name": "Umaç Helvası",
-      "category": "Tatlı",
-      "image": "/yemekler/kars_umac_helvasi_umac_helvasi.jpg",
-      "history": "Unun sıvı yağ veya tereyağıyla ufalanıp kavrulması, ardından sıcak su (veya süt) ve şekerle şerbetlenmesiyle yapılan hafif ve yumuşak dokulu kış helvasıdır."
+      "id": "kars_kars_kasari",
+      "name": "Kars Kaşarı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kasar.webp",
+      "history": "Kars ve Ardahan çevresinde üretilen kaşar peyniridir. Menşe adıyla tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kars-kasari-01201",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ardahan_peyniri.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kars_kars_bali",
+      "name": "Kars Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Kars yaylalarında üretilen çiçek balıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kars-bali-476d1",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Bjørn Christian Tørrissen, Sabri76 ve diğerleri",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Kars_collage_1.JPG"
+  }
 }

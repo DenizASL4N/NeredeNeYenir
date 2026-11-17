@@ -2,43 +2,132 @@
   "id": "bolu",
   "il_adi": "Bolu",
   "title": "Tabiatın Kalbi",
-  "unsplash_query": "bolu abant golu landscape",
-  "image": "/sehirler/bolu.jpg",
+  "image": "/sehirler/bolu.webp",
   "yemekler": [
     {
-      "id": "bolu_mengen_pilavi",
-      "name": "Mengen Pilavı",
+      "id": "bolu_kaldirik_dolmasi",
+      "name": "Mengen Kaldırık Dolması",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Kaldırık bitkisinin yapraklarıyla hazırlanan bir dolmadır. Mengen Belediyesi adına mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mengen-kaldirik-dolmasi-189ab",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bolu_mengen_kedibatmaz",
+      "name": "Mengen Kedibatmaz",
       "category": "Ana Yemek",
-      "image": "/yemekler/bolu_mengen_pilavi_mengen_pilavi.jpg",
-      "history": "Pirincin kavrulmuş kuzu veya dana kuşbaşı et, ceviz, badem, mantar, domates ve dereotu ile birlikte et suyunda demlenerek pişirildiği çok zengin bir pilavdır. Padişahların sofralarını donatan Bolu Mengenli saray aşçılarının bir başyapıtıdır."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Mengen'e özgü yöresel bir yemektir. 2022'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mengen-kedibatmaz-fc16c",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "bolu_abant_kebabi",
       "name": "Abant Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/bolu_abant_kebabi_abant_kebabi.jpg",
-      "history": "Közlenmiş patlıcanların içinin kayık şeklinde açılıp, mantar, kuşbaşı et ve domatesli bir harçla doldurularak üzerine kaşar peyniri eritilmesiyle yapılır. Bolu ormanlarının meşhur mantarlarının eti lezzetlendirdiği modern dönemin sevilen bir yemeğidir."
+      "image": "/yemekler/_tur_kebap.webp",
+      "history": "Etin sebzelerle güveçte pişirildiği, Bolu'nun Abant yöresiyle anılan bir kebaptır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "bolu_kaldirik_dolmasi",
-      "name": "Kaldırık Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/bolu_kaldirik_dolmasi_kaldirik_dolmasi.jpg",
-      "history": "Bolu yöresinin dağlarında bahar aylarında yetişen hodan (kaldırık) yapraklarının içine mısır unu, soğan ve salça harcı konularak sarılmasıdır. Doğadan beslenme kültürünün lezzetli ve sağlıklı bir yansımasıdır."
+      "id": "bolu_patatesli_ekmek",
+      "name": "Bolu Patatesli Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_ekmek.webp",
+      "history": "Hamuruna patates katılarak yapılan, yumuşak dokulu bir ekmektir. 2020'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bolu-patatesli-ekmegi-6485d",
+      "gorsel": {
+        "yazar": "James (Jim) Gordon",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woman_making_flat_bread_in_a_Kurdish_village_near_the_Turkish_border.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "bolu_kesli_cevizli_eriste",
-      "name": "Keşli Cevizli Erişte",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bolu_kesli_cevizli_eriste_kesli_cevizli_eriste.jpg",
-      "history": "Bolu yöresine özgü kurutulmuş süzme yoğurt olan \"keş\" peynirinin rendelenip, ceviz içiyle birlikte ev eriştesinin üzerine bol kızgın tereyağıyla dökülmesidir. Kış aylarının pratik, besleyici ve en ikonik yöresel hamur işidir."
-    },
-    {
-      "id": "bolu_saray_helvasi_cekme_helva",
-      "name": "Saray Helvası (Çekme Helva)",
+      "id": "bolu_mengen_hosmerimi",
+      "name": "Mengen Höşmerimi",
       "category": "Tatlı",
-      "image": "/yemekler/bolu_saray_helvasi_cekme_helva_saray_helvasi_cekme_helva.jpg",
-      "history": "Un ve tereyağının çok uzun süre kavrulup, ağda haline getirilmiş şekerle birleştirilmesi ve tel tel olana kadar çekilip preslenmesiyle yapılır. Saray aşçılarından halka inmiş, Bolu'nun en meşhur ikramlık tatlısıdır."
+      "image": "/yemekler/balikesir_hosmerim_tatlisi.webp",
+      "history": "Mengen'e özgü höşmerim tatlısıdır. Mengen Belediyesi adına tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mengen-hosmerimi-0fec8",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:H%C3%B6%C5%9Fmerim_from_Bal%C4%B1kesir.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bolu_bolu_kesi",
+      "name": "Bolu Keşi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Kurutulmuş yoğurt ya da peynirden elde edilen keştir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bolu-kesi-cd757",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bolu_mengen_peyniri",
+      "name": "Mengen Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Mengen'de üretilen yöresel bir peynirdir. 2023'te mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/mengen-peyniri-7a21a",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "bolu_kanlica_mantari",
+      "name": "Bolu Kanlıca Mantarı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/bolu_kanlica_mantari.webp",
+      "history": "Bolu ormanlarında yetişen kanlıca mantarıdır. 2021'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/bolu-kanlica-mantari-af8f8",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Lactarius_deliciosus.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "A.Savin",
+    "lisans": "FAL",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:TR_Bolu_asv2021-10_img23_Beyaz%C4%B1t_Mosque.jpg"
+  }
 }

@@ -2,43 +2,71 @@
   "id": "kirklareli",
   "il_adi": "Kırklareli",
   "title": "Istrancaların Yeşilliğinde",
-  "unsplash_query": "kirklareli dupnisa magarasi",
-  "image": "/sehirler/kirklareli.jpg",
+  "image": "/sehirler/kirklareli.webp",
   "yemekler": [
+    {
+      "id": "kirklareli_ahmetbey_koftesi",
+      "name": "Ahmetbey Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kırklareli'nin Ahmetbey beldesine özgü bir köftedir. Avrupa Birliği'nde de coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/ntvpara/ahmetbey-koftesine-abden-cografi-tescil-1719250",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
+    },
     {
       "id": "kirklareli_kirklareli_koftesi",
       "name": "Kırklareli Köftesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirklareli_kirklareli_koftesi_kirklareli_koftesi.jpg",
-      "history": "Yöredeki Trakya meralarında yetişen dana ve kuzu etlerinin dengeli karışımıyla, az ekmek içi, soğan ve kimyon yoğrularak yapılan, ızgarada dışı çıtır içi sulu bırakılan meşhur Balkan köftesidir."
-    },
-    {
-      "id": "kirklareli_sutlu_siron_sutlu_pita",
-      "name": "Sütlü Siron (Sütlü Pita)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kirklareli_sutlu_siron_sutlu_pita_sutlu_siron_sutlu_pita.jpg",
-      "history": "Trakya yufkalarının veya ev makarnalarının fırınlanıp kurutulduktan sonra, üzerine sıcak süt ve şeker dökülerek tatlı olarak, ya da et suyu/süt dökülüp peynir konularak tuzlu tüketildiği bir göçmen lezzetidir."
-    },
-    {
-      "id": "kirklareli_eski_kasar_peyniri",
-      "name": "Eski Kaşar Peyniri",
-      "category": "Meze",
-      "image": "/yemekler/kirklareli_eski_kasar_peyniri_eski_kasar_peyniri.jpg",
-      "history": "Kırklareli'nin Istranca Dağları'nda otlayan koyun ve keçilerin bahar sütleriyle yapılan, \"tekerlek\" adı verilen dev kalıplarda buzhanelerde en az 6 ay bekletilerek küflendirilip (olgunlaştırılıp) kendine has sert ve keskin aromasını kazanan tescilli peynirdir."
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kırklareli'ye özgü, ızgarada pişirilen bir köftedir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kirklareli_hardaliye",
       "name": "Hardaliye",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kirklareli_hardaliye_hardaliye.jpg",
-      "history": "Olgun ve siyah Trakya üzümlerinin saplarıyla birlikte ezilip, fıçılara dizilmesi, aralarına hardal tohumu ve vişne yaprağı konularak fermantasyonun (alkole dönüşümün) engellendiği antioksidan deposu, buruk içimli tarihi bir alkolsüz içecektir. Atatürk'ün \"Bunu milli içecek yapın\" dediği rivayet edilir."
+      "category": "İçecek",
+      "image": "/yemekler/kirklareli_hardaliye.webp",
+      "history": "Üzüm suyunun hardal tohumu ve vişne yaprağıyla fermente edilmesiyle hazırlanan, alkolsüz bir Trakya içeceğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Basak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hardaliye.jpg"
+      }
     },
     {
-      "id": "kirklareli_kirklareli_bozasi",
-      "name": "Kırklareli Bozası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kirklareli_kirklareli_bozasi_kirklareli_bozasi.jpg",
-      "history": "Diğer bozaların aksine daha mayhoş ve ekşi bir tada sahip olan, darı ve mısırdan yapılan, Trakya kışlarının en yoğun tüketilen ve içine tarçın-leblebi atılarak içilen Balkan kökenli şifa kaynağıdır."
+      "id": "kirklareli_eski_kasar_peyniri",
+      "name": "Kırklareli Eski Kaşarı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kasar.webp",
+      "history": "Uzun süre olgunlaştırılan, keskin tadıyla bilinen bir kaşar peyniridir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ardahan_peyniri.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "User:Darwinek",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5195.jpg"
+  }
 }

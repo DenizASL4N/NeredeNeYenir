@@ -2,43 +2,42 @@
   "id": "kirikkale",
   "il_adi": "Kırıkkale",
   "title": "Silah Sanayisi ve Kızılırmak",
-  "unsplash_query": "kirikkale celal bayar parki",
-  "image": "/sehirler/kirikkale.jpg",
+  "image": "/sehirler/kirikkale.webp",
   "yemekler": [
     {
       "id": "kirikkale_keskin_tavasi",
-      "name": "Keskin Tavası",
+      "name": "Kırıkkale Keskin Tava",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirikkale_keskin_tavasi_keskin_tavasi.jpg",
-      "history": "Kırıkkale'nin Keskin ilçesine özgü, kuzu eti, arpacık soğan, domates ve yeşil biberin toprak kaplarda, kendi suyu ve kuyruk yağı ile uzun süre fırınlanmasıyla yapılan ziyafet yemeğidir."
+      "image": "/yemekler/_tur_tava.webp",
+      "history": "Yöredeki besi hayvanlarının etiyle hazırlanan bir tava yemeğidir. 2017'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/kirikkale-keskin-tava-a86d4",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_tava_from_Bing%C3%B6l.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "kirikkale_sizgit",
-      "name": "Sızgıt",
+      "id": "kirikkale_tokmak_kofte",
+      "name": "Karaahmetli Tokmak Köfte",
       "category": "Ana Yemek",
-      "image": "/yemekler/kirikkale_sizgit_sizgit.jpg",
-      "history": "Bölge hayvancılığının bir ürünü olan etin, küçük parçalara doğranıp kendi yağıyla ağır ağır kavrulması ve dondurularak saklanması yöntemidir. Kışın kahvaltılarda yumurta ile tüketilir."
-    },
-    {
-      "id": "kirikkale_tuvalak",
-      "name": "Tuvalak",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kirikkale_tuvalak_tuvalak.jpg",
-      "history": "Küçük kıymalı köftelerin, nohut ve et suyuyla birlikte salçalı bir sos içerisinde pişirilmesiyle yapılan yöresel, besleyici bir tencere yemeğidir."
-    },
-    {
-      "id": "kirikkale_yogurtlu_tarhana",
-      "name": "Yoğurtlu Tarhana",
-      "category": "Meze",
-      "image": "/yemekler/kirikkale_yogurtlu_tarhana_yogurtlu_tarhana.jpg",
-      "history": "Kırıkkale'de tarhana, diğer yörelerden farklı olarak daha bol yoğurtlu hazırlanır ve pişirilirken içine haşlanmış nohut eklenerek daha doyurucu hale getirilir."
-    },
-    {
-      "id": "kirikkale_haside_tatlisi",
-      "name": "Haside Tatlısı",
-      "category": "Tatlı",
-      "image": "/yemekler/kirikkale_haside_tatlisi_haside_tatlisi.jpg",
-      "history": "Un, tereyağı ve pekmezin (veya şeker şerbetinin) ocakta sürekli karıştırılarak pişirilmesiyle elde edilen, yapımı oldukça kolay ama bir o kadar da geleneksel bir kış tatlısıdır."
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kırıkkale'nin Karaahmetli köyüne özgü, yaklaşık yüz yıllık geçmişi olan bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.yeniankara.com.tr/turkiye-haberleri/kirikkale/kirikkalenin-100-yillik-lezzeti-karaahmetli-tokmak-koftenin-sasirtan-hikayesi-180853",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "71ergun",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:K%C4%B1r%C4%B1kkale_1_(2013)_-_panoramio.jpg"
+  }
 }

@@ -2,43 +2,114 @@
   "id": "kahramanmaras",
   "il_adi": "Kahramanmaraş",
   "title": "İstiklal ve Dondurma Şehri",
-  "unsplash_query": "kahramanmaras ulu cami",
-  "image": "/sehirler/kahramanmaras.jpg",
+  "image": "/sehirler/kahramanmaras.webp",
   "yemekler": [
     {
       "id": "kahramanmaras_maras_pacasi",
-      "name": "Maraş Paçası",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kahramanmaras_maras_pacasi_maras_pacasi.jpg",
-      "history": "Kuzu kellesi ve ayaklarının uzun süre haşlanıp etlerinin ayıklanması, üzerine sarımsak, bol pul biber ve tereyağı dökülerek servis edilmesiyle yapılan, kış aylarının şifa deposu bir yemektir."
+      "name": "Maraş Kelle Paçası",
+      "category": "Çorba",
+      "image": "/yemekler/kahramanmaras_maras_pacasi.webp",
+      "history": "Koyun kelle ve paçasının uzun süre kaynatılmasıyla hazırlanan, sarımsak ve sirkeyle tatlandırılan bir çorbadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://avesis.gelisim.edu.tr/yayin/85eee10d-4ebe-41a2-9fc6-9d52b4375847/gastronomi-turizmi-perspektifinden-cografi-isaretli-urunlerin-degerlendirilmesi-maras-kelle-pacasi",
+      "gorsel": {
+        "yazar": "Benreis",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kelle_pa%C3%A7a_Hof.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kahramanmaras_tarhana_corbasi",
+      "name": "Maraş Tarhanası",
+      "category": "Çorba",
+      "image": "/yemekler/kahramanmaras_tarhana_corbasi.webp",
+      "history": "Buğday ve yoğurdun karıştırılıp kurutulmasıyla yapılan, cips gibi parçalar halinde de yenebilen bir tarhanadır. Çorbası yapılır. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.eeas.europa.eu/delegations/t%C3%BCrkiye/mara%C5%9F-tarhanas%C4%B1-ab-taraf%C4%B1ndan-tan%C4%B1nd%C4%B1_tr",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_tarhanas%C4%B1.jpg"
+      }
     },
     {
       "id": "kahramanmaras_eli_bogrunde",
       "name": "Eli Böğründe",
       "category": "Ana Yemek",
-      "image": "/yemekler/kahramanmaras_eli_bogrunde_eli_bogrunde.jpg",
-      "history": "Kuzu kuşbaşı etlerin, domateslerin, sivri biberlerin ve sarımsakların tepsiye yan yana (böğür böğüre) dizilip, üzerine kuyruk yağı parçaları konularak fırınlanmasıyla yapılan, malzemelerin kendi suyunda piştiği bir lezzettir."
+      "image": "/yemekler/kahramanmaras_eli_bogrunde.webp",
+      "history": "Kuzu etinin patlıcan ve domatesle güveçte pişirildiği, Kahramanmaraş'a özgü bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eli_b%C3%B6%C4%9Fr%C3%BCnde_from_Turkey.jpg"
+      }
     },
     {
-      "id": "kahramanmaras_tarhana_corbasi",
-      "name": "Tarhana Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/kahramanmaras_tarhana_corbasi_tarhana_corbasi.jpg",
-      "history": "Maraş tarhanası yoğurt ve döğmenin (buğday) pişirilip kurutulmasıyla elde edilir. Diğer şehirlerdeki gibi toz değil, cips benzeri kıtır haldedir; bu haliyle kuruyemiş gibi de yenir, çorba yapıldığında eşsiz bir lezzete dönüşür."
-    },
-    {
-      "id": "kahramanmaras_ravanda_serbeti",
-      "name": "Ravanda Şerbeti",
+      "id": "kahramanmaras_afsin_tava",
+      "name": "Afşin Tava",
       "category": "Ana Yemek",
-      "image": "/yemekler/kahramanmaras_ravanda_serbeti_ravanda_serbeti.jpg",
-      "history": "Maraş'ın üzüm bağlarından elde edilen şıranın, çeşitli meyvelerle harmanlanıp ferahlatıcı bir içecek haline getirilmesiyle yapılır."
+      "image": "/yemekler/_tur_tava.webp",
+      "history": "Kuşbaşı et, domates, yeşil biber ve tescilli Koçovası sarımsağıyla hazırlanıp fırında pişirilen bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kahramanmaras.bel.tr/fs/fields/magazine/pdf/2026/03/25/cografi-isaretli-urunler.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_tava_from_Bing%C3%B6l.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kahramanmaras_ciris_boregi",
+      "name": "Çiriş Böreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "İlkbaharda toplanan çiriş otuyla hazırlanan bir böreğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/turkiye/ciris-boregi-tescillendi,B_frFzU78UKeXfg2WsbJQA",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kahramanmaras_maras_coregi",
+      "name": "Maraş Çöreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Kahramanmaraş'a özgü, baharatlı geleneksel bir çörektir. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.dha.com.tr/gundem/maras-coregine-abden-cografi-isaret-tescili-2768985",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kahramanmaras_maras_dondurmasi",
       "name": "Maraş Dondurması",
       "category": "Tatlı",
-      "image": "/yemekler/kahramanmaras_maras_dondurmasi_maras_dondurmasi.jpg",
-      "history": "Keçi sütü ve salep bitkisinin kökünün, Maraş'ın dağlarından gelen özel bir teknikle saatlerce dövülerek sakız kıvamına getirilmesiyle elde edilir. Osmanlı saray mutfağından bugüne ulaşan tescilli bir dondurmadır."
+      "image": "/yemekler/kahramanmaras_maras_dondurmasi.webp",
+      "history": "Keçi sütü ve salep kullanıldığı için sakız kıvamında ve uzayan bir dokuya sahip dondurmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kahramanmaras.bel.tr/fs/fields/magazine/pdf/2026/03/25/cografi-isaretli-urunler.pdf",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mara%C5%9F_dondurma.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Myrat",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_city_center.jpg"
+  }
 }

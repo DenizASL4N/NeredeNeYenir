@@ -2,43 +2,102 @@
   "id": "ordu",
   "il_adi": "Ordu",
   "title": "Fındığın ve Teleferiğin Şehri",
-  "unsplash_query": "ordu boztepe landscape",
-  "image": "/sehirler/ordu.jpg",
+  "image": "/sehirler/ordu.webp",
   "yemekler": [
+    {
+      "id": "ordu_yalikoy_koftesi",
+      "name": "Yalıköy Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Ordu'nun Fatsa ilçesindeki Yalıköy'e özgü bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/guncel/ordunun-tescilli-lezzeti-yalikoy-koftesi-659487.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "ordu_findik_tirmidi_kavurmasi",
+      "name": "Ordu Fındık Tirmidi Kavurması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bingol_cobantasi_kavurmasi.webp",
+      "history": "Fındık bahçelerinde yetişen tirmit mantarının kavrulmasıyla yapılan bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.iscihaber.net/kultur-sanat/ordu-findik-tirmidi-kavurmasi-cografi-isaret-tescil-belgesi-aldi/131525",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kavurma_(lamb).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "ordu_karalahana_corbasi",
+      "name": "Ordu Karalahana Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/giresun_karalahana_corbasi_pancar_corbasi.webp",
+      "history": "Karalahana, fasulye ve mısır unuyla hazırlanan bir çorbadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/yasam/ordu-karalahana-corbasi-tescillendi-810086.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pancar_soup.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "ordu_karalahana_sarmasi",
+      "name": "Ordu Zeytinyağlı Karalahana Sarması",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_zeytinyagi.webp",
+      "history": "Karalahana yapraklarının pirinçli harçla sarılıp zeytinyağıyla pişirildiği bir sarmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/ordunun-zeytinyagli-karalahana-sarmasi-tescillendi-801646.html",
+      "gorsel": {
+        "yazar": "margenauer from Pixabay",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg",
+        "temsili": true
+      }
+    },
     {
       "id": "ordu_yagli_ordu_pidesi",
       "name": "Yağlı Ordu Pidesi",
-      "category": "Aperatif",
-      "image": "/yemekler/ordu_yagli_ordu_pidesi_yagli_ordu_pidesi.jpg",
-      "history": "Kenarları kapalı, ortası açık ve uzun forma sahip, içine bolca yöresel peynir veya kıyma konulup piştikten sonra üzerine bol köy tereyağı dökülen, Orduluların kahvaltı dahil her öğünde tükettiği meşhur pidedir."
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_pide.webp",
+      "history": "Tereyağıyla hazırlanan, Ordu'ya özgü bir pidedir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pide_with_ground_beef.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "ordu_melocan_kavurmasi",
       "name": "Melocan Kavurması",
       "category": "Ana Yemek",
-      "image": "/yemekler/ordu_melocan_kavurmasi_melocan_kavurmasi.jpg",
-      "history": "Karadeniz'in yabani bitkilerinden olan \"melocan\"ın (diken ucu) toplanıp haşlandıktan sonra soğan ve salça ile kavrulmasıyla yapılan, bölgenin en eski ve sağlıklı ot yemeklerinden biridir."
-    },
-    {
-      "id": "ordu_sakarca_mihlamasi",
-      "name": "Sakarca Mıhlaması",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ordu_sakarca_mihlamasi_sakarca_mihlamasi.jpg",
-      "history": "Mart-Nisan aylarında çıkan sakarca otunun, mısır unu, soğan ve yumurta ile kavrularak hazırlanan, bölge insanının doğadan beslenme kültürünü yansıtan pratik bir yemektir."
-    },
-    {
-      "id": "ordu_galdirik_kavurmasi",
-      "name": "Galdirik Kavurması",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ordu_galdirik_kavurmasi_galdirik_kavurmasi.jpg",
-      "history": "Bölge ormanlarında yetişen galdirik otunun turşusunun yapıldıktan sonra kavrularak yemek haline getirilmesi, Karadeniz mutfağının \"turşu kavurma\" geleneğinin en güzel örneklerinden biridir."
-    },
-    {
-      "id": "ordu_firin_fasulye",
-      "name": "Fırın Fasulye",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ordu_firin_fasulye_firin_fasulye.jpg",
-      "history": "Taze yeşil fasulyelerin kışlık olarak fırında kurutulup, sonrasında soğan ve etle ağır ağır pişirilmesiyle hazırlanan, Ordu'nun kış sofralarının olmazsa olmazıdır."
+      "image": "/yemekler/bingol_cobantasi_kavurmasi.webp",
+      "history": "İlkbaharda toplanan melocan otunun kavrulmasıyla yapılan bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kavurma_(lamb).jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ahmet Gürsakal",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Ordu,_Turkey.JPG"
+  }
 }

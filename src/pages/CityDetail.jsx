@@ -4,6 +4,14 @@ import FoodCard from '../components/FoodCard';
 import FoodModal from '../components/FoodModal';
 import { normalizeTurkish } from '../utils/normalizeTurkish';
 import { ArrowLeft, Search, MapPin, Loader } from 'lucide-react';
+import SafeImage from '../components/SafeImage';
+import { CATEGORIES } from '../data/categories';
+
+const categoryButtonClass = (isActive) => `px-4 py-2 rounded-xl text-sm font-semibold whitespace-nowrap transition-all duration-200 cursor-pointer ${
+  isActive
+    ? 'bg-forest text-cream shadow-sm font-bold'
+    : 'bg-cream dark:bg-forest-dark text-forest dark:text-cream/80 hover:bg-gold/10 dark:hover:bg-cream/5'
+}`;
 
 export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }) {
   const { cityId } = useParams();
@@ -58,9 +66,17 @@ export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }
     );
   }
 
+  const foods = cityData.yemekler || [];
+
+  // Only offer the categories this city actually has
+  const cityCategories = CATEGORIES.filter((category) => foods.some((food) => food.category === category.name));
+
+  // A category picked in another city may not exist here; fall back to all
+  const selectedCategory = cityCategories.some((category) => category.name === activeCategory) ? activeCategory : 'All';
+
   // Filter foods by category and query
-  const filteredFoods = (cityData.yemekler || []).filter((food) => {
-    const matchesCategory = activeCategory === 'All' || food.category === activeCategory;
+  const filteredFoods = foods.filter((food) => {
+    const matchesCategory = selectedCategory === 'All' || food.category === selectedCategory;
     const matchesSearch = normalizeTurkish(food.name).includes(
       normalizeTurkish(searchQuery)
     );
@@ -81,11 +97,11 @@ export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }
         </Link>
       </div>
 
-      {/* City Cover Banner - Dynamic landscape image based on unsplash_query */}
+      {/* City Cover Banner */}
       <div className="relative rounded-3xl overflow-hidden mb-12 border border-gold/15 dark:border-cream/10 bg-forest-dark h-[300px] md:h-[380px]">
-        <img
+        <SafeImage
           src={cityData.image}
-          alt={`${cityData.il_adi} - ${cityData.unsplash_query}`}
+          alt={`${cityData.il_adi} şehir görünümü`}
           className="absolute inset-0 w-full h-full object-cover opacity-60 transition-all duration-75"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-forest-dark via-forest-dark/30 to-transparent" />
@@ -104,6 +120,17 @@ export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }
             "{cityData.title}"
           </p>
         </div>
+
+        {cityData.gorsel && (
+          <a
+            href={cityData.gorsel.kaynak}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="absolute top-3 right-4 z-10 max-w-[60%] truncate text-[10px] text-cream/70 hover:text-cream hover:underline"
+          >
+            Fotoğraf: {cityData.gorsel.yazar} ({cityData.gorsel.lisans})
+          </a>
+        )}
       </div>
 
       {/* Filters & Search */}
@@ -115,36 +142,20 @@ export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }
           </span>
           <button
             onClick={() => setActiveCategory('All')}
-            className={`px-4 py-2 rounded-xl text-sm font-semibold transition-all duration-200 cursor-pointer ${
-              activeCategory === 'All'
-                ? 'bg-forest text-cream shadow-sm font-bold'
-                : 'bg-cream dark:bg-forest-dark text-forest dark:text-cream/80 hover:bg-gold/10 dark:hover:bg-cream/5'
-            }`}
+            className={categoryButtonClass(selectedCategory === 'All')}
           >
             Tümü
           </button>
-          
-          <button
-            onClick={() => setActiveCategory('Ana Yemek')}
-            className={`px-4 py-2 rounded-xl text-sm font-semibold transition-all duration-200 cursor-pointer ${
-              activeCategory === 'Ana Yemek'
-                ? 'bg-forest text-cream shadow-sm font-bold'
-                : 'bg-cream dark:bg-forest-dark text-forest dark:text-cream/80 hover:bg-gold/10 dark:hover:bg-cream/5'
-            }`}
-          >
-            Ana Yemekler
-          </button>
-          
-          <button
-            onClick={() => setActiveCategory('Tatlı')}
-            className={`px-4 py-2 rounded-xl text-sm font-semibold transition-all duration-200 cursor-pointer ${
-              activeCategory === 'Tatlı'
-                ? 'bg-forest text-cream shadow-sm font-bold'
-                : 'bg-cream dark:bg-forest-dark text-forest dark:text-cream/80 hover:bg-gold/10 dark:hover:bg-cream/5'
-            }`}
-          >
-            Tatlılar
-          </button>
+
+          {cityCategories.map((category) => (
+            <button
+              key={category.name}
+              onClick={() => setActiveCategory(category.name)}
+              className={categoryButtonClass(selectedCategory === category.name)}
+            >
+              {category.plural}
+            </button>
+          ))}
         </div>
 
         <div className="relative w-full md:w-80 group">

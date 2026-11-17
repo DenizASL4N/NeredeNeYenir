@@ -2,43 +2,114 @@
   "id": "manisa",
   "il_adi": "Manisa",
   "title": "Spil Dağı ve Mesir Şehri",
-  "unsplash_query": "manisa spil dagi landscape",
-  "image": "/sehirler/manisa.jpg",
+  "image": "/sehirler/manisa.webp",
   "yemekler": [
     {
       "id": "manisa_manisa_kebabi",
       "name": "Manisa Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/manisa_manisa_kebabi_manisa_kebabi.jpg",
-      "history": "Manisa'nın meşhur köftesinin, domatesli soslu pidelere serilmesi, üzerine ızgara biber ve yoğurt eklenmesiyle yapılan, İskender kebabın Ege yorumudur."
+      "image": "/yemekler/manisa_manisa_kebabi.webp",
+      "history": "Küçük köftelerin pide üzerine dizilip tereyağı, yoğurt ve domates sosuyla servis edildiği bir kebaptır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Manisa_kebab.jpg"
+      }
     },
     {
       "id": "manisa_odun_kofte",
-      "name": "Odun Köfte",
+      "name": "Salihli Odun Köfte",
       "category": "Ana Yemek",
-      "image": "/yemekler/manisa_odun_kofte_odun_kofte.jpg",
-      "history": "Köftelerin hiçbir katkı maddesi olmadan, sadece dana eti ve tuzla yoğrulup meşe odunu közünde ızgara edilmesiyle yapılır. Manisa'nın asırlık köfteci esnafının en büyük özelliğidir."
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Manisa'nın Salihli ilçesine özgü, odun ateşinde pişirilen bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/salihli-odun-kofte-74074",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "manisa_kula_guveci",
-      "name": "Kula Güveci",
+      "id": "manisa_akhisar_kofte",
+      "name": "Akhisar Köfte",
       "category": "Ana Yemek",
-      "image": "/yemekler/manisa_kula_guveci_kula_guveci.jpg",
-      "history": "Manisa'nın Kula ilçesine özgü, uzun süre toprak kaplarda pişirilen et ve sebze güveci; bölgenin hayvancılık kültürünün bir yansımasıdır."
+      "image": "/yemekler/manisa_akhisar_kofte.webp",
+      "history": "Akhisar ilçesine özgü, dana etiyle hazırlanan bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/akhisar-kofte-2707f",
+      "gorsel": {
+        "yazar": "Pragdon",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Akhisar_k%C3%B6fte.jpg"
+      }
     },
     {
-      "id": "manisa_sekerli_pide",
-      "name": "Şekerli Pide",
-      "category": "Tatlı",
-      "image": "/yemekler/manisa_sekerli_pide_sekerli_pide.jpg",
-      "history": "Manisa'nın köklü fırınlarında hazırlanan, içerisine şeker ve tarçın konulup fırınlanan, üzerine bolca pudra şekeri dökülen sıcak bir tatlı pidedir."
+      "id": "manisa_alasehir_ekmegi",
+      "name": "Alaşehir Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_ekmek.webp",
+      "history": "Manisa'nın Alaşehir ilçesine özgü geleneksel ekmektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ensonhaber.com/yasam/manisanin-alasehir-ekmegine-cografi-isaret-tescili",
+      "gorsel": {
+        "yazar": "James (Jim) Gordon",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woman_making_flat_bread_in_a_Kurdish_village_near_the_Turkish_border.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "manisa_taban_simidi",
+      "name": "Manisa Taban Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/corum_corum_simidi.webp",
+      "history": "Manisa'ya özgü bir simittir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/manisa-taban-simidi-a359f",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Simit-2x.JPG",
+        "temsili": true
+      }
     },
     {
       "id": "manisa_mesir_macunu",
       "name": "Mesir Macunu",
       "category": "Tatlı",
-      "image": "/yemekler/manisa_mesir_macunu_mesir_macunu.jpg",
-      "history": "41 çeşit baharat, şifalı otlar ve balın macun kıvamına gelene dek kaynatılmasıyla üretilir. Kanuni Sultan Süleyman'ın annesi Hafsa Sultan'ın hastalığı için yaptırıldığı, Yavuz Sultan Selim döneminden kalma tarihi ve şifalı bir macundur."
+      "image": "/yemekler/manisa_mesir_macunu.webp",
+      "history": "Çok sayıda baharat ve şekerle hazırlanan bir macundur. Her yıl Manisa'da düzenlenen Mesir Macunu Festivali'nde dağıtılır. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.benguturk.com/gundem/manisa-mesir-macunu-abden-cografi-isaret-tescili-aldi-172101h",
+      "gorsel": {
+        "yazar": "Teemeah",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mesir_paste_of_Manisa.JPG"
+      }
+    },
+    {
+      "id": "manisa_kula_leblebisi",
+      "name": "Kula Leblebisi",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/manisa_kula_leblebisi.webp",
+      "history": "Manisa'nın Kula ilçesinde üretilen leblebidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/seyahat/manisanin-kula-leblebisi-cografi-isaretle-tescillendi,DzONMvAyV02YpMe-EQAmSQ",
+      "gorsel": {
+        "yazar": "Physicistjedi",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Leblebi.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Dosseman",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Manisa_Muradiye_Camii_Muradiye_Camii_side_to_southwest_6124.jpg"
+  }
 }

@@ -2,43 +2,58 @@
   "id": "ardahan",
   "il_adi": "Ardahan",
   "title": "Çıldır Gölü ve Kale Şehri",
-  "unsplash_query": "ardahan cildir golu landscape",
-  "image": "/sehirler/ardahan.jpg",
+  "image": "/sehirler/ardahan.webp",
   "yemekler": [
     {
       "id": "ardahan_kaz_eti",
-      "name": "Kaz Eti",
+      "name": "Ardahan Kaz Eti",
       "category": "Ana Yemek",
-      "image": "/yemekler/ardahan_kaz_eti_kaz_eti.jpg",
-      "history": "Ardahan'ın sert kışında kar yiyerek yağlanan kazların tuzlanıp kurutulması ve ardından haşlanıp etinin didiklenerek bulgur pilavıyla servis edilmesi, bölgenin en prestijli yemeğidir."
-    },
-    {
-      "id": "ardahan_feselli",
-      "name": "Feselli",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ardahan_feselli_feselli.htm",
-      "history": "Hamurun kat kat açılıp aralarına bol tereyağı sürülerek rulo yapılması ve sacda pişirilmesiyle yapılan, çay saatlerinin vazgeçilmezidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Kışa doğru kesilip tuzlanan ve kurutulan kaz etinin pilavla pişirildiği bir yemektir. 2021'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/ardahan-kaz-eti-7d8e3",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "ardahan_hinkal",
       "name": "Hınkal",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ardahan_hinkal_hinkal.jpg",
-      "history": "Kuzey Kafkasya kökenli bir mantı türüdür; hamuru oldukça büyük, içi kıyma veya patatesli olur ve hamurunun kıvrımları (bükümü) maharet ister."
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_mantisi.webp",
+      "history": "Hamurun haşlanıp üzerine yoğurt, kavrulmuş soğan ve tereyağı konarak servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Mant%C4%B1s%C4%B1_(6344302909).jpg",
+        "temsili": true
+      }
     },
     {
       "id": "ardahan_kesme_asi",
       "name": "Kesme Aşı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/ardahan_kesme_asi_kesme_asi.jpg",
-      "history": "Elde açılıp kesilen eriştelerin, yeşil mercimek ve kavrulmuş soğanla kaynatılmasıyla yapılan, Ardahan kışlarının enerji kaynağıdır."
-    },
-    {
-      "id": "ardahan_elma_dolmasi",
-      "name": "Elma Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/ardahan_elma_dolmasi_elma_dolmasi.jpg",
-      "history": "Ardahan'ın sert elmalarının içinin boşaltılıp baharatlı et veya kıyma ile doldurulup pişirilmesiyle yapılan, tatlı-tuzlu dengeli yöresel bir yemektir."
+      "category": "Çorba",
+      "image": "/yemekler/erzincan_kesme_corbasi.webp",
+      "history": "Ev yapımı kesme hamurla hazırlanan bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Soochun Yuk",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eri%C5%9Fte_%C3%A7orbas%C4%B1.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Volker Höhfeld",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Ardahan_2011_Ardahan_Kalesi_%C3%BCber_der_Kura_084.jpg"
+  }
 }

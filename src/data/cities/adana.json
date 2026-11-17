@@ -2,43 +2,129 @@
   "id": "adana",
   "il_adi": "Adana",
   "title": "Ateşin ve Etin Kenti",
-  "unsplash_query": "adana tas kopru landscape",
-  "image": "/sehirler/adana.jpg",
+  "image": "/sehirler/adana.webp",
   "yemekler": [
     {
       "id": "adana_adana_kebap",
-      "name": "Adana Kebap",
+      "name": "Adana Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/adana_adana_kebap_adana_kebap.jpg",
-      "history": "Sadece erkek kuzu eti, kuzu kuyruk yağı, kırmızı pul biber ve tuz kullanılarak yapılır. Zırh adı verilen büyük ve ağır bir bıçakla etin elde kıyılması en büyük özelliğidir. Göçebe Yörük ve Türkmenlerin et pişirme kültüründen günümüze ulaşmış, coğrafi işaret tescilli bir şaheserdir."
+      "image": "/yemekler/adana_adana_kebap.webp",
+      "history": "Erkek kuzu eti ve kuyruk yağının zırh adı verilen bıçakla elde kıyılıp pul biber ve tuzla yoğrulmasıyla hazırlanır; geniş şişlere sarılıp mangalda pişirilir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haber7.com/seyahat/haber/2977182-adana-lezzetleri-cografi-isaret-ile-tescilleniyor",
+      "gorsel": {
+        "yazar": "Garrett Ziegler",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Adana_Kebap.jpg"
+      }
     },
     {
       "id": "adana_sirdan_dolmasi",
-      "name": "Şırdan Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/adana_sirdan_dolmasi_sirdan_dolmasi.jpg",
-      "history": "Koyunun midyesinin bir bölümü olan \"şırdan\"ın, pirinç, kıyma, soğan, bol kimyon ve karabiberli bir harçla doldurulup dikilmesiyle yapılır. Adana sokak kültürünün gece geç saatlerde tüketilen vazgeçilmez ritüellerinden biridir."
+      "name": "Adana Şırdanı",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/adana_sirdan_dolmasi.webp",
+      "history": "Kuzu işkembesinin bir bölümü olan şırdanın baharatlı pirinçle doldurulup haşlanmasıyla yapılır. Adana'da gece geç saatlere kadar satılan bir sokak lezzetidir.",
+      "cografiIsaret": false,
+      "kaynak": "https://www.haber7.com/seyahat/haber/2977182-adana-lezzetleri-cografi-isaret-ile-tescilleniyor",
+      "gorsel": {
+        "yazar": "Özgür Esen (Surdurulebiliryasam)",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rdan_adana_2022.jpg"
+      }
     },
     {
       "id": "adana_yuzuk_corbasi",
-      "name": "Yüzük Çorbası",
+      "name": "Yüksük Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/adana_yuzuk_corbasi_yuzuk_corbasi.jpg",
-      "history": "İçine küçük mantılar (yüzük şeklinde bükülmüş), nohut, et suyu ve nane-salça sosu eklenerek yapılan çok doyurucu bir çorbadır. Düğünlerde ve bayram sabahlarında yapılması eski bir Çukurova geleneğidir."
-    },
-    {
-      "id": "adana_bici_bici",
-      "name": "Bici Bici",
-      "category": "Tatlı",
-      "image": "/yemekler/adana_bici_bici_bici_bici.jpg",
-      "history": "Yaz aylarının kavurucu sıcağına karşı geliştirilmiş, rendelenmiş buz, pişmiş nişasta (bici), pudra şekeri ve kızılcık veya gül şurubuyla hazırlanan çok hafif ve ferahlatıcı bir sokak tatlısıdır."
+      "image": "/yemekler/adana_yuzuk_corbasi.webp",
+      "history": "İçi kıymalı küçük hamur parçaları ve nohutla hazırlanan, Adana mutfağına özgü bir çorbadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yuksuk_soup.jpg"
+      }
     },
     {
       "id": "adana_karakus_tatlisi",
       "name": "Karakuş Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/adana_karakus_tatlisi_karakus_tatlisi.jpg",
-      "history": "İnce açılmış yufkaların içine ceviz ve tarçın konularak katlanması, ardından kızgın yağda kızartılıp soğuk şerbete atılmasıyla yapılır. Şekli kuşa benzetildiği için bu ismi almıştır ve bayram sofralarının baş tacıdır."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Adana'ya özgü, şerbetli geleneksel bir hamur tatlısıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haber7.com/seyahat/haber/2977182-adana-lezzetleri-cografi-isaret-ile-tescilleniyor",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "adana_tas_kadayif",
+      "name": "Adana Taş Kadayıfı",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_kadayif.webp",
+      "history": "Küçük yuvarlak hamurların ceviz içiyle doldurulup katlanması, ardından kızartılıp şerbetlenmesiyle yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haber7.com/seyahat/haber/2977182-adana-lezzetleri-cografi-isaret-ile-tescilleniyor",
+      "gorsel": {
+        "yazar": "Mar.masouridi",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%CE%93%CE%BB%CF%85%CE%BA%CF%8C_%CE%BA%CE%B1%CE%BD%CF%84%CE%B1%CE%90%CF%86%CE%B9.JPG",
+        "temsili": true
+      }
+    },
+    {
+      "id": "adana_bici_bici",
+      "name": "Bici Bici",
+      "category": "Tatlı",
+      "image": "/yemekler/adana_bici_bici.webp",
+      "history": "Nişastadan yapılan pelte, rendelenmiş buz ve gül şerbetiyle servis edilir. Adana'da sıcak yaz günlerinin serinletici tatlısıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Myrat",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bici_bici.jpg"
+      }
+    },
+    {
+      "id": "adana_adana_salgami",
+      "name": "Adana Şalgamı",
+      "category": "İçecek",
+      "image": "/yemekler/_tur_salgam.webp",
+      "history": "Mor havuç, şalgam ve bulgur unuyla fermente edilerek hazırlanan ekşi bir içecektir. Kebabın yanında içilir. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/lezizz/adana-salgami-abden-cografi-isaret-tescili-aldi-43130819",
+      "gorsel": {
+        "yazar": "Anatolianpride",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Yeni3.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "adana_adana_karpuzu",
+      "name": "Adana Karpuzu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_karpuz.webp",
+      "history": "Adana ve Tarsus çevresinde yetiştirilen karpuz çeşididir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/adana-karpuzu-85169",
+      "gorsel": {
+        "yazar": "John Phelan",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Slice_of_Watermelon_from_Wilson_Farm,_Lexington_MA.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "MUSTAFA TOR",
+    "lisans": "CC BY-SA 2.5",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Varda_Demiryolu_Koprusu.jpg"
+  }
 }

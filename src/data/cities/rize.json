@@ -2,43 +2,158 @@
   "id": "rize",
   "il_adi": "Rize",
   "title": "Çayın ve Kaçkarların Vatanı",
-  "unsplash_query": "rize firtina vadisi landscape",
-  "image": "/sehirler/rize.jpg",
+  "image": "/sehirler/rize.webp",
   "yemekler": [
     {
       "id": "rize_muhlama_mihlama",
-      "name": "Muhlama (Mıhlama)",
-      "category": "Ana Yemek",
-      "image": "/yemekler/rize_muhlama_mihlama_muhlama_mihlama.jpg",
-      "history": "Çeçil peyniri, kolot peyniri, mısır unu ve tereyağının bakır sahanlarda bakır kaşıkla sürekli çevrilerek \"uzayan\" kıvama gelene dek pişirilmesidir. Karadeniz'in enerji deposu kahvaltısıdır."
-    },
-    {
-      "id": "rize_hamsili_pilav",
-      "name": "Hamsili Pilav",
-      "category": "Ana Yemek",
-      "image": "/yemekler/rize_hamsili_pilav_hamsili_pilav.jpg",
-      "history": "Kılçığı ayıklanmış hamsilerin fırın tepsisine dizilip, içine soğan, kuş üzümü, çam fıstığı ve baharatlı iç pilavın konulup tekrar hamsiyle kapatılmasıyla yapılan muazzam bir ziyafet yemeğidir."
+      "name": "Rize Muhlaması",
+      "category": "Kahvaltılık",
+      "image": "/yemekler/rize_muhlama_mihlama.webp",
+      "history": "Mısır unu, tereyağı ve peynirin birlikte pişirilerek uzayan bir kıvam aldığı bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "Aliaciktepe",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Rize_Muhlamas%C4%B1.jpg"
+      }
     },
     {
       "id": "rize_rize_kavurmasi",
       "name": "Rize Kavurması",
       "category": "Ana Yemek",
-      "image": "/yemekler/rize_rize_kavurmasi_rize_kavurmasi.jpg",
-      "history": "Rize'nin yüksek yaylalarında otlayan hayvanların etinin, hiçbir katkı maddesi olmadan sadece kendi yağı ve tuzuyla büyük kazanlarda uzun süre kavrulmasıyla elde edilen, Türkiye'nin en kaliteli et ürünlerinden biridir."
+      "image": "/yemekler/rize_rize_kavurmasi.webp",
+      "history": "Etin kendi yağında kavrulup saklanmasıyla yapılan bir kavurmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kavurma_(veal).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "rize_cayeli_kuru_fasulye",
+      "name": "Çayeli Kuru Fasulye Yemeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_fasulye.webp",
+      "history": "Rize'nin Çayeli ilçesine özgü kuru fasulye yemeğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kuru_fasulye,_Ispir_tipi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "rize_hamsili_pilav",
+      "name": "Hamsili Pilav",
+      "category": "Ana Yemek",
+      "image": "/yemekler/rize_hamsili_pilav.webp",
+      "history": "Hamsilerin kalıba dizilip içine pirinç pilavı konarak fırında pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hamsili_pilav.jpg"
+      }
+    },
+    {
+      "id": "rize_derepazari_pidesi",
+      "name": "Derepazarı Pidesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/rize_derepazari_pidesi.webp",
+      "history": "Rize'nin Derepazarı ilçesine özgü bir pidedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "Maksym Kozlenko",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:2023-01-20_Turkish_pide.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "rize_rize_simidi",
+      "name": "Rize Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/rize_rize_simidi.webp",
+      "history": "Rize'ye özgü bir simittir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Simit-2x.JPG",
+        "temsili": true
+      }
+    },
+    {
+      "id": "rize_pepecura_tatlisi",
+      "name": "Rize Pepeçurası",
+      "category": "Tatlı",
+      "image": "/yemekler/rize_pepecura_tatlisi.webp",
+      "history": "Üzüm suyu ya da pekmezin mısır unuyla pişirilmesiyle yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "Meyavuz",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pepe%C3%A7uran%C4%B1n_son_hali.jpg"
+      }
     },
     {
       "id": "rize_rize_cayi",
       "name": "Rize Çayı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/rize_rize_cayi_rize_cayi.jpg",
-      "history": "Rize'nin sembolü olan çayın, bakır demliklerde odun ateşinde demlenmesi, bölge kültüründe sadece bir içecek değil, bir misafirperverlik ritüelidir."
+      "category": "İçecek",
+      "image": "/yemekler/rize_rize_cayi.webp",
+      "history": "Rize'nin yamaçlarında yetiştirilen çay yapraklarından elde edilir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.t24.com.tr/index.php/haber/rize-cayi-na-98-yil-sonra-tescil,1062810",
+      "gorsel": {
+        "yazar": "Photo by User:Wikimol",
+        "lisans": "CC BY-SA 2.5",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Rize_Tea_Plantation_2005-jk.jpg"
+      }
     },
     {
-      "id": "rize_pepecura_tatlisi",
-      "name": "Pepeçura Tatlısı",
-      "category": "Tatlı",
-      "image": "/yemekler/rize_pepecura_tatlisi_pepecura_tatlisi.jpg",
-      "history": "Rize'nin meşhur kokulu kara üzümlerinin suyuyla, mısır ununun puding kıvamına gelene dek pişirilmesiyle yapılan, hiçbir şeker ilavesi gerektirmeyen, tamamen meyve aromalı geleneksel bir tatlıdır."
+      "id": "rize_ayder_bali",
+      "name": "Ayder Balı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_kestane_bali.webp",
+      "history": "Ayder Yaylası'nda üretilen çiçek balıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkiyegazetesi.com.tr/yasam/ayder-bali-cografi-isaret-aldi-862155",
+      "gorsel": {
+        "yazar": "Véronique PAGNIER",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pot_et_Cuill%C3%A8re_%C3%A0_miel.JPG",
+        "temsili": true
+      }
+    },
+    {
+      "id": "rize_koloti_peyniri",
+      "name": "Çayeli Koloti Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Rize'nin Çayeli ilçesine özgü yöresel bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/cayeli-koloti-peyniri-04e59",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "yeomans (Flickr)",
+    "lisans": "CC BY 2.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Rize%27den_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg"
+  }
 }

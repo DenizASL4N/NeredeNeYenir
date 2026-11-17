@@ -2,43 +2,118 @@
   "id": "amasya",
   "il_adi": "Amasya",
   "title": "Şehzadeler Şehri",
-  "unsplash_query": "amasya kral kaya mezarlari landscape",
-  "image": "/sehirler/amasya.jpg",
+  "image": "/sehirler/amasya.webp",
   "yemekler": [
     {
       "id": "amasya_amasya_coregi",
-      "name": "Amasya Çöreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/amasya_amasya_coregi_amasya_coregi.jpg",
-      "history": "Nohut mayası kullanılarak hazırlanan, hamuruna ceviz veya haşhaş katılan, odun ateşinde pişirilen çok dayanıklı bir hamur işidir. Şehzadeler şehri Amasya'da Osmanlı döneminden beri askerlerin ve yolcuların yanına yolluk olarak verilen tarihi bir çörektir."
-    },
-    {
-      "id": "amasya_keskek",
-      "name": "Keşkek",
-      "category": "Ana Yemek",
-      "image": "/yemekler/amasya_keskek_keskek.jpg",
-      "history": "Bütün buğday (yarma) ve kemikli etin (genellikle koyun veya horoz) büyük kazanlarda saatlerce kaynatılıp tahta tokmaklarla dövülerek sakız kıvamına getirilmesi işlemidir. Amasya'da düğünlerin ve bayram sabahlarının bin yıllık ritüel yemeğidir."
+      "name": "Burmalı Amasya Çöreği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/nevsehir_kaymakli_coregi.webp",
+      "history": "Burma şeklinde örülerek hazırlanan geleneksel bir çörektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/guncel/burmali-amasya-coregine-cografi-isaret-690288.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C3%87%C3%B6rek_in_a_plate.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "amasya_bakla_dolmasi",
-      "name": "Bakla Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/amasya_bakla_dolmasi_bakla_dolmasi.jpg",
-      "history": "Kuru bakla, yarma, soğan ve baharatlarla hazırlanan iç harcın asma yapraklarına sarılması ve üzerine kaburga eti dizilerek pişirilmesiyle yapılır. Amasya mutfağının en karakteristik ve zahmetli lezzetlerinden biridir."
+      "name": "Amasya Baklalı Dolması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_dolma.webp",
+      "history": "Bakla ile hazırlanan, Amasya'ya özgü bir dolmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberturk.com/amasya-baklali-dolmasi-cografi-isaretle-tescillendi-3187598",
+      "gorsel": {
+        "yazar": "Kritzolina",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vorspeise_mit_Dolma_und_Tzatziki.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "amasya_kaypak",
+      "name": "Amasya Kaypağı",
+      "category": "Hamur İşi",
+      "image": "/yemekler/kayseri_kayseri_mantisi.webp",
+      "history": "Piruhi olarak da bilinen, haşlanan hamurla hazırlanan geleneksel bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/amasya-kaypagi-dc1a8",
+      "gorsel": {
+        "yazar": "William Neuheisel from DC, US",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kayseri_Mant%C4%B1s%C4%B1_(6344302909).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "amasya_keskek",
+      "name": "Amasya Keşkeği",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Dövme buğday ve etin uzun süre pişirilip dövülmesiyle yapılan, düğün ve bayramlarda hazırlanan bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "amasya_toyga_corbasi",
       "name": "Toyga Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/amasya_toyga_corbasi_toyga_corbasi.jpg",
-      "history": "Süzme yoğurt, yarma, nohut ve yumurtanın kaynatılması, üzerine nane ve tereyağlı sos dökülmesiyle hazırlanan sıcak/soğuk içilebilen bir çorbadır. Orta Asya Türk boylarının Anadolu'ya taşıdığı yoğurtlu çorba geleneğinin uzantısıdır."
+      "image": "/yemekler/amasya_toyga_corbasi.webp",
+      "history": "Yoğurt ve buğdayla hazırlanan, nane ile tatlandırılan bir yayla çorbasıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Toyga.jpg"
+      }
     },
     {
-      "id": "amasya_elma_tatlisi",
-      "name": "Elma Tatlısı",
+      "id": "amasya_cevizli_balli_baklava",
+      "name": "Amasya Cevizli Ballı Baklavası",
       "category": "Tatlı",
-      "image": "/yemekler/amasya_elma_tatlisi_elma_tatlisi.jpg",
-      "history": "Amasya'nın dünyaca ünlü misket elmalarının içi oyulup ceviz, tarçın ve karanfille doldurulduktan sonra fırınlanmasıyla yapılır. Şehrin sembol meyvesini mutfakta başköşeye taşıyan hafif ve zarif bir tatlıdır."
+      "image": "/yemekler/corum_corum_baklavasi.webp",
+      "history": "Ceviz ve balla hazırlanan bir baklavadır. 2023'te coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/amasya-cevizli-balli-baklavasi-tescillendi-737870.html",
+      "gorsel": {
+        "yazar": "Chitrapa",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Baklava_displayed_on_a_white_plate.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "amasya_unutma_beni",
+      "name": "Unutma Beni Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Amasya'ya özgü geleneksel bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/galeri/amasyanin-tescilli-tatlisi-unutma-beni-2109088",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ahmtzngn34",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil%C4%B1rmak2.jpg"
+  }
 }

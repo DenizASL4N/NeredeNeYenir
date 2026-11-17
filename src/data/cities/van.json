@@ -2,43 +2,160 @@
   "id": "van",
   "il_adi": "Van",
   "title": "Urartu Başkenti ve Akdamar",
-  "unsplash_query": "van akdamar adasi landscape",
-  "image": "/sehirler/van.htm",
+  "image": "/sehirler/van.webp",
   "yemekler": [
     {
       "id": "van_van_kahvaltisi",
       "name": "Van Kahvaltısı",
-      "category": "Ana Yemek",
-      "image": "/yemekler/van_van_kahvaltisi_van_kahvaltisi.jpg",
-      "history": "Sadece bir öğün değil, bir kültürdür. Kavut, murtuğa, otlu peynir, Van çöreği ve bal-kaymak ile bütünleşen, Türkiye'nin en zengin kahvaltı sofrasıdır."
+      "category": "Kahvaltılık",
+      "image": "/yemekler/van_van_kahvaltisi.webp",
+      "history": "Otlu peynir, murtuğa, kavut, bal, kaymak ve çeşitli reçellerden oluşan zengin bir kahvaltı sofrasıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Tanyel",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vankahvalti.jpg"
+      }
     },
     {
-      "id": "van_i̇nci_kefali",
-      "name": "İnci Kefali",
+      "id": "van_van_tavasi",
+      "name": "Van Tavası",
       "category": "Ana Yemek",
-      "image": "/yemekler/van_i̇nci_kefali_inci_kefali.jpg",
-      "history": "Van Gölü'nün endemik balığıdır. Bahar aylarında \"göç\" döneminde avlanan inci kefali, genellikle ızgarada veya buğulama olarak tüketilir."
+      "image": "/yemekler/_tur_tava.webp",
+      "history": "Van'a özgü bir tava yemeğidir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/kultur-sanat/vanda-4-yoresel-yemek-cografi-tescil-belgesi-aldi/279190",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_tava_from_Bing%C3%B6l.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "van_acem_koftesi",
+      "name": "Van Acem Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_kofte_sulu.webp",
+      "history": "Van'a özgü bir köftedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/kultur-sanat/vanda-4-yoresel-yemek-cografi-tescil-belgesi-aldi/279190",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Sulu_kofte_in_Ankara.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "van_eriste_asi",
+      "name": "Van Erişte Aşı",
+      "category": "Çorba",
+      "image": "/yemekler/erzincan_kesme_corbasi.webp",
+      "history": "Ev yapımı erişteyle hazırlanan geleneksel bir aştır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/kultur-sanat/vanda-4-yoresel-yemek-cografi-tescil-belgesi-aldi/279190",
+      "gorsel": {
+        "yazar": "Soochun Yuk",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eri%C5%9Fte_%C3%A7orbas%C4%B1.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "van_helise",
+      "name": "Van Helisesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "Buğday ve etin uzun süre pişirilmesiyle yapılan geleneksel bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/kultur-sanat/vanda-4-yoresel-yemek-cografi-tescil-belgesi-aldi/279190",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "van_murtuga",
+      "name": "Murtuğa",
+      "category": "Kahvaltılık",
+      "image": "/yemekler/van_van_kahvaltisi.webp",
+      "history": "Unun tereyağında kavrulup üzerine yumurta kırılarak pişirildiği, Van kahvaltısının vazgeçilmez yemeğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Tanyel",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vankahvalti.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "van_keledos",
       "name": "Keledoş",
       "category": "Ana Yemek",
-      "image": "/yemekler/van_keledos_keledos.jpg",
-      "history": "Kuşbaşı kuzu eti, nohut, mercimek, döğme ve kurutulmuş yoğurt (kurut) ile yapılan, üzerine bol tereyağlı ve naneli sos dökülen, Van'ın en besleyici ve meşhur yemeğidir."
+      "image": "/yemekler/van_keledos.webp",
+      "history": "Buğday, nohut, fasulye ve yoğurtla hazırlanan geleneksel bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Amir Hosein Nasooti",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Keledo%C5%9F_02.jpg"
+      }
+    },
+    {
+      "id": "van_van_kavut",
+      "name": "Van Kavut",
+      "category": "Kahvaltılık",
+      "image": "/yemekler/van_van_kahvaltisi.webp",
+      "history": "Kavrulmuş buğday ununun tereyağı ve şekerle hazırlandığı bir kahvaltılıktır. 2018'de mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/van-kavut-8a2af",
+      "gorsel": {
+        "yazar": "Tanyel",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Vankahvalti.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "van_inci_kefali",
+      "name": "Van Gölü İnci Kefali",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_balik.webp",
+      "history": "Van Gölü'nün sodalı sularına uyum sağlamış tek balık türüdür; kızartılarak yenir. Mahreç işaretiyle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.turkgun.com/kultur-sanat/vanda-4-yoresel-yemek-cografi-tescil-belgesi-aldi/279190",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Fish_and_fries.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "van_otlu_peynir",
-      "name": "Otlu Peynir",
-      "category": "Meze",
-      "image": "/yemekler/van_otlu_peynir_otlu_peynir.jpg",
-      "history": "Van'ın yüksek yaylalarında yetişen \"sirmo\" (yabani sarımsak) gibi endemik otların, taze koyun sütüyle yapılan peynire katılması ve salamurada olgunlaştırılmasıyla elde edilir."
-    },
-    {
-      "id": "van_murtuga",
-      "name": "Murtuğa",
-      "category": "Ana Yemek",
-      "image": "/yemekler/van_murtuga_murtuga.jpg",
-      "history": "Unun tereyağında kavrulup üzerine yumurta kırılmasıyla yapılan, bal ile birlikte kahvaltılarda tüketilen geleneksel bir Van lezzetidir."
+      "name": "Van Otlu Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/van_otlu_peynir.webp",
+      "history": "Koyun sütüne yabani otlar katılarak yapılan, uzun süre olgunlaştırılan bir peynirdir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Van_%C3%96zalp_otlu_peyniri.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Mevlüt Kılıç",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_Kalesi_(Van,_T%C3%BCrkiye).JPG"
+  }
 }

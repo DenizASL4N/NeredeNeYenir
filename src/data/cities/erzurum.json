@@ -2,43 +2,100 @@
   "id": "erzurum",
   "il_adi": "Erzurum",
   "title": "Çifte Minarelerin Gölgesinde",
-  "unsplash_query": "erzurum palandoken landscape",
-  "image": "/sehirler/erzurum.jpg",
+  "image": "/sehirler/erzurum.webp",
   "yemekler": [
     {
       "id": "erzurum_cag_kebabi",
-      "name": "Cağ Kebabı",
+      "name": "Oltu Cağ Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/erzurum_cag_kebabi_cag_kebabi.jpg",
-      "history": "Kuzu veya koyun etinin, yoğurt, soğan ve karabiberle terbiye edilip yatay bir şişe geçirilerek odun ateşinde çevrilmesi işlemidir. Pişen yüzeyler, \"cağ\" adı verilen küçük şişlere takılıp kesilerek servis edilir. Evliya Çelebi'nin de bahsettiği, Kıpçak Türkleri ve göçebe Yörük köklerine dayanan Erzurum'un simgesidir."
-    },
-    {
-      "id": "erzurum_asotu_corbasi",
-      "name": "Aşotu Çorbası",
-      "category": "Çorba",
-      "image": "/yemekler/erzurum_asotu_corbasi_asotu_corbasi.jpg",
-      "history": "Kişniş otunun yapraklarına bölgede \"aşotu\" denir. Aşurelik buğday (yarma), süzme yoğurt (ayran) ve aşotunun kaynatılmasıyla yapılan, üzerine küçük kavrulmuş kıyma parçaları eklenen ferahlatıcı bir şifa çorbasıdır."
-    },
-    {
-      "id": "erzurum_su_boregi",
-      "name": "Su Böreği",
-      "category": "Ana Yemek",
-      "image": "/yemekler/erzurum_su_boregi_su_boregi.jpg",
-      "history": "Erzurum su böreği coğrafi işaretlidir; diğer yörelerden farkı, haşlanan yufkaların arasına Erzurum'a özgü sivil (tel) peynir ve maydanoz konması, en üstüne de bol tereyağı sürülerek ağır ateşte alt üst edilerek pişirilmesidir. Peynir eriyip uzar."
+      "image": "/yemekler/erzurum_cag_kebabi.webp",
+      "history": "Kuzu etinin yatay şişe sarılıp odun ateşinde pişirildiği, ince dilimlenerek lavaşla servis edilen bir kebaptır. Oltu adıyla coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.dha.com.tr/foto-galeri/erzurumun-vazgecilmez-yemegi-cag-kebabi-dunya-lezzetleri-listesinde-ilk-20de-2359933",
+      "gorsel": {
+        "yazar": "Eaeeae",
+        "lisans": "CC BY 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ca%C4%9Fkebab%C4%B15.jpg"
+      }
     },
     {
       "id": "erzurum_ciris_yemegi",
       "name": "Çiriş Yemeği",
       "category": "Ana Yemek",
-      "image": "/yemekler/erzurum_ciris_yemegi_ciris_yemegi.jpg",
-      "history": "Karların erimesiyle yüksek dağlarda kendiliğinden çıkan sarı çiçekli \"çiriş\" otunun (yabani pırasa) toplanıp bulgur veya pirinçle kavrularak pişirilmesi. Doğanın uyanışını müjdeleyen bahar yemeğidir."
+      "image": "/yemekler/_tur_guvec.webp",
+      "history": "İlkbaharda toplanan çiriş otunun yumurta ya da kıymayla pişirildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Guvec.jpg",
+        "temsili": true,
+        "kategori": true
+      }
+    },
+    {
+      "id": "erzurum_paca_corbasi",
+      "name": "Erzurum Paça Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/erzurum_paca_corbasi.webp",
+      "history": "Paçaların uzun süre kaynatılmasıyla hazırlanan bir çorbadır. 2026'da coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gzt.com/kultur/erzurum-paca-corbasina-cografi-isaret-tescili-verildi-4223468",
+      "gorsel": {
+        "yazar": "Jwslubbock",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kelle_pa%C3%A7a_%C3%A7orbas%C4%B1_-_head_and_leg_soup.jpg"
+      }
+    },
+    {
+      "id": "erzurum_herle_asi",
+      "name": "Erzurum Herle Aşı Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/_tur_corba.webp",
+      "history": "Erzurum'a özgü geleneksel bir çorbadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/galeri/erzurum-cografi-isarette-yarisiyor-iste-o-urunler-ve-lezzetler-2108496",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg",
+        "temsili": true,
+        "kategori": true
+      }
     },
     {
       "id": "erzurum_kadayif_dolmasi",
-      "name": "Kadayıf Dolması",
+      "name": "Erzurum Kadayıf Dolması",
       "category": "Tatlı",
-      "image": "/yemekler/erzurum_kadayif_dolmasi_kadayif_dolmasi.jpg",
-      "history": "Taze tel kadayıfın içine bol miktarda ceviz içi konup avuç içinde sıkıca dolma gibi sarılması, ardından çırpılmış yumurtaya bulanıp kızgın yağda kızartıldıktan sonra soğuk şerbete atılmasıyla yapılır. Palandöken'in dondurucu soğuğuna karşı vücudu ısıtan ağır bir tatlıdır."
+      "image": "/yemekler/erzurum_kadayif_dolmasi.webp",
+      "history": "Kadayıfın içine ceviz konarak sarılması, kızartılıp şerbetlenmesiyle yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/galeri/erzurum-cografi-isarette-yarisiyor-iste-o-urunler-ve-lezzetler-2108496",
+      "gorsel": {
+        "yazar": "kcakduman",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kadayif-Erzurum.jpg"
+      }
+    },
+    {
+      "id": "erzurum_civil_peyniri",
+      "name": "Erzurum Civil Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/erzurum_civil_peyniri.webp",
+      "history": "Lifli yapısıyla bilinen, yağsız sütten yapılan bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/galeri/erzurum-cografi-isarette-yarisiyor-iste-o-urunler-ve-lezzetler-2108496",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_cheeses_Dil_and_Civil.jpg"
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Zeynel Cebeci",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg"
+  }
 }

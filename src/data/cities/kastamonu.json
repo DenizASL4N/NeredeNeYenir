@@ -2,43 +2,131 @@
   "id": "kastamonu",
   "il_adi": "Kastamonu",
   "title": "Kanyonlar ve Tarih Şehri",
-  "unsplash_query": "kastamonu valla kanyonu",
-  "image": "/sehirler/kastamonu.jpg",
+  "image": "/sehirler/kastamonu.webp",
   "yemekler": [
     {
       "id": "kastamonu_kuyu_kebabi_biryan_kebabi",
-      "name": "Kuyu Kebabı (Biryan Kebabı)",
+      "name": "Taşköprü Kuyu Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/kastamonu_kuyu_kebabi_biryan_kebabi_kuyu_kebabi_biryan_kebabi.jpg",
-      "history": "Kışın beslenen kuzuların bahar aylarında kesilerek, içi tuğla örülü derin kuyularda, çam çırası ateşinin buharıyla hiç su değmeden, kapakları çamurla sıvanarak 2-3 saat pişirilmesidir. Kastamonu dağlarının göçebe obalarından kalma en eski et pişirme tekniğidir."
+      "image": "/yemekler/kastamonu_kuyu_kebabi_biryan_kebabi.webp",
+      "history": "Etin toprağa kazılmış kuyu tandırlarda uzun süre pişirilmesiyle yapılan bir kebaptır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://acikerisim.kastamonu.edu.tr/bitstreams/50d5bd4a-a171-4af4-bf63-d5a491bb9931/download",
+      "gorsel": {
+        "yazar": "Dosseman",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kastamonu_kuyu_kebab%C4%B1_1163.jpg"
+      }
     },
     {
       "id": "kastamonu_banduma_islama",
-      "name": "Banduma (Islama)",
+      "name": "Banduma",
       "category": "Ana Yemek",
-      "image": "/yemekler/kastamonu_banduma_islama_banduma_islama.jpg",
-      "history": "Tepsiye döşenmiş ince siron (yufka) rulolarının hakiki hindi (veya tavuk) suyuyla ıslatılması, aralarına ve üzerine dövülmüş Kastamonu cevizi ile tiftiklenmiş hindi eti dökülmesiyle yapılır. Kış akşamlarının en gösterişli misafir yemeğidir."
+      "image": "/yemekler/_tur_tirit.webp",
+      "history": "Yufkanın et suyuyla ıslatılıp üzerine haşlanmış et konarak servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Zafer",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_Tiridi.jpg",
+        "temsili": true
+      }
     },
     {
-      "id": "kastamonu_etli_ekmek",
-      "name": "Etli Ekmek",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kastamonu_etli_ekmek_etli_ekmek.jpg",
-      "history": "Kastamonu etli ekmeği Konya'dakinden farklıdır; çok ince açılmış büyük yuvarlak yufkanın bir yarısına kavrulmamış soğanlı ve baharatlı çiğ kıyma yayılıp, yarım ay şeklinde kapatılarak odun ateşindeki sac üzerinde pişirilir ve bol tereyağlanır."
+      "id": "kastamonu_kastamonu_simidi",
+      "name": "Kastamonu Simidi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/corum_corum_simidi.webp",
+      "history": "Yaklaşık 400 yıllık geçmişi olan geleneksel bir simittir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/400-yillik-kastamonu-simidi-cografi-isaret-belgesi-aldi-1060464",
+      "gorsel": {
+        "yazar": "Bilinmiyor",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Simit-2x.JPG",
+        "temsili": true
+      }
     },
     {
-      "id": "kastamonu_simit_tiridi",
-      "name": "Simit Tiridi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/kastamonu_simit_tiridi_simit_tiridi.jpg",
-      "history": "Susamsız yapılan \"Kastamonu Kel Simidi\"nin bayatladıktan sonra el ile parçalanıp, kaynayan kemik veya et suyuyla yumuşatılması, üzerine kavrulmuş kıyma ve bol sarımsaklı süzme yoğurt eklenmesiyle yapılan muazzam bir israfı önleme yemeğidir."
+      "id": "kastamonu_cirik_tatlisi",
+      "name": "Devrekani Cırık Tatlısı",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Kastamonu'nun Devrekani ilçesine özgü geleneksel bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.milliyet.com.tr/pembenar/kastamonunun-yoresel-lezzeti-cirik-tatlisi-tescillendi-6390345",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "kastamonu_cekme_helva",
-      "name": "Çekme Helva",
+      "name": "Kastamonu Çekme Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/kastamonu_cekme_helva_cekme_helva.jpg",
-      "history": "Kastamonu'nun meşhur ikramlığıdır; un ve tereyağının çok düşük ısıda uzun saatler kavrulup beyazlatılması, kaynar şeker ağdasıyla tel tel olana kadar insan gücüyle çekilip daha sonra küp küp preslenmesiyle yapılır."
+      "image": "/yemekler/_tur_helva.webp",
+      "history": "Un ve şekerin uzun süre çekilerek ince tellere dönüştürülmesiyle yapılan bir helvadır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Noumenon",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kastamonu_kastamonu_pastirmasi",
+      "name": "Kastamonu Pastırması",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/sivas_sivas_pastirmasi.webp",
+      "history": "Kastamonu'da üretilen pastırmadır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.trthaber.com/haber/turkiye/kastamonu-pastirmasi-tescillendi-503132.html",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_pastirma.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kastamonu_taskopru_sarimsagi",
+      "name": "Taşköprü Sarımsağı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_sarimsak.webp",
+      "history": "Taşköprü'de yetiştirilen, keskin aromalı sarımsaktır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://acikerisim.kastamonu.edu.tr/bitstreams/50d5bd4a-a171-4af4-bf63-d5a491bb9931/download",
+      "gorsel": {
+        "yazar": "Matthew Pilachowski matthewpilachowski",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Garlic_Bulbs_(Unsplash).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "kastamonu_tosya_pirinci",
+      "name": "Tosya Pirinci",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_pirinc.webp",
+      "history": "Kastamonu'nun Tosya ilçesinde yetiştirilen pirinçtir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://acikerisim.kastamonu.edu.tr/bitstreams/50d5bd4a-a171-4af4-bf63-d5a491bb9931/download",
+      "gorsel": {
+        "yazar": "Zahoor Ahmad Reshi",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mushqbudji_rice_grains_close-up.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Barış37",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Kaleden_Cumhuriyet_Meydan%C4%B1_ve_%C3%87evresi.JPG"
+  }
 }

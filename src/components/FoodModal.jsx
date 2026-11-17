@@ -10,7 +10,7 @@ export default function FoodModal({ food, cityName, isFavorite, favoriteItem, on
       {/* Modal Container */}
       <div 
         onClick={(e) => e.stopPropagation()} // Stop closing on clicking inside modal
-        className="relative w-full max-w-4xl bg-[#F5F2ED] dark:bg-[#162B20] rounded-3xl overflow-hidden shadow-2xl border border-gold/20 dark:border-cream/10 flex flex-col md:flex-row max-h-[90vh] md:max-h-[85vh] animate-in fade-in zoom-in-95 duration-200"
+        className="relative w-full max-w-4xl bg-cream dark:bg-[#162B20] rounded-3xl overflow-hidden shadow-2xl border border-gold/20 dark:border-cream/10 flex flex-col md:flex-row max-h-[90vh] md:max-h-[85vh] animate-in fade-in zoom-in-95 duration-200"
       >
         
         {/* Close Button */}

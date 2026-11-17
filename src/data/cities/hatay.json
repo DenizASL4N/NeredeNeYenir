@@ -2,43 +2,171 @@
   "id": "hatay",
   "il_adi": "Hatay",
   "title": "Medeniyetlerin Buluşma Sofrası",
-  "unsplash_query": "hatay antakya landscape",
-  "image": "/sehirler/hatay.jpg",
+  "image": "/sehirler/hatay.webp",
   "yemekler": [
     {
       "id": "hatay_tepsi_kebabi_sini_kebabi",
-      "name": "Tepsi Kebabı (Sini Kebabı)",
+      "name": "Hatay Tepsi Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/hatay_tepsi_kebabi_sini_kebabi_tepsi_kebabi_sini_kebabi.jpg",
-      "history": "Zırhla incecik kıyılmış dana veya kuzu etinin ince doğranmış soğan, sarımsak, maydanoz ve biber salçasıyla yoğrulup bakır tepsilere incecik yayılması, üzerine domates sosu eklenerek taş fırınlarda pişirilmesidir. Antakya esnafının öğle aralarında kasap-fırın dayanışmasıyla ortaya çıkardığı bir klasiktir."
+      "image": "/yemekler/hatay_tepsi_kebabi_sini_kebabi.webp",
+      "history": "Kıymanın maydanoz, biber ve soğanla yoğrulup tepsiye yayılması, üzerine domates ve biber dizilerek fırında pişirilmesiyle yapılır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberler.com/guncel/hatay-da-7-yeni-yoresel-lezzet-cografi-isaret-tescili-aldi-19774848-haberi/",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Tepsi_kebap.jpg"
+      }
     },
     {
       "id": "hatay_kagit_kebabi",
-      "name": "Kağıt Kebabı",
+      "name": "Hatay Kağıt Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/hatay_kagit_kebabi_kagit_kebabi.jpg",
-      "history": "Tepsi kebabının kasap kağıdı üzerinde pişirilen versiyonudur. Tepsi kebabına göre daha az sulu ve sosludur, etin saf lezzeti ve baharatı çok daha keskin hissedilir."
+      "image": "/yemekler/hatay_kagit_kebabi.webp",
+      "history": "Baharatlı kıymanın yağlı kağıda yayılıp kağıtla birlikte fırında pişirilmesiyle yapılır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/hatayin-tescilli-lezzetleri-kagit-kebabi-ve-kunefeye-ilgi-buyuk-1568377",
+      "gorsel": {
+        "yazar": "Masisoz",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ka%C4%9F%C4%B1t_kebab%C4%B1.jpg"
+      }
     },
     {
       "id": "hatay_oruk",
       "name": "Oruk",
       "category": "Ana Yemek",
-      "image": "/yemekler/hatay_oruk_oruk.jpg",
-      "history": "Hatay'ın içli köftesidir; ancak şekli genellikle ceviz gibi yuvarlak veya yassıdır. İnce bulgur ve dövülmüş etle yapılan dış harcın içine, bol ceviz, kıyma, karabiber ve Hatay'a özgü baharatlar konarak ister fırında ister kızgın yağda pişirilir."
+      "image": "/yemekler/hatay_oruk.webp",
+      "history": "Bulgurlu dış hamurun içi kıymalı harçla doldurulan, Hatay ve Kilis'te yapılan bir içli köfte çeşididir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Oruk_or_i%C3%A7li_k%C3%B6fte.jpg"
+      }
     },
     {
       "id": "hatay_belen_tavasi",
       "name": "Belen Tavası",
       "category": "Ana Yemek",
-      "image": "/yemekler/hatay_belen_tavasi_belen_tavasi.jpg",
-      "history": "Kuzu kuşbaşı et, arpacık soğan, sarımsak, yeşil biber ve domatesin alüminyum veya çelik tavalarda, odun ateşinde karıştırılarak kendi suyuyla pişirilmesidir. Hatay'ın yüksek rakımlı Belen geçidindeki yolcuları doyurmak için ortaya çıkmış bir dağ lezzetidir."
+      "image": "/yemekler/hatay_belen_tavasi.webp",
+      "history": "Hatay'ın Belen ilçesine özgü, et ve sebzelerin tavada pişirildiği yöresel bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Camomile007",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Belen_Tava.jpg"
+      }
+    },
+    {
+      "id": "hatay_sisborek_corbasi",
+      "name": "Hatay Şişbörek Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/_tur_borek.webp",
+      "history": "İçi kıymalı küçük hamur parçalarının yoğurtlu çorbada pişirilmesiyle hazırlanır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/galeri/gastronomi-sehri-hatayin-damaklarda-tat-birakan-6-lezzeti-tescillendi-2116376",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Su_b%C3%B6re%C4%9Fi_2025.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "hatay_hatay_humusu",
+      "name": "Hatay Humusu",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_humus.webp",
+      "history": "Haşlanmış nohudun tahin, limon ve sarımsakla ezilerek hazırlandığı bir mezedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/galeri/gastronomi-sehri-hatayin-damaklarda-tat-birakan-6-lezzeti-tescillendi-2116376",
+      "gorsel": {
+        "yazar": "Orenrosenfeld",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hummus_plate.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "hatay_cevizli_biber",
+      "name": "Hatay Cevizli Biber",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/_tur_humus.webp",
+      "history": "Biber salçası, ceviz, galeta ve baharatlarla hazırlanan acı bir ezmedir; muhammara adıyla da bilinir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.cnnturk.com/yasam/galeri/gastronomi-sehri-hatayin-damaklarda-tat-birakan-6-lezzeti-tescillendi-2116376",
+      "gorsel": {
+        "yazar": "Orenrosenfeld",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hummus_plate.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "hatay_abugannus",
+      "name": "Hatay Abugannuş",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/hatay_abugannus.webp",
+      "history": "Közlenmiş patlıcanın sebzeler ve zeytinyağıyla hazırlandığı bir mezedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberler.com/guncel/hatay-da-7-yeni-yoresel-lezzet-cografi-isaret-tescili-aldi-19774848-haberi/",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Eggplant_salad_from_Turkey.jpg"
+      }
     },
     {
       "id": "hatay_antakya_kunefesi",
       "name": "Antakya Künefesi",
       "category": "Tatlı",
-      "image": "/yemekler/hatay_antakya_kunefesi_antakya_kunefesi.jpg",
-      "history": "Tel kadayıfın arasına sadece bu yörede üretilen, tuzsuz, uzayan özel Antakya peyniri döşenerek bakır sinilerde köz üzerinde alt-üst kızartılması ve sıcak şerbetle buluşturulmasıdır. Peynir ve tatlının dünyadaki en meşhur birlikteliklerinden biridir."
+      "image": "/yemekler/hatay_antakya_kunefesi.webp",
+      "history": "Tel kadayıfın arasına tuzsuz künefe peyniri konarak tereyağıyla pişirilir ve şerbetlenir. Hatay'ın ilk coğrafi işaretli ürünüdür (2008).",
+      "cografiIsaret": true,
+      "kaynak": "https://cnnturk.com/yasam/hatayin-tescilli-lezzetleri-kagit-kebabi-ve-kunefeye-ilgi-buyuk-1568377",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Antakya_kunefesi.jpg"
+      }
+    },
+    {
+      "id": "hatay_haytali",
+      "name": "Haytalı",
+      "category": "Tatlı",
+      "image": "/yemekler/_tur_muhallebi.webp",
+      "history": "Nişasta muhallebisinin küpler halinde kesilip buz, gül suyu ve şerbetle servis edildiği serinletici bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.haberler.com/guncel/hatay-da-7-yeni-yoresel-lezzet-cografi-isaret-tescili-aldi-19774848-haberi/",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Turkish_muhallebi.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "hatay_carra_peyniri",
+      "name": "Antakya Carra Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Toprak küplerde (carra) olgunlaştırılan yöresel bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ntv.com.tr/yasam/hatayin-antakya-carra-peyniri-tescillendi,50QoLC8hLk2t-qEC5Lcg9w",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Maarten Sepp",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Antakya_-_2011-04-10.jpg"
+  }
 }

@@ -2,43 +2,145 @@
   "id": "diyarbakir",
   "il_adi": "Diyarbakır",
   "title": "Surların ve Kültürün Şehri",
-  "unsplash_query": "diyarbakir hevsel bahceleri landscape",
-  "image": "/sehirler/diyarbakir.jpg",
+  "image": "/sehirler/diyarbakir.webp",
   "yemekler": [
     {
       "id": "diyarbakir_ciger_kebabi",
-      "name": "Ciğer Kebabı",
+      "name": "Diyarbakır Ciğer Kebabı",
       "category": "Sokak Lezzeti",
-      "image": "/yemekler/diyarbakir_ciger_kebabi_ciger_kebabi.jpg",
-      "history": "Diyarbakır'da ciğer sadece bir yemek değil, bir yaşam tarzıdır. Kuzu ciğeri ince ince doğranıp şişlere aralarına mutlaka kuyruk yağı dizilerek geçirilir. Pul biberle terbiye edilerek mangalda közlenir. Sabahın çok erken saatlerinde bile kahvaltı niyetine yenilen tarihi bir sokak kültürüdür."
+      "image": "/yemekler/diyarbakir_ciger_kebabi.webp",
+      "history": "Kuzu ciğerinin kuyruk yağıyla birlikte şişe dizilip mangalda pişirilmesiyle yapılır. Diyarbakır'da sabahtan itibaren yenen bir sokak lezzetidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Zeynel Cebeci",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ci%C4%9Fer_Kebab%C4%B1,_Kozan_04.JPG"
+      }
     },
     {
-      "id": "diyarbakir_meftune",
-      "name": "Meftune",
+      "id": "diyarbakir_kabak_meftunesi",
+      "name": "Kabak Meftunesi",
       "category": "Ana Yemek",
-      "image": "/yemekler/diyarbakir_meftune_meftune.jpg",
-      "history": "Kuzu eti, patlıcan ve domatesin, Diyarbakır mutfağının demirbaşı olan \"sumak suyu\" ile birleşmesiyle hazırlanan mayhoş ve lezzetli bir tencere yemeğidir. Farklı versiyonlarında kabak da kullanılır; bölgenin ekşili ve baharatlı lezzet profiline harika bir örnektir."
+      "image": "/yemekler/_tur_yahni.webp",
+      "history": "Kabak ve et parçalarının sarımsak ve ekşiyle (limon ya da sumak) pişirildiği sulu bir yemektir. Diyarbakır'ın tescilli yemeklerindendir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/sehirler/diyarbakirin-9-yemegi-cografi-isaretle-tescillendi-haberi-623024",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Nohut_yahni.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "diyarbakir_icli_kofte",
+      "name": "Diyarbakır İçli Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/diyarbakir_icli_kofte.webp",
+      "history": "Bulgurlu dış hamurun içine kıyma, soğan ve ceviz konarak kapatılan köftelerdir. Haşlanarak ya da kızartılarak hazırlanır.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/sehirler/diyarbakirin-9-yemegi-cografi-isaretle-tescillendi-haberi-623024",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0%C3%A7li_k%C3%B6fte_2023.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "diyarbakir_kuru_dolma",
+      "name": "Kuru Dolma",
+      "category": "Ana Yemek",
+      "image": "/yemekler/diyarbakir_kuru_dolma.webp",
+      "history": "Yazdan kurutulan patlıcan ve biberlerin kışın kıymalı pirinç harcıyla doldurulup pişirildiği bir dolmadır.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/sehirler/diyarbakirin-9-yemegi-cografi-isaretle-tescillendi-haberi-623024",
+      "gorsel": {
+        "yazar": "Basak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kuru_dolma_tencerede.jpg"
+      }
+    },
+    {
+      "id": "diyarbakir_simindirik_corbasi",
+      "name": "Simindirik Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/corum_alaca_yarma_asi.webp",
+      "history": "Diyarbakır'ın coğrafi işaretle tescil edilen geleneksel çorbalarından biridir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomim.com/sehirler/diyarbakirin-9-yemegi-cografi-isaretle-tescillendi-haberi-623024",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran_a%C5%9F%C4%B1.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "diyarbakir_meyir_corbasi",
+      "name": "Meyir Çorbası",
+      "category": "Çorba",
+      "image": "/yemekler/corum_alaca_yarma_asi.webp",
+      "history": "Yoğurt ve dövme buğdayla hazırlanan, bölgede sıcak ya da soğuk içilen bir yoğurt çorbasıdır. Diyarbakır adına coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://ci.turkpatent.gov.tr/cografi-isaretler/liste?il=21",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayran_a%C5%9F%C4%B1.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "diyarbakir_kaburga_dolmasi",
       "name": "Kaburga Dolması",
-      "category": "Aperatif",
-      "image": "/yemekler/diyarbakir_kaburga_dolmasi_kaburga_dolmasi.jpg",
-      "history": "Bütün kuzu kaburgasının içinin; badem, çam fıstığı, kuş üzümü, karabiber, yenibahar ve kavrulmuş pirinçten oluşan harçla doldurulup iğne iplikle dikilmesi işlemidir. Buharda ve sonrasında fırında saatlerce pişer. Mezopotamya'nın krallara ve en ağır misafirlere layık ziyafet yemeğidir."
-    },
-    {
-      "id": "diyarbakir_nardanasi",
-      "name": "Nardanaşı",
       "category": "Ana Yemek",
-      "image": "/yemekler/diyarbakir_nardanasi_nardanasi.jpg",
-      "history": "Yağsız kıyma, ince bulgur ve baharatlarla yapılan küçük topların (köftelerin), nohut ve et suyuyla haşlanması, içine nar suyu (veya nar ekşisi) ile taze nar tanelerinin eklenmesiyle yapılır. Kürt ve Arap mutfağı füzyonunun ekşi-tuzlu dengesidir."
+      "image": "/yemekler/diyarbakir_kaburga_dolmasi.webp",
+      "history": "Kuzu kaburgasının içi baharatlı pirinç ve kıymayla doldurulup dikilerek uzun süre pişirilir. Diyarbakır ve Mardin'de özel günlerin yemeğidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/w/index.php?curid=65977825",
+        "temsili": true
+      }
     },
     {
       "id": "diyarbakir_burma_kadayif",
-      "name": "Burma Kadayıf",
+      "name": "Diyarbakır Burma Kadayıfı",
       "category": "Tatlı",
-      "image": "/yemekler/diyarbakir_burma_kadayif_burma_kadayif.jpg",
-      "history": "Çiğ kadayıfın içine bol miktarda taze Antep fıstığı veya ceviz serilip, elde sıkıca burularak tepsiye dizilmesi ve altı üstü nar gibi kızartılarak şerbetlenmesidir. Diyarbakır'ın tescilli ve en ağırbaşlı tatlısıdır."
+      "image": "/yemekler/diyarbakir_burma_kadayif.webp",
+      "history": "Tel kadayıfın içine ceviz ya da fıstık konarak burma şeklinde sarılması ve şerbetlenmesiyle yapılan bir tatlıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Vikiçizer",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Burma_kaday%C4%B1f.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "diyarbakir_diyarbakir_karpuzu",
+      "name": "Diyarbakır Karpuzu",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_karpuz.webp",
+      "history": "Dicle kıyısında yetiştirilen ve iri boyutlarıyla bilinen karpuzdur. Diyarbakır'da her yıl karpuz festivali düzenlenir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "John Phelan",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Slice_of_Watermelon_from_Wilson_Farm,_Lexington_MA.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "İbrahimtrn00",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1r_Surlar%C4%B1,_Diyarbak%C4%B1r_Turkey.jpg"
+  }
 }

@@ -2,43 +2,114 @@
   "id": "balikesir",
   "il_adi": "Balıkesir",
   "title": "İki Denizin Kesiştiği Yer",
-  "unsplash_query": "balikesir cunda island landscape",
-  "image": "/sehirler/balikesir.jpg",
+  "image": "/sehirler/balikesir.webp",
   "yemekler": [
     {
-      "id": "balikesir_balikesir_tiridi",
-      "name": "Balıkesir Tiridi",
-      "category": "Ana Yemek",
-      "image": "/yemekler/balikesir_balikesir_tiridi_balikesir_tiridi.jpg",
-      "history": "Pide veya bayat ekmeklerin et suyuyla ıslatılıp üzerine didiklenmiş dana veya kuzu eti, sumaklı soğan ve maydanoz eklenmesiyle yapılan bol sulu bir aştır. Yöredeki tarım işçilerinin ve esnafın güne başlarken tükettiği, bereket sembolü bir yemektir."
-    },
-    {
-      "id": "balikesir_sura",
-      "name": "Sura",
-      "category": "Ana Yemek",
-      "image": "/yemekler/balikesir_sura_sura.jpg",
-      "history": "Bütün bir kuzu veya oğlak kaburgasının içinin fıstıklı, kuş üzümlü ve baharatlı yarım pişmiş iç pilavla doldurulup dikilerek uzun süre fırınlanmasıdır. Balıkesir ovasındaki hayvancılık zenginliğini yansıtan tarihi Kurban Bayramı ziyafet yemeğidir."
-    },
-    {
       "id": "balikesir_susurluk_tostu_ve_ayrani",
-      "name": "Susurluk Tostu (ve Ayranı)",
-      "category": "Aperatif",
-      "image": "/yemekler/balikesir_susurluk_tostu_ve_ayrani_susurluk_tostu_ve_ayrani.jpg",
-      "history": "Özel ekşi mayalı, kalın kesim Susurluk ekmeğinin içine yöresel Mihaliç peyniri ve dana sucuğu konularak tost makinesinde nar gibi kızartılmasıdır. Türkiye'nin karayolu seyahat kültürünün en meşhur mola lezzeti ve bol köpüklü ayranın en iyi eşlikçisidir."
+      "name": "Susurluk Tostu ve Ayranı",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/balikesir_ayvalik_tostu.webp",
+      "history": "Sucuklu ve kaşarlı bol malzemeli tostun, köpüklü Susurluk ayranıyla birlikte yenmesidir. Susurluk'ta yol üstü mola yerlerinin simgesidir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k_tostu.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "balikesir_ayvalik_tostu",
+      "name": "Ayvalık Tostu",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/balikesir_ayvalik_tostu.webp",
+      "history": "Sucuk, salam, kaşar, turşu ve soslarla doldurulan, bol malzemeli bir tosttur. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.politikam.com/turkiyenin-cografi-isaret-haritasi-aciklandi-balikesir-46-urunuyle-ilk-10da-balikesirin-cografi-isaretli-urunleri",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k_tostu.jpg"
+      }
+    },
+    {
+      "id": "balikesir_gobel_kokorec",
+      "name": "Göbel Kuzu Kokoreci",
+      "category": "Sokak Lezzeti",
+      "image": "/yemekler/balikesir_gobel_kokorec.webp",
+      "history": "Kuzu bağırsağının şişe sarılarak közde pişirildiği bir kokoreçtir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.politikam.com/turkiyenin-cografi-isaret-haritasi-aciklandi-balikesir-46-urunuyle-ilk-10da-balikesirin-cografi-isaretli-urunleri",
+      "gorsel": {
+        "yazar": "Guresfederasyonu",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Susurluk_G%C3%B6bel_Kokoreci_(Bal%C4%B1kesir_G%C3%B6bel_Us%C3%BBl%C3%BC_S%C3%BCt_Kuzu_Kokore%C3%A7).jpg"
+      }
     },
     {
       "id": "balikesir_hosmerim_tatlisi",
-      "name": "Höşmerim Tatlısı",
+      "name": "Balıkesir Höşmerimi",
       "category": "Tatlı",
-      "image": "/yemekler/balikesir_hosmerim_tatlisi_hosmerim_tatlisi.jpg",
-      "history": "Taze tuzsuz koyun veya inek peynirinin irmik, yumurta sarısı ve şekerle birlikte ocakta ağır ağır kavrulmasıyla hazırlanan sarı renkli tatlıdır. Hikayesi, savaştan dönen eşine evde kalan son malzemelerle tatlı yapan Yörük kadınının \"Hoş mu erim?\" diye sorması efsanesine dayanır."
+      "image": "/yemekler/balikesir_hosmerim_tatlisi.webp",
+      "history": "Peynirin un ve şekerle pişirilip kıvam alana kadar karıştırılmasıyla yapılan bir tatlıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.politikam.com/turkiyenin-cografi-isaret-haritasi-aciklandi-balikesir-46-urunuyle-ilk-10da-balikesirin-cografi-isaretli-urunleri",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:H%C3%B6%C5%9Fmerim_from_Bal%C4%B1kesir.jpg"
+      }
     },
     {
-      "id": "balikesir_bigadic_guveci",
-      "name": "Bigadiç Güveci",
-      "category": "Ana Yemek",
-      "image": "/yemekler/balikesir_bigadic_guveci_bigadic_guveci.jpg",
-      "history": "Sadece oğlak eti, domates, sivri biber ve biraz kuyruk yağı kullanılarak, su eklenmeden toprak güveçte, odun fırınında saatlerce kendi suyuyla pişirilen bir başyapıttır. Balıkesir'in saf et lezzetini ortaya çıkaran en geleneksel pişirme yöntemidir."
+      "id": "balikesir_manda_kaymagi",
+      "name": "Balıkesir Manda Kaymağı",
+      "category": "Kahvaltılık",
+      "image": "/yemekler/_tur_kaymak.webp",
+      "history": "Manda sütünden elde edilen kalın ve yağlı bir kaymaktır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/balikesir-manda-kaymagi-fea92",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kaymak_in_Turkey.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "balikesir_sepet_peyniri",
+      "name": "Ayvalık Sepet Peyniri",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/edirne_beyaz_peynir.webp",
+      "history": "Sepetlerde süzülerek şekil verilen yöresel bir peynirdir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.politikam.com/50-peynirli-sehrin-iki-peyniri-daha-cografi-isaret-aldi",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Beyaz_peynir.jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "balikesir_edremit_zeytinyagi",
+      "name": "Edremit Körfezi Zeytinyağı",
+      "category": "Yöresel Ürün",
+      "image": "/yemekler/_tur_zeytinyagi.webp",
+      "history": "Edremit Körfezi çevresinde yetişen zeytinlerden elde edilen zeytinyağıdır. Avrupa Birliği'nde de coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.politikam.com/ab-edremit-zeytinyagini-tescilledi",
+      "gorsel": {
+        "yazar": "margenauer from Pixabay",
+        "lisans": "CC0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg",
+        "temsili": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ersin Soken",
+    "lisans": "CC BY-SA 4.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Eahinderesi_Canyon.jpg"
+  }
 }

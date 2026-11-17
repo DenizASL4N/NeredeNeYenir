@@ -2,43 +2,142 @@
   "id": "bursa",
   "il_adi": "Bursa",
   "title": "Osmanlı'nın İlk Başkenti",
-  "unsplash_query": "bursa ulu cami landscape",
-  "image": "/sehirler/bursa.jpg",
+  "image": "/sehirler/bursa.webp",
   "yemekler": [
     {
-      "id": "bursa_i̇skender_kebap",
+      "id": "bursa_iskender_kebap",
       "name": "İskender Kebap",
       "category": "Ana Yemek",
-      "image": "/yemekler/bursa_i̇skender_kebap_iskender_kebap.jpg",
-      "history": "İnce kesilmiş kuzu dönerin, odun ateşinde pişirilmiş tırnak pidelere serilmesi, üzerine domates sosu, yanına koyun yoğurdu ve en son kızgın tereyağı dökülmesiyle servis edilir. 1867'de İskender Efendi'nin eti yatay değil dikey pişirmeyi keşfetmesiyle ortaya çıkan Bursa'nın gastronomi markasıdır."
+      "image": "/yemekler/bursa_iskender_kebap.webp",
+      "history": "Yaprak döner ince kesilip pide üzerine dizilir, üzerine domates sosu ve kızgın tereyağı dökülür, yanında yoğurtla servis edilir. Bursa'da 19. yüzyılda ortaya çıkmıştır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Garrett Ziegler",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0skender_Kebap.jpg"
+      }
+    },
+    {
+      "id": "bursa_inegol_koftesi",
+      "name": "İnegöl Köftesi",
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_inegol_koftesi.webp",
+      "history": "Kıyma, soğan ve az baharatla hazırlanan, ızgarada pişirilen bir köftedir. 2006'da mahreç işaretiyle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/inegol-koftesi-0f940",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:%C4%B0neg%C3%B6l_k%C3%B6fte.jpg"
+      }
+    },
+    {
+      "id": "bursa_inegol_piyazi",
+      "name": "İnegöl Piyazı",
+      "category": "Meze ve Zeytinyağlı",
+      "image": "/yemekler/bursa_inegol_piyazi.webp",
+      "history": "İnegöl köftesinin yanında servis edilen bir piyazdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomigazetesi.com/sehirler/inegol-piyazi-cografi-isaret-aldi-47969",
+      "gorsel": {
+        "yazar": "Chapultepec",
+        "lisans": "Public domain",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Piyaz_01.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "bursa_pideli_kofte",
       "name": "Pideli Köfte",
-      "category": "Aperatif",
-      "image": "/yemekler/bursa_pideli_kofte_pideli_kofte.jpg",
-      "history": "İskender kebabın döner yerine yöresel dana/kuzu karışımı küçük kasap köfteleriyle yapılan, yine pide, sos ve tereyağı eşliğinde sunulan daha ekonomik ve eski bir esnaf lokantası alternatifidir."
+      "category": "Ana Yemek",
+      "image": "/yemekler/bursa_pideli_kofte.webp",
+      "history": "Izgara köftelerin doğranmış pide üzerine konup domates sosu, tereyağı ve yoğurtla servis edildiği bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Selimoloji",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Pideli_K%C3%B6fte_in_Bursa.jpg"
+      }
     },
     {
       "id": "bursa_cantik",
-      "name": "Cantık",
-      "category": "Ana Yemek",
-      "image": "/yemekler/bursa_cantik_cantik.jpg",
-      "history": "Mayalı yumuşak hamurun ortasının çukurlaştırılarak içine kavrulmamış çiğ kıyma, soğan, domates ve biberden oluşan harcın konup taş fırında pişirildiği tatar kökenli küçük yuvarlak pidedir. Bursa'nın göçmen kültürüyle şekillenen günlük atıştırmalığıdır."
+      "name": "Bursa Cantığı",
+      "category": "Hamur İşi",
+      "image": "/yemekler/bursa_cantik.webp",
+      "history": "Kıymalı harcın hamur üzerine yayılıp fırında pişirildiği bir pide türüdür. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gazetevatan.com/sehirler/bursa/bursada-bir-urun-de-listeye-girdi-cografi-isaret-tescilli-urun-36ya-cikti-2388852",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Cant%C4%B1k_pidesi.jpg"
+      }
+    },
+    {
+      "id": "bursa_tahinli_pide",
+      "name": "Bursa Tahinli Pidesi",
+      "category": "Hamur İşi",
+      "image": "/yemekler/bursa_tahinli_pide.webp",
+      "history": "Tahin ve şekerle hazırlanan tatlı bir pidedir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.gazetevatan.com/sehirler/bursa/bursada-bir-urun-de-listeye-girdi-cografi-isaret-tescilli-urun-36ya-cikti-2388852",
+      "gorsel": {
+        "yazar": "Samizambak",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bursa_tahinli_pidesi.jpg"
+      }
     },
     {
       "id": "bursa_kestane_sekeri",
-      "name": "Kestane Şekeri",
+      "name": "Bursa Kestane Şekeri",
       "category": "Tatlı",
-      "image": "/yemekler/bursa_kestane_sekeri_kestane_sekeri.jpg",
-      "history": "Uludağ'ın yamaçlarında yetişen en kaliteli kestanelerin bütünlüğünü bozmadan ince tülbentlere sarılarak özel şeker şuruplarında saatlerce kaynatılmasıyla elde edilir. Bursa'nın simge tatlısıdır, yüzlerce yıllık tarihi vardır."
+      "image": "/yemekler/bursa_kestane_sekeri.webp",
+      "history": "Kestanelerin şekerli şurupta uzun süre pişirilmesiyle yapılan bir şekerlemedir. Avrupa Birliği'nde de coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.bloomberght.com/bursa-kestane-sekeri-ve-ipsala-pirinci-ab-den-cografi-isaret-tescili-aldi-3761636",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kestane_%C5%9Fekeri_ve_beze.jpg"
+      }
+    },
+    {
+      "id": "bursa_inegol_sutlu_kadayifi",
+      "name": "İnegöl Sütlü Kadayıfı",
+      "category": "Tatlı",
+      "image": "/yemekler/bursa_inegol_sutlu_kadayifi.webp",
+      "history": "İnegöl'e özgü, sütle hazırlanan bir kadayıf tatlısıdır. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.ekonomigazetesi.com/sehirler/inegol-piyazi-cografi-isaret-aldi-47969",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:S%C3%BCtl%C3%BC_(milky)_kaday%C4%B1f.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "bursa_kemalpasa_tatlisi",
       "name": "Kemalpaşa Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/bursa_kemalpasa_tatlisi_kemalpasa_tatlisi.jpg",
-      "history": "Mustafakemalpaşa ilçesine özgü tuzsuz taze inek peynirinin un, irmik ve yumurta ile yoğrulup fırınlanması, ardından şerbet içinde kaynatılarak şişirilmesiyle yapılır. Peynirin tatlıda kullanımının Marmara'daki en ünlü temsilcisidir."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "Peynirli küçük hamur toplarının şerbete batırılmasıyla hazırlanan bir tatlıdır. Bursa'nın Mustafakemalpaşa ilçesinden adını alır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Ahmet Baris Isitan",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Teleferik,_Uluda%C4%9F.jpg"
+  }
 }

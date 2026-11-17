@@ -2,43 +2,114 @@
   "id": "konya",
   "il_adi": "Konya",
   "title": "Mevlana'nın Huzur Şehri",
-  "unsplash_query": "konya mevlana muzesi landscape",
-  "image": "/sehirler/konya.jpg",
+  "image": "/sehirler/konya.webp",
   "yemekler": [
     {
       "id": "konya_etli_ekmek",
-      "name": "Etli Ekmek",
-      "category": "Ana Yemek",
-      "image": "/yemekler/konya_etli_ekmek_etli_ekmek.jpg",
-      "history": "İnce açılan uzun hamurun üzerine, Konya'nın yerel dana kıyması, ince kıyılmış domates, biber ve maydanozdan oluşan harcın yayılıp fırınlanmasıdır. Selçuklu başkenti Konya'nın 800 yıllık fırıncılık geleneğinin en ikonik ürünüdür."
+      "name": "Konya Etli Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/konya_etli_ekmek.webp",
+      "history": "Uzun açılan ince hamurun üzerine kıymalı harç yayılıp taş fırında pişirilir. Konya'nın simgesi haline gelmiş bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.hurriyet.com.tr/lezizz/galeri-etli-ekmek-800-yildir-konyada-uretiliyor-41043881/1",
+      "gorsel": {
+        "yazar": "Mardetanha",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Etli_ekmek_in_Konya_turkey_By_Mardetanha_(10).JPG"
+      }
     },
     {
       "id": "konya_firin_kebabi",
-      "name": "Fırın Kebabı",
+      "name": "Konya Fırın Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/konya_firin_kebabi_firin_kebabi.jpg",
-      "history": "Koyun etinin hiçbir sebze ve salça eklenmeden, sadece kendi yağıyla bakır kazanlarda odun ateşinde 4-5 saat boyunca ağır ağır pişirilmesiyle yapılır. Konyalıların genellikle öğle vaktinde, çatal-bıçak kullanmadan, pide eşliğinde yedikleri çok özel bir yemektir."
+      "image": "/yemekler/konya_firin_kebabi.webp",
+      "history": "Kuzu etinin taş fırınlarda uzun süre pişirilmesiyle yapılan, Konya'da tandır kebabı olarak da bilinen bir yemektir.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_style_kuzu_tand%C4%B1r.jpg"
+      }
     },
     {
       "id": "konya_konya_tiridi",
       "name": "Konya Tiridi",
       "category": "Ana Yemek",
-      "image": "/yemekler/konya_konya_tiridi_konya_tiridi.jpg",
-      "history": "Bayatlamış pidelerin küp küp doğranıp kemik suyuyla ıslatılması, üzerine haşlanmış kuzu eti, yoğurt, sumaklı soğan ve bol tereyağı dökülerek servis edilmesiyle yapılır. Mevlana zamanından beri dervişlerin ve esnafın doyurucu yemeğidir."
+      "image": "/yemekler/konya_konya_tiridi.webp",
+      "history": "Pide parçalarının üzerine kuzu eti ve et suyu dökülüp yoğurtla servis edildiği bir tirittir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://www.dha.com.tr/foto-galeri/cografi-isaret-tescilli-konya-tiridinin-tarihi-selcuklu-saraylarina-dayaniyor-2663407",
+      "gorsel": {
+        "yazar": "Zafer",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_Tiridi.jpg"
+      }
     },
     {
       "id": "konya_bamya_corbasi",
-      "name": "Bamya Çorbası",
+      "name": "Konya Bamya Çorbası",
       "category": "Çorba",
-      "image": "/yemekler/konya_bamya_corbasi_bamya_corbasi.jpg",
-      "history": "Konya'ya özgü küçük kurutulmuş çiçek bamyaların, kuşbaşı kuzu eti ve bol limon tuzuyla kaynatılmasıyla yapılan, düğünlerde ve özel davetlerde yemeğin başlangıcı kabul edilen en asil çorbadır."
+      "image": "/yemekler/konya_bamya_corbasi.webp",
+      "history": "Kurutulmuş küçük bamyalar ve etle hazırlanan, limonla ekşitilen bir çorbadır. Konya düğün yemeklerinin başlangıcıdır.",
+      "cografiIsaret": true,
+      "kaynak": "https://dergipark.org.tr/en/download/article-file/3947709",
+      "gorsel": {
+        "yazar": "Kadı",
+        "lisans": "CC BY 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Bamya_%C3%87orbas%C4%B1,_Konya.jpg"
+      }
+    },
+    {
+      "id": "konya_kuru_kabak_sarmasi",
+      "name": "Konya Kuru Kabak Sarması",
+      "category": "Ana Yemek",
+      "image": "/yemekler/_tur_sarma.webp",
+      "history": "Kurutulmuş kabak dilimlerinin harçla sarılmasıyla yapılan bir yemektir. Coğrafi işaretle tescillidir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/konya-kuru-kabak-sarmasi-b7162",
+      "gorsel": {
+        "yazar": "Petar Milošević",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Postna_sarma_(vegetarian_sarma,_Cuisine_of_Serbia).jpg",
+        "temsili": true
+      }
+    },
+    {
+      "id": "konya_gomec_ekmegi",
+      "name": "Cihanbeyli Gömeç Ekmeği",
+      "category": "Hamur İşi",
+      "image": "/yemekler/_tur_ekmek.webp",
+      "history": "Konya'nın Cihanbeyli ilçesine özgü geleneksel bir ekmektir. 2022'de coğrafi işaretle tescillenmiştir.",
+      "cografiIsaret": true,
+      "kaynak": "https://kureansiklopedi.com/tr/detay/cihanbeyli-gomec-ekmegi-23165",
+      "gorsel": {
+        "yazar": "James (Jim) Gordon",
+        "lisans": "CC BY 2.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Woman_making_flat_bread_in_a_Kurdish_village_near_the_Turkish_border.jpg",
+        "temsili": true
+      }
     },
     {
       "id": "konya_sac_arasi_tatlisi",
       "name": "Saç Arası Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/konya_sac_arasi_tatlisi_sac_arasi_tatlisi.jpg",
-      "history": "İnce açılmış baklava yufkalarının içine bol kaymak veya ceviz konularak büzülmesi ve iki sac arasında (veya fırında) kızartılıp üzerine şerbet dökülmesiyle yapılan, Konyalıların düğün sonrası damada ikram ettiği geleneksel bir tatlıdır."
+      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "history": "İki yufka katı arasına ceviz konup sacda ya da fırında pişirilerek şerbetlenen bir tatlıdır.",
+      "cografiIsaret": false,
+      "kaynak": "",
+      "gorsel": {
+        "yazar": "Akerbeltz",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
+        "temsili": true,
+        "kategori": true
+      }
     }
-  ]
+  ],
+  "gorsel": {
+    "yazar": "Perencal",
+    "lisans": "CC BY-SA 3.0",
+    "kaynak": "https://commons.wikimedia.org/wiki/File:Konya_21_(cropped).JPG"
+  }
 }
