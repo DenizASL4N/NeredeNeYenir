@@ -92,6 +92,7 @@ export default function Favorites({ favorites, onToggleFavorite, onUpdateNote })
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
+      <title>Favorilerim | Nerede Ne Yenir</title>
       
       {/* Header */}
       <div className="border-b border-gold/20 dark:border-cream/10 pb-6 mb-10 text-center md:text-left">

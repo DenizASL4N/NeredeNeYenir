@@ -95,15 +95,14 @@
       "id": "adana_adana_salgami",
       "name": "Adana Şalgamı",
       "category": "İçecek",
-      "image": "/yemekler/_tur_salgam.webp",
+      "image": "/yemekler/adana_adana_salgami.webp",
       "history": "Mor havuç, şalgam ve bulgur unuyla fermente edilerek hazırlanan ekşi bir içecektir. Kebabın yanında içilir. Avrupa Birliği'nde coğrafi işaretle tescillidir.",
       "cografiIsaret": true,
       "kaynak": "https://www.hurriyet.com.tr/lezizz/adana-salgami-abden-cografi-isaret-tescili-aldi-43130819",
       "gorsel": {
-        "yazar": "Anatolianpride",
+        "yazar": "Sadettin (talk)",
         "lisans": "Public domain",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Yeni3.jpg",
-        "temsili": true
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Glass_of_%C5%9Falgam.jpg"
       }
     },
     {

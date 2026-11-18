@@ -1,4 +1,6 @@
+import { Link } from 'react-router-dom';
 import { Heart } from 'lucide-react';
+import { REPORT_URL } from '../utils/report';
 
 export default function Footer() {
   return (
@@ -12,19 +14,28 @@ export default function Footer() {
                 Nerede Ne Yenir
               </span>
               <span className="text-[10px] uppercase tracking-widest text-gold-light block -mt-1 font-medium">
-                Tarihi Yemek Hikayeleri
+                Lezzet Haritası
               </span>
             </div>
           </div>
-          
+
           <p className="text-sm text-cream/70 text-center md:text-right max-w-md">
-            Şehirlerimizin asırlık lezzet miraslarını, tariflerin doğuş hikayelerini ve gastronomi kültürünü geleceğe taşıyoruz.
+            Türkiye'nin 81 ilinin yöresel lezzetlerini, coğrafi işaret kayıtları ve kaynaklarıyla birlikte tanıtıyoruz.
           </p>
         </div>
-        
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-8 text-xs text-cream/60">
-          <p>
-            &copy; {new Date().getFullYear()} Nerede Ne Yenir. Tüm hakları saklıdır.
+
+        <nav className="flex flex-wrap items-center justify-center md:justify-start gap-x-6 gap-y-2 pt-6 text-sm text-cream/80">
+          <Link to="/" className="hover:text-gold transition-colors">Şehirler</Link>
+          <Link to="/favoriler" className="hover:text-gold transition-colors">Favorilerim</Link>
+          <Link to="/hakkinda" className="hover:text-gold transition-colors">Hakkında ve Kaynaklar</Link>
+          <a href={REPORT_URL} target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">
+            Hata Bildir
+          </a>
+        </nav>
+
+        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 text-xs text-cream/60">
+          <p className="text-center sm:text-left">
+            &copy; {new Date().getFullYear()} Nerede Ne Yenir. Fotoğraflar, sahiplerinin belirttiği açık lisanslarla kullanılmıştır.
           </p>
           <p className="flex items-center gap-1.5">
             <span>Kültür ve lezzetle</span>

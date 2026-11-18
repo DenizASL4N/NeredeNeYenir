@@ -5,13 +5,15 @@
 
 ## Türkçe Dokümantasyon
 
-**Nerede Ne Yenir**, Türkiye'nin 81 ilinin zengin gastronomi kültürünü, yöresel lezzetlerini ve bu lezzetlerin asırlık hikayelerini interaktif bir şekilde keşfetmenizi sağlayan modern bir web uygulamasıdır. 
+**Nerede Ne Yenir**, Türkiye'nin 81 ilinin yöresel lezzetlerini, coğrafi işaret kayıtları ve kaynaklarıyla birlikte keşfetmenizi sağlayan bir web uygulamasıdır.
 
-Proje, modern web standartları ve duyarlı (responsive) tasarım prensipleri göz önünde bulundurularak geliştirilmiştir.
+🌐 **Canlı site:** https://nerede-ne-yenir.vercel.app
 
 ### 🌟 Öne Çıkan Özellikler
-- **81 İl Keşfi:** Arama ve sayfalama özellikleriyle Türkiye'nin tüm illerini ve her ilin kendine özgü hikayesini içeren arayüz.
-*   **Detaylı İl & Yemek Sayfaları:** İllere tıklandığında o ile ait meşhur lezzetler, tatlılar ve doğuş hikayeleri.
+- **81 İl Keşfi:** Arama ve sayfalama özellikleriyle Türkiye'nin tüm illeri.
+*   **Doğrulanmış Yemek Listeleri:** 464 yemek; 338'i coğrafi işaretli. Her yemekte kaynak bağlantısı, "Coğrafi İşaretli" rozeti ve "Hata bildir" bağlantısı bulunur. Hazırlık süreci `docs/veri/` klasöründedir.
+*   **9 Kategori ve Filtre:** Ana Yemek, Çorba, Hamur İşi, Meze ve Zeytinyağlı, Sokak Lezzeti, Kahvaltılık, Tatlı, İçecek, Yöresel Ürün.
+*   **Lisanslı Fotoğraflar:** Tüm fotoğraflar Wikimedia Commons ve Openverse'ten açık lisanslarla alınmıştır; sahibi ve lisansı sayfada ve "Hakkında ve Kaynaklar" sayfasında listelenir. Kendi fotoğrafı bulunamayan yemeklerde "Temsili fotoğraf" ya da "Kategori fotoğrafı" etiketi gösterilir.
 *   **Favorilerim Sistemi (CRUD):** 
     *   **Ekle:** Beğendiğiniz yemekleri favorilere ekleme.
     *   **Listele:** Tüm beğendiğiniz yemekleri favori listesinde görüntüleme.
@@ -38,10 +40,13 @@ NeredeNeYenir/
 ├── src/                 # Kaynak kodlar
 │   ├── components/      # Ortak arayüz bileşenleri (Navbar, Footer, Arama Kutusu vb.)
 │   ├── data/            # Şehir ve yemek verilerinin JSON dosyaları
-│   ├── pages/           # Sayfa yapıları (Anasayfa, Detay Sayfası, Favoriler)
+│   ├── pages/           # Sayfalar (Anasayfa, Şehir, Favoriler, Hakkında, 404)
+│   ├── utils/           # Yardımcı fonksiyonlar (Türkçe arama, hata bildirme)
 │   ├── App.jsx          # Ana React bileşeni ve durum yönetimi
 │   ├── index.css        # Tailwind CSS entegrasyonu ve global stiller
 │   └── main.jsx         # DOM montaj noktası
+├── docs/                # Veri denetimi, bölge bölge doğrulanmış listeler, ilerleme notu
+├── scripts/             # Veri ve fotoğraf işlemleri için Python betikleri
 ├── package.json         # Proje bağımlılıkları ve npm komutları
 ├── vercel.json          # Vercel yayın ayarı (tüm adresleri React Router'a yönlendirir)
 └── vite.config.js       # Vite konfigürasyonu
@@ -73,13 +78,15 @@ Proje Vercel'de yayınlanmaya hazırdır: `vercel.json`, tüm adresleri React Ro
 
 ## English Documentation
 
-**Nerede Ne Yenir** (Where to Eat What) is a modern web application that allows users to interactively discover the rich gastronomic culture, regional dishes, and centuries-old stories of Turkey's 81 cities.
+**Nerede Ne Yenir** (Where to Eat What) is a web application for discovering the regional dishes of Turkey's 81 provinces, together with their geographical indication records and sources.
 
-The project is developed keeping modern web standards and responsive design principles in mind.
+🌐 **Live site:** https://nerede-ne-yenir.vercel.app
 
 ### 🌟 Key Features
-- **Explore 81 Cities:** Interactive UI showcasing all 81 cities with advanced search and pagination features.
-- **Detailed City & Food Pages:** Famous dishes, desserts, and the historical origin stories of each city.
+- **Explore 81 Cities:** All 81 provinces with search and pagination.
+- **Verified Dish Lists:** 464 dishes, 338 of them with a registered geographical indication. Each dish shows its source, a "Geographical Indication" badge and a "report an error" link. The research process is in `docs/veri/`.
+- **9 Categories with Filters:** Main dish, soup, pastry, meze, street food, breakfast, dessert, drink and regional product.
+- **Licensed Photos:** All photos come from Wikimedia Commons and Openverse under open licenses, credited on each page and on the "About and Sources" page. Dishes without their own photo show a clearly labelled representative or category photo.
 - **My Favorites System (CRUD):**
   - **Create:** Bookmark/like dishes to save them in favorites.
   - **Read/List:** Browse all favorited items in a single list.
@@ -106,11 +113,14 @@ NeredeNeYenir/
 ├── src/                 # Project source code
 │   ├── components/      # UI components (Navbar, Footer, SearchBox, etc.)
 │   ├── data/            # JSON data registry for cities and foods
-│   ├── pages/           # Page components (Home, CityDetail, Favorites)
+│   ├── pages/           # Pages (Home, City, Favorites, About, 404)
+│   ├── utils/           # Helpers (Turkish-aware search, error reports)
 │   ├── App.jsx          # Main React component and state management
 │   ├── index.css        # Tailwind CSS integration & global styles
 │   └── main.jsx         # DOM mounting entry point
 ├── package.json         # Project dependencies and npm scripts
+├── docs/                # Data audit, verified lists per region, progress notes
+├── scripts/             # Python scripts for data and photo work
 ├── vercel.json          # Vercel deployment config (routes all paths to React Router)
 └── vite.config.js       # Vite configuration
 ```

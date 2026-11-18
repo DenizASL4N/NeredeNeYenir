@@ -79,15 +79,14 @@
       "id": "hatay_hatay_humusu",
       "name": "Hatay Humusu",
       "category": "Meze ve Zeytinyağlı",
-      "image": "/yemekler/_tur_humus.webp",
+      "image": "/yemekler/hatay_hatay_humusu.webp",
       "history": "Haşlanmış nohudun tahin, limon ve sarımsakla ezilerek hazırlandığı bir mezedir. Coğrafi işaretle tescillidir.",
       "cografiIsaret": true,
       "kaynak": "https://www.cnnturk.com/yasam/galeri/gastronomi-sehri-hatayin-damaklarda-tat-birakan-6-lezzeti-tescillendi-2116376",
       "gorsel": {
-        "yazar": "Orenrosenfeld",
+        "yazar": "Masisoz",
         "lisans": "CC BY-SA 4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Hummus_plate.jpg",
-        "temsili": true
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Hatay_usul%C3%BC_Humus.jpg"
       }
     },
     {

@@ -122,16 +122,14 @@
       "id": "bursa_kemalpasa_tatlisi",
       "name": "Kemalpaşa Tatlısı",
       "category": "Tatlı",
-      "image": "/yemekler/_tur_tatli_serbetli.webp",
+      "image": "/yemekler/bursa_kemalpasa_tatlisi.webp",
       "history": "Peynirli küçük hamur toplarının şerbete batırılmasıyla hazırlanan bir tatlıdır. Bursa'nın Mustafakemalpaşa ilçesinden adını alır.",
       "cografiIsaret": false,
       "kaynak": "",
       "gorsel": {
-        "yazar": "Akerbeltz",
-        "lisans": "CC BY-SA 3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Greek_revani.JPG",
-        "temsili": true,
-        "kategori": true
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kemalpa%C5%9Fa_dessert_and_Turkish_tea.jpg"
       }
     }
   ],

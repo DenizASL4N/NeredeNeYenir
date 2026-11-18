@@ -26,7 +26,7 @@ export default function Navbar({ favoritesCount, theme, toggleTheme }) {
           </Link>
 
           {/* Navigation Links */}
-          <div className="flex items-center space-x-4 sm:space-x-6">
+          <div className="flex items-center space-x-3 sm:space-x-6">
             <Link
               to="/"
               className={`font-medium transition-colors duration-200 text-sm md:text-base ${
@@ -40,7 +40,8 @@ export default function Navbar({ favoritesCount, theme, toggleTheme }) {
             
             <Link
               to="/favoriler"
-              className={`flex items-center space-x-2 font-medium transition-colors duration-200 text-sm md:text-base ${
+              aria-label="Favorilerim"
+              className={`flex items-center space-x-1.5 sm:space-x-2 font-medium transition-colors duration-200 text-sm md:text-base ${
                 location.pathname === '/favoriler'
                   ? 'text-forest dark:text-cream border-b-2 border-gold pb-1 font-semibold'
                   : 'text-forest-dark/70 dark:text-cream/60 hover:text-forest dark:hover:text-cream hover:border-b-2 hover:border-gold/50 pb-1'
@@ -52,7 +53,7 @@ export default function Navbar({ favoritesCount, theme, toggleTheme }) {
                   favoritesCount > 0 ? 'fill-forest text-forest dark:fill-gold dark:text-gold animate-pulse' : 'text-current'
                 }`}
               />
-              <span>Favorilerim</span>
+              <span className="hidden sm:inline">Favorilerim</span>
               {favoritesCount > 0 && (
                 <span className="inline-flex items-center justify-center px-2 py-0.5 ml-1 text-xs font-bold leading-none text-cream bg-gold rounded-full shadow-sm animate-bounce">
                   {favoritesCount}

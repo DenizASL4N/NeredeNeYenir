@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Heart, Save, Calendar, BookOpen, BadgeCheck, ExternalLink, Camera } from 'lucide-react';
+import { Heart, Save, Calendar, BookOpen, BadgeCheck, ExternalLink, Camera, MessageSquareWarning } from 'lucide-react';
+import { reportUrlFor } from '../utils/report';
 import SafeImage from './SafeImage';
 
 export default function FoodDetail({ food, cityName, isFavorite, favoriteItem, onToggleFavorite, onUpdateNote }) {
@@ -99,27 +100,34 @@ export default function FoodDetail({ food, cityName, isFavorite, favoriteItem, o
               </a>
             )}
 
-            {(food.cografiIsaret || food.kaynak) && (
-              <div className="flex flex-wrap items-center gap-3 mt-4">
-                {food.cografiIsaret && (
-                  <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold bg-gold/15 text-gold-dark dark:text-gold border border-gold/30">
-                    <BadgeCheck size={13} />
-                    Coğrafi İşaretli
-                  </span>
-                )}
-                {food.kaynak && (
-                  <a
-                    href={food.kaynak}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1 text-xs font-semibold text-forest dark:text-gold hover:underline"
-                  >
-                    <ExternalLink size={12} />
-                    Kaynak
-                  </a>
-                )}
-              </div>
-            )}
+            <div className="flex flex-wrap items-center gap-3 mt-4">
+              {food.cografiIsaret && (
+                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold bg-gold/15 text-gold-dark dark:text-gold border border-gold/30">
+                  <BadgeCheck size={13} />
+                  Coğrafi İşaretli
+                </span>
+              )}
+              {food.kaynak && (
+                <a
+                  href={food.kaynak}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-xs font-semibold text-forest dark:text-gold hover:underline"
+                >
+                  <ExternalLink size={12} />
+                  Kaynak
+                </a>
+              )}
+              <a
+                href={reportUrlFor(food.name, cityName)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-xs font-semibold text-forest-dark/50 dark:text-cream/40 hover:underline"
+              >
+                <MessageSquareWarning size={12} />
+                Hata bildir
+              </a>
+            </div>
           </div>
         </div>
 

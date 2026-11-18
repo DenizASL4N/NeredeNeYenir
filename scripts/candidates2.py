@@ -4,7 +4,8 @@ Searches Wikimedia Commons with Turkish-aware query variants (possessive suffixe
 names removed, "<dish> from <city>") and, optionally, Openverse (anonymous limit: 200/day).
 Only candidates whose file title contains the dish's core word are kept.
 
-Usage: python candidates2.py <out_dir> [--openverse N]   (N = max Openverse requests to spend)
+Usage: python candidates2.py <out_dir> [--openverse N] [--temsili]
+  N = max Openverse requests to spend; --temsili also searches foods that only have a representative photo
 Writes <out_dir>/candidates2.json and contact sheets <out_dir>/sheet_XX.jpg
 """
 import io, json, glob, os, re, sys, time, urllib.parse, urllib.request
@@ -136,7 +137,8 @@ def main():
     for path in sorted(glob.glob('src/data/cities/*.json')):
         city = json.load(open(path, encoding='utf-8'))
         for f in city['yemekler']:
-            if not f['image']:
+            # With --temsili, also look again for foods that only have a representative photo
+            if not f['image'] or ('--temsili' in sys.argv and (f.get('gorsel') or {}).get('temsili')):
                 todo.append((f['id'], f['name'], city['il_adi']))
 
     ov_used = 0
@@ -153,7 +155,7 @@ def main():
             entry['commons_done'] = True
             entry['core'] = core
             time.sleep(0.2)
-        if not entry['openverse_done'] and len(entry['cands']) < 2 and ov_used < ov_budget:
+        if not entry['openverse_done'] and ('--temsili' in sys.argv or len(entry['cands']) < 2) and ov_used < ov_budget:
             res = openverse_search(core or name)
             ov_used += 1
             if res is None:
@@ -208,4 +210,5 @@ def draw_sheets(out_dir, rows, cache, per_sheet=24, cols=6):
         sheet.save(os.path.join(out_dir, f'sheet_{s // per_sheet:02d}.jpg'), quality=80)
 
 
-main()
+if __name__ == '__main__':
+    main()

@@ -67,15 +67,14 @@
       "id": "kastamonu_cekme_helva",
       "name": "Kastamonu Çekme Helvası",
       "category": "Tatlı",
-      "image": "/yemekler/_tur_helva.webp",
+      "image": "/yemekler/kastamonu_cekme_helva.webp",
       "history": "Un ve şekerin uzun süre çekilerek ince tellere dönüştürülmesiyle yapılan bir helvadır.",
       "cografiIsaret": false,
       "kaynak": "",
       "gorsel": {
-        "yazar": "Noumenon",
-        "lisans": "CC BY-SA 3.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:UnHelvasi.jpg",
-        "temsili": true
+        "yazar": "Dosseman",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kastamonu_helva_factory_1240.jpg"
       }
     },
     {

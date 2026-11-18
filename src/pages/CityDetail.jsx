@@ -85,6 +85,11 @@ export default function CityDetail({ favorites, onToggleFavorite, onUpdateNote }
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+      <title>{`${cityData.il_adi} Yöresel Yemekleri | Nerede Ne Yenir`}</title>
+      <meta
+        name="description"
+        content={`${cityData.il_adi} ilinin yöresel lezzetleri: ${foods.slice(0, 5).map((food) => food.name).join(', ')}. Coğrafi işaret bilgileri ve kaynaklarıyla.`}
+      />
       
       {/* Back button */}
       <div className="mb-6">

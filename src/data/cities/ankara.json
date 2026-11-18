@@ -94,15 +94,14 @@
       "id": "ankara_cubuk_tursusu",
       "name": "Çubuk Turşusu",
       "category": "Yöresel Ürün",
-      "image": "/yemekler/_tur_tursu.webp",
+      "image": "/yemekler/ankara_cubuk_tursusu.webp",
       "history": "Çubuk ilçesine özgü bir salatalık çeşidinden yapılan turşudur. 2017'de tescillenmiştir; ilçede her yıl turşu festivali düzenlenir.",
       "cografiIsaret": true,
       "kaynak": "https://www.hurriyet.com.tr/haberleri/cubuk-tursusu",
       "gorsel": {
-        "yazar": "Alan Levine",
-        "lisans": "CC BY 4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:Plant-fruit-food-produce-vegetable-mason-jar-193818-jpg.jpg",
-        "temsili": true
+        "yazar": "E4024",
+        "lisans": "CC BY-SA 4.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Mixed_turshu_from_%C3%87ubuk.jpg"
       }
     }
   ],

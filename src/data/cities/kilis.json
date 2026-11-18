@@ -38,14 +38,14 @@
       "id": "kilis_eksili_kebap",
       "name": "Kilis Ekşili Kebabı",
       "category": "Ana Yemek",
-      "image": "/yemekler/_tur_kebap.webp",
+      "image": "/yemekler/kilis_eksili_kebap.webp",
       "history": "Kilis mutfağına özgü, ekşi tadıyla bilinen bir kebap yemeğidir. Coğrafi işaretle tescillidir.",
       "cografiIsaret": true,
       "kaynak": "https://kureansiklopedi.com/tr/detay/kilis-eksili-kebabi-91ac6",
       "gorsel": {
-        "yazar": "E4024",
-        "lisans": "CC BY-SA 4.0",
-        "kaynak": "https://commons.wikimedia.org/wiki/File:%C5%9Ei%C5%9F_kebap_and_pilav.jpg",
+        "yazar": "Sabri76",
+        "lisans": "CC BY-SA 3.0",
+        "kaynak": "https://commons.wikimedia.org/wiki/File:Kilis_Kebab%C4%B1.jpg",
         "temsili": true
       }
     },

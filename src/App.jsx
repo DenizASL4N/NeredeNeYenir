@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import CityDetail from './pages/CityDetail';
 import Favorites from './pages/Favorites';
+import About from './pages/About';
+import NotFound from './pages/NotFound';
 
 export default function App() {
   // Load favorites from LocalStorage on first render
@@ -116,8 +118,10 @@ export default function App() {
                   onToggleFavorite={handleToggleFavorite}
                   onUpdateNote={handleUpdateNote}
                 />
-              } 
+              }
             />
+            <Route path="/hakkinda" element={<About />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
 

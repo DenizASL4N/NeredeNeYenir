@@ -63,6 +63,8 @@ export default function Home() {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
+      <title>Nerede Ne Yenir | Türkiye'nin 81 İlinin Yöresel Lezzetleri</title>
+      <meta name="description" content="Türkiye'nin 81 ilinin yöresel yemeklerini, tatlılarını ve coğrafi işaretli ürünlerini kaynaklarıyla keşfedin." />
       
       {/* Hero Section */}
       <div className="relative z-10 text-center max-w-3xl mx-auto mb-16 animate-in fade-in slide-in-from-top-4 duration-500">

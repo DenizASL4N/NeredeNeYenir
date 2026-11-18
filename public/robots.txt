@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /favoriler
+
+Sitemap: https://nerede-ne-yenir.vercel.app/sitemap.xml
